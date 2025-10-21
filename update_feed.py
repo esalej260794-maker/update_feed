@@ -3,19 +3,18 @@ from lxml import etree
 from geopy.geocoders import Nominatim
 import time
 
-# --- Настройка геокодера ---
+# --- Геокодер с кешем ---
 geolocator = Nominatim(user_agent="real_estate_feed")
-geo_cache = {}  # кеш адресов: {address: (lat, lon)}
+geo_cache = {}  # {address: (lat, lon)}
 
 def geocode_address(address):
-    """Геокодирование через Nominatim с кешем"""
     if not address:
         return 0.0, 0.0
     if address in geo_cache:
         return geo_cache[address]
     try:
         location = geolocator.geocode(address + ", Россия")
-        time.sleep(1)  # ограничение запросов
+        time.sleep(1)  # ограничение по Nominatim
         if location:
             lat, lon = location.latitude, location.longitude
             geo_cache[address] = (lat, lon)
@@ -32,7 +31,7 @@ feeds = {
     "novo_br": "https://idalite.ru/feed/26235f5e-76ef-4108-8e3e-82950637df0b"
 }
 
-# --- Загрузка фида ---
+# --- Загрузка XML ---
 def load_feed(url):
     r = requests.get(url)
     return etree.fromstring(r.content)
@@ -43,8 +42,9 @@ novo_br_feed = load_feed(feeds["novo_br"])
 
 # --- Обработка основного фида ---
 agents_bui = ["Евгения Серова","Виктория Набатова","Ольга Торопова","Наталья Квасова"]
+
 for offer in main_feed.findall(".//offer"):
-    # Адрес
+    # Адрес и координаты
     address_elem = offer.find(".//param[@name='Адрес']")
     if address_elem is not None:
         address_text = address_elem.text
@@ -65,27 +65,34 @@ for offer in main_feed.findall(".//offer"):
         office_elem = etree.SubElement(offer, "param", name="Офис")
     office_elem.text = office_val
 
-# --- Функция преобразования объектов застройщиков ---
-def map_developer_flat(flat, jkschema_name_default="Ин Парк"):
-    offer = etree.Element("offer")
+# --- Функция маппинга объектов застройщиков ---
+def map_developer_flat(flat, jkschema_name_default):
+    external_id = flat.findtext(".//ExternalId") or "0"
+    offer = etree.Element("offer", id=external_id)
+    
     # Категория
     etree.SubElement(offer, "categoryId").text = "101"
+    
     # Name
     rooms = flat.findtext(".//FlatRoomsCount") or "0"
     total_area = flat.findtext(".//TotalArea") or "0"
     jkschema_name = flat.findtext(".//JKSchema/Name") or jkschema_name_default
     offer_name = f"{rooms}-к, {total_area} кв.м, ЖК {jkschema_name}"
     etree.SubElement(offer, "name").text = offer_name
+    
     # Price
     price = flat.findtext(".//BargainTerms/Price") or "0"
     etree.SubElement(offer, "price").text = price
+    
     # Description
     desc = flat.findtext(".//Description") or ""
     etree.SubElement(offer, "description").text = desc
+    
     # Материал стен
     material = flat.findtext(".//MaterialType") or "unknown"
     etree.SubElement(offer, "param", name="Материал стен").text = material
-    # Площади, комнаты, этаж
+    
+    # Площади, комнаты, этаж, балкон, парковка
     etree.SubElement(offer, "param", name="Комнат").text = flat.findtext(".//FlatRoomsCount") or ""
     etree.SubElement(offer, "param", name="Площадь Дома").text = flat.findtext(".//TotalArea") or ""
     etree.SubElement(offer, "param", name="Жилая площадь").text = flat.findtext(".//LivingArea") or ""
@@ -93,12 +100,14 @@ def map_developer_flat(flat, jkschema_name_default="Ин Парк"):
     etree.SubElement(offer, "param", name="Этаж").text = flat.findtext(".//FloorNumber") or ""
     etree.SubElement(offer, "param", name="Балкон").text = flat.findtext(".//BalconiesCount") or ""
     etree.SubElement(offer, "param", name="Парковка").text = flat.findtext(".//Parking/Type") or ""
+    
     # Адрес
     addr = flat.findtext(".//Address") or ""
     etree.SubElement(offer, "param", name="Адрес").text = addr
+    
     # Координаты
-    lat = flat.findtext(".//Coordinates/Lat")
-    lon = flat.findtext(".//Coordinates/Lng")
+    lat = flat.findtext(".//Coordinates/Lat") or "0"
+    lon = flat.findtext(".//Coordinates/Lng") or "0"
     coords = etree.SubElement(offer, "coordinates")
     try:
         coords.set("lat", f"{float(lat):.6f}")
@@ -106,8 +115,10 @@ def map_developer_flat(flat, jkschema_name_default="Ин Парк"):
     except:
         coords.set("lat", "0.0")
         coords.set("lon", "0.0")
-    # Офис
+    
+    # Офис всегда Ярославль
     etree.SubElement(offer, "param", name="Офис").text = "Ярославль"
+    
     return offer
 
 # --- Собираем все объекты ---
