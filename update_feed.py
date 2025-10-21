@@ -21,22 +21,23 @@ geolocator = Nominatim(user_agent="real_estate_feed")
 def geocode_address(address):
     if not address:
         return 0.0, 0.0
-    if address in geo_cache:
-        lat, lon = geo_cache[address]
+    address_key = address.strip().lower()
+    if address_key in geo_cache:
+        lat, lon = geo_cache[address_key]
         return float(lat), float(lon)
     try:
         location = geolocator.geocode(address + ", Россия")
-        time.sleep(1)  # ограничение по Nominatim
+        time.sleep(1)
         if location:
             lat, lon = location.latitude, location.longitude
-            geo_cache[address] = (lat, lon)
+            geo_cache[address_key] = (lat, lon)
             return lat, lon
     except Exception as e:
         print("Ошибка геокодирования:", address, e)
-    geo_cache[address] = (0.0, 0.0)
+    geo_cache[address_key] = (0.0, 0.0)
     return 0.0, 0.0
 
-# --- Ссылки на фиды ---
+# --- Фиды ---
 feeds = {
     "main": "https://progress.vtcrm.ru/xmlgen/WebsiteYMLFeed.xml",
     "in_park": "https://progress.vtcrm.ru/xmlgen/CianinparkFeed.xml",
@@ -44,7 +45,6 @@ feeds = {
     "aux_coords": "https://raw.githubusercontent.com/esalej260794-maker/tilda-map-data/refs/heads/main/WebsiteYML_next.xml"
 }
 
-# --- Загрузка XML ---
 def load_feed(url):
     r = requests.get(url)
     return etree.fromstring(r.content)
@@ -54,19 +54,15 @@ in_park_feed = load_feed(feeds["in_park"])
 novo_br_feed = load_feed(feeds["novo_br"])
 aux_feed = load_feed(feeds["aux_coords"])
 
-# --- Извлекаем currencies и categories ---
-currencies_elem = main_feed.find("currencies")
-categories_elem = main_feed.find("categories")
-
-# --- Обработка основного фида ---
 agents_bui = ["Евгения Серова","Виктория Набатова","Ольга Торопова","Наталья Квасова"]
 
-# --- Функция для поиска координат в дополнительных фидах ---
+# --- Поиск координат в дополнительных фидах ---
 def get_coords_from_aux(address, aux_feeds):
+    addr_norm = address.strip().lower()
     for feed in aux_feeds:
         for obj in feed.findall(".//object"):
-            addr = obj.findtext("Address") or ""
-            if addr == address:
+            obj_addr = (obj.findtext("Address") or "").strip().lower()
+            if addr_norm == obj_addr:
                 lat = obj.findtext("Coordinates/Lat") or "0"
                 lon = obj.findtext("Coordinates/Lng") or "0"
                 if lat != "0" and lon != "0":
@@ -83,9 +79,7 @@ for offer in main_feed.findall(".//offer"):
         lon = coords_elem.get("lon") if coords_elem is not None else None
 
         if not lat or lat == "0" or not lon or lon == "0":
-            # 1. Пытаемся геокодер
             lat, lon = geocode_address(address_text)
-            # 2. Если геокодер не дал результата, ищем в новостройках и в aux_feed
             if lat == 0.0 and lon == 0.0:
                 lat, lon = get_coords_from_aux(address_text, [in_park_feed, novo_br_feed, aux_feed])
             if coords_elem is None:
@@ -101,29 +95,21 @@ for offer in main_feed.findall(".//offer"):
         office_elem = etree.SubElement(offer, "param", name="Офис")
     office_elem.text = office_val
 
-# --- Функция преобразования объектов застройщика ---
+# --- Маппинг новостроек ---
 def map_developer_flat(flat, jkschema_default):
     external_id = flat.findtext("ExternalId") or "0"
     offer = etree.Element("offer", id=external_id)
-    
     etree.SubElement(offer, "categoryId").text = "101"
-    
+
     rooms = flat.findtext("FlatRoomsCount") or "0"
     total_area = flat.findtext("TotalArea") or "0"
     jkschema_name = flat.findtext("JKSchema/Name") or jkschema_default
-    offer_name = f"{rooms}-к, {total_area} кв.м, ЖК {jkschema_name}"
-    etree.SubElement(offer, "name").text = offer_name
-    
-    price = flat.findtext("BargainTerms/Price") or "0"
-    etree.SubElement(offer, "price").text = price
-    
-    desc = flat.findtext("Description") or ""
-    etree.SubElement(offer, "description").text = desc
-    
-    material = flat.findtext("Building/MaterialType") or "unknown"
-    etree.SubElement(offer, "param", name="Материал стен").text = material
-    
-    # Площади, комнаты, этаж, балкон, парковка
+    etree.SubElement(offer, "name").text = f"{rooms}-к, {total_area} кв.м, ЖК {jkschema_name}"
+    etree.SubElement(offer, "price").text = flat.findtext("BargainTerms/Price") or "0"
+    etree.SubElement(offer, "description").text = flat.findtext("Description") or ""
+    etree.SubElement(offer, "param", name="Материал стен").text = flat.findtext("Building/MaterialType") or "unknown"
+
+    # Площади, этаж, балкон, парковка
     etree.SubElement(offer, "param", name="Комнат").text = flat.findtext("FlatRoomsCount") or ""
     etree.SubElement(offer, "param", name="Площадь Дома").text = flat.findtext("TotalArea") or ""
     etree.SubElement(offer, "param", name="Жилая площадь").text = flat.findtext("LivingArea") or ""
@@ -131,21 +117,15 @@ def map_developer_flat(flat, jkschema_default):
     etree.SubElement(offer, "param", name="Этаж").text = flat.findtext("FloorNumber") or ""
     etree.SubElement(offer, "param", name="Балкон").text = flat.findtext("BalconiesCount") or ""
     etree.SubElement(offer, "param", name="Парковка").text = flat.findtext("Building/Parking/Type") or ""
-    
-    addr = flat.findtext("Address") or ""
-    etree.SubElement(offer, "param", name="Адрес").text = addr
-    
+    etree.SubElement(offer, "param", name="Адрес").text = flat.findtext("Address") or ""
+
     # Координаты
     lat = flat.findtext("Coordinates/Lat") or "0"
     lon = flat.findtext("Coordinates/Lng") or "0"
     coords = etree.SubElement(offer, "coordinates")
-    try:
-        coords.set("lat", f"{float(lat):.6f}")
-        coords.set("lon", f"{float(lon):.6f}")
-    except:
-        coords.set("lat", "0.0")
-        coords.set("lon", "0.0")
-    
+    coords.set("lat", f"{float(lat):.6f}")
+    coords.set("lon", f"{float(lon):.6f}")
+
     # Фото
     layout_photo = flat.findtext("LayoutPhoto/FullUrl")
     if layout_photo:
@@ -154,47 +134,65 @@ def map_developer_flat(flat, jkschema_default):
         url = photo.findtext("FullUrl")
         if url:
             etree.SubElement(offer, "picture").text = url
-    
-    # Офис
+
     etree.SubElement(offer, "param", name="Офис").text = "Ярославль"
-    
     return offer
 
 # --- Собираем все объекты ---
 all_offers = []
 
-# 1) Основной фид
-for offer in main_feed.findall(".//offer"):
-    all_offers.append(offer)
+# основной фид
+all_offers.extend(main_feed.findall(".//offer"))
+# новостройки после
+all_offers.extend([map_developer_flat(f, "Ин Парк") for f in in_park_feed.findall(".//object")])
+all_offers.extend([map_developer_flat(f, "ЖК Новое Брагино") for f in novo_br_feed.findall(".//object")])
 
-# 2) Новостройки (внизу)
-for flat in in_park_feed.findall(".//object"):
-    all_offers.append(map_developer_flat(flat, "Ин Парк"))
-
-for flat in novo_br_feed.findall(".//object"):
-    all_offers.append(map_developer_flat(flat, "ЖК Новое Брагино"))
-
-# --- Финальный XML с shop, currencies и categories ---
+# --- Финальный XML ---
 shop = etree.Element("shop")
-
-# Заполняем шапку shop
-etree.SubElement(shop, "name").text = "Название магазина"
-etree.SubElement(shop, "company").text = "Компания"
-etree.SubElement(shop, "url").text = "https://example.com"
+etree.SubElement(shop, "name")
+etree.SubElement(shop, "company")
+etree.SubElement(shop, "url")
 
 # currencies
-if currencies_elem is not None:
-    shop.append(currencies_elem)
-else:
-    curr = etree.SubElement(shop, "currencies")
-    etree.SubElement(curr, "currency", id="RUR", rate="1")
+curr = etree.SubElement(shop, "currencies")
+etree.SubElement(curr, "currency", id="RUR", rate="1")
 
-# categories
-if categories_elem is not None:
-    shop.append(categories_elem)
-else:
-    cats = etree.SubElement(shop, "categories")
-    # Можно здесь вставить все категории жестко, если нужно
+# categories жестко вставляем
+cats = etree.SubElement(shop, "categories")
+category_data = [
+    ("10", None, "Квартиры, комнаты"),
+    ("100", "10", "Квартиры"),
+    ("101", "10", "Новостройки"),
+    ("102", "10", "Комнаты"),
+    ("103", "10", "Доли"),
+    ("20", None, "Коммерческая недвижимость"),
+    ("200", "20", "Офис"),
+    ("201", "20", "Здание"),
+    ("202", "20", "Торговое помещение"),
+    ("203", "20", "Помещение свободного назначения"),
+    ("204", "20", "Производство"),
+    ("205", "20", "Склад"),
+    ("206", "20", "Коммерческая земля"),
+    ("207", "20", "Готовый бизнес"),
+    ("208", "20", "Гостиница"),
+    ("209", "20", "Общепит"),
+    ("30", None, "Дома, участки"),
+    ("300", "30", "Дом"),
+    ("301", "30", "Дача"),
+    ("302", "30", "Таунхаус"),
+    ("303", "30", "Коттедж"),
+    ("304", "30", "Участок"),
+    ("305", "30", "Часть дома"),
+    ("40", None, "Гаражи, машиноместа"),
+    ("400", "40", "Бокс"),
+    ("401", "40", "Гараж"),
+    ("402", "40", "Машиноместо")
+]
+for cid, parent, name in category_data:
+    if parent:
+        etree.SubElement(cats, "category", id=cid, parentId=parent).text = name
+    else:
+        etree.SubElement(cats, "category", id=cid).text = name
 
 # offers
 offers_root = etree.SubElement(shop, "offers")
