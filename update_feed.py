@@ -40,7 +40,8 @@ def geocode_address(address):
 feeds = {
     "main": "https://progress.vtcrm.ru/xmlgen/WebsiteYMLFeed.xml",
     "in_park": "https://progress.vtcrm.ru/xmlgen/CianinparkFeed.xml",
-    "novo_br": "https://idalite.ru/feed/26235f5e-76ef-4108-8e3e-82950637df0b"
+    "novo_br": "https://idalite.ru/feed/26235f5e-76ef-4108-8e3e-82950637df0b",
+    "aux_coords": "https://raw.githubusercontent.com/esalej260794-maker/tilda-map-data/refs/heads/main/WebsiteYML_next.xml"
 }
 
 # --- Загрузка XML ---
@@ -51,6 +52,7 @@ def load_feed(url):
 main_feed = load_feed(feeds["main"])
 in_park_feed = load_feed(feeds["in_park"])
 novo_br_feed = load_feed(feeds["novo_br"])
+aux_feed = load_feed(feeds["aux_coords"])
 
 # --- Извлекаем currencies и categories ---
 currencies_elem = main_feed.find("currencies")
@@ -59,20 +61,38 @@ categories_elem = main_feed.find("categories")
 # --- Обработка основного фида ---
 agents_bui = ["Евгения Серова","Виктория Набатова","Ольга Торопова","Наталья Квасова"]
 
+# --- Функция для поиска координат в дополнительных фидах ---
+def get_coords_from_aux(address, aux_feeds):
+    for feed in aux_feeds:
+        for obj in feed.findall(".//object"):
+            addr = obj.findtext("Address") or ""
+            if addr == address:
+                lat = obj.findtext("Coordinates/Lat") or "0"
+                lon = obj.findtext("Coordinates/Lng") or "0"
+                if lat != "0" and lon != "0":
+                    return float(lat), float(lon)
+    return 0.0, 0.0
+
+# --- Обновляем координаты в основном фиде ---
 for offer in main_feed.findall(".//offer"):
-    # Адрес и координаты
     address_elem = offer.find(".//param[@name='Адрес']")
     if address_elem is not None:
         address_text = address_elem.text
         coords_elem = offer.find("coordinates")
         lat = coords_elem.get("lat") if coords_elem is not None else None
         lon = coords_elem.get("lon") if coords_elem is not None else None
+
         if not lat or lat == "0" or not lon or lon == "0":
+            # 1. Пытаемся геокодер
             lat, lon = geocode_address(address_text)
+            # 2. Если геокодер не дал результата, ищем в новостройках и в aux_feed
+            if lat == 0.0 and lon == 0.0:
+                lat, lon = get_coords_from_aux(address_text, [in_park_feed, novo_br_feed, aux_feed])
             if coords_elem is None:
                 coords_elem = etree.SubElement(offer, "coordinates")
             coords_elem.set("lat", f"{lat:.6f}")
             coords_elem.set("lon", f"{lon:.6f}")
+
     # Офис
     agent = offer.find(".//param[@name='Имя агента']")
     office_val = "Буй" if agent is not None and agent.text in agents_bui else "Ярославль"
@@ -143,28 +163,46 @@ def map_developer_flat(flat, jkschema_default):
 # --- Собираем все объекты ---
 all_offers = []
 
+# 1) Основной фид
+for offer in main_feed.findall(".//offer"):
+    all_offers.append(offer)
+
+# 2) Новостройки (внизу)
 for flat in in_park_feed.findall(".//object"):
     all_offers.append(map_developer_flat(flat, "Ин Парк"))
 
 for flat in novo_br_feed.findall(".//object"):
     all_offers.append(map_developer_flat(flat, "ЖК Новое Брагино"))
 
-for offer in main_feed.findall(".//offer"):
-    all_offers.append(offer)
+# --- Финальный XML с shop, currencies и categories ---
+shop = etree.Element("shop")
 
-# --- Финальный XML с currencies и categories ---
-root = etree.Element("realty-feed")
+# Заполняем шапку shop
+etree.SubElement(shop, "name").text = "Название магазина"
+etree.SubElement(shop, "company").text = "Компания"
+etree.SubElement(shop, "url").text = "https://example.com"
 
+# currencies
 if currencies_elem is not None:
-    root.append(currencies_elem)
-if categories_elem is not None:
-    root.append(categories_elem)
+    shop.append(currencies_elem)
+else:
+    curr = etree.SubElement(shop, "currencies")
+    etree.SubElement(curr, "currency", id="RUR", rate="1")
 
-offers_root = etree.SubElement(root, "offers")
+# categories
+if categories_elem is not None:
+    shop.append(categories_elem)
+else:
+    cats = etree.SubElement(shop, "categories")
+    # Можно здесь вставить все категории жестко, если нужно
+
+# offers
+offers_root = etree.SubElement(shop, "offers")
 for offer in all_offers:
     offers_root.append(offer)
 
-tree = etree.ElementTree(root)
+# --- Сохраняем финальный XML ---
+tree = etree.ElementTree(shop)
 tree.write("feed_final.xml", encoding="utf-8", xml_declaration=True, pretty_print=True)
 
 # --- Сохраняем кеш ---
