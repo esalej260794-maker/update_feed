@@ -7,9 +7,15 @@ import time
 geolocator = Nominatim(user_agent="real_estate_feed")
 
 def geocode_address(address):
+    """
+    Геокодирование адреса через Nominatim с ограничением 1 запрос/сек.
+    Возвращает lat, lon или 0.0, 0.0 если не удалось найти.
+    """
     try:
+        if not address:
+            return 0.0, 0.0
         location = geolocator.geocode(address + ", Россия")
-        time.sleep(1)  # ограничение запросов
+        time.sleep(1)  # ограничение по Nominatim
         if location:
             return location.latitude, location.longitude
     except Exception as e:
@@ -38,36 +44,35 @@ for offer in main_feed.findall(".//offer"):
     address_elem = offer.find(".//param[@name='Адрес']")
     if address_elem is not None:
         address_text = address_elem.text
-        lat_elem = offer.find("coordinates[@lat]")
-        lon_elem = offer.find("coordinates[@lon]")
-        if lat_elem is None or lat_elem.get("lat") in ("0", None):
+        coords_elem = offer.find("coordinates")
+        lat = coords_elem.get("lat") if coords_elem is not None else None
+        lon = coords_elem.get("lon") if coords_elem is not None else None
+        if not lat or lat == "0":
             lat, lon = geocode_address(address_text)
-            if offer.find("coordinates") is None:
-                coords = etree.SubElement(offer, "coordinates")
-            else:
-                coords = offer.find("coordinates")
-            coords.set("lat", f"{lat:.6f}")
-            coords.set("lon", f"{lon:.6f}")
+            if coords_elem is None:
+                coords_elem = etree.SubElement(offer, "coordinates")
+            coords_elem.set("lat", f"{lat:.6f}")
+            coords_elem.set("lon", f"{lon:.6f}")
+
     # Офис
     agent = offer.find(".//param[@name='Имя агента']")
+    office_val = "Ярославль"
     if agent is not None and agent.text in ["Евгения Серова","Виктория Набатова","Ольга Торопова","Наталья Квасова"]:
         office_val = "Буй"
-    else:
-        office_val = "Ярославль"
     office_elem = offer.find(".//param[@name='Офис']")
     if office_elem is None:
         office_elem = etree.SubElement(offer, "param", name="Офис")
     office_elem.text = office_val
 
-# --- Обработка фидов застройщиков ---
-def map_in_park_flat(flat):
+# --- Функция маппинга объектов застройщиков ---
+def map_developer_flat(flat, jkschema_name_default="Ин Парк"):
     offer = etree.Element("offer")
-    # Категория
+    # Категория всегда 101
     etree.SubElement(offer, "categoryId").text = "101"
     # Name
     rooms = flat.findtext(".//FlatRoomsCount") or "0"
     total_area = flat.findtext(".//TotalArea") or "0"
-    jkschema_name = flat.findtext(".//JKSchema/Name") or "Ин Парк"
+    jkschema_name = flat.findtext(".//JKSchema/Name") or jkschema_name_default
     offer_name = f"{rooms}-к, {total_area} кв.м, ЖК {jkschema_name}"
     etree.SubElement(offer, "name").text = offer_name
     # Price
@@ -93,24 +98,28 @@ def map_in_park_flat(flat):
     # Координаты
     lat = flat.findtext(".//Coordinates/Lat")
     lon = flat.findtext(".//Coordinates/Lng")
-    if not lat or lat=="0":
+    if not lat or lat == "0":
         lat, lon = geocode_address(addr)
     coords = etree.SubElement(offer, "coordinates")
-    coords.set("lat", f"{float(lat):.6f}")
-    coords.set("lon", f"{float(lon):.6f}")
+    try:
+        coords.set("lat", f"{float(lat):.6f}")
+        coords.set("lon", f"{float(lon):.6f}")
+    except:
+        coords.set("lat", "0.0")
+        coords.set("lon", "0.0")
     # Офис всегда Ярославль
     etree.SubElement(offer, "param", name="Офис").text = "Ярославль"
     return offer
 
-# --- Собираем все flat ---
+# --- Собираем все объекты ---
 all_offers = []
+
 for flat in in_park_feed.findall(".//Flat"):
-    all_offers.append(map_in_park_flat(flat))
+    all_offers.append(map_developer_flat(flat, "Ин Парк"))
 
 for flat in novo_br_feed.findall(".//Flat"):
-    all_offers.append(map_in_park_flat(flat))
+    all_offers.append(map_developer_flat(flat, "ЖК Новое Брагино"))
 
-# --- Добавляем основной фид ---
 for offer in main_feed.findall(".//offer"):
     all_offers.append(offer)
 
@@ -122,5 +131,3 @@ for offer in all_offers:
 tree = etree.ElementTree(root)
 tree.write("feed_final.xml", encoding="utf-8", xml_declaration=True, pretty_print=True)
 print("feed_final.xml создан успешно")
-
-
