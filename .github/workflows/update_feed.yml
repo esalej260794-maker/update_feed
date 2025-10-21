@@ -1,8 +1,9 @@
 name: Update Feed
 
+# Запуск раз в сутки в 06:00 UTC + возможность ручного запуска
 on:
   schedule:
-    - cron: '0 6 * * *' # каждый день в 6:00 UTC
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -38,3 +39,4 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.FEED_TOKEN }}
+
