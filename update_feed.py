@@ -5,21 +5,24 @@ import time
 
 # --- Настройка геокодера ---
 geolocator = Nominatim(user_agent="real_estate_feed")
+geo_cache = {}  # кеш адресов: {address: (lat, lon)}
 
 def geocode_address(address):
-    """
-    Геокодирование адреса через Nominatim с ограничением 1 запрос/сек.
-    Возвращает lat, lon или 0.0, 0.0 если не удалось найти.
-    """
+    """Геокодирование через Nominatim с кешем"""
+    if not address:
+        return 0.0, 0.0
+    if address in geo_cache:
+        return geo_cache[address]
     try:
-        if not address:
-            return 0.0, 0.0
         location = geolocator.geocode(address + ", Россия")
-        time.sleep(1)  # ограничение по Nominatim
+        time.sleep(1)  # ограничение запросов
         if location:
-            return location.latitude, location.longitude
+            lat, lon = location.latitude, location.longitude
+            geo_cache[address] = (lat, lon)
+            return lat, lon
     except Exception as e:
         print("Ошибка геокодирования:", address, e)
+    geo_cache[address] = (0.0, 0.0)
     return 0.0, 0.0
 
 # --- Ссылки на фиды ---
@@ -39,6 +42,7 @@ in_park_feed = load_feed(feeds["in_park"])
 novo_br_feed = load_feed(feeds["novo_br"])
 
 # --- Обработка основного фида ---
+agents_bui = ["Евгения Серова","Виктория Набатова","Ольга Торопова","Наталья Квасова"]
 for offer in main_feed.findall(".//offer"):
     # Адрес
     address_elem = offer.find(".//param[@name='Адрес']")
@@ -47,27 +51,24 @@ for offer in main_feed.findall(".//offer"):
         coords_elem = offer.find("coordinates")
         lat = coords_elem.get("lat") if coords_elem is not None else None
         lon = coords_elem.get("lon") if coords_elem is not None else None
-        if not lat or lat == "0":
+        if not lat or lat == "0" or not lon or lon == "0":
             lat, lon = geocode_address(address_text)
             if coords_elem is None:
                 coords_elem = etree.SubElement(offer, "coordinates")
             coords_elem.set("lat", f"{lat:.6f}")
             coords_elem.set("lon", f"{lon:.6f}")
-
     # Офис
     agent = offer.find(".//param[@name='Имя агента']")
-    office_val = "Ярославль"
-    if agent is not None and agent.text in ["Евгения Серова","Виктория Набатова","Ольга Торопова","Наталья Квасова"]:
-        office_val = "Буй"
+    office_val = "Буй" if agent is not None and agent.text in agents_bui else "Ярославль"
     office_elem = offer.find(".//param[@name='Офис']")
     if office_elem is None:
         office_elem = etree.SubElement(offer, "param", name="Офис")
     office_elem.text = office_val
 
-# --- Функция маппинга объектов застройщиков ---
+# --- Функция преобразования объектов застройщиков ---
 def map_developer_flat(flat, jkschema_name_default="Ин Парк"):
     offer = etree.Element("offer")
-    # Категория всегда 101
+    # Категория
     etree.SubElement(offer, "categoryId").text = "101"
     # Name
     rooms = flat.findtext(".//FlatRoomsCount") or "0"
@@ -98,8 +99,6 @@ def map_developer_flat(flat, jkschema_name_default="Ин Парк"):
     # Координаты
     lat = flat.findtext(".//Coordinates/Lat")
     lon = flat.findtext(".//Coordinates/Lng")
-    if not lat or lat == "0":
-        lat, lon = geocode_address(addr)
     coords = etree.SubElement(offer, "coordinates")
     try:
         coords.set("lat", f"{float(lat):.6f}")
@@ -107,7 +106,7 @@ def map_developer_flat(flat, jkschema_name_default="Ин Парк"):
     except:
         coords.set("lat", "0.0")
         coords.set("lon", "0.0")
-    # Офис всегда Ярославль
+    # Офис
     etree.SubElement(offer, "param", name="Офис").text = "Ярославль"
     return offer
 
