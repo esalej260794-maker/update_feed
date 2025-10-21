@@ -26,7 +26,7 @@ def geocode_address(address):
         return float(lat), float(lon)
     try:
         location = geolocator.geocode(address + ", Россия")
-        time.sleep(1)
+        time.sleep(1)  # ограничение по Nominatim
         if location:
             lat, lon = location.latitude, location.longitude
             geo_cache[address] = (lat, lon)
@@ -52,9 +52,15 @@ main_feed = load_feed(feeds["main"])
 in_park_feed = load_feed(feeds["in_park"])
 novo_br_feed = load_feed(feeds["novo_br"])
 
-# --- Основной фид: координаты и офис ---
+# --- Извлекаем currencies и categories ---
+currencies_elem = main_feed.find("currencies")
+categories_elem = main_feed.find("categories")
+
+# --- Обработка основного фида ---
 agents_bui = ["Евгения Серова","Виктория Набатова","Ольга Торопова","Наталья Квасова"]
+
 for offer in main_feed.findall(".//offer"):
+    # Адрес и координаты
     address_elem = offer.find(".//param[@name='Адрес']")
     if address_elem is not None:
         address_text = address_elem.text
@@ -67,6 +73,7 @@ for offer in main_feed.findall(".//offer"):
                 coords_elem = etree.SubElement(offer, "coordinates")
             coords_elem.set("lat", f"{lat:.6f}")
             coords_elem.set("lon", f"{lon:.6f}")
+    # Офис
     agent = offer.find(".//param[@name='Имя агента']")
     office_val = "Буй" if agent is not None and agent.text in agents_bui else "Ярославль"
     office_elem = offer.find(".//param[@name='Офис']")
@@ -96,6 +103,7 @@ def map_developer_flat(flat, jkschema_default):
     material = flat.findtext("Building/MaterialType") or "unknown"
     etree.SubElement(offer, "param", name="Материал стен").text = material
     
+    # Площади, комнаты, этаж, балкон, парковка
     etree.SubElement(offer, "param", name="Комнат").text = flat.findtext("FlatRoomsCount") or ""
     etree.SubElement(offer, "param", name="Площадь Дома").text = flat.findtext("TotalArea") or ""
     etree.SubElement(offer, "param", name="Жилая площадь").text = flat.findtext("LivingArea") or ""
@@ -107,6 +115,7 @@ def map_developer_flat(flat, jkschema_default):
     addr = flat.findtext("Address") or ""
     etree.SubElement(offer, "param", name="Адрес").text = addr
     
+    # Координаты
     lat = flat.findtext("Coordinates/Lat") or "0"
     lon = flat.findtext("Coordinates/Lng") or "0"
     coords = etree.SubElement(offer, "coordinates")
@@ -117,6 +126,7 @@ def map_developer_flat(flat, jkschema_default):
         coords.set("lat", "0.0")
         coords.set("lon", "0.0")
     
+    # Фото
     layout_photo = flat.findtext("LayoutPhoto/FullUrl")
     if layout_photo:
         etree.SubElement(offer, "picture").text = layout_photo
@@ -125,6 +135,7 @@ def map_developer_flat(flat, jkschema_default):
         if url:
             etree.SubElement(offer, "picture").text = url
     
+    # Офис
     etree.SubElement(offer, "param", name="Офис").text = "Ярославль"
     
     return offer
@@ -141,10 +152,17 @@ for flat in novo_br_feed.findall(".//object"):
 for offer in main_feed.findall(".//offer"):
     all_offers.append(offer)
 
-# --- Финальный XML ---
-root = etree.Element("offers")
+# --- Финальный XML с currencies и categories ---
+root = etree.Element("realty-feed")
+
+if currencies_elem is not None:
+    root.append(currencies_elem)
+if categories_elem is not None:
+    root.append(categories_elem)
+
+offers_root = etree.SubElement(root, "offers")
 for offer in all_offers:
-    root.append(offer)
+    offers_root.append(offer)
 
 tree = etree.ElementTree(root)
 tree.write("feed_final.xml", encoding="utf-8", xml_declaration=True, pretty_print=True)
@@ -154,4 +172,3 @@ with open(CACHE_FILE, "w", encoding="utf-8") as f:
     json.dump(geo_cache, f, ensure_ascii=False, indent=2)
 
 print("feed_final.xml создан успешно, кеш координат обновлён")
-
