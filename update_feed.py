@@ -14,7 +14,7 @@ def geocode_address(address):
         return geo_cache[address]
     try:
         location = geolocator.geocode(address + ", Россия")
-        time.sleep(1)  # ограничение по Nominatim
+        time.sleep(1)  # ограничение запросов
         if location:
             lat, lon = location.latitude, location.longitude
             geo_cache[address] = (lat, lon)
@@ -89,7 +89,7 @@ def map_developer_flat(flat, jkschema_name_default):
     etree.SubElement(offer, "description").text = desc
     
     # Материал стен
-    material = flat.findtext(".//MaterialType") or "unknown"
+    material = flat.findtext(".//Building/MaterialType") or "unknown"
     etree.SubElement(offer, "param", name="Материал стен").text = material
     
     # Площади, комнаты, этаж, балкон, парковка
@@ -99,25 +99,32 @@ def map_developer_flat(flat, jkschema_name_default):
     etree.SubElement(offer, "param", name="Площадь кухни").text = flat.findtext(".//KitchenArea") or ""
     etree.SubElement(offer, "param", name="Этаж").text = flat.findtext(".//FloorNumber") or ""
     etree.SubElement(offer, "param", name="Балкон").text = flat.findtext(".//BalconiesCount") or ""
-    etree.SubElement(offer, "param", name="Парковка").text = flat.findtext(".//Parking/Type") or ""
+    etree.SubElement(offer, "param", name="Парковка").text = flat.findtext(".//Building/Parking/Type") or ""
     
     # Адрес
     addr = flat.findtext(".//Address") or ""
     etree.SubElement(offer, "param", name="Адрес").text = addr
     
-    # Координаты
-    lat = flat.findtext(".//Coordinates/Lat") or "0"
-    lon = flat.findtext(".//Coordinates/Lng") or "0"
+    # Координаты (берём уже существующие, только форматируем)
+    lat = flat.findtext(".//Coordinates/Lat")
+    lon = flat.findtext(".//Coordinates/Lng")
     coords = etree.SubElement(offer, "coordinates")
-    try:
+    if lat and lon:
         coords.set("lat", f"{float(lat):.6f}")
         coords.set("lon", f"{float(lon):.6f}")
-    except:
+    else:
         coords.set("lat", "0.0")
         coords.set("lon", "0.0")
     
     # Офис всегда Ярославль
     etree.SubElement(offer, "param", name="Офис").text = "Ярославль"
+    
+    # Фотографии
+    pics = flat.findall(".//Photo")
+    for pic in pics:
+        url = pic.text.strip() if pic.text else None
+        if url:
+            etree.SubElement(offer, "picture").text = url
     
     return offer
 
