@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <offers>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -14,10 +14,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -31,10 +31,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -48,10 +48,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -65,10 +65,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -82,10 +82,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -99,10 +99,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -116,10 +116,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -133,10 +133,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -150,10 +150,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -167,10 +167,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -184,10 +184,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -201,10 +201,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -218,10 +218,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -235,10 +235,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -252,10 +252,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -269,10 +269,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -286,10 +286,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -303,10 +303,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -320,10 +320,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -337,10 +337,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -354,10 +354,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -371,10 +371,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -388,10 +388,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -405,10 +405,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -422,10 +422,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -439,10 +439,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -456,10 +456,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -473,10 +473,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -490,10 +490,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -507,10 +507,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -524,10 +524,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -541,10 +541,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -558,10 +558,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -575,10 +575,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -592,10 +592,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -609,10 +609,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -626,10 +626,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -643,10 +643,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -660,10 +660,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -677,10 +677,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -694,10 +694,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -711,10 +711,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -728,10 +728,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -745,10 +745,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -762,10 +762,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -779,10 +779,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -796,10 +796,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -813,10 +813,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -830,10 +830,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -847,10 +847,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -864,10 +864,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -881,10 +881,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -898,10 +898,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -915,10 +915,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -932,10 +932,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -949,10 +949,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -966,10 +966,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -983,10 +983,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1000,10 +1000,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1017,10 +1017,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1034,10 +1034,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1051,10 +1051,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1068,10 +1068,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1085,10 +1085,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1102,10 +1102,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1119,10 +1119,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1136,10 +1136,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1153,10 +1153,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1170,10 +1170,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1187,10 +1187,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1204,10 +1204,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1221,10 +1221,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1238,10 +1238,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1255,10 +1255,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1272,10 +1272,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1289,10 +1289,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1306,10 +1306,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1323,10 +1323,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1340,10 +1340,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1357,10 +1357,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1374,10 +1374,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1391,10 +1391,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1408,10 +1408,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1425,10 +1425,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1442,10 +1442,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1459,10 +1459,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1476,10 +1476,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1493,10 +1493,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1510,10 +1510,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1527,10 +1527,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1544,10 +1544,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1561,10 +1561,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1578,10 +1578,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1595,10 +1595,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1612,10 +1612,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1629,10 +1629,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1646,10 +1646,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1663,10 +1663,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1680,10 +1680,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1697,10 +1697,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1714,10 +1714,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1731,10 +1731,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1748,10 +1748,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1765,10 +1765,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1782,10 +1782,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1799,10 +1799,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1816,10 +1816,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1833,10 +1833,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1850,10 +1850,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1867,10 +1867,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1884,10 +1884,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1901,10 +1901,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1918,10 +1918,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1935,10 +1935,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1952,10 +1952,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1969,10 +1969,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -1986,10 +1986,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2003,10 +2003,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2020,10 +2020,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2037,10 +2037,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2054,10 +2054,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2071,10 +2071,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2088,10 +2088,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2105,10 +2105,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2122,10 +2122,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2139,10 +2139,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2156,10 +2156,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2173,10 +2173,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2190,10 +2190,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2207,10 +2207,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2224,10 +2224,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2241,10 +2241,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2258,10 +2258,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2275,10 +2275,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2292,10 +2292,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2309,10 +2309,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2326,10 +2326,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2343,10 +2343,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2360,10 +2360,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2377,10 +2377,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2394,10 +2394,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2411,10 +2411,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2428,10 +2428,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2445,10 +2445,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2462,10 +2462,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2479,10 +2479,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2496,10 +2496,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2513,10 +2513,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2530,10 +2530,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2547,10 +2547,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2564,10 +2564,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2581,10 +2581,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2598,10 +2598,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2615,10 +2615,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2632,10 +2632,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2649,10 +2649,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2666,10 +2666,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2683,10 +2683,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2700,10 +2700,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2717,10 +2717,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2734,10 +2734,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2751,10 +2751,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2768,10 +2768,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2785,10 +2785,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2802,10 +2802,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2819,10 +2819,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2836,10 +2836,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2853,10 +2853,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2870,10 +2870,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2887,10 +2887,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2904,10 +2904,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2921,10 +2921,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2938,10 +2938,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2955,10 +2955,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2972,10 +2972,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -2989,10 +2989,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -3006,10 +3006,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -3023,10 +3023,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -3040,10 +3040,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -3057,10 +3057,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -3074,10 +3074,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -3091,10 +3091,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -3108,10 +3108,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -3125,10 +3125,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК Ин Парк</name>
     <price>0</price>
@@ -3142,10 +3142,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3159,10 +3159,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3176,10 +3176,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3193,10 +3193,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3210,10 +3210,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3227,10 +3227,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3244,10 +3244,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3261,10 +3261,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3278,10 +3278,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3295,10 +3295,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3312,10 +3312,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3329,10 +3329,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3346,10 +3346,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3363,10 +3363,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3380,10 +3380,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3397,10 +3397,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3414,10 +3414,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3431,10 +3431,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3448,10 +3448,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3465,10 +3465,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3482,10 +3482,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3499,10 +3499,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3516,10 +3516,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3533,10 +3533,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3550,10 +3550,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3567,10 +3567,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3584,10 +3584,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3601,10 +3601,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3618,10 +3618,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3635,10 +3635,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3652,10 +3652,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3669,10 +3669,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3686,10 +3686,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3703,10 +3703,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3720,10 +3720,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3737,10 +3737,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3754,10 +3754,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3771,10 +3771,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3788,10 +3788,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3805,10 +3805,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3822,10 +3822,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3839,10 +3839,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3856,10 +3856,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3873,10 +3873,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3890,10 +3890,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3907,10 +3907,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3924,10 +3924,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3941,10 +3941,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3958,10 +3958,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3975,10 +3975,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -3992,10 +3992,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4009,10 +4009,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4026,10 +4026,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4043,10 +4043,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4060,10 +4060,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4077,10 +4077,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4094,10 +4094,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4111,10 +4111,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4128,10 +4128,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4145,10 +4145,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4162,10 +4162,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4179,10 +4179,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4196,10 +4196,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4213,10 +4213,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4230,10 +4230,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4247,10 +4247,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4264,10 +4264,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4281,10 +4281,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4298,10 +4298,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4315,10 +4315,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4332,10 +4332,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4349,10 +4349,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4366,10 +4366,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4383,10 +4383,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4400,10 +4400,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4417,10 +4417,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4434,10 +4434,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4451,10 +4451,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4468,10 +4468,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4485,10 +4485,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4502,10 +4502,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4519,10 +4519,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4536,10 +4536,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4553,10 +4553,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4570,10 +4570,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4587,10 +4587,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4604,10 +4604,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4621,10 +4621,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4638,10 +4638,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4655,10 +4655,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4672,10 +4672,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4689,10 +4689,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4706,10 +4706,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4723,10 +4723,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4740,10 +4740,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4757,10 +4757,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4774,10 +4774,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4791,10 +4791,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4808,10 +4808,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4825,10 +4825,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4842,10 +4842,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4859,10 +4859,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4876,10 +4876,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4893,10 +4893,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4910,10 +4910,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4927,10 +4927,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4944,10 +4944,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4961,10 +4961,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4978,10 +4978,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -4995,10 +4995,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5012,10 +5012,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5029,10 +5029,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5046,10 +5046,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5063,10 +5063,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5080,10 +5080,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5097,10 +5097,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5114,10 +5114,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5131,10 +5131,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5148,10 +5148,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5165,10 +5165,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5182,10 +5182,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5199,10 +5199,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5216,10 +5216,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5233,10 +5233,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5250,10 +5250,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5267,10 +5267,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5284,10 +5284,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5301,10 +5301,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5318,10 +5318,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5335,10 +5335,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5352,10 +5352,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5369,10 +5369,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5386,10 +5386,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5403,10 +5403,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5420,10 +5420,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5437,10 +5437,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5454,10 +5454,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5471,10 +5471,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5488,10 +5488,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5505,10 +5505,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5522,10 +5522,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5539,10 +5539,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5556,10 +5556,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5573,10 +5573,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5590,10 +5590,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5607,10 +5607,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5624,10 +5624,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5641,10 +5641,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5658,10 +5658,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5675,10 +5675,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5692,10 +5692,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5709,10 +5709,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5726,10 +5726,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5743,10 +5743,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5760,10 +5760,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5777,10 +5777,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5794,10 +5794,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5811,10 +5811,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5828,10 +5828,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5845,10 +5845,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5862,10 +5862,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5879,10 +5879,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5896,10 +5896,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5913,10 +5913,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5930,10 +5930,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5947,10 +5947,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5964,10 +5964,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5981,10 +5981,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -5998,10 +5998,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6015,10 +6015,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6032,10 +6032,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6049,10 +6049,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6066,10 +6066,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6083,10 +6083,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6100,10 +6100,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6117,10 +6117,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6134,10 +6134,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6151,10 +6151,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6168,10 +6168,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6185,10 +6185,10 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
-  <offer>
+  <offer id="0">
     <categoryId>101</categoryId>
     <name>0-к, 0 кв.м, ЖК ЖК Новое Брагино</name>
     <price>0</price>
@@ -6202,7 +6202,7 @@
     <param name="Балкон"></param>
     <param name="Парковка"></param>
     <param name="Адрес"></param>
-    <coordinates lat="0.0" lon="0.0"/>
+    <coordinates lat="0.000000" lon="0.000000"/>
     <param name="Офис">Ярославль</param>
   </offer>
   <offer id="61684264">
@@ -31437,7 +31437,7 @@ id:50045.
     <param name="Офис">Ярославль</param>
   </offer>
   <offer id="50046">
-    <name>Продажа, Квартира, 1-к, 36 кв.м, г Ярославль, ул Угличская, 66а</name>
+    <name>Продажа, Квартира, 1-к, 35.9 кв.м, г Ярославль, ул Угличская, 66а</name>
     <param name="Тип предложения">Продажа</param>
     <param name="Ремонт">требует ремонта</param>
     <param name="Этаж">1</param>
@@ -31447,7 +31447,7 @@ id:50045.
     <param name="Имя агента">Светлана Козлова</param>
     <param name="Email для связи">svetlana_kozlova_vektor@mail.ru</param>
     <param name="Телефон для связи">79065275779</param>
-    <param name="Общая площадь">36</param>
+    <param name="Общая площадь">35.9</param>
     <param name="Жилая площадь">17.6</param>
     <param name="Площадь кухни">10.4</param>
     <param name="Этаж">1</param>
