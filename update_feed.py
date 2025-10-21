@@ -18,23 +18,39 @@ else:
 # --- Геокодер с кешем ---
 geolocator = Nominatim(user_agent="real_estate_feed")
 
+# --- Нормализация адресов ---
+def normalize_address(addr):
+    if not addr:
+        return ""
+    addr = addr.strip().lower()
+    replacements = {
+        "ул.": "улица",
+        "д.": "дом",
+        "пр.": "проспект",
+        "пер.": "переулок",
+        "ш.": "шоссе",
+        "б-р": "бульвар"
+    }
+    for k, v in replacements.items():
+        addr = addr.replace(k, v)
+    return addr
+
+# --- Геокодирование с кешем ---
 def geocode_address(address):
-    if not address:
-        return 0.0, 0.0
-    address_key = address.strip().lower()
-    if address_key in geo_cache:
-        lat, lon = geo_cache[address_key]
+    address_norm = normalize_address(address)
+    if address_norm in geo_cache:
+        lat, lon = geo_cache[address_norm]
         return float(lat), float(lon)
     try:
-        location = geolocator.geocode(address + ", Россия")
+        location = geolocator.geocode(address_norm + ", Россия")
         time.sleep(1)
         if location:
             lat, lon = location.latitude, location.longitude
-            geo_cache[address_key] = (lat, lon)
+            geo_cache[address_norm] = (lat, lon)
             return lat, lon
     except Exception as e:
         print("Ошибка геокодирования:", address, e)
-    geo_cache[address_key] = (0.0, 0.0)
+    geo_cache[address_norm] = (0.0, 0.0)
     return 0.0, 0.0
 
 # --- Фиды ---
@@ -58,10 +74,10 @@ agents_bui = ["Евгения Серова","Виктория Набатова",
 
 # --- Поиск координат в дополнительных фидах ---
 def get_coords_from_aux(address, aux_feeds):
-    addr_norm = address.strip().lower()
+    addr_norm = normalize_address(address)
     for feed in aux_feeds:
         for obj in feed.findall(".//object"):
-            obj_addr = (obj.findtext("Address") or "").strip().lower()
+            obj_addr = normalize_address(obj.findtext("Address") or "")
             if addr_norm == obj_addr:
                 lat = obj.findtext("Coordinates/Lat") or "0"
                 lon = obj.findtext("Coordinates/Lng") or "0"
@@ -69,7 +85,7 @@ def get_coords_from_aux(address, aux_feeds):
                     return float(lat), float(lon)
     return 0.0, 0.0
 
-# --- Обновляем координаты в основном фиде ---
+# --- Обновляем координаты и офисы в основном фиде ---
 for offer in main_feed.findall(".//offer"):
     address_elem = offer.find(".//param[@name='Адрес']")
     if address_elem is not None:
@@ -81,7 +97,8 @@ for offer in main_feed.findall(".//offer"):
         if not lat or lat == "0" or not lon or lon == "0":
             lat, lon = geocode_address(address_text)
             if lat == 0.0 and lon == 0.0:
-                lat, lon = get_coords_from_aux(address_text, [in_park_feed, novo_br_feed, aux_feed])
+                # Используем только aux_feed для подстановки координат
+                lat, lon = get_coords_from_aux(address_text, [aux_feed])
             if coords_elem is None:
                 coords_elem = etree.SubElement(offer, "coordinates")
             coords_elem.set("lat", f"{lat:.6f}")
@@ -119,7 +136,7 @@ def map_developer_flat(flat, jkschema_default):
     etree.SubElement(offer, "param", name="Парковка").text = flat.findtext("Building/Parking/Type") or ""
     etree.SubElement(offer, "param", name="Адрес").text = flat.findtext("Address") or ""
 
-    # Координаты
+    # Координаты новостроек не трогаем
     lat = flat.findtext("Coordinates/Lat") or "0"
     lon = flat.findtext("Coordinates/Lng") or "0"
     coords = etree.SubElement(offer, "coordinates")
@@ -140,10 +157,7 @@ def map_developer_flat(flat, jkschema_default):
 
 # --- Собираем все объекты ---
 all_offers = []
-
-# основной фид
-all_offers.extend(main_feed.findall(".//offer"))
-# новостройки после
+all_offers.extend(main_feed.findall(".//offer"))  # основной фид
 all_offers.extend([map_developer_flat(f, "Ин Парк") for f in in_park_feed.findall(".//object")])
 all_offers.extend([map_developer_flat(f, "ЖК Новое Брагино") for f in novo_br_feed.findall(".//object")])
 
