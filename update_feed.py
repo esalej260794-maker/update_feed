@@ -4,6 +4,7 @@ from geopy.geocoders import Nominatim
 import time
 import json
 import os
+import re
 
 # --- Файл кеша ---
 CACHE_FILE = "geo_cache.json"
@@ -57,17 +58,20 @@ aux_feed = load_feed(feeds["aux_coords"])
 agents_bui = ["Евгения Серова","Виктория Набатова","Ольга Торопова","Наталья Квасова"]
 
 # --- Нормализация адреса для поиска ---
-def normalize_address(addr):
+def normalize_address_strict(addr):
     if not addr:
         return ""
-    return " ".join(addr.strip().lower().split())
+    addr = addr.lower()
+    addr = re.sub(r"[.,]", "", addr)
+    addr = re.sub(r"\s+", " ", addr)
+    return addr.strip()
 
 # --- Поиск координат в aux_feed ---
 def get_coords_from_aux(address, aux_feeds):
-    addr_norm = normalize_address(address)
+    addr_norm = normalize_address_strict(address)
     for feed in aux_feeds:
         for obj in feed.findall(".//object"):
-            obj_addr = normalize_address(obj.findtext("Address") or "")
+            obj_addr = normalize_address_strict(obj.findtext("Address") or "")
             if addr_norm == obj_addr:
                 lat = obj.findtext("Coordinates/Lat") or "0"
                 lon = obj.findtext("Coordinates/Lng") or "0"
@@ -75,12 +79,13 @@ def get_coords_from_aux(address, aux_feeds):
                     lat_f = float(lat)
                     lon_f = float(lon)
                     if lat_f != 0.0 and lon_f != 0.0:
+                        print(f"[COORDS] Подставлены координаты для '{address}' -> ({lat_f}, {lon_f})")
                         return lat_f, lon_f
                 except:
                     continue
     return 0.0, 0.0
 
-# --- Обновляем координаты в основном фиде ---
+# --- Обновляем координаты и офисы в основном фиде ---
 for offer in main_feed.findall(".//offer"):
     address_elem = offer.find(".//param[@name='Адрес']")
     if address_elem is not None:
@@ -96,13 +101,11 @@ for offer in main_feed.findall(".//offer"):
                 lat = lon = 0.0
 
         if lat == 0.0 and lon == 0.0:
-            # 1. Геокодер
-            lat, lon = geocode_address(address_text)
-            # 2. Если геокодер не дал результата, ищем в aux_feed
+            # Сначала пытаемся взять координаты из aux_feed
+            lat, lon = get_coords_from_aux(address_text, [aux_feed])
+            # Если aux_feed не дал результата, используем геокодер
             if lat == 0.0 and lon == 0.0:
-                lat, lon = get_coords_from_aux(address_text, [aux_feed])
-
-            # Создаем coordinates, если нет
+                lat, lon = geocode_address(address_text)
             if coords_elem is None:
                 coords_elem = etree.SubElement(offer, "coordinates")
             coords_elem.set("lat", f"{lat:.6f}")
@@ -116,7 +119,7 @@ for offer in main_feed.findall(".//offer"):
         office_elem = etree.SubElement(offer, "param", name="Офис")
     office_elem.text = office_val
 
-# --- Маппинг новостроек ---
+# --- Маппинг новостроек (координаты не трогаем) ---
 def map_developer_flat(flat, jkschema_default):
     external_id = flat.findtext("ExternalId") or "0"
     offer = etree.Element("offer", id=external_id)
@@ -140,7 +143,7 @@ def map_developer_flat(flat, jkschema_default):
     etree.SubElement(offer, "param", name="Парковка").text = flat.findtext("Building/Parking/Type") or ""
     etree.SubElement(offer, "param", name="Адрес").text = flat.findtext("Address") or ""
 
-    # Координаты
+    # Координаты (берем как есть)
     lat = float(flat.findtext("Coordinates/Lat") or "0")
     lon = float(flat.findtext("Coordinates/Lng") or "0")
     coords = etree.SubElement(offer, "coordinates")
