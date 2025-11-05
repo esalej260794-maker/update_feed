@@ -258,45 +258,6 @@ id:319.
       <coordinates lat="57.432187" lon="40.411153"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="52313790">
-      <name>Продажа, Квартира, 1-к, 42 кв.м, Ярославль г., Пирогова ул., дом 20А</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">1</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Ярославская область, Ярославль г., Пирогова ул., дом 20А</param>
-      <param name="Имя агента">Анна Куликова</param>
-      <param name="Email для связи">big.letter@yandex.ru</param>
-      <param name="Телефон для связи">79080299869</param>
-      <param name="Общая площадь">42</param>
-      <param name="Жилая площадь">20</param>
-      <param name="Площадь кухни">12</param>
-      <param name="Этаж">1</param>
-      <param name="Этажность">5</param>
-      <param name="Ипотека">да</param>
-      <categoryId>100</categoryId>
-      <price>3500000</price>
-      <description>Арт. 52313790 Продаётся уютная однокомнатная квартира в кирпичном доме во Фрунзенском районе. Однокомнатная квартира расположена на первом этаже пятиэтажного дома 2015 года постройки. Одна изолированная комната, просторная кухня с выходом на застекленный балкон. Выполнен косметический ремонт - в комнате ламинат и новые обои; на кухне линолиум; в санузле - плитка. Окна ПВХ. Установлена новая входная дверь. Кухонный гарнитур остается новым жильцам! Придомовая территория огорожена забором. Вход во двор осуществляется через домофон. Открытая парковка за шлагбаумом. Во дворе дома - детская площадка. В шаговой доступности есть все необходимое для комфортной жизни - продуктовые магазины, детские сады, школы. Удобная транспортная развязка. До остановки общественного транспорта 2 минуты пешком. Почему мы? Опытные специалисты окажут Вам полную поддержку в сделке до момента передачи ключей Юристы обеспечат полное юридическое сопровождение по каждому вопросу Страховой и ипотечный брокеры подберут и подготовят наиболее выгодные условия по ипотеке и страхованию Специалисты отдела новостроек помогут подобрать надёжного застройщика по хорошей цене и подходящей локации Фиксированное агентское вознаграждение без повышения Наши специалисты подготовят вашу квартиру к продаже и окажут все возможные услуги при переезде Мы обеспечим бесплатные консультация по любым вашим вопросам Для Вашего комфорта офисы нашей компании представлены в городах: Кострома, Ярославль, Иваново Нам важен каждый клиент, поэтому мы готовы оказать Вам максимальный сервис высокого качества! ВЕКТОР-НЕДВИЖИМОСТЬ: ВМЕСТЕ СОЗДАЁМ НАСЛЕДИЕ!
-id:358. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc506087.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc518507.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc529ee3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc54d36e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc55f0f2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc58271f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc59485e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc5a5f96.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc5b7a03.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc5c9418.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc5dab92.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc5ec10f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc6094a7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc61ae2b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/358/68764cc4e84c9.jpeg</picture>
-      <coordinates lat="57.549476" lon="39.936798"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="49583535">
       <name>Продажа, Коттедж, 5-к, 144 кв.м, Ракино д.</name>
       <param name="Тип предложения">Продажа</param>
@@ -2569,61 +2530,6 @@ id:18382.
       <picture>https://progress.vtcrm.ru/uploads/Photos/18382/68765b2f49913.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/18382/68765b2fc751c.jpeg</picture>
       <coordinates lat="57.709494" lon="39.990607"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="19754">
-      <name>Продажа, Квартира, 2-к, 49.7 кв.м, Ярославль, Московский проспект, 163</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">7</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">На улицу</param>
-      <param name="Адрес">Ярославская область, Ярославль, Московский проспект, 163</param>
-      <param name="Имя агента">Анна Куликова</param>
-      <param name="Email для связи">big.letter@yandex.ru</param>
-      <param name="Телефон для связи">79080299869</param>
-      <param name="Общая площадь">49.7</param>
-      <param name="Жилая площадь">30.4</param>
-      <param name="Площадь кухни">7.7</param>
-      <param name="Этаж">7</param>
-      <param name="Этажность">10</param>
-      <categoryId>100</categoryId>
-      <price>4940000</price>
-      <description>&lt;strong&gt;В продаже 2х комнатная квартира на Московском проспекте&lt;/strong&gt;&lt;br /&gt;&#13;
-Квартира - заезжай и живи&lt;br /&gt;&#13;
-Окна все ПВХ, застекленная лоджия&lt;br /&gt;&#13;
-Комнаты раздельные 18,2 и 12,2 м2&lt;br /&gt;&#13;
-Ванная комната в плитке, санузел раздельный&amp;nbsp;&lt;br /&gt;&#13;
-Много мест для хранения&lt;br /&gt;&#13;
-Вся инфраструктура рядом -&amp;nbsp;магазины, аптеки, школы, сады&lt;br /&gt;&#13;
-До остановки 5 минут пешком,&amp;nbsp;до центра города ехать 15 минут&lt;br /&gt;&#13;
-Торг возможен&lt;br /&gt;&#13;
-Один собственник, быстрый выход&amp;nbsp; на сделку&lt;br /&gt;&#13;
-&lt;strong&gt;Хотите купить эту квартиру - ЗВОНИТЕ!&lt;/strong&gt;
-id:19754. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b96effff.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b97d6002.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b96bf091.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b96a385f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b9689a57.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b96d82b2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b97611e4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b982c684.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b97bf23a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b9812b2b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b984480b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b985d237.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b97484d5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b972e753.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b9778198.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b97132f1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b9790097.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b97ee7c3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b97a7da4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/19754/68765b98680bd.jpeg</picture>
-      <coordinates lat="57.577819" lon="39.848988"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="19775">
@@ -6050,56 +5956,6 @@ id:44829.
       <coordinates lat="57.584019" lon="39.836932"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="45138">
-      <name>Продажа, Квартира, 1-к, 31 кв.м, Ярославль, улица 8 Марта, 13</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">1</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Ярославская область, Ярославль, улица 8 Марта, 13</param>
-      <param name="Имя агента">Павел Голощапов</param>
-      <param name="Email для связи">pashapasha521@gmail.com</param>
-      <param name="Телефон для связи">79806612725</param>
-      <param name="Общая площадь">31</param>
-      <param name="Жилая площадь">17</param>
-      <param name="Площадь кухни">7</param>
-      <param name="Этаж">1</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>2560000</price>
-      <description>Продается просторная однокомнатная квартира в кирпичном доме!&lt;br /&gt;&#13;
-&amp;nbsp;&lt;br /&gt;&#13;
-Общая площадь 31 кв.м.&amp;nbsp;&lt;br /&gt;&#13;
-&amp;nbsp;&lt;br /&gt;&#13;
-Состояние жилое, можно сделать косметический ремонт. Санузел в кафельной плитке.&lt;br /&gt;&#13;
-&amp;nbsp;&lt;br /&gt;&#13;
-Квартира с газовой колонкой, горячая вода круглый год и экономия на коммунальных платежах.&lt;br /&gt;&#13;
-&amp;nbsp;&lt;br /&gt;&#13;
-Отличная локация, в шаговой доступности вся инфраструктура.&lt;br /&gt;&#13;
-&amp;nbsp;&lt;br /&gt;&#13;
-Один взрослый собственник, без обременений, быстрый выход на сделку.&lt;br /&gt;&#13;
-&amp;nbsp;&lt;br /&gt;&#13;
-Подходит под ипотеку и любые сертификаты!&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Остались вопросы? Звоните!&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;nbsp;
-id:45138. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699ae6cf5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699b1a60a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699aa98e3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699abe33f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699b06b8b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699ad2116.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699b4182b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699b561d5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699b813a4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699b6d70a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45138/6876699b9787c.jpeg</picture>
-      <coordinates lat="57.605565" lon="39.822164"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="45190">
       <name>Продажа, Дом, свободная планировка, 116 кв.м, посёлок Красные Ткачи, Лесная улица, 25</name>
       <param name="Тип предложения">Продажа</param>
@@ -8576,51 +8432,6 @@ id:49204.
       <coordinates lat="57.561688" lon="39.925237"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="49241">
-      <name>Продажа, Квартира, 1-к, 42 кв.м, Ярославль г., Пирогова ул., дом 20А</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">1</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Ярославская область, Ярославль г., Пирогова ул., дом 20А</param>
-      <param name="Имя агента">Анна Куликова</param>
-      <param name="Email для связи">big.letter@yandex.ru</param>
-      <param name="Телефон для связи">79080299869</param>
-      <param name="Общая площадь">42</param>
-      <param name="Жилая площадь">20</param>
-      <param name="Площадь кухни">12</param>
-      <param name="Этаж">1</param>
-      <param name="Этажность">5</param>
-      <param name="Ипотека">да</param>
-      <categoryId>100</categoryId>
-      <price>3500000</price>
-      <description>&amp;nbsp;Продаётся уютная однокомнатная квартира в кирпичном доме во Фрунзенском районе. Однокомнатная квартира расположена на первом этаже пятиэтажного дома 2015 года постройки. Одна изолированная комната, просторная кухня с выходом на застекленный балкон. Выполнен косметический ремонт - в комнате ламинат и новые обои; на кухне линолиум; в санузле - плитка. Окна ПВХ. Установлена новая входная дверь. Кухонный гарнитур остается новым жильцам! Придомовая территория огорожена забором. Вход во двор осуществляется через домофон. Открытая парковка за шлагбаумом. Во дворе дома - детская площадка. В шаговой доступности есть все необходимое для комфортной жизни - продуктовые магазины, детские сады, школы. Удобная транспортная развязка. До остановки общественного транспорта 2 минуты пешком. &lt;strong&gt;ДОПОЛНИТЕЛЬНО:&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;strong&gt;Гарантия чистоты сделки.&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;strong&gt;Быстрый выход на сделку.&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;strong&gt;Помощь в одобрении ипотеки.&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;strong&gt;Просмотр по предварительной записи.&lt;br /&gt;&#13;
-Звоните и записывайтесь на показ объекта прямо сейчас.&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;strong&gt;Рады будем ответить на все ваши вопросы с 9:00 до 20:00&lt;/strong&gt;
-id:49241. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b68484a5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b685b80e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b688144a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b6823665.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b68110c6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b67f2474.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b689416f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b68a6fc0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b68bab17.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b68cc87b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b68deb10.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b68f12d4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b690e7a8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b6920933.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49241/68766b67dea17.jpeg</picture>
-      <coordinates lat="57.549476" lon="39.936798"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="49323">
       <name>Продажа, Квартира, 1-к, 32 кв.м, г Буй, ул Октябрьской Революции, 17</name>
       <param name="Тип предложения">Продажа</param>
@@ -8708,12 +8519,12 @@ id:49323.
 Все консультации бесплатно!
 id:49352. 
 &amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49352/68877521b773c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49352/688775219d513.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49352/6887752183505.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49352/68877522c6e33.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49352/68877522dcb07.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49352/688775224ed8d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/49352/6887752183505.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/49352/68877522c6e33.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/49352/68877521b773c.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/49352/688775219d513.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49352/6887752282525.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49352/688775223784b.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49352/6887752220970.jpeg</picture>
@@ -19722,7 +19533,7 @@ id:49747.
       <param name="Этаж">5</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>1460000</price>
+      <price>1410000</price>
       <description>На продаже 1 комнатная квартира в кирпичном доме.&lt;br /&gt;&#13;
 В квартире косметический ремонт: окна ПВХ, ,установлены счетчики вода ГВС и ХВС, На полу линолеум,санузел в панелях,застекленный балкон.&lt;br /&gt;&#13;
 В подарок покупателям остается: кухонный гарнитур,стол,холодильник,диван, шкаф.&lt;br /&gt;&#13;
@@ -21388,84 +21199,6 @@ id:49837.
       <coordinates lat="57.628812" lon="39.857878"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="49839">
-      <name>Продажа, Квартира, студия, 30 кв.м, Ярославль, улица Володарского, 61</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">дизайнерский</param>
-      <param name="Этаж">3</param>
-      <param name="Студия">да</param>
-      <param name="Окна выходят">Во двор</param>
-      <param name="Адрес">Ярославская область, Ярославль, улица Володарского, 61</param>
-      <param name="Имя агента">Марина Волжина</param>
-      <param name="Email для связи">23vmv@mail.ru</param>
-      <param name="Телефон для связи">79106652424</param>
-      <param name="Общая площадь">30</param>
-      <param name="Жилая площадь">19</param>
-      <param name="Площадь кухни">6</param>
-      <param name="Этаж">3</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>5450000</price>
-      <description>Продаётся очень уютная квартира-студия с прекрасным дизайнерским ремонтом в самом центре Ярославля!&lt;br /&gt;&#13;
-Она &amp;ndash; идеальное решение для одного человека, молодой пары, студента или как объект для сдачи в аренду.&lt;br /&gt;&#13;
-Заезжай и живи, всё подобрано со вкусом и использовались только качественные дорогостоящие материалы и техника, делалась под себя.&lt;br /&gt;&#13;
-&amp;nbsp;&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;тёплая и светлая квартира на 3-м этаже 5-этажного дома&lt;/li&gt;&#13;
-&lt;li&gt;окна выходят в тихий зеленый двор&lt;/li&gt;&#13;
-&lt;li&gt;квартира готова к проживанию, выполнен качественный ремонт&amp;nbsp;&lt;/li&gt;&#13;
-&lt;li&gt;вся мебель и техника на фото остаётся новым владельцам и уже включена в стоимость!&amp;nbsp;&lt;/li&gt;&#13;
-&lt;li&gt;в квартире имеется вместительная кладовая&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;О доме.&lt;/strong&gt;&#13;
-&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;кирпичный дом, чистый подъезд, сухой подвал&lt;/li&gt;&#13;
-&lt;li&gt;прекрасные доброжелательные соседи&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;О районе.&lt;/strong&gt;&#13;
-&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;дом расположен в тихой центральной части города, на удалении от шумных магистралей и в 10 минутах пути от исторического центра&lt;/li&gt;&#13;
-&lt;li&gt;удобная транспортная развязка, рядом остановки общественного транспорта во все районы города, в 10 минутах пути - железнодорожный вокзал&lt;/li&gt;&#13;
-&lt;li&gt;развитая инфраструктура, есть всё для комфортной жизни &amp;ndash; магазины, аптеки, школы, детские сады, торговые центры (Венге, Аура, Центральный универмаг), Планетарий, Цирк, спортивные центры, Парк 1000-летия, Которосльная Набережная&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;О сделке&lt;/strong&gt;&#13;
-&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;один взрослый собственник&lt;/li&gt;&#13;
-&lt;li&gt;сопровождение сделки до перехода права собственности&lt;/li&gt;&#13;
-&lt;li&gt;безопасные расчеты сторон. Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;/li&gt;&#13;
-&lt;li&gt;помощь в одобрении и оформлении ипотеки от банков-партнеров. Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие.&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-Все консультации бесплатно!&lt;br /&gt;&#13;
-Хотите купить эту квартиру - ЗВОНИТЕ!
-id:49839. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpVsxt4s.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpCmj5VJ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpyhvafk.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpu6Xsd8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpYGHDlL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpX9DEtD.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/php0e5jxe.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpXH5pUe.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpec0wVq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/php0MNMUZ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpUTDbm2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpldJyHp.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phpSsRzYy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/php0yLDgh.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49839/phphTvrA6.jpeg</picture>
-      <coordinates lat="57.630121" lon="39.863169"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="49840">
       <name>Продажа, Квартира, 3-к, 56.4 кв.м, г Ярославль, ул Ранняя, 7</name>
       <param name="Тип предложения">Продажа</param>
@@ -22509,7 +22242,7 @@ id:49887.
       <param name="Этаж">1</param>
       <param name="Этажность">9</param>
       <categoryId>100</categoryId>
-      <price>1260000</price>
+      <price>1200000</price>
       <description>В продаже 2 комнатная квартира&amp;nbsp; в 9-ти этажном панельном доме.В доме есть новый лифт.Окна выходят на обе стороны дома.&amp;nbsp;&lt;br /&gt;&#13;
 В квартире сделан косметический ремонт,на полу линолеум,окна ПВХ, ванна в кафельной плитке, застекленная пластиковыми стеклопакетами лоджия.&lt;br /&gt;&#13;
 В подарок покупателям остается: кухонный гарнитур.&lt;br /&gt;&#13;
@@ -26104,6 +25837,50 @@ id:51498.
       <picture>https://progress.vtcrm.ru/uploads/Photos/51498/php4Gwg0Y.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/51498/php39jLGa.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="51501">
+      <name>Продажа, Квартира, 1-к, 42 кв.м, Ярославль г., Пирогова ул., дом 20А</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">1</param>
+      <param name="Комнат">1</param>
+      <param name="Адрес">Ярославская область, Ярославль г., Пирогова ул., дом 20А</param>
+      <param name="Имя агента">Анна Куликова</param>
+      <param name="Email для связи">big.letter@yandex.ru</param>
+      <param name="Телефон для связи">79080299869</param>
+      <param name="Общая площадь">42</param>
+      <param name="Жилая площадь">20</param>
+      <param name="Площадь кухни">12</param>
+      <param name="Этаж">1</param>
+      <param name="Этажность">5</param>
+      <param name="Ипотека">да</param>
+      <categoryId>100</categoryId>
+      <price>3500000</price>
+      <description>Арт. 52313790 Продаётся уютная однокомнатная квартира в кирпичном доме во Фрунзенском районе. Однокомнатная квартира расположена на первом этаже пятиэтажного дома 2015 года постройки. Одна изолированная комната, просторная кухня с выходом на застекленный балкон. Выполнен косметический ремонт - в комнате ламинат и новые обои; на кухне линолеум; в санузле - плитка. Окна ПВХ. Установлена новая входная дверь. Кухонный гарнитур остается новым жильцам! Придомовая территория огорожена забором. Вход во двор осуществляется через домофон. Открытая парковка за шлагбаумом. Во дворе дома - детская площадка. В шаговой доступности есть все необходимое для комфортной жизни - продуктовые магазины, детские сады, школы. Удобная транспортная развязка. До остановки общественного транспорта 2 минуты пешком.&lt;br /&gt;&#13;
+Опытные специалисты окажут Вам полную поддержку в сделке до момента передачи ключей&lt;br /&gt;&#13;
+Юристы обеспечат полное юридическое сопровождение по каждому вопрос&lt;br /&gt;&#13;
+Страховой и ипотечный брокеры подберут и подготовят наиболее выгодные условия по ипотеке и страхованию&lt;br /&gt;&#13;
+Наши специалисты подготовят вашу квартиру к продаже и окажут все возможные услуги при переезде Мы обеспечим бесплатные консультация по любым вашим вопросам.&lt;br /&gt;&#13;
+Звоните!&lt;br /&gt;&#13;
+&amp;nbsp;
+id:51501. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc529ee3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc518507.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc54d36e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc55f0f2.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc58271f.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc59485e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc5a5f96.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc5b7a03.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc5c9418.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc5dab92.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc5ec10f.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc6094a7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc61ae2b.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51501/68764cc4e84c9.jpeg</picture>
+      <coordinates lat="57.549476" lon="39.936798"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="9819">
