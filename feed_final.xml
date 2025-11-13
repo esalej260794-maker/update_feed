@@ -1248,11 +1248,8 @@ id:7605.
       <param name="Этаж">2</param>
       <param name="Этажность">9</param>
       <categoryId>100</categoryId>
-      <price>5000000</price>
+      <price>5300000</price>
       <description>&lt;strong&gt;В ПРОДАЖЕ прoсторная 3-х комнaтная квaртирa улучшенной плaнирoвки в центральной части Заволжского района: ул.Орджоникидзе, д.22 к3&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Показы квартиры будут только два дня: 31 октября и 2 ноября!&lt;br /&gt;&#13;
-Квартира будет продана тому, кто предложит лучшие условия&amp;nbsp;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Квартира общей площадью 62 м2 включает в себя:&lt;/strong&gt;&lt;br /&gt;&#13;
 - три раздельные комнаты&amp;nbsp;&lt;br /&gt;&#13;
@@ -1917,7 +1914,7 @@ id:14235.
     <offer id="17073">
       <name>Продажа, Квартира в новостройке, студия, 26.19 кв.м, Ярославль, Дядьковская</name>
       <param name="Тип предложения">Продажа</param>
-      <param name="Этаж">3</param>
+      <param name="Этаж">2</param>
       <param name="Студия">да</param>
       <param name="Адрес">Ярославская область, Ярославль, Дядьковская</param>
       <param name="Имя агента">Степан Осипов</param>
@@ -1926,10 +1923,10 @@ id:14235.
       <param name="Общая площадь">26.19</param>
       <param name="Жилая площадь">14.02</param>
       <param name="Площадь кухни">5.2</param>
-      <param name="Этаж">3</param>
+      <param name="Этаж">2</param>
       <param name="Этажность">9</param>
       <categoryId>101</categoryId>
-      <price>2357100</price>
+      <price>2409480</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&lt;br /&gt;&#13;
 На фото представлен дизайн-проект квартиры&lt;br /&gt;&#13;
 Преимущества:&lt;/strong&gt;&lt;br /&gt;&#13;
@@ -1983,13 +1980,13 @@ id:14235.
 id:17073. 
 &amp;nbsp;</description>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a34846d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17073/phpbSNej7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17073/phpdW21tD.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17073/phpqGcb6u.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17073/phpQS9nsS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a536573.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a4a3907.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a5bb2c1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a6d01bc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a75fa90.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a64733a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a37af17.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a354b68.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a387d31.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17073/687659a394bbd.jpeg</picture>
@@ -2066,11 +2063,13 @@ id:17073.
 &lt;strong&gt;Наш дом предлагает не просто квартиры, а возможность создать свой уютный уголок. Добро пожаловать в Ваш новый дом, где сбудутся ваши мечты об идеальном жилье!&lt;/strong&gt;
 id:17437. 
 &amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17437/php0a59Nw.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17437/68765a4a382e7.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17437/68765a4abe1cb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17437/68765a4b46c4b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17437/68765a4bd0dc1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17437/68765a4c66f6c.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17437/phpKTzbfo.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17437/phpyIcYHY.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17437/php5lGuh7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17437/phpMw7cu1.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17437/68765a49aa297.jpeg</picture>
       <coordinates lat="57.576733" lon="39.907252"/>
       <param name="Офис">Ярославль</param>
@@ -2190,18 +2189,17 @@ id:17446.
 &lt;strong&gt;Наш дом предлагает не просто квартиры, а возможность создать свой уютный уголок. Добро пожаловать в Ваш новый дом, где сбудутся ваши мечты об идеальном жилье!&lt;/strong&gt;
 id:17467. 
 &amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a7380aa3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a72f13b3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6eee0cb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6f1075a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6ed5a13.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6f5384c.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/phpH58grO.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/phpyZY1xX.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/phpg5BO4M.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/phpBg0wsz.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a71095ff.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a7031ad0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a7265d6e.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a71cd80e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6ed5a13.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6f1075a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6eee0cb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6f26c1f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6f3d272.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6f5384c.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/17467/68765a6ebd12c.jpeg</picture>
       <coordinates lat="57.576733" lon="39.907252"/>
       <param name="Офис">Ярославль</param>
@@ -3037,7 +3035,7 @@ id:28468.
       <param name="Этаж">1</param>
       <param name="Этажность">9</param>
       <categoryId>101</categoryId>
-      <price>3772690</price>
+      <price>2772690</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Преимущества:&lt;/strong&gt;&lt;br /&gt;&#13;
@@ -3090,8 +3088,11 @@ id:28468.
 &lt;strong&gt;Наш дом предлагает не просто квартиры, а возможность создать свой уютный уголок. Добро пожаловать в Ваш новый дом, где сбудутся ваши мечты об идеальном жилье!&lt;/strong&gt;
 id:28992. 
 &amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/28992/6876615e8bc45.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/28992/6876615df3349.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/28992/phpdBvU4d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/28992/phpKvEZga.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/28992/phpevfpLs.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/28992/phppjaplj.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/28992/phpeHFcVe.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/28992/6876615f14971.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/28992/6876615f9980d.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/28992/6876615d76a87.jpeg</picture>
@@ -6237,35 +6238,6 @@ id:45733.
       <coordinates lat="57.655925" lon="39.893948"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="45750">
-      <name>Продажа, Участок, 16.43 соток, деревня Гашки, Парковая улица</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">16.43</param>
-      <param name="Адрес">Ярославская область, деревня Гашки, Парковая улица</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>450000</price>
-      <description>Представляется к продаже уникальный участок земли, который станет идеальным местом для воплощения ваших самых смелых идей. Стоимость этого объекта составляет 450 000 рублей. Участок площадью 16,43 сотки обладает потенциалом для строительства дома вашей мечты или организации пространства для отдыха и развлечений.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-На участке есть дом , площадью 56 кв.м .&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Этот участок &amp;mdash; прекрасная возможность для тех, кто хочет начать свой путь в строительстве или ищет место для загородного отдыха. Здесь вы сможете создать уютное и гармоничное пространство, которое будет отражать вашу индивидуальность и стиль. Не упустите шанс стать владельцем этого замечательного участка и превратить его в место, где будут рождаться счастливые моменты вашей жизни.
-id:45750. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45750/68766a1c38b1b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45750/68766a1c46845.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45750/68766a1c529fe.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45750/68766a1c67e2e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45750/68766a1c7e876.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45750/68766a1c94ca0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45750/68766a1cab3d1.jpeg</picture>
-      <coordinates lat="57.503398" lon="40.261287"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="45762">
       <name>Продажа, Квартира, 2-к, 47 кв.м, Буй, улица Военный Городок-1, 167</name>
       <param name="Тип предложения">Продажа</param>
@@ -6393,12 +6365,12 @@ id:46013.
       <param name="Разрешенное использование земельного участка">Садоводство</param>
       <param name="Площадь участка">11.8</param>
       <param name="Адрес">Ярославская область, Орлово</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Всеволод Сальников</param>
+      <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
+      <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
-      <price>900000</price>
-      <description>Представляется к продаже участок земли в направлении Красный Профинтерн около деревни Орлово&amp;nbsp; и озера Ярхобольское&amp;nbsp; , который станет идеальным местом для воплощения ваших самых смелых идей. Стоимость этого объекта составляет 900 000 рублей. Участок площадью 11,8 Га . Возможна продажа частями ( 5.5 + 3.7 + 2.6 )&lt;br /&gt;&#13;
+      <price>1100000</price>
+      <description>Представляется к продаже участок земли в направлении Красный Профинтерн около деревни Орлово&amp;nbsp; и озера Ярхобольское&amp;nbsp; , который станет идеальным местом для воплощения ваших самых смелых идей. Стоимость этого объекта составляет 1 100 000 рублей. Участок площадью 11,8 Га . Возможна продажа частями.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Кадастровые номера участков :&amp;nbsp; &amp;nbsp;76:09:014601:2055&lt;br /&gt;&#13;
 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;76:09:014601:2054&lt;br /&gt;&#13;
@@ -6447,52 +6419,6 @@ id:46072.
       <coordinates lat="57.653691" lon="40.105385"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="46212">
-      <name>Продажа, Участок, 18 соток, деревня Ярцево</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">18</param>
-      <param name="Адрес">Ярославская область, деревня Ярцево</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>1100000</price>
-      <description>Продается участок 18 соток в селе Ярцево . Сделано межевание , есть ГПЗУ Хороший подъезд , возможность подключения электричества .
-id:46212. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/46212/68766a584881f.jpeg</picture>
-      <coordinates lat="57.535951" lon="40.006130"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="46214">
-      <name>Продажа, Участок, 27 соток, деревня Малышево</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">27</param>
-      <param name="Адрес">Ярославская область, деревня Малышево</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>850000</price>
-      <description>Предлагается Вашему вниманию участок 27 соток в деревне Малышево . Костромское направление из Ярославля .&amp;nbsp;&lt;br /&gt;&#13;
-Межевание сделано , ГПЗУ получено , есть возможность подключения электричества ( соседний участок подключен)&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Переуступка права аренды участка.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Кадастровый номер :&amp;nbsp; 76:17:111101:444&amp;nbsp;&lt;br /&gt;&#13;
-&amp;nbsp;
-id:46214. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/46214/68766a5853f40.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/46214/68766a585fac6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/46214/68766a586ba0d.jpeg</picture>
-      <coordinates lat="57.520449" lon="40.024141"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="46220">
       <name>Продажа, Участок, 9 соток, Буй, улица Ломоносова</name>
       <param name="Тип предложения">Продажа</param>
@@ -6530,9 +6456,9 @@ id:46220.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Площадь участка">19</param>
       <param name="Адрес">Ярославская область, деревня Цеденево</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Всеволод Сальников</param>
+      <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
+      <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
       <price>500000</price>
       <description>Предлагается Вашему вниманию земельный участок 19 соток в деревне Цеденево .Участок расположен на въезде в д. Цеденево, есть газ, электричество, хорошие подъездные пути, в 15-20 минутах от г. Ярославля. Участок ровный, рядом есть небольшой водоем, не заросший.&lt;br /&gt;&#13;
@@ -6546,28 +6472,6 @@ id:46230.
       <coordinates lat="57.532854" lon="39.905420"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="46232">
-      <name>Продажа, Участок, 18 соток, деревня Цеденево, 8</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">18</param>
-      <param name="Адрес">Ярославская область, деревня Цеденево, 8</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>1180000</price>
-      <description>Предлагается Вашему вниманию земельный участок 18 соток в деревне Цеденево .Участок расположен на въезде в д. Цеденево, есть газ по границе участка , электричество, хорошие подъездные пути, в 15-20 минутах от г. Ярославля.&lt;br /&gt;&#13;
-Участок ровный.&lt;br /&gt;&#13;
-В СОБСТВЕННОСТИ&amp;nbsp;
-id:46232. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/46232/68766a5e52047.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/46232/68766a5e6429c.jpeg</picture>
-      <coordinates lat="57.533009" lon="39.906489"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="46243">
       <name>Продажа, Участок, 15 соток, село Лучинское, Светлая улица</name>
       <param name="Тип предложения">Продажа</param>
@@ -6575,9 +6479,9 @@ id:46232.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Площадь участка">15</param>
       <param name="Адрес">Ярославская область, село Лучинское, Светлая улица</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Всеволод Сальников</param>
+      <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
+      <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
       <price>1600000</price>
       <description>Вашему вниманию предлагаются два соседних земельных участка под ИЖС общей площадью 35 соток. (20 соток собственность, 15 соток аренда с правом передачи аренды. Аренда до 2033 года) на участках: - Построен каркасный дом с террасой 6х8. (На сегодняшний день закрыт теплый контур и выполнена отделка снаружи фиброцементным сайдингом) - Хоз.блок на 5 м2. - На каждом участке подведено электричество. 15кВт. Смонтированы 2 щитка с розеткой на двух разных опорах. - Завезен речной мытый песок 30т - Завезен гравий фракции 20-40 тоже 30т&lt;br /&gt;&#13;
@@ -6706,9 +6610,9 @@ id:46720.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Площадь участка">10</param>
       <param name="Адрес">Ярославская область, деревня Климовское</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Всеволод Сальников</param>
+      <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
+      <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
       <price>1200000</price>
       <description>Вашему вниманию предлагается учacток ИЖС 10 соток в дeрeвне Kлимoвское .&lt;br /&gt;&#13;
@@ -6719,15 +6623,32 @@ Pядом Kлимовcкиe озepa, pека Beликая, лeс c гpибами
 Можно хоть сегодня начинать строиться.&lt;br /&gt;&#13;
 Рядом уже построены дома.&amp;nbsp;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Полная комплектация дома:&lt;br /&gt;&#13;
+Дом &amp;ndash; на свайном фундаменте (сваи 31 шт. железобетонные ГОСТ 150*150*5м;).&lt;br /&gt;&#13;
+Каркас из доски камерной сушки 50*200: обвязочный брус и лаги пола пропитаны антисептическим составом, монтаж сетки от грызунов;&lt;br /&gt;&#13;
+Утепление наружного контура дома: утеплитель TS-34 Knauf 200мм более!,100мм-шумоизоляция перегородок, мембрана супердиффузионная 3-слойная по наружному контуру дома, мембрана пароизоляционная по внутреннему контуру дома;&lt;br /&gt;&#13;
+Кровля: металлочерепица Гранд Лайн Сатин 0,5мм с доборными элементами, свесы кровли подшиты софитами, монтаж водосточной системы;&lt;br /&gt;&#13;
+Фасад: фиброплита NORDECO по наружному контуру фасада ,контр. рейка от 25-40мм, ОСП-12мм и фасадная битумная плитка Хауберг;&lt;br /&gt;&#13;
+Окна: 5-камерный профиль REHAU GRAZIO 70 мм, 2-камерный стеклопакет, с москитными сетками на открывающихся створках, окна обналичены металлическими наличниками по фасаду и ПВХ элементами внутри помещений, подоконники ПВХ.&lt;br /&gt;&#13;
+Дверь входная с терморазрывом.&lt;br /&gt;&#13;
++БОНУС от застройщика - забор-штакетник по периметру участка!&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
 кадастровый номер :&amp;nbsp;76:17:144401:3854&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Остались вопросы - звоните !
 id:46798. 
 &amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/46798/phpAycJec.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/46798/phpXrp4qr.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/46798/68766a7e5da03.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/46798/68766a7e54757.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/46798/68766a7e3e4ba.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/46798/68766a7e4b4e3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/46798/phpRHDkDE.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/46798/php76Sv0D.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/46798/phpKCEFSB.jpeg</picture>
       <coordinates lat="57.514533" lon="39.888244"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -6887,33 +6808,6 @@ id:47179.
       <coordinates lat="57.839890" lon="39.574112"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="47214">
-      <name>Продажа, Участок, 17.4 соток, деревня Коробиха</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">17.4</param>
-      <param name="Адрес">Ярославская область, деревня Коробиха</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>400000</price>
-      <description>Вашему вниманию предлагается земельный участок в деревне Коробиха .&amp;nbsp;&lt;br /&gt;&#13;
-&amp;nbsp;участок площадью 1740 кв.м ,&lt;br /&gt;&#13;
-д Коробиха,до Ярославля&amp;nbsp; 42 км, до Нерехты 25км.&lt;br /&gt;&#13;
-Земля оформлена,проведено межевание.&lt;br /&gt;&#13;
-Электрический столб по границе,также центральное водоснабжение, ГАЗ ,все рядом с границей участка.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Остались вопросы - звоните !&amp;nbsp;
-id:47214. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47214/68766abc374cf.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47214/68766abc3fb31.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47214/68766abc479bc.jpeg</picture>
-      <coordinates lat="57.506976" lon="39.764761"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="47238">
       <name>Продажа, Участок, 19.5 соток, деревня Корюково</name>
       <param name="Тип предложения">Продажа</param>
@@ -6921,15 +6815,25 @@ id:47214.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Площадь участка">19.5</param>
       <param name="Адрес">Ярославская область, деревня Корюково</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Всеволод Сальников</param>
+      <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
+      <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
       <price>1900000</price>
       <description>Вашему вниманию предлагается земeльный учaсток в дерeвне Kоpюкoвo с хоpoшим pacпoлoжением в центpaльной части наceленного пункта, не на oкpaине, дoстаточнo удaлен oт шоccе.&amp;nbsp;&lt;br /&gt;&#13;
 Дepeвня Kорюковo распoлoженa нeдалeко от черты гopода в 2х км, напpавлeние - Костромское шоссе.&lt;br /&gt;&#13;
 Зимой 2025 года проведена газификация деревни. Пуск газа осень 2025 .&lt;br /&gt;&#13;
 Электричество на участке .&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Полная комплектация дома:&lt;br /&gt;&#13;
+Дом &amp;ndash; на свайном фундаменте (сваи 31 шт. железобетонные ГОСТ 150*150*5м;).&lt;br /&gt;&#13;
+Каркас из доски камерной сушки 50*200: обвязочный брус и лаги пола пропитаны антисептическим составом, монтаж сетки от грызунов;&lt;br /&gt;&#13;
+Утепление наружного контура дома: утеплитель TS-34 Knauf 200мм более!,100мм-шумоизоляция перегородок, мембрана супердиффузионная 3-слойная по наружному контуру дома, мембрана пароизоляционная по внутреннему контуру дома;&lt;br /&gt;&#13;
+Кровля: металлочерепица Гранд Лайн Сатин 0,5мм с доборными элементами, свесы кровли подшиты софитами, монтаж водосточной системы;&lt;br /&gt;&#13;
+Фасад: фиброплита NORDECO по наружному контуру фасада ,контр. рейка от 25-40мм, ОСП-12мм и фасадная битумная плитка Хауберг;&lt;br /&gt;&#13;
+Окна: 5-камерный профиль REHAU GRAZIO 70 мм, 2-камерный стеклопакет, с москитными сетками на открывающихся створках, окна обналичены металлическими наличниками по фасаду и ПВХ элементами внутри помещений, подоконники ПВХ.&lt;br /&gt;&#13;
+Дверь входная с терморазрывом.&lt;br /&gt;&#13;
++БОНУС от застройщика - забор-штакетник по периметру участка!&lt;br /&gt;&#13;
 кадастровый номер&amp;nbsp; &amp;nbsp;-&amp;nbsp; &amp;nbsp;76:17:140301:535&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
@@ -6937,42 +6841,14 @@ id:47214.
 &amp;nbsp;
 id:47238. 
 &amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47238/php1NHhgY.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47238/phpTKA9GS.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47238/phpqKMQgo.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47238/phpOJh3JX.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/47238/68766abc4ee2f.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/47238/68766abc56c3d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47238/phplF1gaO.jpeg</picture>
       <coordinates lat="57.553653" lon="39.874356"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="47344">
-      <name>Продажа, Участок, 14 соток, деревня Алексеевское (Телегинский сельский округ)</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">14</param>
-      <param name="Адрес">Ярославская область, деревня Алексеевское (Телегинский сельский округ)</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>1900000</price>
-      <description>Вашему вниманию предлагается участок в селе Алексеевское .&lt;br /&gt;&#13;
-Участок правильной прямоугольной формы .&lt;br /&gt;&#13;
-Подведено электричество&amp;nbsp;&lt;br /&gt;&#13;
-Получено разрешение на подключение газа .&lt;br /&gt;&#13;
-На соседних участках активно идет строительство .&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Кадастровый номер :&amp;nbsp;76:17:134501:3909&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Остались вопросы - Звоните&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;nbsp;
-id:47344. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47344/68766ac3a3f2a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47344/68766ac3a9ac3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47344/68766ac3af834.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47344/68766ac3b70a2.jpeg</picture>
-      <coordinates lat="57.539120" lon="39.892709"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="47356">
@@ -7036,99 +6912,6 @@ id:47356.
       <coordinates lat="57.594111" lon="39.871356"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="47367">
-      <name>Продажа, Участок, 9.4 соток, Ярославль</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">9.4</param>
-      <param name="Адрес">Ярославская область, Ярославль</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>1400000</price>
-      <description>Вашему вниманию предлагается земельный участок для строительства коттеджа .&lt;br /&gt;&#13;
-Площадь участка - 939 кв.м&amp;nbsp;&lt;br /&gt;&#13;
-1 собственник , обременений нет , быстрый выход на сделку .&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Кадастровый номер 76:23:060522:467&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Остались вопросы - звоните !
-id:47367. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47367/68766ac5a2404.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47367/68766ac5abb80.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47367/68766ac5b4a5c.jpeg</picture>
-      <coordinates lat="57.626559" lon="39.893813"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="47400">
-      <name>Продажа, Участок, 18 соток, деревня Ярцево</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">18</param>
-      <param name="Адрес">Ярославская область, деревня Ярцево</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>1100000</price>
-      <description>Вашему вниманию предлагается земельный участок 18 соток . Состоит из 2 смежных участков ( 10 сот. + 8 сот.)&lt;br /&gt;&#13;
-Первая линия от реки Великая .&lt;br /&gt;&#13;
-Межевание сделано , ГПЗУ получено&lt;br /&gt;&#13;
-Электричество есть .&lt;br /&gt;&#13;
-Планируется газификация в 2025 году&amp;nbsp; всей деревни.&lt;br /&gt;&#13;
-Идет активная застройка на соседних участках .&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-2 собственника , быстрый выход на сделку&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-кадастровые номера участков :&amp;nbsp;76:17:111001:202&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - 8 сот&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 76:17:111001:65&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;- 10 сот&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Остались вопросы &amp;ndash; звоните&lt;br /&gt;&#13;
-&amp;nbsp;
-id:47400. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47400/68766acd7b036.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47400/68766acd817f4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47400/68766acd89594.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47400/68766acd8f654.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47400/68766acd95e00.jpeg</picture>
-      <coordinates lat="57.535951" lon="40.006130"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="47402">
-      <name>Продажа, Участок, 7 соток, деревня Алексеевское (Телегинский сельский округ)</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">7</param>
-      <param name="Адрес">Ярославская область, деревня Алексеевское (Телегинский сельский округ)</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>1600000</price>
-      <description>Вашем вниманию предлагается участок в деревне Алексеевское .&lt;br /&gt;&#13;
-Участок правильной прямоугольной формы 7 соток ,&lt;br /&gt;&#13;
-хороший новый забор из профнастила&lt;br /&gt;&#13;
-Электричество подведено.&lt;br /&gt;&#13;
-Газ по границе участка.&lt;br /&gt;&#13;
-Хороший подъезд&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-1 собственник , быстрый выход на сделку .&lt;br /&gt;&#13;
-Остались вопросы - звоните&amp;nbsp;
-id:47402. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47402/68766acd9c6b9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47402/68766acda1fb1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47402/68766acda744c.jpeg</picture>
-      <coordinates lat="57.539120" lon="39.892709"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="47494">
       <name>Продажа, Участок, 1-к, 14 соток, рабочий посёлок Борисоглебский</name>
       <param name="Тип предложения">Продажа</param>
@@ -7140,15 +6923,13 @@ id:47402.
       <param name="Комнат">1</param>
       <param name="Площадь участка">14</param>
       <param name="Адрес">Ярославская область, рабочий посёлок Борисоглебский</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Всеволод Сальников</param>
+      <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
+      <param name="Телефон для связи">79109850569</param>
       <param name="Этажей">1</param>
       <categoryId>304</categoryId>
       <price>1350000</price>
-      <description>Вашему вниманию предлагается дом с земельным участком в поселке Борисоглебский .&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Дом на бетонном фундаменте 5 х 5 метров.&lt;br /&gt;&#13;
+      <description>Вашему вниманию предлагается дом с земельным участком в поселке Борисоглебский ..&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Участок площадью 14 соток. Участoк&amp;nbsp; пpямoй, рoвный , без oбрeмeнeний .&lt;br /&gt;&#13;
 &amp;nbsp;&lt;br /&gt;&#13;
@@ -7164,93 +6945,35 @@ Eсть coсeди и еще oчeнь многиe cтрoятся&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 кадастровый номер - 76:02:130209:111&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
+Полная комплектация дома:&lt;br /&gt;&#13;
+Дом &amp;ndash; на свайном фундаменте (сваи 31 шт. железобетонные ГОСТ 150*150*5м;).&lt;br /&gt;&#13;
+Каркас из доски камерной сушки 50*200: обвязочный брус и лаги пола пропитаны антисептическим составом, монтаж сетки от грызунов;&lt;br /&gt;&#13;
+Утепление наружного контура дома: утеплитель TS-34 Knauf 200мм более!,100мм-шумоизоляция перегородок, мембрана супердиффузионная 3-слойная по наружному контуру дома, мембрана пароизоляционная по внутреннему контуру дома;&lt;br /&gt;&#13;
+Кровля: металлочерепица Гранд Лайн Сатин 0,5мм с доборными элементами, свесы кровли подшиты софитами, монтаж водосточной системы;&lt;br /&gt;&#13;
+Фасад: фиброплита NORDECO по наружному контуру фасада ,контр. рейка от 25-40мм, ОСП-12мм и фасадная битумная плитка Хауберг;&lt;br /&gt;&#13;
+Окна: 5-камерный профиль REHAU GRAZIO 70 мм, 2-камерный стеклопакет, с москитными сетками на открывающихся створках, окна обналичены металлическими наличниками по фасаду и ПВХ элементами внутри помещений, подоконники ПВХ.&lt;br /&gt;&#13;
+Дверь входная с терморазрывом.&lt;br /&gt;&#13;
++БОНУС от застройщика - забор-штакетник по периметру участка!&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
 Остались вопросы - звоните !&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 &amp;nbsp;
 id:47494. 
 &amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/phpAgQo0F.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad37c139.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/phpLsyUKG.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad388b8d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/phpfgFZP8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad357ed9.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad394d29.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad31af34.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad3202aa.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad326002.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad388b8d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad37c139.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad34b57a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad357ed9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad394d29.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/68766ad36fbbe.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/phpbSvCSC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47494/php16hzav.jpeg</picture>
       <coordinates lat="57.260969" lon="39.153323"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="47517">
-      <name>Продажа, Дача, 2-к, 24 кв.м, СНТ Нефтяник-6</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Материал стен">Деревянный</param>
-      <param name="Площадь Дома">24</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Ремонт">Косметический</param>
-      <param name="Разрешенное использование земельного участка">Садоводство</param>
-      <param name="Комнат">2</param>
-      <param name="Адрес">Ярославская область, СНТ Нефтяник-6</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <param name="Этажей">1</param>
-      <categoryId>301</categoryId>
-      <price>700000</price>
-      <description>Вашему вниманию предлагается Дом с земельным участком в СНТ Нефтянник-6, для садоводства ,огородничества.&lt;br /&gt;&#13;
-Участок площадью 10,47 сотки .&lt;br /&gt;&#13;
-Участок расположен в 8 км от Гаврилов-Яма, между с.Унимерь и с.Заячий Холм.&lt;br /&gt;&#13;
-На участке есть теплица 6м поликарбонат усиленная, колодец, насаждения, дом каркасный (не утепленный), сарай , гараж .&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Один&amp;nbsp; собственник , быстрый выход&amp;nbsp; на сделку&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Остались вопросы&amp;nbsp; - звоните&amp;nbsp;
-id:47517. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47517/68766ad8049df.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47517/68766ad81738f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47517/68766ad82d1ba.jpeg</picture>
-      <coordinates lat="57.525176" lon="39.698106"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="47527">
-      <name>Продажа, Участок, 10 соток, деревня Климовское</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">10</param>
-      <param name="Адрес">Ярославская область, деревня Климовское</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>970000</price>
-      <description>Вашему вниманию предлагается земельный учacток в дeрeвне Kлимoвское&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Площадь участка - 10 соток&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;nbsp;Xорoшee выcoкое меcтo .&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Грунтовые воды низкo, мoжно сэкономить на фундамeнтe пpи стpоительствe.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Pядом Kлимовcкиe озepa, pека Beликая, лeс c гpибами, ягoдaми и оpeшникoм.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Зeмля принадлежит деревне, соответственно освещение, чистка и ремонт дорог относится к администрации.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Подводка к газу в деревне уже началась, бесплатно. Электричество на столбе у участка .&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Рядом уже построены дома.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Кадастровый номер -&amp;nbsp;&amp;nbsp;76:17:144401:3859&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Остались вопросы&amp;nbsp; - звоните&amp;nbsp;
-id:47527. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47527/68766ad98a446.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47527/68766ad993794.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47527/68766ad99c34d.jpeg</picture>
-      <coordinates lat="57.514533" lon="39.888244"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="47591">
@@ -7260,9 +6983,9 @@ id:47527.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Площадь участка">9.6</param>
       <param name="Адрес">Ярославская область, Ярославль</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Всеволод Сальников</param>
+      <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
+      <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
       <price>1400000</price>
       <description>Вашему вниманию предлагается земный участок в черте города , в районе Липовой горы.&lt;br /&gt;&#13;
@@ -7275,6 +6998,16 @@ Eсть coсeди и еще oчeнь многиe cтрoятся.&lt;br /&gt;&#13
 &lt;br /&gt;&#13;
 До остановки общественного транспорта пешком 10 минут&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
+Полная комплектация дома:&lt;br /&gt;&#13;
+Дом &amp;ndash; на свайном фундаменте (сваи 31 шт. железобетонные ГОСТ 150*150*5м;).&lt;br /&gt;&#13;
+Каркас из доски камерной сушки 50*200: обвязочный брус и лаги пола пропитаны антисептическим составом, монтаж сетки от грызунов;&lt;br /&gt;&#13;
+Утепление наружного контура дома: утеплитель TS-34 Knauf 200мм более!,100мм-шумоизоляция перегородок, мембрана супердиффузионная 3-слойная по наружному контуру дома, мембрана пароизоляционная по внутреннему контуру дома;&lt;br /&gt;&#13;
+Кровля: металлочерепица Гранд Лайн Сатин 0,5мм с доборными элементами, свесы кровли подшиты софитами, монтаж водосточной системы;&lt;br /&gt;&#13;
+Фасад: фиброплита NORDECO по наружному контуру фасада ,контр. рейка от 25-40мм, ОСП-12мм и фасадная битумная плитка Хауберг;&lt;br /&gt;&#13;
+Окна: 5-камерный профиль REHAU GRAZIO 70 мм, 2-камерный стеклопакет, с москитными сетками на открывающихся створках, окна обналичены металлическими наличниками по фасаду и ПВХ элементами внутри помещений, подоконники ПВХ.&lt;br /&gt;&#13;
+Дверь входная с терморазрывом.&lt;br /&gt;&#13;
++БОНУС от застройщика - забор-штакетник по периметру участка!&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
 &amp;nbsp;Один coбcтвeнник . Быстрый выход на сделку&amp;nbsp;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Кадacтрoвый номep 76:23:060522:470&lt;br /&gt;&#13;
@@ -7284,59 +7017,16 @@ Eсть coсeди и еще oчeнь многиe cтрoятся.&lt;br /&gt;&#13
 &amp;nbsp;
 id:47591. 
 &amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47591/phpvEg9aU.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/47591/68766ad9a367d.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/47591/68766ad9aac93.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/47591/68766ad9b11cd.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47591/phpWVeA3Q.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47591/php7u4Qj6.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47591/phpk6VfHo.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47591/phpTK0Nzc.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/47591/phpDXFG0S.jpeg</picture>
       <coordinates lat="57.626559" lon="39.893813"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="47735">
-      <name>Продажа, Квартира, 2-к, 44 кв.м, Ярославль, улица Титова, 14к2</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">5</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">Во двор</param>
-      <param name="Адрес">Ярославская область, Ярославль, улица Титова, 14к2</param>
-      <param name="Имя агента">Павел Голощапов</param>
-      <param name="Email для связи">pashapasha521@gmail.com</param>
-      <param name="Телефон для связи">79806612725</param>
-      <param name="Общая площадь">44</param>
-      <param name="Жилая площадь">28</param>
-      <param name="Площадь кухни">5.5</param>
-      <param name="Этаж">5</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>4500000</price>
-      <description>Представляем вашему вниманию уютную двухкомнатную квартиру на пятом этаже пятиэтажного кирпичного дома. Общая площадь квартиры составляет 44 квадратных метра, из которых 28 квадратных метров &amp;mdash; жилая площадь, а 5,5 квадратных метров отведено под кухню.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Эта квартира &amp;mdash; отличный выбор для тех, кто ищет комфортное жильё по разумной цене. Кирпичные стены обеспечивают хорошую звуко- и теплоизоляцию, создавая уютную атмосферу внутри квартиры.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Cделaн хоpoший peмонт 2 годa нaзaд. Пoлнocтью поменяна caнтехника и прoвoдка по всей квартиpe. Xоpошие обoи, куxня пеpенecенa к oкну, ocтаeтся новым жильцaм. Так жe oстaeтся шкaф купe в мaлeнькой комнатe. СУ coвмeщён, змeeвик и кафель новые. Двери не пластик( дерево). Входная дверь заменена. В доме ТСЖ, низкие КП. Рядом 2 школы, и поликлиника. Рынок прямо за углом. Хорошая транспортная развязка.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Это выгодное предложение для тех, кто хочет приобрести качественное жильё в хорошем доме.
-id:47735. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpsdaq2i.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phprzQhQU.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpVnXyWA.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpcl6PGt.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpIrjhU4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/php1PoXDg.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpVtdjdh.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpjXky8x.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpWOJ96j.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpfvW6DS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpJakmSW.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpVgskzz.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpmgpSs7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpcMI3Hi.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpQeuWLi.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpF9ud3t.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phpvC8kyz.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/47735/phplxofUN.jpeg</picture>
-      <coordinates lat="57.584535" lon="39.832234"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="47765">
@@ -7590,73 +7280,6 @@ id:47997.
       <picture>https://progress.vtcrm.ru/uploads/Photos/47997/68766b00ed209.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/47997/68766b010fb75.jpeg</picture>
       <coordinates lat="57.685974" lon="39.891029"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="48002">
-      <name>Продажа, Участок, 100 соток, Мигачево</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">Фермерское хозяйство</param>
-      <param name="Площадь участка">100</param>
-      <param name="Адрес">Ярославская область, Мигачево</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>550000</price>
-      <description>&amp;nbsp;Вашему вниманию предлагается зeмельный учaсток, площадью 1 гa.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Учаcток рacпoлoжeн пo направлeнию в г. Kостромa,&lt;br /&gt;&#13;
-30 км oт г. Ярославль.&lt;br /&gt;&#13;
-Меcтoпoложeние участкa мeжду деpевнeй Mигачeвa и дepевнeй Исaкoво.&lt;br /&gt;&#13;
-Межевание сделано .&lt;br /&gt;&#13;
-Подключение к электричеству рядом.&amp;nbsp;&lt;br /&gt;&#13;
-Дорога до деревни асфальт , до участка - укатанная грунтованная дорога.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Кадастровый номер - 76:17:115201:38
-id:48002. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/48002/68766b0116300.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/48002/68766b011b916.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/48002/68766b0120e4d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/48002/68766b0127815.jpeg</picture>
-      <coordinates lat="57.582041" lon="40.331239"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="48004">
-      <name>Продажа, Участок, 2 гектар, Протасьево</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">гектар</param>
-      <param name="Разрешенное использование земельного участка">Фермерское хозяйство</param>
-      <param name="Площадь участка">2</param>
-      <param name="Адрес">Ярославская область, Протасьево</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
-      <categoryId>304</categoryId>
-      <price>450000</price>
-      <description>Предлагается Вашему вниманию участок, прилегающий к трассе Ярославль-Кострома.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Площадь участка -&amp;nbsp;2 Га. Рядом деревня Протасьево.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Автобусная остановка и озеро Суринское .&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-43 км от Ярославля , 37 от Костромы.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Участок ровный, чистый, прямоугольной формы.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Земли сельхозназначения.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Кадастровый номер 76:09:112901:799&lt;br /&gt;&#13;
-&amp;nbsp;
-id:48004. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/48004/68766b0133839.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/48004/68766b012d5a9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/48004/68766b013ae23.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/48004/68766b01414f3.jpeg</picture>
-      <coordinates lat="57.626766" lon="40.470433"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="48034">
@@ -8644,7 +8267,7 @@ id:49378.
       <param name="Телефон для связи">79806612725</param>
       <param name="Этажей">2</param>
       <categoryId>305</categoryId>
-      <price>2000000</price>
+      <price>1950000</price>
       <description>Вашему вниманию предлагается уютная половина дома, которая станет идеальным местом для комфортного проживания.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Дом расположен на участке площадью 3,5 соток, а общая площадь здания составляет 32 квадратных метра. В доме два этажа, на каждом из которых расположена комната. На первом этаже также находятся кухня и совмещённый санузел, что обеспечивает удобство и функциональность пространства.&lt;br /&gt;&#13;
@@ -24806,7 +24429,7 @@ id:50766.
       <param name="Этаж">3</param>
       <param name="Этажность">3</param>
       <categoryId>100</categoryId>
-      <price>12500000</price>
+      <price>12300000</price>
       <description>Просторная 3-комнатная квартира в историческом центре Ярославля !&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Предлагаем к продаже прекрасную, очень светлую и теплую квартиру в самом центре. Это идеальное сочетание современного комфорта и выгодного расположения. Окна выходят на южную и северную стороны, благодаря чему в солнечный день квартира буквально залита светом. Удобная планировка. Большая кухня-гостиная, гардеробная, 3 изолированные комнаты.&amp;nbsp;&lt;br /&gt;&#13;
@@ -25562,12 +25185,12 @@ id:51558.
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="51559">
-      <name>Продажа, Квартира, 2-к, 63.4 кв.м, Ярославль</name>
+      <name>Продажа, Квартира, 2-к, 63.4 кв.м, Ярославль, улица Белинского, 5</name>
       <param name="Тип предложения">Продажа</param>
       <param name="Ремонт">косметический</param>
       <param name="Этаж">1</param>
       <param name="Комнат">2</param>
-      <param name="Адрес">Ярославль, Ярославль</param>
+      <param name="Адрес">Ярославская область, Ярославль, улица Белинского, 5</param>
       <param name="Имя агента">Всеволод Сальников</param>
       <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
       <param name="Телефон для связи">79109850569</param>
@@ -25603,50 +25226,6 @@ id:51559.
       <picture>https://progress.vtcrm.ru/uploads/Photos/51559/690dad7dbbb7c.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/51559/690dad7dcaa7f.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/51559/690dad7ddaff3.jpeg</picture>
-      <coordinates lat="57.626388" lon="39.893371"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="51567">
-      <name>Продажа, Квартира, 1-к, 36.6 кв.м, Ярославль, улица Титова, 23</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">6</param>
-      <param name="Комнат">1</param>
-      <param name="Окна выходят">На улицу</param>
-      <param name="Адрес">Ярославская область, Ярославль, улица Титова, 23</param>
-      <param name="Имя агента">Павел Голощапов</param>
-      <param name="Email для связи">pashapasha521@gmail.com</param>
-      <param name="Телефон для связи">79806612725</param>
-      <param name="Общая площадь">36.6</param>
-      <param name="Жилая площадь">18</param>
-      <param name="Площадь кухни">9</param>
-      <param name="Этаж">6</param>
-      <param name="Этажность">9</param>
-      <categoryId>100</categoryId>
-      <price>3950000</price>
-      <description>Однокомнатная квартира в районе Авангарда &amp;mdash; ваш оазис уюта и комфорта! Расположенная рядом с Московским проспектом, квартира подарит вам удобство и доступность ключевых мест города. В шаговой доступности находятся парк Нефтяников, спортивный комплекс &amp;laquo;Атлант&amp;raquo;, &amp;laquo;Арена 2000&amp;raquo;, &amp;laquo;Вернисаж&amp;raquo;, РИО и метро &amp;laquo;Лотос&amp;raquo;.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Квартира площадью 36,6 м&amp;sup2; располагается на 6-м этаже 9-этажного кирпичного дома. Здесь вас ждёт светлая и тёплая комната площадью 18 м&amp;sup2;, где так и хочется обустроить пространство по своему вкусу. Кухня площадью 9 м&amp;sup2; оснащена кухонным гарнитуром &amp;mdash; он, кстати, останется новым владельцам вместе с другой мебелью и техникой (кроме холодильника).&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-В квартире выполнен качественный евроремонт: установлены ПВХ-окна, застеклённая лоджия (слайдерс), акриловая ванна, уложены ламинат и натяжные потолки. Также имеется кладовка площадью 2 м&amp;sup2;.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Один взрослый собственник &amp;mdash; это гарантия прозрачности и удобства при оформлении сделки.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Это место, где каждый день будет наполнен комфортом и уютом&amp;hellip;
-id:51567. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phpBIJCSL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phpceSwvO.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phpVzdplo.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phpK9S6m4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phprmnGVs.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phpNZ5JJ5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phpNks8Ti.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/php1urXT4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phpFZcKys.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phpjV6y90.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phpIgcRKM.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51567/phpB2e7su.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -25861,6 +25440,42 @@ id:51616.
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Буй</param>
     </offer>
+    <offer id="51620">
+      <name>Продажа, Квартира, 2-к, 43 кв.м, г Ярославль, Индустриальный пер, 5</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">3</param>
+      <param name="Комнат">2</param>
+      <param name="Окна выходят">Во двор</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, Индустриальный пер, 5</param>
+      <param name="Имя агента">Ирина Левченко</param>
+      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
+      <param name="Телефон для связи">79109723294</param>
+      <param name="Общая площадь">43</param>
+      <param name="Жилая площадь">30</param>
+      <param name="Площадь кухни">6</param>
+      <param name="Этаж">3</param>
+      <param name="Этажность">3</param>
+      <categoryId>100</categoryId>
+      <price>2700000</price>
+      <description>Продается теплая квартира,с кладовой комнатой, можно использовать как хорошую просторную гардеробную. При продаже оставим мебель,либо полностью освободим от нее. В квартире рабочая газовая колонка,что позволит постоянно быть с горячей водой. Хорошие соседи,тихий двор,рядом вся инфраструктура: две школы,детские сады,ДК Радий,&lt;br /&gt;&#13;
+детский центр развития,новый волейбольный центр, большое количество магазинов,и мини рынок. В 2 минутах остановка общественного транспорта в разные районы города, во дворе много места для машин.&amp;nbsp;&lt;br /&gt;&#13;
+У квартиры один взрослый собственник, без обременений, быстрый выход на сделку.
+id:51620. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51620/phpBgMKha.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51620/phpl4ppqA.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51620/phpGSmnhA.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51620/phpKasngK.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51620/phpq7rwfU.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51620/phpUSYAIg.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51620/phpbpLbQh.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51620/php0InEco.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51620/phpZxYW1D.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51620/phpjoQcET.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
     <offer id="51627">
       <name>Продажа, Квартира, 1-к, 42.5 кв.м, Ярославль, улица Ньютона, 9Б</name>
       <param name="Тип предложения">Продажа</param>
@@ -26050,7 +25665,7 @@ id:51641.
       <param name="Этажность">12</param>
       <param name="Ипотека">да</param>
       <categoryId>100</categoryId>
-      <price>3800000</price>
+      <price>3900000</price>
       <description>Представляем вашему вниманию уютную двухкомнатную квартиру в кирпичном доме! Расположенная на шестом этаже двенадцатиэтажного здания, квартира площадью 42 квадратных метра станет вашим комфортным гнёздышком.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Жилая площадь составляет 33 квадратных метра &amp;mdash; здесь достаточно места для реализации ваших дизайнерских идей и размещения всей необходимой мебели. Просторная кухня площадью 9 квадратных метров порадует любителей готовить и собирать за столом всю семью и друзей.&lt;br /&gt;&#13;
@@ -26068,6 +25683,178 @@ id:51643.
       <picture>https://progress.vtcrm.ru/uploads/Photos/51643/phpcTNpIw.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/51643/phpU8CrwI.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/51643/phpb5nxnT.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="51644">
+      <name>Продажа, Квартира, 2-к, 55.2 кв.м, г Ярославль, ул Ярославская, 153к2</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">4</param>
+      <param name="Комнат">2</param>
+      <param name="Окна выходят">Во двор</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, ул Ярославская, 153к2</param>
+      <param name="Имя агента">Ирина Левченко</param>
+      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
+      <param name="Телефон для связи">79109723294</param>
+      <param name="Общая площадь">55.2</param>
+      <param name="Жилая площадь">31.9</param>
+      <param name="Площадь кухни">11.1</param>
+      <param name="Этаж">4</param>
+      <param name="Этажность">17</param>
+      <categoryId>100</categoryId>
+      <price>5800000</price>
+      <description>Продается уютная и светлая двухкомнатная квартира. Туалет и ванная раздельные отделка в плитке, есть бойлер. На полу в комнатах ламинат, на кухне ленолиум.&lt;br /&gt;&#13;
+Вся мебель остается в подарок!&lt;br /&gt;&#13;
+Ухоженная территория, во дворе детская площадка, большая парковка для автомобилей&amp;nbsp;&lt;br /&gt;&#13;
+Остановка общественного транспорта в 2 минутах.&lt;br /&gt;&#13;
+В шаговой доступности детские сады и школы.
+id:51644. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpiwZo3v.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpxwObCo.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpQfKBvi.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpjlrgPC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpLAarCk.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpzVAdAk.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpjKhBN7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpt8Ubsg.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpILtOMz.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpMceHPC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpeZXoVJ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/php1AYVnF.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpOwY8VD.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpBfpHIr.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpbkUdi4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51644/phpQ6KlnU.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="51871">
+      <name>Продажа, Участок, 5.6 соток, г Ярославль, ул 1-я Краснохолмская, 16</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Единица измерения площади участка">сотка</param>
+      <param name="Разрешенное использование земельного участка">ИЖС</param>
+      <param name="Площадь участка">5.6</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, ул 1-я Краснохолмская, 16</param>
+      <param name="Имя агента">Ирина Левченко</param>
+      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
+      <param name="Телефон для связи">79109723294</param>
+      <categoryId>304</categoryId>
+      <price>1500000</price>
+      <description>
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51871/145cd339-b741-4059-9ca9-ebc74b7bca3f.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="51872">
+      <name>Продажа, Коттедж, 8-к, 380 кв.м, Ярославль, 1-й переулок Достоевского, 34</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Материал стен">Арболит</param>
+      <param name="Площадь Дома">380</param>
+      <param name="Единица измерения площади участка">сотка</param>
+      <param name="Ремонт">Без ремонта</param>
+      <param name="Разрешенное использование земельного участка">ИЖС</param>
+      <param name="Комнат">8</param>
+      <param name="Адрес">Ярославская область, Ярославль, 1-й переулок Достоевского, 34</param>
+      <param name="Имя агента">Павел Голощапов</param>
+      <param name="Email для связи">pashapasha521@gmail.com</param>
+      <param name="Телефон для связи">79806612725</param>
+      <param name="Этажей">2</param>
+      <categoryId>303</categoryId>
+      <price>18000000</price>
+      <description>Коттедж в Ярославле: комфорт и уют в Фрунзенском районе (Суздалка)&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Представьте себе дом, где каждый день будет наполнен комфортом и уютом. В Ярославле, в Фрунзенском районе (Суздалка), вас ждёт прекрасный коттедж площадью 380 м&amp;sup2;. Он расположен в черте города &amp;mdash; на улице 1-й переулок Достоевского. Это не просто дом, это пространство для жизни, где есть всё необходимое для счастливой и комфортной жизни.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Основные характеристики:&lt;br /&gt;&#13;
+* два этажа;&lt;br /&gt;&#13;
+* 8 комнат;&lt;br /&gt;&#13;
+* материал стен &amp;mdash; арболит;&lt;br /&gt;&#13;
+* площадь участка &amp;mdash; 7 соток;&lt;br /&gt;&#13;
+* год постройки &amp;mdash; 2015.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Коммуникации и удобства:&lt;br /&gt;&#13;
+* все коммуникации &amp;mdash; центральные (природный газ, водоснабжение, центральная канализация);&lt;br /&gt;&#13;
+* автономное отопление от двухконтурного газового котла;&lt;br /&gt;&#13;
+* есть погреб размером 5 х 5 х 2,2 м &amp;mdash; идеальное место для хранения солений на зиму.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Расположение:&lt;br /&gt;&#13;
+* до центра города всего 10 минут на машине или четыре остановки на автобусе;&lt;br /&gt;&#13;
+* рядом находятся магазин &amp;laquo;Магнит&amp;raquo;, ТЦ &amp;laquo;Фараон&amp;raquo;, супермаркет &amp;laquo;Адмирал&amp;raquo;, ЖД-больница и другие объекты инфраструктуры;&lt;br /&gt;&#13;
+* вблизи от дома расположены школы, детские сады, больницы, учебные заведения.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Особенности дома:&lt;br /&gt;&#13;
+* первый этаж полностью готов к проживанию, отделка уже выполнена;&lt;br /&gt;&#13;
+* второй этаж представлен в виде студии без внутренних стен &amp;mdash; вы можете спланировать пространство в соответствии со своими пожеланиями и создать дом мечты;&lt;br /&gt;&#13;
+* удобный подъезд к дому со стороны ТРЦ &amp;laquo;Фараон&amp;raquo; и Суздальского шоссе (напротив &amp;laquo;ОблГаза&amp;raquo;);&lt;br /&gt;&#13;
+* дорога до дома отсыпана асфальтной крошкой и укатана, непосредственно перед домом уложен асфальт.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Место тихое и спокойное &amp;mdash; здесь вы сможете отдохнуть от городской суеты и насладиться умиротворяющей атмосферой. Дом полностью оформлен, документы новые.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Возможен торг для реального покупателя, также рассматриваем обмен на жильё.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Хотите узнать больше? Свяжитесь с нами &amp;mdash; мы расскажем все детали и ответим на ваши вопросы.
+id:51872. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51872/phpEpSOG0.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51872/phpFk8vKd.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51872/phpBI53qT.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51872/phpZBlU68.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51872/phpiI8ltY.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="51873">
+      <name>Продажа, Дом, 3-к, 47.1 кв.м, Ярославль, переулок Доронина, 10А</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Материал стен">Кирпичный</param>
+      <param name="Площадь Дома">47.1</param>
+      <param name="Единица измерения площади участка">сотка</param>
+      <param name="Ремонт">Косметический</param>
+      <param name="Разрешенное использование земельного участка">ИЖС</param>
+      <param name="Комнат">3</param>
+      <param name="Адрес">Ярославская область, Ярославль, переулок Доронина, 10А</param>
+      <param name="Имя агента">Павел Голощапов</param>
+      <param name="Email для связи">pashapasha521@gmail.com</param>
+      <param name="Телефон для связи">79806612725</param>
+      <param name="Этажей">1</param>
+      <categoryId>300</categoryId>
+      <price>5490000</price>
+      <description>Продаётся уютный и тёплый отдельно стоящий дом на ленточном фундаменте с земельным участком в 4,5 сотки. Общая площадь дома с пристройкой составляет 53 квадратных метра, при этом площадь самого здания &amp;mdash; 47,1 квадратного метра. В доме три комнаты, санузел совмещённый. Пристройка площадью 6 квадратных метров построена на сваях в 2021 году.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Дом кирпичный, что обеспечивает отличную теплоизоляцию и долговечность. Отопление индивидуальное &amp;mdash; установлен газовый котёл. Вода и канализация централизованные, есть водонагреватель для обеспечения горячей водой.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Перед домом достаточно места для парковки автомобиля, а также установлены ворота для заезда на территорию. Во дворе растут малина, клубника и яблоня &amp;mdash; здесь уже заложена основа для уютного сада. Земля отлично подходит для посева овощей и фруктов &amp;mdash; можно создать свой небольшой огород и наслаждаться урожаем.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Дом и земельный участок находятся в собственности более 7 лет, собственник один &amp;mdash; взрослый человек.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Район отличается развитой инфраструктурой: в шаговой доступности находятся школы и детские сады, взрослая и детская поликлиники, магазины, рынок и остановка общественного транспорта. Поблизости расположены торговые центры &amp;laquo;Лемана Про&amp;raquo;, &amp;laquo;Вернисаж&amp;raquo;, &amp;laquo;Шоколад&amp;raquo;.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+При продаже также принимается в зачёт сертификат&amp;hellip;
+id:51873. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpE9GXH1.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpADb8rY.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/php0WAOE2.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpvIpbJx.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpTdnAcM.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpZFGI1d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpW6H3vC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpk1CmcM.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpPFWpDE.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/php6RaYjR.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpZ4u8V7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpF2aI8R.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpq6nYOL.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpHQ1UAM.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpgqS2kC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpAz2OCI.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpH0juHD.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/phpVX85bt.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/php8JWoYD.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/51873/php541AyB.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -30510,93 +30297,6 @@ id:9887.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php2YVayv.jpeg</picture>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="9888">
-      <categoryId>101</categoryId>
-      <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
-      <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
-КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
-Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
-&lt;strong&gt;Преимущества:&lt;/strong&gt;&#13;
-- современные лифты обеспечат высокий уровень комфорта жильцам дома;&#13;
-- доступная среда для людей с ограниченными возможностями, подъем с уровня земли на 1 этаж осуществляется на специальном подъемнике;&#13;
-- просторные лоджии во двор, французские окна в сторону ул. Дядьковская;&#13;
-- автоматизированный тепловой пункт с датчиками температуры;&#13;
-- умный домофон от Ростелеком;&#13;
-- кладовые в подвале обеспечат жильцов дополнительным пространством для хранения вещей, освобождая жилую площадь от лишних предметов;&#13;
-- специально оборудованные места для тренировок Street&amp;nbsp;Workout, места для отдыха, детская площадка;&#13;
-- озеленение территории, цветущие кустарники, газоны и цветники;&#13;
-- видеонаблюдение придомовой территории;&#13;
-- разные варианты приобретения: ипотека, рассрочка без удорожания, наличные.&#13;
-&#13;
-&lt;strong&gt;Инфраструктура района:&lt;/strong&gt;&#13;
-Дом расположен в новой, развивающейся части Фрунзенского района города Ярославля, в 15 минутах езды до центра. Рядом с домом находятся:&#13;
-- парк Судостроителей, по которому вы сможете погулять сами или со своими домашними животными, на детских площадках парка будет интересно детям;&#13;
-- спортивная школа олимпийского резерва №19, которая является одним из ведущих спортивных учреждений г. Ярославля;&#13;
-- гипермаркет &amp;laquo;Лента&amp;raquo;, обеспечит удобный доступ к широкому ассортименту товаров и услуг без необходимости долгих поездок;&#13;
-- аквапарк &amp;laquo;Тропический остров&amp;raquo;, предоставляет возможность наслаждаться активным отдыхом и развлечениями рядом с домом.&#13;
-Кроме того, в непосредственной близости от дома расположены офисы банков, торговые центры, магазины, школы, детские сады и многое другое, что обеспечит удобство и доступность различных услуг и инфраструктуры для жителей дома.&#13;
-&#13;
-&lt;strong&gt;Технология строительства:&lt;/strong&gt;&#13;
-ЖК &amp;laquo;Ин Парк&amp;raquo; представляет собой двухподъездный девятиэтажный дом, в котором представлено 270 квартир.&#13;
-Дома, построенные по данной технологии являются:&#13;
-- прочными и надежными благодаря использованию железобетонных конструкций, они способны выдерживать значительные нагрузки и долговечны в эксплуатации;&#13;
-- устойчивыми к различным воздействиям: такие дома обладают хорошей устойчивостью к различным природным и антропогенным воздействиям, таким как землетрясения, пожары и другие чрезвычайные ситуации;&#13;
-- энергоэффективными: обеспечивают хорошую теплоизоляцию благодаря применению современных материалов и технологий. Нашему дому будет присвоен класс энергоэффективности В+ (высокий);&#13;
-- звукоизоляция: обеспечивают хорошую звукоизоляцию, что способствует комфортному проживанию;&#13;
-- долговечность: благодаря использованию качественных материалов и технологий обладают высокой долговечностью и требуют минимального обслуживания.&#13;
-&#13;
-&lt;strong&gt;Отделка:&lt;/strong&gt;&#13;
-Все квартиры ЖК &amp;laquo;ИНН ПАРК&amp;raquo; выполнены качественными материалами, представлены в отделке &amp;laquo;GrayKey&amp;raquo;. В нее входит:&#13;
-- возведение внутриквартирных перегородок;&#13;
-- гидроизоляция в санузлах;&#13;
-- пластиковые окна с пятикамерными профилями;&#13;
-- установка современных радиаторов отопления;&#13;
-- выполнение стяжки пола;&#13;
-- установка счетчиков на горячее и холодное водоснабжение, двух тарифных счетчиков электричества.&#13;
-&#13;
-&lt;strong&gt;Планировки:&lt;/strong&gt;&#13;
-Клиентам доступно несколько спланированных эргономичных вариантов жилья. В ЖК &amp;laquo;Ин Парк&amp;raquo; представлены как компактные студии площадью от 26 кв.м., так и просторные квартиры евро формата площадью от 43 кв.м. Разнообразие планировок позволяет выбрать оптимальный вариант для комфортного проживания или инвестиций.&#13;
-&#13;
-&lt;strong&gt;О застройщике:&lt;/strong&gt;&#13;
-ГК &amp;laquo;Прогресс-Строй&amp;raquo; - надежный и проверенный временем застройщик, выполняющий свои обязательства. Компания основана группой профессионалов в сфере жилищного строительства в 2007 году.&#13;
-ГК &amp;laquo;Прогресс-Строй&amp;raquo; воссоздает лучшие традиции российского домостроения в новом качестве - современные технологии монолитного строения, привлекательный и комфортный дизайн, благоустройство для уютной жизни.&#13;
-За более 17 лет непрерывного роста на рынке Архангельской области, построено свыше 17 жилых многоквартирных домов. 90 процентов домов, возведенных ГК &amp;laquo;Прогресс-Строй&amp;raquo; были сданы с опережением сроков строительства. Остальные были сданы точно в срок.&#13;
-Основная задача застройщика - проектировать и строить не просто квадратные метры, а создавать комфортную среду для жизни.&#13;
-&#13;
-&lt;strong&gt;Наш дом предлагает не просто квартиры, а возможность создать свой уютный уголок. Добро пожаловать в Ваш новый дом, где сбудутся ваши мечты об идеальном жилье!&lt;/strong&gt;
-id:9888. 
-&amp;nbsp;</description>
-      <param name="Материал стен">monolith</param>
-      <param name="Комнат">9</param>
-      <param name="Площадь Дома">26.19</param>
-      <param name="Жилая площадь">14.02</param>
-      <param name="Площадь кухни">5.2</param>
-      <param name="Этаж">5</param>
-      <param name="Балкон">1</param>
-      <param name="Парковка">open</param>
-      <param name="Адрес">Ярославская область, Ярославль, Дядьковская</param>
-      <coordinates lat="57.574379" lon="39.909155"/>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/9888/6876557ab24ea.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5OoImg.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpxRYqzi.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7C2rQc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpAZmrJE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpsSAEEn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phprK8AaP.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpz8MT2p.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpkmZlEL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpidP7Bn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpk29Esz.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpqDLSJB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php1BaBCn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php2YVayv.jpeg</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="9889">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
@@ -31808,94 +31508,6 @@ id:9905.
       <coordinates lat="57.574379" lon="39.909155"/>
       <picture>https://progress.vtcrm.ru/uploads/Photos/9905/6876557c1f2ee.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/9905/6876557c2903b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5OoImg.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpxRYqzi.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7C2rQc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpAZmrJE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpsSAEEn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phprK8AaP.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpz8MT2p.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpkmZlEL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpidP7Bn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpk29Esz.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpqDLSJB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php1BaBCn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php2YVayv.jpeg</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="9906">
-      <categoryId>101</categoryId>
-      <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>2995780</price>
-      <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
-КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
-Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
-&lt;strong&gt;Преимущества:&lt;/strong&gt;&#13;
-- современные лифты обеспечат высокий уровень комфорта жильцам дома;&#13;
-- доступная среда для людей с ограниченными возможностями, подъем с уровня земли на 1 этаж осуществляется на специальном подъемнике;&#13;
-- просторные лоджии во двор, французские окна в сторону ул. Дядьковская;&#13;
-- автоматизированный тепловой пункт с датчиками температуры;&#13;
-- умный домофон от Ростелеком;&#13;
-- кладовые в подвале обеспечат жильцов дополнительным пространством для хранения вещей, освобождая жилую площадь от лишних предметов;&#13;
-- специально оборудованные места для тренировок Street&amp;nbsp;Workout, места для отдыха, детская площадка;&#13;
-- озеленение территории, цветущие кустарники, газоны и цветники;&#13;
-- видеонаблюдение придомовой территории;&#13;
-- разные варианты приобретения: ипотека, рассрочка без удорожания, наличные.&#13;
-&#13;
-&lt;strong&gt;Инфраструктура района:&lt;/strong&gt;&#13;
-Дом расположен в новой, развивающейся части Фрунзенского района города Ярославля, в 15 минутах езды до центра. Рядом с домом находятся:&#13;
-- парк Судостроителей, по которому вы сможете погулять сами или со своими домашними животными, на детских площадках парка будет интересно детям;&#13;
-- спортивная школа олимпийского резерва №19, которая является одним из ведущих спортивных учреждений г. Ярославля;&#13;
-- гипермаркет &amp;laquo;Лента&amp;raquo;, обеспечит удобный доступ к широкому ассортименту товаров и услуг без необходимости долгих поездок;&#13;
-- аквапарк &amp;laquo;Тропический остров&amp;raquo;, предоставляет возможность наслаждаться активным отдыхом и развлечениями рядом с домом.&#13;
-Кроме того, в непосредственной близости от дома расположены офисы банков, торговые центры, магазины, школы, детские сады и многое другое, что обеспечит удобство и доступность различных услуг и инфраструктуры для жителей дома.&#13;
-&#13;
-&lt;strong&gt;Технология строительства:&lt;/strong&gt;&#13;
-ЖК &amp;laquo;Ин Парк&amp;raquo; представляет собой двухподъездный девятиэтажный дом, в котором представлено 270 квартир.&#13;
-Дома, построенные по данной технологии являются:&#13;
-- прочными и надежными благодаря использованию железобетонных конструкций, они способны выдерживать значительные нагрузки и долговечны в эксплуатации;&#13;
-- устойчивыми к различным воздействиям: такие дома обладают хорошей устойчивостью к различным природным и антропогенным воздействиям, таким как землетрясения, пожары и другие чрезвычайные ситуации;&#13;
-- энергоэффективными: обеспечивают хорошую теплоизоляцию благодаря применению современных материалов и технологий. Нашему дому будет присвоен класс энергоэффективности В+ (высокий);&#13;
-- звукоизоляция: обеспечивают хорошую звукоизоляцию, что способствует комфортному проживанию;&#13;
-- долговечность: благодаря использованию качественных материалов и технологий обладают высокой долговечностью и требуют минимального обслуживания.&#13;
-&#13;
-&lt;strong&gt;Отделка:&lt;/strong&gt;&#13;
-Все квартиры ЖК &amp;laquo;ИНН ПАРК&amp;raquo; выполнены качественными материалами, представлены в отделке &amp;laquo;GrayKey&amp;raquo;. В нее входит:&#13;
-- возведение внутриквартирных перегородок;&#13;
-- гидроизоляция в санузлах;&#13;
-- пластиковые окна с пятикамерными профилями;&#13;
-- установка современных радиаторов отопления;&#13;
-- выполнение стяжки пола;&#13;
-- установка счетчиков на горячее и холодное водоснабжение, двух тарифных счетчиков электричества.&#13;
-&#13;
-&lt;strong&gt;Планировки:&lt;/strong&gt;&#13;
-Клиентам доступно несколько спланированных эргономичных вариантов жилья. В ЖК &amp;laquo;Ин Парк&amp;raquo; представлены как компактные студии площадью от 26 кв.м., так и просторные квартиры евро формата площадью от 43 кв.м. Разнообразие планировок позволяет выбрать оптимальный вариант для комфортного проживания или инвестиций.&#13;
-&#13;
-&lt;strong&gt;О застройщике:&lt;/strong&gt;&#13;
-ГК &amp;laquo;Прогресс-Строй&amp;raquo; - надежный и проверенный временем застройщик, выполняющий свои обязательства. Компания основана группой профессионалов в сфере жилищного строительства в 2007 году.&#13;
-ГК &amp;laquo;Прогресс-Строй&amp;raquo; воссоздает лучшие традиции российского домостроения в новом качестве - современные технологии монолитного строения, привлекательный и комфортный дизайн, благоустройство для уютной жизни.&#13;
-За более 17 лет непрерывного роста на рынке Архангельской области, построено свыше 17 жилых многоквартирных домов. 90 процентов домов, возведенных ГК &amp;laquo;Прогресс-Строй&amp;raquo; были сданы с опережением сроков строительства. Остальные были сданы точно в срок.&#13;
-Основная задача застройщика - проектировать и строить не просто квадратные метры, а создавать комфортную среду для жизни.&#13;
-&#13;
-&lt;strong&gt;Наш дом предлагает не просто квартиры, а возможность создать свой уютный уголок. Добро пожаловать в Ваш новый дом, где сбудутся ваши мечты об идеальном жилье!&lt;/strong&gt;
-id:9906. 
-&amp;nbsp;</description>
-      <param name="Материал стен">monolith</param>
-      <param name="Комнат">9</param>
-      <param name="Площадь Дома">31.87</param>
-      <param name="Жилая площадь">17.1</param>
-      <param name="Площадь кухни">5.76</param>
-      <param name="Этаж">4</param>
-      <param name="Балкон">0</param>
-      <param name="Парковка">open</param>
-      <param name="Адрес">Ярославская область, Ярославль, Дядьковская</param>
-      <coordinates lat="57.574379" lon="39.909155"/>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/9906/6876557c348b0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/9906/6876557c3eeb3.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5OoImg.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpxRYqzi.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7C2rQc.jpeg</picture>
