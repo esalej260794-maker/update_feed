@@ -268,7 +268,7 @@ id:436.
       <param name="Этажей">2</param>
       <param name="Ипотека">да</param>
       <categoryId>300</categoryId>
-      <price>15500000</price>
+      <price>15000000</price>
       <description>Предлагается к продаже Дом 209 кв.м. в черте города, в экологически чистом районе.&lt;br /&gt;&#13;
 В 400 метрах от реки Волга, напротив Стрелки. Живописная набережная и пляж. Действующий храм, в котором регулярно проводятся службы. Инфраструктура соответствуют черте города, все рядом!&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
@@ -3479,42 +3479,6 @@ id:32168.
       <coordinates lat="58.466477" lon="41.550972"/>
       <param name="Офис">Буй</param>
     </offer>
-    <offer id="32183">
-      <name>Продажа, Квартира, 2-к, 56 кв.м, г Буй, ул Октябрьской Революции, 83</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">1</param>
-      <param name="Комнат">2</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Октябрьской Революции, 83</param>
-      <param name="Имя агента">Наталья Квасова</param>
-      <param name="Email для связи">natalakvasova63@gmail.com</param>
-      <param name="Телефон для связи">79038973942</param>
-      <param name="Общая площадь">56</param>
-      <param name="Жилая площадь">44</param>
-      <param name="Площадь кухни">12</param>
-      <param name="Этаж">1</param>
-      <param name="Этажность">2</param>
-      <categoryId>100</categoryId>
-      <price>1750000</price>
-      <description>&lt;strong&gt;Уважаемые покупатели! Вашему вниманию предлагается 2-комнатная квартира в кирпичном доме!&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
-&amp;nbsp;Квартира теплая, светлая,&amp;nbsp;стоят окна ПВХ, &lt;strong&gt;Кухня 12 кв. м&lt;/strong&gt;&amp;nbsp; Новым собственникам остается кух.гарнитур в подарок.&lt;br /&gt;&#13;
-Остальная мебель и техника по согласованию!&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br /&gt;&#13;
-В локацию дома входит все, что необходимо для комфортного проживания: школы, детские сады, магазины, остановки общественного транспорта. Все в шаговой доступности.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;&#13;
-&amp;nbsp;Поможем в одобрении и оформлении ипотеки от банков партнеров. Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;br /&gt;&#13;
-Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие. Сопровождение сделки до перехода права собственности. Безопасные расчеты сторон.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;&#13;
-&lt;strong&gt;ВСЕ КОНСУЛЬТАЦИИ БЕСПЛАТНО.&lt;/strong&gt;
-id:32183. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/32183/6876639351a4f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/32183/68766392ccfa8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/32183/687663932160a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/32183/68766393093fd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/32183/6876639339a29.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/32183/68766392b4dba.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/32183/68766392e44fa.jpeg</picture>
-      <coordinates lat="58.463549" lon="41.555607"/>
-      <param name="Офис">Буй</param>
-    </offer>
     <offer id="32187">
       <name>Продажа, Квартира, 1-к, 30 кв.м, г Буй, ул Парижской Коммуны, 7</name>
       <param name="Тип предложения">Продажа</param>
@@ -5815,71 +5779,6 @@ id:45355.
       <coordinates lat="57.549085" lon="39.939798"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="45383">
-      <name>Продажа, Квартира, 1-к, 38 кв.м, г Ярославль, ул Саукова, 6</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">7</param>
-      <param name="Комнат">1</param>
-      <param name="Окна выходят">На улицу и двор</param>
-      <param name="Адрес">Ярославская обл, г Ярославль, ул Саукова, 6</param>
-      <param name="Имя агента">Светлана Козлова</param>
-      <param name="Email для связи">svetlana_kozlova_vektor@mail.ru</param>
-      <param name="Телефон для связи">79065275779</param>
-      <param name="Общая площадь">38</param>
-      <param name="Жилая площадь">18</param>
-      <param name="Площадь кухни">10</param>
-      <param name="Этаж">7</param>
-      <param name="Этажность">10</param>
-      <categoryId>100</categoryId>
-      <price>3350000</price>
-      <description>Продаётся уютная однокомнатная квартира в Заволжском районе. Это прекрасное жильё для тех, кто ценит комфорт и удобство.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-О квартире:&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;7 этаж 9-ти этажного дома.&lt;/li&gt;&#13;
-&lt;li&gt;Отличная планировка. Общая площадь квартиры 43 кв.м Санузел раздельный.&lt;/li&gt;&#13;
-&lt;li&gt;Кухня 10 кв.м. широкая форма.&lt;/li&gt;&#13;
-&lt;li&gt;Балкон застеклён, окна ПВХ.&lt;/li&gt;&#13;
-&lt;li&gt;Санузел в кафельной плитке.&lt;/li&gt;&#13;
-&lt;li&gt;В подарок остается кухонный гарнитур и шкаф купе в коридоре.&lt;/li&gt;&#13;
-&lt;li&gt;Хорошие соседи, тамбур на 3 квартиры.&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-О доме:&lt;br /&gt;&#13;
-- Находится на удалении от дороги, тихий двор.&lt;br /&gt;&#13;
-- Чистый подъезд.&lt;br /&gt;&#13;
-- Всегда есть парковочные места.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-В шаговой доступности находится: детские сады, школы, магазины и поликлиники.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Квартира без обременений, 3 взрослых собственника.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Новым владельцам можно сразу же заселиться и начать жить без дополнительных затрат на мебель.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Преимущества этой квартиры не ограничиваются только её параметрами. Здесь прекрасные соседи, а рядом находится вся необходимая инфраструктура.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Не упустите возможность стать владельцем этой уютной квартиры!
-id:45383. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b6e7102.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b744f30.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b933f2b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b8879bd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b8d7a3d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b9d5030.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b983010.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b78ce4e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b7dba8a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b836461.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b698eb3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669ba2de00.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b64e449.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b5f1044.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/45383/687669b59d948.jpeg</picture>
-      <coordinates lat="57.643157" lon="39.947164"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="45540">
       <name>Продажа, Дом, 4-к, 115 кв.м, деревня Кормилицино, Сиреневая улица</name>
       <param name="Тип предложения">Продажа</param>
@@ -6312,7 +6211,7 @@ id:46013.
       <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
       <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
-      <price>1100000</price>
+      <price>3590000</price>
       <description>Представляется к продаже участок земли в направлении Красный Профинтерн около деревни Орлово&amp;nbsp; и озера Ярхобольское&amp;nbsp; , который станет идеальным местом для воплощения ваших самых смелых идей. Стоимость этого объекта составляет 1 100 000 рублей. Участок площадью 11,8 Га . Возможна продажа частями&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Кадастровые номера участков :&amp;nbsp; &amp;nbsp;76:09:014601:2055&lt;br /&gt;&#13;
@@ -6417,7 +6316,7 @@ id:46220.
       <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
       <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
-      <price>500000</price>
+      <price>3000000</price>
       <description>Предлагается Вашему вниманию земельный участок 19 соток в деревне Цеденево .Участок расположен на въезде в д. Цеденево, есть газ, электричество, хорошие подъездные пути, в 15-20 минутах от г. Ярославля. Участок ровный, рядом есть небольшой водоем, не заросший.&lt;br /&gt;&#13;
 Документ основания : право аренды . ( Переуступка прав аренды )&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
@@ -6458,29 +6357,14 @@ id:46230.
       <price>1600000</price>
       <description>Вашему вниманию предлагаются два соседних земельных участка под ИЖС общей площадью 35 соток. (20 соток собственность, 15 соток аренда с правом передачи аренды. Аренда до 2033 года) на участках: - Построен каркасный дом с террасой 6х8. (На сегодняшний день закрыт теплый контур и выполнена отделка снаружи фиброцементным сайдингом) - Хоз.блок на 5 м2. - На каждом участке подведено электричество. 15кВт. Смонтированы 2 щитка с розеткой на двух разных опорах. - Завезен речной мытый песок 30т - Завезен гравий фракции 20-40 тоже 30т.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
-Модульный дом&lt;strong&gt; Уют 30+Баня&lt;/strong&gt;&lt;br /&gt;&#13;
-Силовой каркас изготовлен из&amp;nbsp;сухой строганной доски камерной сушки, обработанной огнебиозащитой.Утепление URSA Terra 34 PN&amp;nbsp;Pro (для южных регионов 100&amp;nbsp;мм, для средней полосы и&amp;nbsp;северных регионов 150мм).URSA Terra 34 PN&amp;nbsp;Pro (для южных регионов 150&amp;nbsp;мм, для средней полосы и&amp;nbsp;северных регионов 200мм). Кровля металлический проф лист.Электроснабжение,&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;кабель ВВГ-НГ 3&amp;times;2,5 ГОСТ; Освещение чистовые розетки.кабель ВВГ-НГ 3,1,5 ГОСТ;чистовые выключатели светильники. Отделка: Внешняя- Имитация бруса 140х16 мм, металлический профлист. Внутренняя: Имитация бруса (сосна / липа /ольха). Полное водоснабжение и отопление. Остекление: Пятикамерный ПВХ профиль 70&amp;nbsp;мм с&amp;nbsp;двухкамерным стеклопакетом (три стекла)&lt;br /&gt;&#13;
-&lt;strong&gt;Прочее:&lt;/strong&gt;&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;реле контроля напряжения;&lt;/li&gt;&#13;
-&lt;li&gt;дифференциальные автоматы для всех потребителей кроме освещения;&lt;/li&gt;&#13;
-&lt;li&gt;полная прокладка коммуникаций по&amp;nbsp;дому.&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-Стоимость комплектации &lt;strong&gt;2.490.000&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
 кадастровые номера :&amp;nbsp;76:17:140501:163&lt;br /&gt;&#13;
 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;76:17:140501:162&lt;br /&gt;&#13;
 &amp;nbsp;
 id:46243. 
 &amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/46243/php0qEHGW.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/46243/68766a5e778c5.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/46243/68766a5e8304c.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/46243/68766a5e9232b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/46243/phpx92yuR.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/46243/php12o3Jp.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/46243/phpJP15VK.jpeg</picture>
       <coordinates lat="57.554846" lon="39.851359"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -6601,7 +6485,7 @@ id:46720.
       <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
       <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
-      <price>1200000</price>
+      <price>10000000</price>
       <description>Вашему вниманию предлагается учacток ИЖС 10 соток в дeрeвне Kлимoвское .&lt;br /&gt;&#13;
 Pядом Kлимовcкиe озepa, pека Beликая, лeс c гpибами, ягoдaми и оpeшникoм.&lt;br /&gt;&#13;
 Зeмля принадлежит деревне, соответственно освещение, чистка и ремонт дорог относится к администрации.&lt;br /&gt;&#13;
@@ -6806,7 +6690,7 @@ id:47179.
       <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
       <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
-      <price>1900000</price>
+      <price>10700000</price>
       <description>Вашему вниманию предлагается земeльный учaсток в дерeвне Kоpюкoвo с хоpoшим pacпoлoжением в центpaльной части наceленного пункта, не на oкpaине, дoстаточнo удaлен oт шоccе.&amp;nbsp;&lt;br /&gt;&#13;
 Дepeвня Kорюковo распoлoженa нeдалeко от черты гopода в 2х км, напpавлeние - Костромское шоссе.&lt;br /&gt;&#13;
 Зимой 2025 года проведена газификация деревни. Пуск газа осень 2025 .&lt;br /&gt;&#13;
@@ -6915,7 +6799,7 @@ id:47356.
       <param name="Телефон для связи">79109850569</param>
       <param name="Этажей">1</param>
       <categoryId>304</categoryId>
-      <price>1350000</price>
+      <price>10150000</price>
       <description>Вашему вниманию предлагается дом с земельным участком в поселке Борисоглебский ..&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Участок площадью 14 соток. Участoк&amp;nbsp; пpямoй, рoвный , без oбрeмeнeний .&lt;br /&gt;&#13;
@@ -6974,7 +6858,7 @@ id:47494.
       <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
       <param name="Телефон для связи">79109850569</param>
       <categoryId>304</categoryId>
-      <price>1400000</price>
+      <price>10200000</price>
       <description>Вашему вниманию предлагается земный участок в черте города , в районе Липовой горы.&lt;br /&gt;&#13;
 &amp;nbsp;&lt;br /&gt;&#13;
 Зeмельный учacтoк площадью 956 кв.м под ИЖС&amp;nbsp;&lt;br /&gt;&#13;
@@ -26061,6 +25945,79 @@ id:52180.
       <picture>https://progress.vtcrm.ru/uploads/Photos/52180/phpFTm5tY.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="52182">
+      <name>Продажа, Квартира, 2-к, 43 кв.м, г Буй, ул Социализма, 25</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">2</param>
+      <param name="Комнат">2</param>
+      <param name="Адрес">Костромская обл, г Буй, ул Социализма, 25</param>
+      <param name="Имя агента">Ольга Торопова</param>
+      <param name="Email для связи">h.a.r.v.i.e@mail.ru</param>
+      <param name="Телефон для связи">79536465446</param>
+      <param name="Общая площадь">43</param>
+      <param name="Жилая площадь">29.4</param>
+      <param name="Площадь кухни">5.5</param>
+      <param name="Этаж">2</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>2560000</price>
+      <description>Продается солнечная ,очень теплая 2х комнатная квартира на 2 этаже 5-ти этажного кирпичного дома с очень удобной планировкой ,комнаты не проходные.В квартире установлена газовая колонка ,которая обеспечивает всегда горячей водой и делает коммунальные платежи меньше. Установлены пластиковые окна, застекленный балкон.Хорошая шумоизоляция и спокойные соседи.&lt;br /&gt;&#13;
+Дом находится в центральной части города ,все рядом.&lt;br /&gt;&#13;
+&amp;nbsp;
+id:52182. 
+.</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/phpD342HW.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/phpvQeaNZ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/phppl8iiC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/phpyeyx3Z.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/phphxLiWC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/phpSukWFs.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/phpTfiivn.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/phpCmS1kW.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/php0pRdZO.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/phpQMbKk4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/phpLJ2zKF.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/php0Sxk1o.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/php62fyVU.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52182/php69X6bX.jpeg</picture>
+      <coordinates lat="58.476906" lon="41.536284"/>
+      <param name="Офис">Буй</param>
+    </offer>
+    <offer id="52465">
+      <name>Аренда, Квартира, 3-к, 56.5 кв.м, г Буй, ул Некрасова, 40</name>
+      <param name="Тип предложения">Аренда</param>
+      <param name="Ремонт">евроремонт</param>
+      <param name="Этаж">4</param>
+      <param name="Комнат">3</param>
+      <param name="Адрес">Костромская обл, г Буй, ул Некрасова, 40</param>
+      <param name="Имя агента">Ольга Торопова</param>
+      <param name="Email для связи">h.a.r.v.i.e@mail.ru</param>
+      <param name="Телефон для связи">79536465446</param>
+      <param name="Общая площадь">56.5</param>
+      <param name="Жилая площадь">40</param>
+      <param name="Площадь кухни">7.6</param>
+      <param name="Этаж">4</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>20000</price>
+      <description>Сдается 3х комнатная полногабаритная квартира с евроремонтом.Очень уютная и теплая.Есть вся мебель и техника, все для комфортного проживания.&lt;br /&gt;&#13;
+20000 + счетчики,только русским!&lt;br /&gt;&#13;
+80% комиссия агентству ,оплата 1 раз.&lt;br /&gt;&#13;
+&amp;nbsp;
+id:52465. 
+.</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52465/php3N2NlB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52465/phpOUzWVB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52465/phpib85ra.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52465/phpbt439i.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52465/phpK3hsff.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52465/php4UyZLp.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52465/phpcKeuAH.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52465/phpPXOIQP.jpeg</picture>
+      <coordinates lat="58.491471" lon="41.532305"/>
+      <param name="Офис">Буй</param>
     </offer>
     <offer id="9819">
       <categoryId>101</categoryId>
