@@ -2292,37 +2292,6 @@ id:17810.
       <coordinates lat="57.580034" lon="39.851943"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="18207">
-      <name>Продажа, Участок, 15 соток, ДНТ Веськово</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">15</param>
-      <param name="Адрес">Ярославская область, ДНТ Веськово</param>
-      <param name="Имя агента">Светлана Козлова</param>
-      <param name="Email для связи">svetlana_kozlova_vektor@mail.ru</param>
-      <param name="Телефон для связи">79065275779</param>
-      <param name="Общая площадь">1500</param>
-      <categoryId>304</categoryId>
-      <price>900000</price>
-      <description>Продаётся участок площадью 15 соток!&lt;br /&gt;&#13;
-Этот участок &amp;mdash; отличный выбор для тех, кто мечтает о собственном загородном участке. Он расположен в живописном месте рядом с озером Плещеево, где вы сможете наслаждаться свежим воздухом и красотой природы.&lt;br /&gt;&#13;
-Участок идеально подходит для строительства дома, дачи или организации сада. Вы сможете воплотить в жизнь любые идеи и проекты, создавая уютное и комфортное пространство для отдыха и жизни. Территория участка позволяет разместить не только жилой дом, но и обустроить зону отдыха, детскую площадку, сад или огород. Вы сможете наслаждаться красотой природы и выращивать свежие овощи и фрукты.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-До Переславля 10 минут на машине. Рядом оз.Плещеево с песчаным пляжем (10 минут пешком), музей Ботик Петра, Монастырь.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Газ, электричество, Интернет&amp;nbsp; проведены в посёлок. Есть магазин.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Не упустите шанс стать обладателем этого замечательного участка по выгодной цене! Звоните и приходите на просмотр!
-id:18207. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/18207/68765af162f0b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/18207/68765af14fd4e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/18207/68765af14606a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/18207/68765af1598f2.jpeg</picture>
-      <coordinates lat="56.717298" lon="38.767730"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="18382">
       <name>Продажа, Дом, 3-к, 55 кв.м, деревня Матренино, 9а</name>
       <param name="Тип предложения">Продажа</param>
@@ -4933,62 +4902,6 @@ id:43454.
       <picture>https://progress.vtcrm.ru/uploads/Photos/43454/68766928cdaf5.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/43454/687669290602b.jpeg</picture>
       <coordinates lat="57.635531" lon="39.978713"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="43490">
-      <name>Продажа, Квартира, 2-к, 50 кв.м, Ярославль, Красноперевальский переулок, 8</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">требует ремонта</param>
-      <param name="Этаж">3</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">На улицу и двор</param>
-      <param name="Адрес">Ярославская область, Ярославль, Красноперевальский переулок, 8</param>
-      <param name="Имя агента">Екатерина Новикова</param>
-      <param name="Email для связи">79807061099@yandex.ru</param>
-      <param name="Телефон для связи">79807061099</param>
-      <param name="Общая площадь">50</param>
-      <param name="Жилая площадь">30</param>
-      <param name="Площадь кухни">7.7</param>
-      <param name="Этаж">3</param>
-      <param name="Этажность">5</param>
-      <param name="Ипотека">да</param>
-      <categoryId>100</categoryId>
-      <price>2990000</price>
-      <description>&lt;strong&gt;В ПРОДАЖЕ полногабаритная 2-х комнатная квартира в Дзержинском районе по адресу: Норское, переулок Красноперевальский, д.8&lt;/strong&gt;&lt;br /&gt;&#13;
-Квартира улучшенной планировки общей площадью 50 м2 имеет следующие преимущества:&lt;br /&gt;&#13;
-- расположена на комфортном 3 этаже в середине дома, не угловая&lt;br /&gt;&#13;
-- планировка распашного типа, окна квартиры выходят на разные стороны дома;&lt;br /&gt;&#13;
-- комнаты раздельные, квадратной формы&lt;br /&gt;&#13;
-- кухня 7.7 м2, окно кухни выходит на лоджию&lt;br /&gt;&#13;
-- раздельный санузел&lt;br /&gt;&#13;
-- просторная прихожая, где можно разместить шкаф-купе&lt;br /&gt;&#13;
-Квартира подготовлена под ремонт. В квартире нет деревянных скрипучих полов, перекрытия железобетонные плиты, сделан наливной пол&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;Преимущества дома:&lt;/strong&gt;&lt;br /&gt;&#13;
-Дом кирпичный 5 этажный 1987 года постройки. Большой зеленый двор с детской площадкой. В доме находится библиотека, медицинский центр, рядом сбербанк, почта, школа №17, детский сад №133, футбольный стадион и самое привлекательное - рядом берег Волги с благоустроенным пляжем!&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Квартира юридически чистая. Три взрослых совершеннолетних собственника. Документы для быстрого выхода на сделку, готовы. Рассмотрим ипотеку, материнский капитал, любые виды государственных сертификатов&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Звоните, организую просмотр в удобное для Вас время&lt;br /&gt;&#13;
-&amp;nbsp;
-id:43490. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/phpi4Y3QG.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/phpn8i3Wy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/phpoRFWc5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/php30zZ8m.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/phpArn5JC.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/6876692c75141.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/phpNPcMyz.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/6876692e0167f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/phpXkbWq3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/phpR79ozz.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/phpf7vksE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/6876692bb4c67.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/phpfwzJrn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/43490/6876692f50c6c.jpeg</picture>
-      <coordinates lat="57.731974" lon="39.768570"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="43519">
@@ -15057,7 +14970,7 @@ id:49670.
       <param name="Этажность">5</param>
       <param name="Ипотека">да</param>
       <categoryId>100</categoryId>
-      <price>9100000</price>
+      <price>8600000</price>
       <description>Представляем вашему вниманию уютную двухкомнатную квартиру на пятом этаже пятиэтажного кирпичного дома.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 В квартире провели ряд работ по улучшению её состояния после выкупа у застройщика: выполнили шумоизоляцию и утепление, переделали систему электро- и водоснабжения в соответствии с ГОСТ, установили тёплый пол в ванной, туалете, прихожей и кухне, а также оборудовали квартиру газовым котлом.&lt;br /&gt;&#13;
@@ -15065,24 +14978,20 @@ id:49670.
 Район, в котором расположена квартира, отличается развитой инфраструктурой. В шаговой доступности находятся торговые центры &amp;laquo;Яркий&amp;raquo;, &amp;laquo;Глобус&amp;raquo;, &amp;laquo;Космос&amp;raquo;, а также садики и школы. Здесь есть всё необходимое для комфортной жизни &amp;mdash; и это лишь часть преимуществ данного объекта. Квартира станет идеальным местом для жизни, где вы сможете создать свой уютный уголок и наслаждаться комфортом каждый день.
 id:49672. 
 &amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpMKCPOb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpVVqNMg.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpgKOtdw.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpJGYOBY.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpnNbQxO.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpT7qghw.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpMKCPOb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpGDDaYG.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpVVqNMg.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpgKOtdw.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/php8o4x6Y.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpgxHIiV.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/php8o4x6Y.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpY98cNp.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpugkZqO.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpRKnLuK.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpGV9D3J.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpslZS23.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpe6o9Xe.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpSNjfcE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpwC8CL6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpdSjEdg.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpulFnEy.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/php97cb0i.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49672/phpqYbHrl.jpeg</picture>
@@ -21499,12 +21408,12 @@ id:50179.
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="50180">
-      <name>Продажа, Квартира, 1-к, 39 кв.м, г Ярославль, ул Чернопрудная, 37</name>
+      <name>Продажа, Квартира, 1-к, 39 кв.м, Ярославль, Чернопрудная улица, 37</name>
       <param name="Тип предложения">Продажа</param>
       <param name="Ремонт">косметический</param>
       <param name="Этаж">8</param>
       <param name="Комнат">1</param>
-      <param name="Адрес">Ярославская обл, г Ярославль, ул Чернопрудная, 37</param>
+      <param name="Адрес">Ярославская область, Ярославль, Чернопрудная улица, 37</param>
       <param name="Имя агента">Милана Пашаева</param>
       <param name="Email для связи">milanapashaeva1@icloud.com</param>
       <param name="Телефон для связи">79619726872</param>
@@ -22276,7 +22185,7 @@ id:50465.
       <param name="Этаж">4</param>
       <param name="Этажность">9</param>
       <categoryId>100</categoryId>
-      <price>4300000</price>
+      <price>4440000</price>
       <description>&lt;strong&gt;О квартире.&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
 Функциональная планировка: в комнате ниша под гардеробную, просторная кухня с выходом на застекленный балкон.&lt;br /&gt;&#13;
 Все окна ПВХ, счетчики на газ и воду&lt;br /&gt;&#13;
@@ -22404,7 +22313,7 @@ id:50469.
       <param name="Этаж">4</param>
       <param name="Этажность">4</param>
       <categoryId>100</categoryId>
-      <price>3590000</price>
+      <price>3700000</price>
       <description>Продаётся уютная квартира на 4 этаже (мансарда) в кирпичном доме. Общая площадь &amp;mdash; 37,3 м&amp;sup2;, жилая &amp;mdash; 18 м&amp;sup2;, площадь кухни &amp;mdash; 8 м&amp;sup2;. В квартире индивидуальное газовое отопление, что существенно экономит бюджет. Здесь сделан свежий ремонт, установлены натяжные потолки и качественная сантехника. Квартира тёплая, есть кондиционер. В квартире остаются шкаф-купе и посудомоечная машина.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 На этаже всего четыре квартиры, соседи &amp;mdash; замечательные люди. В шаговой доступности &amp;mdash; вся необходимая инфраструктура: детский сад, школа, магазины, поликлиника. Район отличается зелёными зонами, рядом находится бор. Удобная транспортная развязка: остановки общественного транспорта расположены на улицах Маяковского и Красноборской.&lt;br /&gt;&#13;
@@ -23122,7 +23031,7 @@ id:51502.
       <param name="Этаж">8</param>
       <param name="Этажность">8</param>
       <categoryId>100</categoryId>
-      <price>55000</price>
+      <price>50000</price>
       <description>Уютная двухкомнатная квартира в кирпичном доме, расположенная на восьмом, верхнем этаже, предлагает вам комфорт и безмятежность. Её общая площадь в 64.1 м&amp;sup2; продумана до мелочей: просторная жилая зона в 50 м&amp;sup2;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Сердцем этого жилья стала кухня площадью 14 м&amp;sup2; &amp;mdash; светлое и функциональное пространство, где приятно собираться за семейными ужинами или начинать день за чашечкой кофе. Панорамные окна открывают вид на город, наполняя квартиру солнечным светом в течение всего дня.&lt;br /&gt;&#13;
@@ -23772,7 +23681,7 @@ id:51605.
       <param name="Этаж">11</param>
       <param name="Этажность">12</param>
       <categoryId>100</categoryId>
-      <price>9500000</price>
+      <price>9300000</price>
       <description>Продаётся уютная двухкомнатная квартира с прекрасным дизайнерским ремонтом в самом центре города Ярославля!&lt;br /&gt;&#13;
 &amp;nbsp;&#13;
 &lt;ul&gt;&#13;
@@ -24010,44 +23919,6 @@ id:51622.
       <picture>https://progress.vtcrm.ru/uploads/Photos/51622/phpgNKDht.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/51622/phpljKsVo.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/51622/phph651Af.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="51627">
-      <name>Продажа, Квартира, 1-к, 42.5 кв.м, Ярославль, улица Ньютона, 9Б</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">15</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Ярославская область, Ярославль, улица Ньютона, 9Б</param>
-      <param name="Имя агента">Милана Пашаева</param>
-      <param name="Email для связи">milanapashaeva1@icloud.com</param>
-      <param name="Телефон для связи">79619726872</param>
-      <param name="Общая площадь">42.5</param>
-      <param name="Жилая площадь">20</param>
-      <param name="Площадь кухни">10</param>
-      <param name="Этаж">15</param>
-      <param name="Этажность">17</param>
-      <categoryId>100</categoryId>
-      <price>4900000</price>
-      <description>Продается отличная 1-к. квартира, в свежем доме(2017 года)&lt;br /&gt;&#13;
-Современный косметический ремонт, окна пвх, на полу ламинат, выровненные стены, высокие потолки 2.7м, большая кухня (10м) с&amp;nbsp;выходом на застекленную лоджию(3.7м) где открывается прекрасный вид, кухонный гарнитур остается новому собственнику, совмещенный санузел в плитке, большая, просторная комната 20м, встроенная гардеробная в прихожей, хорошая звукоизоляция.&lt;br /&gt;&#13;
-Ухоженный, чистый подъезд,&amp;nbsp;2 лифта (грузовой и пассажирский), парковка во дворе, хорошая детская площадка, и баскетбольное поле. В шаговой доступности продуктовые магазины, кафе, пункты выдачи, детские сады (38, 218), школа 14. Рядом остановка общественного транспорта Заинтересованным покупателям за отдельную плату предлагаем приобрести кладовку, которая находится на жилом этаже нашего дома площадью 2.6м
-id:51627. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e88221806.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e882362c7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e8824a193.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e8825d508.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e882704e1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e8828363c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e88296758.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e882a96b6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e882bc6f4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e882cf6e0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e882e24be.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e88300d21.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/51627/6911e88313853.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -24816,7 +24687,7 @@ id:52466.
       <param name="Этаж">1</param>
       <param name="Этажность">9</param>
       <categoryId>100</categoryId>
-      <price>4050000</price>
+      <price>4150000</price>
       <description>В продаже теплая не угловая квартира с косметическим ремонтом,с теплым полом в ванной.&lt;br /&gt;&#13;
 В квартире раздельный санузел. Установлены новые окна ПВХ.&lt;br /&gt;&#13;
 Удобное местоположение, рядом вся инфраструктура,две школы,садики ТЦ &amp;quot;Вернисаж&amp;quot;. Во дворе есть детская площадка. Также для занятий спортом есть тренажерный зал и бассейн.&lt;br /&gt;&#13;
@@ -26126,13 +25997,13 @@ id:52896.
       <param name="Этаж">7</param>
       <param name="Этажность">9</param>
       <categoryId>100</categoryId>
-      <price>5500000</price>
+      <price>5600000</price>
       <description>Продается 2-х комнатная квартира, чистая,теплая,светлая. С/у и комнаты изолированы.&lt;br /&gt;&#13;
 Просторная застекленная лоджия окна ПВХ 6 кв.м. На полу ламинат , ванная и туалет в плитке, свежая сантехника,трубы пластик.&lt;br /&gt;&#13;
 Кухонный гарнитур остается в подарок. Остальная мебель по договоренности.&amp;nbsp;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Дом кирпичный 1986 года постройки, на данный момент идет капитальный ремонт подъезда.&lt;br /&gt;&#13;
-В ЖСК ремонт дома делается каждые 5 лет.&amp;nbsp;&lt;br /&gt;&#13;
+В доме ЖСК ремонт дома делается каждые 5 лет.&amp;nbsp;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 В шаговой доступности школы,детские сады,магазины аптеки,остановка общественного транспорта. ТЦ&amp;quot;Шоколад&amp;quot; ТЦ &amp;quot;Вернисаж&amp;quot; Лемано Про.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
@@ -26193,6 +26064,52 @@ id:52901.
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
+    <offer id="52904">
+      <name>Продажа, Квартира, 3-к, 71.1 кв.м, Ярославль, Республиканский проезд, 9</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">3</param>
+      <param name="Комнат">3</param>
+      <param name="Адрес">Ярославская область, Ярославль, Республиканский проезд, 9</param>
+      <param name="Имя агента">Милана Пашаева</param>
+      <param name="Email для связи">milanapashaeva1@icloud.com</param>
+      <param name="Телефон для связи">79619726872</param>
+      <param name="Общая площадь">71.1</param>
+      <param name="Жилая площадь">55.3</param>
+      <param name="Площадь кухни">9.1</param>
+      <param name="Этаж">3</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>7000000</price>
+      <description>Продается 3-к. квартира в кирпичном доме, не угловая, теплая, общей площадью 71.1 кв.м.&lt;br /&gt;&#13;
+Косметический ремонт, окна пвх выходят во двор, натяжные потолки, изолированные комнаты, раздельный санузел частично в плитке, бойлер на 50л, просторная, оборудованная кухня, мебель, техника, и кухонный гарнитур остается по договоренности.&lt;br /&gt;&#13;
+Хорошая звукоизоляция, чистый подъезд, тамбур на 3 квартиры, дом с видеонаблюдением, в пeшей дoступности набeрежная, шкoлы, дeтский сaд, аптеки, мaгазины, кафе, во дворе большая, открытая парковка, детская площадка, хорoшая тpанспoртная инфpaструктура.&lt;br /&gt;&#13;
+Два взрослых собственника.&lt;br /&gt;&#13;
+&amp;nbsp;
+id:52904. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpFHFMDd.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phphEM16X.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpCiWHix.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpLu4IEg.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpGb6xG5.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpK9iV5z.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpB4rWJD.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpv8aNAK.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpSAWwmU.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpTMgVWY.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpCETqiG.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpSGldgQ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpdtGVVW.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpIzy6ge.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpOFZtvu.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpgxRs9n.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpg3oQDC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpT4cvyq.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52904/phpWL9sJB.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
     <offer id="52913">
       <name>Продажа, Квартира, 2-к, 44 кв.м, г Ярославль, ул Нефтяников, 24</name>
       <param name="Тип предложения">Продажа</param>
@@ -26242,6 +26159,69 @@ id:52913.
       <picture>https://progress.vtcrm.ru/uploads/Photos/52913/php8g6cky.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/52913/php1PYmeX.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/52913/php0rkZog.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="52918">
+      <name>Продажа, Квартира, 4-к, 82.7 кв.м, Ярославль, Кавказская улица, 23А</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">евроремонт</param>
+      <param name="Этаж">4</param>
+      <param name="Комнат">4</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Адрес">Ярославская область, Ярославский, Ярославль, Кавказская улица, 23А</param>
+      <param name="Имя агента">Арсений Васильев</param>
+      <param name="Email для связи">varsenijigorevich@bk.ru</param>
+      <param name="Телефон для связи">79065292103</param>
+      <param name="Общая площадь">82.7</param>
+      <param name="Жилая площадь">52</param>
+      <param name="Площадь кухни">13</param>
+      <param name="Этаж">4</param>
+      <param name="Этажность">8</param>
+      <categoryId>100</categoryId>
+      <price>10900000</price>
+      <description>Уютная 4-х комнатная квартира уникальной планировки для дружной семьи в активно развивающемся экологическом уютном зеленом районе г. Ярославля. Находится в жилом комплексе Экоквартал.&amp;nbsp;Развитая инфраструктура, транспортная доступность. До центра 15-20 минут на авто.&amp;nbsp;В пешей доступности магазины, аптеки, почта, детские сады, школа 47, 51, ДК Энергетик, до остановки транспорта на ул. Клубная 3 минуты, до остановки Машприбор на пр-те Машиностроителей 10 минут. До ТЦ Глобус 10 минут на автомобиле. Рядом прекрасный Сосновый бор, где летом можно собирать землянику, зимой кататься на лыжах.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+В подъезде чисто, тихо, просторно, установлен грузовой лифт с нулевого этажа. Добрые, отзывчивые соседи.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Эко-ремонт с применением передовых и экологически чистых материалов.&lt;br /&gt;&#13;
+Мебель в комнатах и гардеробе - Икея,&lt;br /&gt;&#13;
+Мебель на кухне: Икея Ликсторп.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Напольное покрытие:&lt;br /&gt;&#13;
+Спальни - мармолеум (эко-линолеум)&lt;br /&gt;&#13;
+Кухня-гостиная - ламинат QuickStep (наивысший класс, 25 лет гарантии),&lt;br /&gt;&#13;
+Коридор - керамогранит,&lt;br /&gt;&#13;
+Санузлы и кухня - керамическая плитка Kerama Marazzi,&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Квартира полностью укомплектована надежной бытовой техникой от Bosсh (Германия).&lt;br /&gt;&#13;
+Сантехника - Grohe (Германия)., в том числе новый холодильник Serie 8.&lt;br /&gt;&#13;
+На этаже находится дополнительная кладовка для хранения велосипедов и спортинвентаря.&lt;br /&gt;&#13;
+Отопление центральное.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Квартира продается с мебелью и техникой, готова к немедленному заселению.&amp;nbsp;
+id:52918. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/php7dBmmH.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpjD1IXU.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpxOA36O.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/php6ZXZRv.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpgSqFdK.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpfEHlEQ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpTY4LU9.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpQXVIin.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpnTxfRe.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpy7NBef.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpwXal4c.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpIDi1vk.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpj9dSAu.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpw6mrPc.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpUNmbfm.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpyhSy4j.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpPlK4Dl.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/php4BdGB1.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpkgPlLM.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/52918/phpkUiNBi.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -26333,7 +26313,7 @@ id:9819.
     <offer id="9820">
       <categoryId>101</categoryId>
       <name>1-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>3058580</price>
+      <price>3183420</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -26418,7 +26398,7 @@ id:9820.
     <offer id="9821">
       <categoryId>101</categoryId>
       <name>1-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>3123260</price>
+      <price>3250740</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -26588,7 +26568,7 @@ id:9822.
     <offer id="9823">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -26673,7 +26653,7 @@ id:9823.
     <offer id="9824">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -26758,7 +26738,7 @@ id:9824.
     <offer id="9825">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -26843,7 +26823,7 @@ id:9825.
     <offer id="9826">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -26928,7 +26908,7 @@ id:9826.
     <offer id="9827">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -27013,7 +26993,7 @@ id:9827.
     <offer id="9828">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -27098,7 +27078,7 @@ id:9828.
     <offer id="9829">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -27183,7 +27163,7 @@ id:9829.
     <offer id="9830">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2718520</price>
+      <price>2829480</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -27268,7 +27248,7 @@ id:9830.
     <offer id="9831">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>3123260</price>
+      <price>3250740</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -27353,7 +27333,7 @@ id:9831.
     <offer id="9832">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>3058580</price>
+      <price>3183420</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -27608,7 +27588,7 @@ id:9834.
     <offer id="9835">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>3058580</price>
+      <price>3183420</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -27778,7 +27758,7 @@ id:9837.
     <offer id="9841">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -27863,7 +27843,7 @@ id:9841.
     <offer id="9842">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -27948,7 +27928,7 @@ id:9842.
     <offer id="9843">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -28033,7 +28013,7 @@ id:9843.
     <offer id="9844">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -28118,7 +28098,7 @@ id:9844.
     <offer id="9845">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2718520</price>
+      <price>2829480</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -28203,7 +28183,7 @@ id:9845.
     <offer id="9846">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>3123260</price>
+      <price>3250740</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -28288,7 +28268,7 @@ id:9846.
     <offer id="9847">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>3058580</price>
+      <price>3183420</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -28543,7 +28523,7 @@ id:9849.
     <offer id="9850">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2996160</price>
+      <price>3121000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -28713,7 +28693,7 @@ id:9852.
     <offer id="9853">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -28798,7 +28778,7 @@ id:9853.
     <offer id="9854">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -28883,7 +28863,7 @@ id:9854.
     <offer id="9855">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -28968,7 +28948,7 @@ id:9855.
     <offer id="9856">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -29053,7 +29033,7 @@ id:9856.
     <offer id="9858">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -29138,7 +29118,7 @@ id:9858.
     <offer id="9859">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -29223,7 +29203,7 @@ id:9859.
     <offer id="9860">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2663040</price>
+      <price>2774000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -29308,7 +29288,7 @@ id:9860.
     <offer id="9861">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>3059520</price>
+      <price>3187000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -29393,7 +29373,7 @@ id:9861.
     <offer id="9862">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2996160</price>
+      <price>3121000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -29563,7 +29543,7 @@ id:9863.
     <offer id="9865">
       <categoryId>101</categoryId>
       <name>1-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -29733,7 +29713,7 @@ id:9867.
     <offer id="9868">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -29818,7 +29798,7 @@ id:9868.
     <offer id="9876">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>2995780</price>
+      <price>3123260</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -29903,7 +29883,7 @@ id:9876.
     <offer id="9877">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -30159,7 +30139,7 @@ id:9879.
     <offer id="9880">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -30245,7 +30225,7 @@ id:9880.
     <offer id="9885">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -30330,7 +30310,7 @@ id:9885.
     <offer id="9886">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -30415,7 +30395,7 @@ id:9886.
     <offer id="9887">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -30500,7 +30480,7 @@ id:9887.
     <offer id="9890">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2607560</price>
+      <price>2718520</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -30586,7 +30566,7 @@ id:9890.
     <offer id="9891">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>2995780</price>
+      <price>3123260</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -30672,7 +30652,7 @@ id:9891.
     <offer id="9892">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -30930,7 +30910,7 @@ id:9894.
     <offer id="9895">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -31016,7 +30996,7 @@ id:9895.
     <offer id="9898">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -31102,7 +31082,7 @@ id:9898.
     <offer id="9900">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -31188,7 +31168,7 @@ id:9900.
     <offer id="9901">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -31273,7 +31253,7 @@ id:9901.
     <offer id="9902">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -31358,7 +31338,7 @@ id:9902.
     <offer id="9903">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -31444,7 +31424,7 @@ id:9903.
     <offer id="9905">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2607560</price>
+      <price>2718520</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -31530,7 +31510,7 @@ id:9905.
     <offer id="9907">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -31788,7 +31768,7 @@ id:9909.
     <offer id="9910">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2871320</price>
+      <price>2996160</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -31959,7 +31939,7 @@ id:9924.
     <offer id="9925">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2871320</price>
+      <price>2996160</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -32129,7 +32109,7 @@ id:9927.
     <offer id="9937">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2871320</price>
+      <price>2996160</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -32300,7 +32280,7 @@ id:9939.
     <offer id="9940">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2714480</price>
+      <price>2839320</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -32386,7 +32366,7 @@ id:9940.
     <offer id="9952">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2715270</price>
+      <price>2840110</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -32648,7 +32628,7 @@ id:29175.
     <offer id="29176">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>3058580</price>
+      <price>3183420</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -32733,7 +32713,7 @@ id:29176.
     <offer id="29177">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>3123260</price>
+      <price>3250740</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -32823,7 +32803,7 @@ id:29177.
     <offer id="29178">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2718520</price>
+      <price>2829480</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -32908,7 +32888,7 @@ id:29178.
     <offer id="29179">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -32998,7 +32978,7 @@ id:29179.
     <offer id="29180">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -33083,7 +33063,7 @@ id:29180.
     <offer id="29181">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -33173,7 +33153,7 @@ id:29181.
     <offer id="29182">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -33258,7 +33238,7 @@ id:29182.
     <offer id="29183">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -33348,7 +33328,7 @@ id:29183.
     <offer id="29184">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -33433,7 +33413,7 @@ id:29184.
     <offer id="29185">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -33608,7 +33588,7 @@ id:29186.
     <offer id="29187">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>3123260</price>
+      <price>3250740</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -33698,7 +33678,7 @@ id:29187.
     <offer id="29188">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>3058580</price>
+      <price>3183420</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -33963,7 +33943,7 @@ id:29190.
     <offer id="29191">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>3058580</price>
+      <price>3183420</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -34048,7 +34028,7 @@ id:29191.
     <offer id="29192">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>3123260</price>
+      <price>3250740</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -34138,7 +34118,7 @@ id:29192.
     <offer id="29193">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2718520</price>
+      <price>2829480</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -34223,7 +34203,7 @@ id:29193.
     <offer id="29194">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -34313,7 +34293,7 @@ id:29194.
     <offer id="29195">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -34398,7 +34378,7 @@ id:29195.
     <offer id="29197">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -34488,7 +34468,7 @@ id:29197.
     <offer id="29198">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -34573,7 +34553,7 @@ id:29198.
     <offer id="29199">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -34663,7 +34643,7 @@ id:29199.
     <offer id="29200">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -34748,7 +34728,7 @@ id:29200.
     <offer id="29201">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
+      <price>2671380</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -34923,7 +34903,7 @@ id:29202.
     <offer id="29203">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>3123260</price>
+      <price>3250740</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -35013,7 +34993,7 @@ id:29203.
     <offer id="29204">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>3058580</price>
+      <price>3183420</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -35278,7 +35258,7 @@ id:29206.
     <offer id="29207">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2996160</price>
+      <price>3121000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -35363,7 +35343,7 @@ id:29207.
     <offer id="29208">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>3059520</price>
+      <price>3187000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -35453,7 +35433,7 @@ id:29208.
     <offer id="29209">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2663040</price>
+      <price>2774000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -35538,7 +35518,7 @@ id:29209.
     <offer id="29210">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -35628,7 +35608,7 @@ id:29210.
     <offer id="29211">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -35713,7 +35693,7 @@ id:29211.
     <offer id="29212">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -35803,7 +35783,7 @@ id:29212.
     <offer id="29213">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -35888,7 +35868,7 @@ id:29213.
     <offer id="29214">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -35978,7 +35958,7 @@ id:29214.
     <offer id="29215">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -36063,7 +36043,7 @@ id:29215.
     <offer id="29216">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2514240</price>
+      <price>2619000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -36238,7 +36218,7 @@ id:29217.
     <offer id="29219">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2996160</price>
+      <price>3121000</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -36503,7 +36483,7 @@ id:29221.
     <offer id="29222">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -36588,7 +36568,7 @@ id:29222.
     <offer id="29223">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>2995780</price>
+      <price>3123260</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -36678,7 +36658,7 @@ id:29223.
     <offer id="29224">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2607560</price>
+      <price>2718520</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -36763,7 +36743,7 @@ id:29224.
     <offer id="29225">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -36848,7 +36828,7 @@ id:29225.
     <offer id="29226">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -36933,7 +36913,7 @@ id:29226.
     <offer id="29227">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -37023,7 +37003,7 @@ id:29227.
     <offer id="29228">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -37108,7 +37088,7 @@ id:29228.
     <offer id="29229">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -37198,7 +37178,7 @@ id:29229.
     <offer id="29230">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -37283,7 +37263,7 @@ id:29230.
     <offer id="29231">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -37458,7 +37438,7 @@ id:29232.
     <offer id="29233">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>2995780</price>
+      <price>3123260</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -37728,7 +37708,7 @@ id:29236.
     <offer id="29237">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -37813,7 +37793,7 @@ id:29237.
     <offer id="29238">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>2995780</price>
+      <price>3123260</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -37903,7 +37883,7 @@ id:29238.
     <offer id="29239">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2607560</price>
+      <price>2718520</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -37988,7 +37968,7 @@ id:29239.
     <offer id="29240">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -38078,7 +38058,7 @@ id:29240.
     <offer id="29241">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -38163,7 +38143,7 @@ id:29241.
     <offer id="29242">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -38253,7 +38233,7 @@ id:29242.
     <offer id="29244">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -38343,7 +38323,7 @@ id:29244.
     <offer id="29245">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -38428,7 +38408,7 @@ id:29245.
     <offer id="29246">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -38603,7 +38583,7 @@ id:29247.
     <offer id="29249">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -38863,7 +38843,7 @@ id:29251.
     <offer id="29252">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -38948,7 +38928,7 @@ id:29252.
     <offer id="29253">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>2995780</price>
+      <price>3123260</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -39038,7 +39018,7 @@ id:29253.
     <offer id="29254">
       <categoryId>101</categoryId>
       <name>9-к, 27.74 кв.м, ЖК Ин Парк</name>
-      <price>2607560</price>
+      <price>2718520</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -39123,7 +39103,7 @@ id:29254.
     <offer id="29255">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -39213,7 +39193,7 @@ id:29255.
     <offer id="29256">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -39298,7 +39278,7 @@ id:29256.
     <offer id="29257">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -39388,7 +39368,7 @@ id:29257.
     <offer id="29258">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -39473,7 +39453,7 @@ id:29258.
     <offer id="29259">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -39563,7 +39543,7 @@ id:29259.
     <offer id="29261">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2461860</price>
+      <price>2566620</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -39738,7 +39718,7 @@ id:29262.
     <offer id="29263">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>2995780</price>
+      <price>3123260</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -39828,7 +39808,7 @@ id:29263.
     <offer id="29264">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2933740</price>
+      <price>3058580</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -40093,7 +40073,7 @@ id:29266.
     <offer id="29274">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2409480</price>
+      <price>2514240</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -40358,7 +40338,7 @@ id:29281.
     <offer id="29287">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2409480</price>
+      <price>2514240</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -40448,7 +40428,7 @@ id:29287.
     <offer id="29288">
       <categoryId>101</categoryId>
       <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2409480</price>
+      <price>2514240</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -40533,7 +40513,7 @@ id:29288.
     <offer id="29293">
       <categoryId>101</categoryId>
       <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>2932040</price>
+      <price>3059520</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -40803,7 +40783,7 @@ id:29296.
     <offer id="29309">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
-      <price>2715270</price>
+      <price>2840110</price>
       <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
 КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
 Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
@@ -50412,7 +50392,7 @@ id:29310.
     <offer id="8bf9fe48-11fc-4c43-83ea-f3d688800033adab8cec-925f-477a-a745-38b31f98f5e0">
       <categoryId>101</categoryId>
       <name>1-к, 28.37 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3076640</price>
+      <price>3131580</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -51260,7 +51240,7 @@ id:29310.
     <offer id="8bf9fe48-11fc-4c43-83ea-f3d6888000339affe637-746a-4d11-a6c1-c69697e8bd8f">
       <categoryId>101</categoryId>
       <name>1-к, 29.27 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3329610</price>
+      <price>3385104</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -52161,7 +52141,7 @@ id:29310.
     <offer id="8bf9fe48-11fc-4c43-83ea-f3d688800033430d0f13-692c-4ff8-aa97-bf54e728df9c">
       <categoryId>101</categoryId>
       <name>1-к, 29.27 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3329610</price>
+      <price>3385104</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -52479,7 +52459,7 @@ id:29310.
     <offer id="8bf9fe48-11fc-4c43-83ea-f3d68880003322277945-d75a-4f83-8d3a-cc9efca2fb92">
       <categoryId>101</categoryId>
       <name>1-к, 28.37 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>2747000</price>
+      <price>2801940</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -60108,59 +60088,6 @@ id:29310.
       <picture>https://cdn.idalite.com/s/feed/cian/61f3/b982/61f3b982f8e2538591379923309a49b0.png</picture>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="8bf9fe48-11fc-4c43-83ea-f3d688800033ad7fdba1-1687-4be9-87b2-b88b69f56a73">
-      <categoryId>101</categoryId>
-      <name>1-к, 28.37 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>2801940</price>
-      <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
-
-Мы предлагаем различные варианты покупки: 
-• Ипотека от 6% годовых. Работаем с с сертификатами, материнским капиталом
-• Рассрочка от застройщика
-• Покупку за собственные средства на выгодных условиях
-
-Не упустите самые выгодные условия на покупку своей собственной квартиры на старте продаж!</description>
-      <param name="Материал стен">bricks</param>
-      <param name="Комнат">1</param>
-      <param name="Площадь Дома">28.37</param>
-      <param name="Жилая площадь">11.3</param>
-      <param name="Площадь кухни">8.59</param>
-      <param name="Этаж">2</param>
-      <param name="Балкон">0</param>
-      <param name="Парковка"></param>
-      <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
-      <coordinates lat="57.714527" lon="39.760256"/>
-      <picture>https://cdn.idalite.com/s/feed/cian/b627/1de2/b6271de219045cf79fea74cbd3d89648.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/c8d7/7013/c8d770136b6f5ab48d7c482f2beebdd3.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/94da/6a8b/94da6a8b60fb5affaef650381630f5c1.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/7d12/281c/7d12281c5e6a57ec9f0701c5177d6d3c.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/e18e/721f/e18e721ff14d50acb18e7c35df08f5f0.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/d5f7/d4e3/d5f7d4e3556b5b88b27f93fe1008147e.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/d5e9/056c/d5e9056c9675517db833b45c8a0fc712.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/63b5/9638/63b5963870855d9595794a84f4727dcb.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/c02e/6340/c02e6340f87e5775ab20fd25ed6cbbe5.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/f4fd/4157/f4fd41577d895a8e80f9142f4aae8891.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/b327/ce31/b327ce3141e3515b80983a1ddc8c3bf5.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/a528/d5fe/a528d5feeab751f8a652d463e31de5f0.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/422a/069e/422a069e5dd2528bbac0203661fa4d2e.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/1031/3b6c/10313b6cd1af53e699a8da3eda96b3a5.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/8560/5a65/85605a65da2f5ee8948a93f3bce2b930.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/76a5/1389/76a51389cc125caca3c723f243081576.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/9f01/265a/9f01265aec885ab8be0bea0eeefa3c26.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/5298/c7ff/5298c7ffb3b45128ad32873702a457fc.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/85c6/f3ae/85c6f3ae495957da8b703815463809d6.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/1358/6c51/13586c51166a5598978369c8d3fa28c0.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/e2d8/61c9/e2d861c913375e24bde2151b4b9b5f89.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/c4e5/c168/c4e5c1682c6755e39997dd8a73d6b02a.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/3892/a3b7/3892a3b701cf52e8875429f3c6fe4f46.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/f9ba/b992/f9bab992ec275633aa596f178c56c20e.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/c1b5/9e6d/c1b59e6db8d357ca97d62d435855536c.png</picture>
-      <picture>https://cdn.idalite.com/s/feed/cian/61f3/b982/61f3b982f8e2538591379923309a49b0.png</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="8bf9fe48-11fc-4c43-83ea-f3d6888000339654c83e-7b76-4797-9fb3-1df889749f56">
       <categoryId>101</categoryId>
       <name>1-к, 32.4 кв.м, ЖК ЖК Новое Брагино</name>
@@ -61754,7 +61681,7 @@ id:29310.
     <offer id="8bf9fe48-11fc-4c43-83ea-f3d6888000338e8d3f3d-8085-4cc6-bb60-257285a9f568">
       <categoryId>101</categoryId>
       <name>1-к, 28.37 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>2911820</price>
+      <price>2966760</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -62655,7 +62582,7 @@ id:29310.
     <offer id="8bf9fe48-11fc-4c43-83ea-f3d688800033918e585f-53b5-4918-81c2-394286f541f8">
       <categoryId>101</categoryId>
       <name>1-к, 28.37 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>2966760</price>
+      <price>3021700</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -63503,7 +63430,7 @@ id:29310.
     <offer id="8bf9fe48-11fc-4c43-83ea-f3d6888000337a760349-da4b-4e5a-b6ba-7d52d613772f">
       <categoryId>101</categoryId>
       <name>1-к, 28.37 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3021700</price>
+      <price>3076640</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
