@@ -4088,6 +4088,38 @@ id:38586.
       <coordinates lat="57.759838" lon="39.892448"/>
       <param name="Офис">Ярославль</param>
     </offer>
+    <offer id="38770">
+      <name>Продажа, Квартира, 1-к, 31 кв.м, г Буй, ул Максима Горького, 75</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">1</param>
+      <param name="Комнат">1</param>
+      <param name="Адрес">Костромская обл, г Буй, ул Максима Горького, 75</param>
+      <param name="Имя агента">Евгения Серова</param>
+      <param name="Email для связи">evgeniyaserovamaks@yandex.ru</param>
+      <param name="Телефон для связи">79969319171</param>
+      <param name="Общая площадь">31</param>
+      <param name="Жилая площадь">23</param>
+      <param name="Площадь кухни">8</param>
+      <param name="Этаж">1</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>2000000</price>
+      <description>В продаже 1 комнатная квартира!&amp;nbsp;&lt;br /&gt;&#13;
+Сделан косметический ремонт, можно заехать и жить: пластиковые окна ПВХ, застелен балкон, на полу ламинат.&amp;nbsp;&lt;br /&gt;&#13;
+Год постройки дома 1997, кирпичный, все в шаговой доступности: детские сады, общеобразовательные школы, магазины продуктового питания, ДКЖ.&amp;nbsp;
+id:38770. 
+.</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/38770/68766766b5b79.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/38770/6876676740bba.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/38770/68766767bb924.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/38770/687667683e78e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/38770/6876676632bcb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/38770/68766768c3846.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/38770/68766769507e4.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Буй</param>
+    </offer>
     <offer id="38919">
       <name>Продажа, Квартира, 1-к, 35 кв.м, г Ярославль, Индустриальный пер, 12</name>
       <param name="Тип предложения">Продажа</param>
