@@ -4248,61 +4248,6 @@ id:40963.
       <coordinates lat="57.783593" lon="39.651089"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="41136">
-      <name>Продажа, Дом, 4-к, 243 кв.м, Ярославль, Рябиновый переулок</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Материал стен">Газосиликатный блок</param>
-      <param name="Площадь Дома">243</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Ремонт">Без ремонта</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Комнат">4</param>
-      <param name="Адрес">Ярославская область, Ярославль, Рябиновый переулок</param>
-      <param name="Имя агента">Елена Штепен</param>
-      <param name="Email для связи">evr0299@yandex.ru</param>
-      <param name="Телефон для связи">79038230299</param>
-      <param name="Этажей">1</param>
-      <param name="Ипотека">да</param>
-      <categoryId>300</categoryId>
-      <price>7990000</price>
-      <description>Просторный и уютный дом в черте города: комфорт и удобство для вашей семьи&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Представляем вашему вниманию просторный дом, который станет идеальным местом для жизни вашей семьи. Этот дом сочетает в себе комфорт, удобство и функциональность, предлагая всё необходимое для счастливой жизни.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Основные характеристики:&lt;br /&gt;&#13;
-* Этажность: 1 этаж.&lt;br /&gt;&#13;
-* Площадь здания: 243 кв.м. (включая веранду 74 кв.м.)&lt;br /&gt;&#13;
-* Площадь участка: 8,5 соток.&lt;br /&gt;&#13;
-* Количество комнат: 4 (3 изолированные комнаты и гостиная, совмещённая с кухней)&lt;br /&gt;&#13;
-* Материал стен: газосиликатный блок.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Достоинства дома:&lt;br /&gt;&#13;
-* Высокие потолки и продуманная планировка. В доме три комнаты, включая спальню с гардеробной. Также есть огромная кухня-гостиная, раздельный санузел и котельная.&lt;br /&gt;&#13;
-* Возможность воплотить свои идеи. Дом с участком продаётся по цене трёхкомнатной квартиры, и у вас есть уникальная возможность сделать всё по своему вкусу и создать пространство, которое будет отражать вашу индивидуальность.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Уже готова скважина, проведено электричество. В непосредственной близости к дому проведён газ.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Преимущества расположения:&lt;br /&gt;&#13;
-* Дом находится в черте города, что обеспечивает лёгкий доступ ко всем необходимым инфраструктурным объектам.&lt;br /&gt;&#13;
-* Рядом с домом есть дороги, остановки общественного транспорта, магазины, школы и детские сады.&lt;br /&gt;&#13;
-* В непосредственной близости расположен торговый центр &amp;laquo;Вернисаж&amp;raquo;.&lt;br /&gt;&#13;
-&amp;nbsp;
-id:41136. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/68766866076d4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/687668652b189.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/6876686591859.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/68766866d724e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/68766867490db.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/6876686431f45.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/68766863c16b9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/687668635a46d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/687668650b4e0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/6876686670a7b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/41136/687668651bb5f.jpeg</picture>
-      <coordinates lat="57.561895" lon="39.867493"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="41305">
       <name>Продажа, Коттедж, 5-к, 128 кв.м, коттеджный посёлок Ермолово Вилладж</name>
       <param name="Тип предложения">Продажа</param>
@@ -18755,75 +18700,6 @@ id:54646.
       <picture>https://progress.vtcrm.ru/uploads/Photos/54646/phpY2DDfV.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/54646/phpAVwFLd.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/54646/phpurqoDO.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="55449">
-      <name>Продажа, Квартира, 3-к, 62.4 кв.м, Ярославль, проезд Моторостроителей, 13</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">3</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">На улицу и двор</param>
-      <param name="Адрес">Ярославская область, Ярославль, проезд Моторостроителей, 13</param>
-      <param name="Имя агента">Елена Штепен</param>
-      <param name="Email для связи">evr0299@yandex.ru</param>
-      <param name="Телефон для связи">79038230299</param>
-      <param name="Общая площадь">62.4</param>
-      <param name="Жилая площадь">37</param>
-      <param name="Площадь кухни">8</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">9</param>
-      <categoryId>100</categoryId>
-      <price>6500000</price>
-      <description>&lt;strong&gt;В этой квартире с любовью реализовано всё для комфортной жизни.&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Выполнен современный ремонт в лаконичном выдержанном стиле - есть всё нужное и при этом много пространства.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Всё делали с нуля, для себя: выровнены стены и полы, заменена проводка, установлены окна ПВХ, новые радиаторы. На полу уложен ламинат (в санузле - плитка); во всей квартире - натяжные пололки и много света за счёт грамотно установленных современных светильников.&lt;br /&gt;&#13;
-&lt;strong&gt;На кухне - &lt;/strong&gt;новый кухонный гарнитур со встроенной техникой (варочная панель, вытяжка, духовой шкаф, микроволновая печь, посудомоечная машина), скрытые розетки.&lt;br /&gt;&#13;
-Точечное освещение позволяет комфортно готовить, а также создавать уютную атмосферу за семейным ужином.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;strong&gt;В гостиной&lt;/strong&gt; много пространства и света. Выход на большую застеклённую лоджию, где также проведено электричество и освещение, начали работы по утеплению.&amp;nbsp;&lt;br /&gt;&#13;
-Спальня и детская - на разные стороны.&lt;br /&gt;&#13;
-Раздельный санузел полностью отделан плиткой, поставлена новая сантехника. Душевая кабина с тропическим душем - функциональное решение, благодаря чему пространство в ванной используется более эффективно. В туалете реализован подвесной унитаз с инсталляцией, за скрытым люком установлен водонагреватель - Вы всегда с горячей водой.&amp;nbsp;&lt;br /&gt;&#13;
-В прихожей лаконично размещены вместительные шкафы - много места для хранения.&lt;br /&gt;&#13;
-Сделан косметический ремонт в тамбуре; здесь всегда чисто и радуется глаз))&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Квартира на втором этаже, в центре кирпичного дома. Окна выходят&amp;nbsp; как на проезд Моторостроителей с видом на школу № 56, так и в большой зелёный двор с детско-спортивной площадкой. Тихие семейные соседи. В доме - пассажирский лифт&lt;br /&gt;&#13;
-Рядом - остановка общественного транспорта и магазины, ТРЦ Альтаир. Школа № 56 - за окном, детские сады №№ 2, 18 и 69 - в соседнем дворе. Этот микрорайон развивается и становится всё более молодым с современной инфраструктурой, кафе, ресторанами и местами отдыха.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Прекрасное место для семейной жизни! Звоните и записывайтесь на просмотр!&lt;br /&gt;&#13;
-&amp;nbsp;
-id:55449. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpRfh7M4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phprgeQIN.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpWkReHx.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phplE1fkj.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpN58oLr.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpmH0eQ9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phphk6LYd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpqEdqZo.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpi3hd27.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/php9FeqH6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpxC2Duk.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/php6Bb3pt.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpU0fklS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpo7ooFV.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpS2wbXD.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpUnG4GL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpLQwuEP.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpGDv3V7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpv5g6Ip.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpQZ2tiv.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpPWG6om.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpC8MUqA.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/php0GyTbs.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpZpbcPp.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpsX0iKI.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/phpBYeYX6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55449/php1wnK1w.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
