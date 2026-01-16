@@ -3274,48 +3274,6 @@ id:33620.
       <coordinates lat="57.638152" lon="39.952321"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="33625">
-      <name>Продажа, Комната, 5-к, 19 кв.м, Ярославль, Революционная улица, 26</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">5</param>
-      <param name="Адрес">Ярославская область, Ярославль, Революционная улица, 26</param>
-      <param name="Имя агента">Влада Соколова</param>
-      <param name="Email для связи">vlada.vector@gmail.com</param>
-      <param name="Телефон для связи">79969262676</param>
-      <param name="Общая площадь">24</param>
-      <param name="Площадь кухни">5</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">2</param>
-      <categoryId>102</categoryId>
-      <price>2900000</price>
-      <description>Продаётся комната в историческом центре города!&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Дом является объектом культурного наследия под названием &amp;laquo;Дом жилой с лавками Разживина&amp;raquo;. Уникальное местоположение с развитой инфраструктурой: рестораны, культурные памятники &amp;mdash; всё в шаговой доступности. Рядом находятся Волжская набережная и &amp;laquo;Стрелка&amp;raquo;.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Дом построен в 1918 году. Комната расположена на втором этаже двухэтажного кирпичного здания. Общая площадь составляет 24 квадратных метра, площадь кухни &amp;mdash; 5 квадратных метров.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-В комнате сделан косметический ремонт. Есть собственная отдельная зона для готовки. Установлена железная дверь и пластиковые окна.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Один взрослый собственник. Это прекрасный выбор для тех, кто ценит историю, культуру и удобное расположение.
-id:33625. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/6876643c91cf9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/6876644110c79.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/687664408bbd1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/6876644188347.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/687664420cd76.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/6876643f8c61c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/6876643f167aa.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/6876644013ade.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/6876643e166c0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/6876643d91a0e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/6876643d17725.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/33625/687664421fa73.jpeg</picture>
-      <coordinates lat="57.623450" lon="39.892484"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="33997">
       <name>Продажа, Квартира, 3-к, 60 кв.м, Буй, Объездной проезд, 15А</name>
       <param name="Тип предложения">Продажа</param>
@@ -9061,13 +9019,16 @@ id:49680.
       <param name="Этажей">2</param>
       <param name="Ипотека">да</param>
       <categoryId>300</categoryId>
-      <price>7850000</price>
+      <price>7980000</price>
       <description>&lt;strong&gt;Предлагаем к покупке каменный дом&amp;nbsp;с террасой по цене квартиры в коттеджном поселке &amp;quot;Ермолово Village&amp;quot;!&lt;/strong&gt;&amp;nbsp;&lt;br /&gt;&#13;
 &lt;strong&gt;ПОДХОДИТ под СЕЛЬСЕКУЮ ИПОТЕКУ 3% &amp;nbsp;&lt;br /&gt;&#13;
 под СЕМЕЙНУЮ ИПОТЕКУ 6% !&lt;br /&gt;&#13;
 РAБOТAЕM ПО СЧЕТАM ЭСKРOУ!&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;strong&gt;Дом&amp;nbsp;от застpoйщикa из газосиликатнoгo блoкa ЭКО 400 мм&amp;nbsp;с облицoвкoй кирпичом &amp;quot;Бpаер&amp;quot;.&lt;/strong&gt;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
+&lt;strong&gt;Дом&amp;nbsp;от застpoйщикa из газосиликатнoгo блoкa ЭКО 400 мм&amp;nbsp;с облицoвкoй кирпичом &amp;quot;Бpаер&amp;quot;.&lt;/strong&gt;&lt;br /&gt;&#13;
+Построен на фундаменте из монолитной плиты 300 мм. Кровля - металл черепица&amp;nbsp;с утеплением в 200 мм, водосточная система; снегозадержатели на свесах.&lt;br /&gt;&#13;
+В доме уже заведено электричество (15 кВт).&amp;nbsp;&lt;br /&gt;&#13;
+Залит тёплый&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;(водяной) пол на первом этаже.&lt;br /&gt;&#13;
 Рассчитан на большую семью, можно принимать гостей. Мы учли всё и предлагаем самую функциональную планировку для 2-этажного дома:&#13;
 &lt;ul&gt;&#13;
 &lt;li&gt;общая площадь 120,1 кв.м.,&lt;/li&gt;&#13;
@@ -9076,23 +9037,9 @@ id:49680.
 &lt;li&gt;техническое помещение&lt;/li&gt;&#13;
 &lt;li&gt;терраса.&lt;/li&gt;&#13;
 &lt;/ul&gt;&#13;
+Возможно выполнение силами подрядчика предчистовой отделки (White Box) &amp;ndash; Вам останется только определиться с покрытием и цветом стен и пола). По согласованию с покупателем установим все необходимые &lt;strong&gt;коммуникации (в&lt;/strong&gt;одоснабжение:&amp;nbsp;скважина 40 метров со всем оборудованием; канализация:&amp;nbsp;станция биологической очистки Волгарь-5)&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
-Дом &amp;ndash; в предчистовой отделке (White Box) &amp;ndash; Вам останется только определиться с покрытием и цветом стен и пола)&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Предусмотрены все необходимые &lt;strong&gt;коммуникации&lt;/strong&gt;:&amp;nbsp;&#13;
-&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;Электричество:&amp;nbsp;есть, 15 кВт&lt;/li&gt;&#13;
-&lt;li&gt;Отопление: возможно как газовое, так и электрическое&amp;nbsp;(электрокотёл 12 кВт)&lt;/li&gt;&#13;
-&lt;li&gt;Водоснабжение:&amp;nbsp;скважина 40 метров со всем оборудованием&lt;/li&gt;&#13;
-&lt;li&gt;&lt;strong&gt;Теплый пол &lt;/strong&gt;(водяной) на первом этаже, радиаторы (водяные) на втором этаже;&lt;/li&gt;&#13;
-&lt;li&gt;Газ:&amp;nbsp;по границе участка&lt;/li&gt;&#13;
-&lt;li&gt;Канализация:&amp;nbsp;станция биологической очистки Волгарь-5&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-Дом - на фундаменте из монолитной плиты 300 мм. Кровля - металл черепица&amp;nbsp;с утеплением в 200 мм, водосточная система; снегозадержатели на свесах.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Участок &amp;ndash; ровный, 7,5 соток. Выполнена планировка участка, оканавливание.&lt;br /&gt;&#13;
+​​​​​​Участок &amp;ndash; ровный, 7,5 соток. Выполнена планировка участка, оканавливание.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Поселок расположен вблизи города в экологически чистом Заволжском районе.&lt;br /&gt;&#13;
 Проезжая часть в посёлке отсыпана.&lt;br /&gt;&#13;
@@ -9348,93 +9295,6 @@ id:49721.
       <picture>https://progress.vtcrm.ru/uploads/Photos/49721/phploPyFb.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49721/phpULW0pL.jpeg</picture>
       <coordinates lat="57.623245" lon="39.850060"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="49729">
-      <name>Продажа, Квартира, 3-к, 66 кв.м, Ярославль, Ленинградский проспект, 117</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">16</param>
-      <param name="Комнат">3</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">На улицу и двор</param>
-      <param name="Адрес">Ярославская область, Ярославль, Ленинградский проспект, 117</param>
-      <param name="Имя агента">Марина Волжина</param>
-      <param name="Email для связи">23vmv@mail.ru</param>
-      <param name="Телефон для связи">79106652424</param>
-      <param name="Общая площадь">66</param>
-      <param name="Жилая площадь">40.6</param>
-      <param name="Площадь кухни">9.2</param>
-      <param name="Этаж">16</param>
-      <param name="Этажность">16</param>
-      <categoryId>100</categoryId>
-      <price>4190000</price>
-      <description>Продаётся трёхкомнатная квартира с интересной и функциональной планировкой в самом центре Дзержинского района города Ярославля!!!&amp;nbsp;&lt;br /&gt;&#13;
-Первая линия Ленинградского проспекта, но на некотором удалении, через второстепенную дорогу, пешеходную и парковую зоны.&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;тёплая и светлая квартира на 16-м этаже 16-этажного дома&lt;/li&gt;&#13;
-&lt;li&gt;над квартирой имеется большой технический этаж&lt;/li&gt;&#13;
-&lt;li&gt;из окон открывается шикарный вид, окна выходят на Ленинградский проспект в сторону Тутаева и на ТЦ Альтаир&lt;/li&gt;&#13;
-&lt;li&gt;2 большие лоджии&lt;/li&gt;&#13;
-&lt;li&gt;все комнаты изолированные, санузел раздельный&lt;/li&gt;&#13;
-&lt;li&gt;закрытый тамбур на 6 квартир&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;О доме.&lt;/strong&gt;&#13;
-&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;кирпичный дом, чистый подъезд, сухой подвал&lt;/li&gt;&#13;
-&lt;li&gt;прекрасные доброжелательные тихие соседи&lt;/li&gt;&#13;
-&lt;li&gt;2 лифта : грузовой и пассажирский&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;О районе.&lt;/strong&gt;&#13;
-&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;дом расположен в тихой части города, на удалении от шумных магистралей и в 5 минутах пути от ТЦ Альтаир&lt;/li&gt;&#13;
-&lt;li&gt;удобная транспортная развязка, рядом остановки общественного транспорта во все районы города&lt;/li&gt;&#13;
-&lt;li&gt;развитая инфраструктура, есть всё для комфортной жизни &amp;ndash; магазины, аптеки, школы и детские сады, торговые центры (Космос, Альтаир), Парк 30-летия Победы, бассейн, спортивные клубы, центры выдачи&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;О сделке.&lt;/strong&gt;&#13;
-&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;один взрослый собственник&lt;/li&gt;&#13;
-&lt;li&gt;сопровождение сделки до перехода права собственности&lt;/li&gt;&#13;
-&lt;li&gt;безопасные расчеты сторон. Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;/li&gt;&#13;
-&lt;li&gt;помощь в одобрении и оформлении ипотеки от банков-партнеров. Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие.&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-Все консультации бесплатно!&lt;br /&gt;&#13;
-Хотите купить эту квартиру - ЗВОНИТЕ!
-id:49729. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpmlUnyE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpm3ZzAP.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpkeu4pg.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpQoL8Vd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/php4IO5HB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpHPD7rK.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/php08LVpK.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpzvXwIX.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpGGmycO.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpe1DdlW.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/php7PW6vp.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpnrcnRu.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/php3t11b7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpnj7jys.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpn8zgtb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/php4GxF7m.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpn0AVNE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpkLopXc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpBZnoq7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpAxznf4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpAG5X1C.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpHKTfPC.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49729/phpBjoD5U.jpeg</picture>
-      <coordinates lat="57.694598" lon="39.767027"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="49734">
@@ -14438,7 +14298,7 @@ id:51615.
       <param name="Этаж">3</param>
       <param name="Этажность">11</param>
       <categoryId>100</categoryId>
-      <price>5400000</price>
+      <price>5500000</price>
       <description>Продается отличная 1-к. квартира, в свежем доме, общей площадью 46м.&lt;br /&gt;&#13;
 Косметический ремонт, на полу ламинат, большая кухня (12м) с&amp;nbsp;выходом на застекленную лоджию, совмещенный санузел, большая, просторная комната 21м, встроенная гардеробная в прихожей, хорошая звукоизоляция, кухонный гарнитур, мебель и техника остается новому собственнику.&lt;br /&gt;&#13;
 Ухоженный, чистый подъезд, хорошие соседи, тамбур на 2 квартиры, парковка во дворе, в&amp;nbsp;подъезде есть общая кладовая, в шаговой доступности продуктовые магазины, школы, детские сады, пoликлиника(взрослая и детская), парк, рынок, кафе, салоны красоты, ТЦ, пункты выдачи.
@@ -15909,7 +15769,7 @@ id:52841.
       <param name="Этаж">4</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>3600000</price>
+      <price>3500000</price>
       <description>В продаже уютная квартира, не угловая. Все окна ПВХ,входная хорошая дверь. В квартире произведена замена труб холодного и горячего водоснабжение, замена&amp;nbsp; электропроводки.&amp;nbsp; Есть вместительная гардеробная.&lt;br /&gt;&#13;
 В квартире остается кухонный гарнитур,мебель по договоренности.&amp;nbsp;&lt;br /&gt;&#13;
 Чистый подъезд,производится еженедельная уборка. В подъезде сделан ремонт.&lt;br /&gt;&#13;
@@ -18660,7 +18520,7 @@ id:55458.
       <param name="Этаж">1</param>
       <param name="Этажность">9</param>
       <categoryId>100</categoryId>
-      <price>4870000</price>
+      <price>4850000</price>
       <description>В продаже&amp;nbsp; квартира к кирпичном доме,комнаты правильной формы, во всех комнатах окна ПВХ.Просторная застекленная лоджия 6 кв.м, с местом для хранения. Остается мебель в подарок новым покупателям.&lt;br /&gt;&#13;
 Чистый&amp;nbsp; подъезд, тихие&amp;nbsp; соседи.&lt;br /&gt;&#13;
 Развитая инфраструктура: в шаговой доступности две школы №28 и №68, детские сады, сетевые магазины ТЦ&amp;quot;Вернисаж&amp;quot;, и &amp;quot;ЛеманаПро&amp;quot;,Доронинский рынок.&amp;nbsp;&lt;br /&gt;&#13;
@@ -18966,7 +18826,7 @@ id:55490.
       <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
       <param name="Телефон для связи">79109850569</param>
       <param name="Общая площадь">46</param>
-      <param name="Жилая площадь">35</param>
+      <param name="Жилая площадь">27</param>
       <param name="Площадь кухни">6</param>
       <param name="Этаж">4</param>
       <param name="Этажность">5</param>
@@ -19123,6 +18983,273 @@ id:55501.
       <picture>https://progress.vtcrm.ru/uploads/Photos/55501/687653c085071.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/55501/687653bfc43aa.jpeg</picture>
       <coordinates lat="57.583180" lon="39.910333"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="55507">
+      <name>Продажа, Квартира, 1-к, 39.9 кв.м, г Ярославль, пр-кт Машиностроителей, 19а</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">евроремонт</param>
+      <param name="Этаж">6</param>
+      <param name="Комнат">1</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, пр-кт Машиностроителей, 19а</param>
+      <param name="Имя агента">Всеволод Сальников</param>
+      <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
+      <param name="Телефон для связи">79109850569</param>
+      <param name="Общая площадь">39.9</param>
+      <param name="Жилая площадь">16</param>
+      <param name="Площадь кухни">11.1</param>
+      <param name="Этаж">6</param>
+      <param name="Этажность">17</param>
+      <param name="Ипотека">да</param>
+      <categoryId>100</categoryId>
+      <price>5500000</price>
+      <description>&lt;strong&gt;Продаётся&amp;nbsp;уютная&amp;nbsp;1‑комнатная&amp;nbsp;квартира&amp;nbsp;с&amp;nbsp;качественным&amp;nbsp;ремонтом,&amp;nbsp;Ярославль,&amp;nbsp;ул.&amp;nbsp;Машиностроителей, 19а&lt;/strong&gt;&lt;br /&gt;&#13;
+Предлагаем&amp;nbsp;к&amp;nbsp;покупке&amp;nbsp;полностью&amp;nbsp;готовую&amp;nbsp;к&amp;nbsp;проживанию&amp;nbsp;1‑комнатную&amp;nbsp;квартиру&amp;nbsp;в&amp;nbsp;кирпичном&amp;nbsp;доме&amp;nbsp;2020&amp;nbsp;года&amp;nbsp;постройки&amp;nbsp;в&amp;nbsp;центре&amp;nbsp;Заволжского&amp;nbsp;района.&amp;nbsp;Идеальный&amp;nbsp;вариант&amp;nbsp;для&amp;nbsp;тех,&amp;nbsp;кто&amp;nbsp;ценит&amp;nbsp;комфорт,&amp;nbsp;удобство&amp;nbsp;и&amp;nbsp;современный&amp;nbsp;ремонт!&lt;br /&gt;&#13;
+&lt;strong&gt;Основные&amp;nbsp;характеристики:&lt;/strong&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Тип&amp;nbsp;дома:&amp;nbsp;кирпичный.&lt;/li&gt;&#13;
+&lt;li&gt;Год&amp;nbsp;постройки:&amp;nbsp;2020.&lt;/li&gt;&#13;
+&lt;li&gt;Площадь&amp;nbsp;квартиры:&amp;nbsp;общая&amp;nbsp;&amp;mdash;&amp;nbsp;35,9&amp;nbsp;м2&amp;nbsp;(комната&amp;nbsp;&amp;mdash;&amp;nbsp;16&amp;nbsp;м2,&amp;nbsp;кухня&amp;nbsp;&amp;mdash;&amp;nbsp;11,1&amp;nbsp;м2,&amp;nbsp;коридор&amp;nbsp;&amp;mdash;&amp;nbsp;8,1&amp;nbsp;м2,&amp;nbsp;ванная&amp;nbsp;&amp;mdash;&amp;nbsp;2,9&amp;nbsp;м2,&amp;nbsp;туалет&amp;nbsp;&amp;mdash;&amp;nbsp;1,8&amp;nbsp;м2,&amp;nbsp;балкон&amp;nbsp;&amp;mdash;&amp;nbsp;6&amp;nbsp;м2).&lt;/li&gt;&#13;
+&lt;li&gt;Этаж:&amp;nbsp;&lt;/li&gt;&#13;
+&lt;li&gt;Один&amp;nbsp;собственник,&amp;nbsp;в&amp;nbsp;собственности&amp;nbsp;более&amp;nbsp;трёх&amp;nbsp;лет,&amp;nbsp;никто&amp;nbsp;не&amp;nbsp;прописан.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Описание&amp;nbsp;квартиры:&lt;/strong&gt;&lt;br /&gt;&#13;
+Квартира&amp;nbsp;с&amp;nbsp;продуманной&amp;nbsp;планировкой&amp;nbsp;и&amp;nbsp;качественным&amp;nbsp;ремонтом&amp;nbsp;&amp;mdash; заезжай&amp;nbsp;и&amp;nbsp;живи!&amp;nbsp;В&amp;nbsp;стоимость&amp;nbsp;входит&amp;nbsp;кухонный&amp;nbsp;гарнитур&amp;nbsp;с&amp;nbsp;индукционной&amp;nbsp;варочной&amp;nbsp;панелью&amp;nbsp;на&amp;nbsp;четыре&amp;nbsp;конфорки&amp;nbsp;с&amp;nbsp;безопасным&amp;nbsp;режимом.&amp;nbsp;Остальная&amp;nbsp;мебель&amp;nbsp;и&amp;nbsp;техника&amp;nbsp;могут&amp;nbsp;остаться&amp;nbsp;по&amp;nbsp;договорённости.&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Коридор&lt;/strong&gt;&amp;nbsp;(8,1&amp;nbsp;м2):&amp;nbsp;просторный,&amp;nbsp;с&amp;nbsp;натяжной&amp;nbsp;потолком&amp;nbsp;и&amp;nbsp;керамической&amp;nbsp;плиткой&amp;nbsp;на&amp;nbsp;полу.&amp;nbsp;Установлена&amp;nbsp;надёжная&amp;nbsp;входная&amp;nbsp;дверь.&amp;nbsp;Большая&amp;nbsp;площадь&amp;nbsp;позволяет&amp;nbsp;разместить&amp;nbsp;несколько&amp;nbsp;шкафов.&amp;nbsp;Межкомнатные&amp;nbsp;двери&amp;nbsp;из&amp;nbsp;натурального&amp;nbsp;дерева.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Ванная&amp;nbsp;комната&lt;/strong&gt;&amp;nbsp;(2,9&amp;nbsp;м2):&amp;nbsp;отделка&amp;nbsp;&amp;mdash; плитка,&amp;nbsp;натяжной&amp;nbsp;потолок,&amp;nbsp;качественная&amp;nbsp;сантехника,&amp;nbsp;просторная&amp;nbsp;ванна&amp;nbsp;длиной&amp;nbsp;180&amp;nbsp;см.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Туалет&lt;/strong&gt;&amp;nbsp;(1,8&amp;nbsp;м2):&amp;nbsp;плитка&amp;nbsp;на&amp;nbsp;стенах&amp;nbsp;и&amp;nbsp;полу,&amp;nbsp;натяжной&amp;nbsp;потолок.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Кухня&lt;/strong&gt;&amp;nbsp;(11,1&amp;nbsp;м2):&amp;nbsp;современный&amp;nbsp;гарнитур&amp;nbsp;в&amp;nbsp;отличном&amp;nbsp;состоянии,&amp;nbsp;индукционная&amp;nbsp;плита,&amp;nbsp;натяжной&amp;nbsp;потолок,&amp;nbsp;керамическая&amp;nbsp;плитка&amp;nbsp;на&amp;nbsp;полу.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Комната&lt;/strong&gt;&amp;nbsp;(16&amp;nbsp;м2):&amp;nbsp;ламинат,&amp;nbsp;выровненный&amp;nbsp;потолок&amp;nbsp;в&amp;nbsp;побелке,&amp;nbsp;удобная&amp;nbsp;ниша&amp;nbsp;для&amp;nbsp;рабочего&amp;nbsp;места&amp;nbsp;и&amp;nbsp;шкафа.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Балкон&lt;/strong&gt;&amp;nbsp;(6&amp;nbsp;м2):&amp;nbsp;утеплённый,&amp;nbsp;обшитый&amp;nbsp;вагонкой,&amp;nbsp;с&amp;nbsp;трёхкамерными&amp;nbsp;окнами&amp;nbsp;(четыре&amp;nbsp;секции&amp;nbsp;с&amp;nbsp;режимом&amp;nbsp;проветривания).&amp;nbsp;На&amp;nbsp;балконе&amp;nbsp;установлены&amp;nbsp;четыре&amp;nbsp;розетки,&amp;nbsp;электрический&amp;nbsp;обогреватель&amp;nbsp;и&amp;nbsp;система&amp;nbsp;освещения&amp;nbsp;(настраиваемый&amp;nbsp;точечный&amp;nbsp;свет&amp;nbsp;+ один&amp;nbsp;общий).&amp;nbsp;Панорамный&amp;nbsp;вид&amp;nbsp;на&amp;nbsp;центр&amp;nbsp;Заволжского&amp;nbsp;района&amp;nbsp;&amp;mdash; наслаждайтесь&amp;nbsp;солнцем&amp;nbsp;и&amp;nbsp;красивыми&amp;nbsp;видами!&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Преимущества&amp;nbsp;дома&amp;nbsp;и&amp;nbsp;инфраструктуры:&lt;/strong&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Два&amp;nbsp;лифта&amp;nbsp;(включая&amp;nbsp;грузовой).&lt;/li&gt;&#13;
+&lt;li&gt;Индивидуальная&amp;nbsp;регулировка&amp;nbsp;уровня&amp;nbsp;отопления&amp;nbsp;&amp;mdash; экономия&amp;nbsp;на&amp;nbsp;коммунальных&amp;nbsp;платежах.&lt;/li&gt;&#13;
+&lt;li&gt;Льготные&amp;nbsp;тарифы&amp;nbsp;на&amp;nbsp;электроэнергию.&lt;/li&gt;&#13;
+&lt;li&gt;Выровненные&amp;nbsp;стены&amp;nbsp;и&amp;nbsp;потолки,&amp;nbsp;качественная&amp;nbsp;отделка&amp;nbsp;(плитка&amp;nbsp;в&amp;nbsp;уровень).&lt;/li&gt;&#13;
+&lt;li&gt;В&amp;nbsp;доме&amp;nbsp;расположен&amp;nbsp;пункт&amp;nbsp;выдачи&amp;nbsp;Ozon&amp;nbsp;и&amp;nbsp;Яндекс&amp;nbsp;Маркета.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Развитая&amp;nbsp;инфраструктура&amp;nbsp;в&amp;nbsp;шаговой&amp;nbsp;доступности:&lt;/strong&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;остановки&amp;nbsp;общественного&amp;nbsp;транспорта;&lt;/li&gt;&#13;
+&lt;li&gt;школы&amp;nbsp;и&amp;nbsp;детские&amp;nbsp;сады;&lt;/li&gt;&#13;
+&lt;li&gt;поликлиника;&lt;/li&gt;&#13;
+&lt;li&gt;торговые&amp;nbsp;центры&amp;nbsp;и&amp;nbsp;магазины.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+Не&amp;nbsp;упустите&amp;nbsp;шанс&amp;nbsp;стать&amp;nbsp;владельцем&amp;nbsp;комфортной&amp;nbsp;квартиры&amp;nbsp;в&amp;nbsp;одном&amp;nbsp;из&amp;nbsp;самых&amp;nbsp;удобных&amp;nbsp;районов&amp;nbsp;Ярославля!&lt;br /&gt;&#13;
+&lt;strong&gt;Звоните&amp;nbsp;прямо&amp;nbsp;сейчас,&amp;nbsp;чтобы&amp;nbsp;договориться&amp;nbsp;о&amp;nbsp;просмотре!&lt;/strong&gt;
+id:55507. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/178ea2ed-a05b-442d-91fc-f749a75aefad.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/c5497a41-0c8f-4838-abc6-710dc855ad73.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/6916ba4f-59f7-4181-9cf0-43955ca4f418.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/f94541cc-f5e9-4c8f-821f-6b6537ab20ae.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/3b8ddd06-0f9a-4366-8043-57ae46aaed0a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/7f09536f-2b89-4def-b5c5-ab2c261d7c5c.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/b6ad1282-51cf-4f91-9ddb-9e5c7a377ac8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/a4401c08-e5f8-44c3-8b99-5da2a614dc7c.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/b89deba1-b35c-4761-90e4-336e1b25f84d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/8c39ced4-f37b-49b7-911c-863efb26c3f2.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/ae8c2603-8fa0-43a4-bf0a-f11df25cdaa7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/71e83e83-727e-4ab6-b355-5e0b1c9550b4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/389769eb-6b7f-4624-88cf-8b22acf7a723.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/00a4de61-5913-4f82-bb5c-6c7650d9ec2a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/b356a4b9-95a9-4f45-a6f9-6c054d4e365a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/b0516798-5f6d-4235-816a-a8f68aa68deb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/3d4b07fe-5b40-48ff-af45-73ab7f8dc51c.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/e0273ad2-770e-4361-81bc-0372e7e472b2.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/bc706141-0858-4087-8838-7d2a9ff0f1de.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/5ab14475-70de-4589-b0a1-196564adc5b9.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/5602df84-e1ac-4eab-b56f-f8d348aaf1a9.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/f6164b7d-2643-44e4-bc93-1712add02a88.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/f8cf5157-3e93-4a1f-beb6-4e7d4715eb58.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/6c9cd87b-e83a-4678-9293-6c9679ec969e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/e5fbc746-0385-426f-8567-777ea522a7f2.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/1e901411-9b21-48f6-b1b3-4c613df230a9.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/321a70bf-b8a3-4531-b1a0-aa4ccbd64a9b.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/87c6b933-3dce-4114-827f-97e9bcdc5a9a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/e4ca909a-c53b-47c1-a8f4-e096b42defef.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55507/321020da-772e-4828-ab17-90aa4c1c8693.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="55509">
+      <name>Продажа, Квартира, 2-к, 44.9 кв.м, г Ярославль, ул Некрасова, 51</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">евроремонт</param>
+      <param name="Этаж">2</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, ул Некрасова, 51</param>
+      <param name="Имя агента">Всеволод Сальников</param>
+      <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
+      <param name="Телефон для связи">79109850569</param>
+      <param name="Общая площадь">44.9</param>
+      <param name="Жилая площадь">34</param>
+      <param name="Площадь кухни">7</param>
+      <param name="Этаж">2</param>
+      <param name="Этажность">2</param>
+      <param name="Ипотека">да</param>
+      <categoryId>100</categoryId>
+      <price>4790000</price>
+      <description>&lt;strong&gt;Продаётся&amp;nbsp;2‑комнатная&amp;nbsp;квартира,&amp;nbsp;г.&amp;nbsp;Ярославль,&amp;nbsp;ул.&amp;nbsp;Некрасова, 51&lt;/strong&gt;&lt;br /&gt;&#13;
+Уютная&amp;nbsp;2‑комнатная&amp;nbsp;квартира&amp;nbsp;в&amp;nbsp;центральном&amp;nbsp;районе&amp;nbsp;Ярославля&amp;nbsp;&amp;mdash; идеальный&amp;nbsp;вариант&amp;nbsp;для&amp;nbsp;комфортного&amp;nbsp;проживания!&lt;br /&gt;&#13;
+&lt;strong&gt;Основные&amp;nbsp;характеристики:&lt;/strong&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Адрес:&amp;nbsp;г.&amp;nbsp;Ярославль,&amp;nbsp;ул.&amp;nbsp;Некрасова,&amp;nbsp;51.&lt;/li&gt;&#13;
+&lt;li&gt;Общая&amp;nbsp;площадь:&amp;nbsp;44,9&amp;nbsp;м2.&lt;/li&gt;&#13;
+&lt;li&gt;Тип&amp;nbsp;дома:&amp;nbsp;кирпичный,&amp;nbsp;2&amp;nbsp;этажа,&amp;nbsp;год&amp;nbsp;постройки&amp;nbsp;&amp;mdash; 1950.&lt;/li&gt;&#13;
+&lt;li&gt;Этаж: 2&lt;/li&gt;&#13;
+&lt;li&gt;Ремонт:&amp;nbsp;косметический,&amp;nbsp;выполнен&amp;nbsp;7&amp;nbsp;лет&amp;nbsp;назад.&lt;/li&gt;&#13;
+&lt;li&gt;Один&amp;nbsp;собственник,&amp;nbsp;в&amp;nbsp;квартире&amp;nbsp;никто&amp;nbsp;не&amp;nbsp;проживает&amp;nbsp;&amp;mdash; быстрый&amp;nbsp;выход&amp;nbsp;на&amp;nbsp;сделку.&lt;/li&gt;&#13;
+&lt;li&gt;Возможность&amp;nbsp;оставить&amp;nbsp;мебель&amp;nbsp;и&amp;nbsp;технику&amp;nbsp;по&amp;nbsp;договорённости&amp;nbsp;&amp;mdash; переезжайте&amp;nbsp;без&amp;nbsp;лишних&amp;nbsp;хлопот!&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Особенности&amp;nbsp;квартиры&amp;nbsp;и&amp;nbsp;дома:&lt;/strong&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Чистый&amp;nbsp;подъезд,&amp;nbsp;дружелюбные&amp;nbsp;соседи.&lt;/li&gt;&#13;
+&lt;li&gt;Высокие&amp;nbsp;потолки&amp;nbsp;и&amp;nbsp;толстые&amp;nbsp;стены&amp;nbsp;(70&amp;nbsp;см)&amp;nbsp;&amp;mdash; отличная&amp;nbsp;звуко-&amp;nbsp;и&amp;nbsp;теплоизоляция.&lt;/li&gt;&#13;
+&lt;li&gt;Чугунные&amp;nbsp;батареи.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Преимущества&amp;nbsp;двора&amp;nbsp;и&amp;nbsp;территории:&lt;/strong&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Закрытая&amp;nbsp;охраняемая&amp;nbsp;территория&amp;nbsp;&amp;mdash; безопасность&amp;nbsp;и&amp;nbsp;приватность.&lt;/li&gt;&#13;
+&lt;li&gt;Во&amp;nbsp;дворе&amp;nbsp;много&amp;nbsp;парковочных&amp;nbsp;мест&amp;nbsp;&amp;mdash; больше&amp;nbsp;не&amp;nbsp;нужно&amp;nbsp;искать,&amp;nbsp;где&amp;nbsp;оставить&amp;nbsp;автомобиль.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Развитая&amp;nbsp;инфраструктура&amp;nbsp;в&amp;nbsp;шаговой&amp;nbsp;доступности:&lt;/strong&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Образовательные&amp;nbsp;учреждения:&lt;/strong&gt;&amp;nbsp;несколько&amp;nbsp;школ&amp;nbsp;(в&amp;nbsp;т. ч.&amp;nbsp;школы&amp;nbsp;№38,&amp;nbsp;№71,&amp;nbsp;№44)&amp;nbsp;и&amp;nbsp;детских&amp;nbsp;садов.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Магазины&amp;nbsp;и&amp;nbsp;супермаркеты&lt;/strong&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Аптеки&lt;/strong&gt;&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Парки:&lt;/strong&gt;&amp;nbsp;парк&amp;nbsp;Юбилейный&amp;nbsp;&amp;mdash; всего&amp;nbsp;в&amp;nbsp;5&amp;nbsp;минутах&amp;nbsp;ходьбы.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Транспорт:&lt;/strong&gt;&amp;nbsp;остановки&amp;nbsp;общественного&amp;nbsp;транспорта&amp;nbsp;рядом&amp;nbsp;с&amp;nbsp;домом.&lt;/li&gt;&#13;
+&lt;li&gt;&lt;strong&gt;Другое:&lt;/strong&gt;&amp;nbsp;пункты&amp;nbsp;выдачи&amp;nbsp;заказов&amp;nbsp;в&amp;nbsp;пешей&amp;nbsp;доступности.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+Квартира&amp;nbsp;подойдёт&amp;nbsp;как&amp;nbsp;для&amp;nbsp;собственного&amp;nbsp;проживания,&amp;nbsp;так&amp;nbsp;и&amp;nbsp;для&amp;nbsp;инвестиций.&amp;nbsp;Тихий&amp;nbsp;двор&amp;nbsp;и&amp;nbsp;центральное&amp;nbsp;расположение&amp;nbsp;создают&amp;nbsp;идеальные&amp;nbsp;условия&amp;nbsp;для&amp;nbsp;жизни&amp;nbsp;в&amp;nbsp;ритме&amp;nbsp;большого&amp;nbsp;города.&lt;br /&gt;&#13;
+&lt;strong&gt;Звоните&amp;nbsp;прямо&amp;nbsp;сейчас,&amp;nbsp;чтобы&amp;nbsp;договориться&amp;nbsp;о&amp;nbsp;просмотре!&lt;/strong&gt;
+id:55509. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/phpCXWczb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/phpANy60Q.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/php1LebwY.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/phpS6n2OO.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/phpweEdDm.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/php8EtWgw.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/phpc7eG4r.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/phpfqKTIB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/phpAyLIUZ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/php4JhzVP.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/phppzwsfH.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/phphOqg8L.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/php01QLL8.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="55514">
+      <name>Продажа, Квартира, 1-к, 31.9 кв.м, г Ярославль, пр-кт Толбухина, 31</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">евроремонт</param>
+      <param name="Этаж">4</param>
+      <param name="Комнат">1</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, пр-кт Толбухина, 31</param>
+      <param name="Имя агента">Всеволод Сальников</param>
+      <param name="Email для связи">vsevolodsalnikov11@mail.ru</param>
+      <param name="Телефон для связи">79109850569</param>
+      <param name="Общая площадь">31.9</param>
+      <param name="Жилая площадь">23</param>
+      <param name="Площадь кухни">5</param>
+      <param name="Этаж">4</param>
+      <param name="Этажность">5</param>
+      <param name="Ипотека">да</param>
+      <categoryId>100</categoryId>
+      <price>5100000</price>
+      <description>&lt;strong&gt;Светлая&amp;nbsp;1‑комнатная&amp;nbsp;квартира&amp;nbsp;в&amp;nbsp;центре&amp;nbsp;Ярославля&amp;nbsp;&amp;mdash; заезжай&amp;nbsp;и&amp;nbsp;живи!&lt;/strong&gt;&lt;br /&gt;&#13;
+&lt;strong&gt;Основные&amp;nbsp;характеристики:&lt;/strong&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Площадь:&amp;nbsp;31,9&amp;nbsp;м2.&lt;/li&gt;&#13;
+&lt;li&gt;Адрес:&amp;nbsp;г.&amp;nbsp;Ярославль,&amp;nbsp;проспект&amp;nbsp;Толбухина,&amp;nbsp;д.&amp;nbsp;31.&lt;/li&gt;&#13;
+&lt;li&gt;Этаж:&amp;nbsp;4‑й&amp;nbsp;из&amp;nbsp;5.&lt;/li&gt;&#13;
+&lt;li&gt;Тип&amp;nbsp;дома:&amp;nbsp;кирпичный.&lt;/li&gt;&#13;
+&lt;li&gt;Количество&amp;nbsp;собственников:&amp;nbsp;1.&lt;/li&gt;&#13;
+&lt;li&gt;Обременения:&amp;nbsp;отсутствуют.&lt;/li&gt;&#13;
+&lt;li&gt;Возможность&amp;nbsp;торга:&amp;nbsp;да&amp;nbsp;(для&amp;nbsp;покупателей&amp;nbsp;с&amp;nbsp;наличными&amp;nbsp;средствами).&lt;/li&gt;&#13;
+&lt;li&gt;Скорость&amp;nbsp;сделки:&amp;nbsp;быстрый&amp;nbsp;выход&amp;nbsp;на&amp;nbsp;сделку.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Описание&amp;nbsp;квартиры:&lt;/strong&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Светлая&amp;nbsp;и&amp;nbsp;уютная&amp;nbsp;квартира&amp;nbsp;с&amp;nbsp;окнами&amp;nbsp;на&amp;nbsp;две&amp;nbsp;стороны&amp;nbsp;&amp;mdash; отличное&amp;nbsp;естественное&amp;nbsp;освещение&amp;nbsp;в&amp;nbsp;течение&amp;nbsp;дня.&lt;/li&gt;&#13;
+&lt;li&gt;Качественный&amp;nbsp;ремонт,&amp;nbsp;выполненный&amp;nbsp;&amp;laquo;для&amp;nbsp;себя&amp;raquo;:&amp;nbsp;свежий,&amp;nbsp;аккуратный,&amp;nbsp;без&amp;nbsp;лишних&amp;nbsp;затрат&amp;nbsp;для&amp;nbsp;нового&amp;nbsp;владельца.&lt;/li&gt;&#13;
+&lt;li&gt;Полностью&amp;nbsp;заменена&amp;nbsp;электропроводка&amp;nbsp;&amp;mdash; безопасность&amp;nbsp;и&amp;nbsp;надёжность.&lt;/li&gt;&#13;
+&lt;li&gt;Полы:&amp;nbsp;плитка&amp;nbsp;(кухня,&amp;nbsp;прихожая,&amp;nbsp;санузел),&amp;nbsp;ламинат&amp;nbsp;(комната)&amp;nbsp;&amp;mdash; практично&amp;nbsp;и&amp;nbsp;стильно.&lt;/li&gt;&#13;
+&lt;li&gt;Совмещённый&amp;nbsp;санузел&amp;nbsp;с&amp;nbsp;чугунной&amp;nbsp;ванной&amp;nbsp;&amp;mdash; классика,&amp;nbsp;проверенная&amp;nbsp;временем.&lt;/li&gt;&#13;
+&lt;li&gt;Установлен&amp;nbsp;фильтр&amp;nbsp;для&amp;nbsp;воды&amp;nbsp;с&amp;nbsp;отдельным&amp;nbsp;краном&amp;nbsp;&amp;mdash; чистая&amp;nbsp;вода&amp;nbsp;прямо&amp;nbsp;из‑под&amp;nbsp;крана.&lt;/li&gt;&#13;
+&lt;li&gt;Окна&amp;nbsp;ПВХ&amp;nbsp;&amp;mdash; тепло&amp;nbsp;и&amp;nbsp;тихо&amp;nbsp;в&amp;nbsp;любое&amp;nbsp;время&amp;nbsp;года.&lt;/li&gt;&#13;
+&lt;li&gt;Есть&amp;nbsp;гардеробная&amp;nbsp;&amp;mdash; дополнительное&amp;nbsp;место&amp;nbsp;для&amp;nbsp;хранения&amp;nbsp;вещей.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Состояние:&lt;/strong&gt;&amp;nbsp;заезжай&amp;nbsp;и&amp;nbsp;живи!&amp;nbsp;Никаких&amp;nbsp;дополнительных&amp;nbsp;вложений&amp;nbsp;не&amp;nbsp;требуется.&lt;br /&gt;&#13;
+&lt;strong&gt;Информация&amp;nbsp;о&amp;nbsp;доме:&lt;/strong&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Год&amp;nbsp;постройки:&amp;nbsp;1960.&lt;/li&gt;&#13;
+&lt;li&gt;Материал&amp;nbsp;стен:&amp;nbsp;кирпич&amp;nbsp;&amp;mdash; отличная&amp;nbsp;звуко-&amp;nbsp;и&amp;nbsp;теплоизоляция,&amp;nbsp;долговечность&amp;nbsp;конструкции.&lt;/li&gt;&#13;
+&lt;li&gt;Перекрытия:&amp;nbsp;железобетонные&amp;nbsp;&amp;mdash; высокая&amp;nbsp;надёжность&amp;nbsp;и&amp;nbsp;долговечность.&lt;/li&gt;&#13;
+&lt;li&gt;Лифт:&amp;nbsp;отсутствует&amp;nbsp;(5‑этажный&amp;nbsp;дом&amp;nbsp;без&amp;nbsp;лифта)..&lt;/li&gt;&#13;
+&lt;li&gt;Управляющая&amp;nbsp;компания:&amp;nbsp;АО&amp;nbsp;&amp;laquo;УПРАВДОМ&amp;nbsp;КИРОВСКОГО&amp;nbsp;РАЙОНА&amp;raquo;.&lt;/li&gt;&#13;
+&lt;li&gt;В&amp;nbsp;подъезде&amp;nbsp;недавно&amp;nbsp;сделан&amp;nbsp;ремонт&amp;nbsp;&amp;mdash; чисто,&amp;nbsp;аккуратно&amp;nbsp;и&amp;nbsp;современно.&lt;/li&gt;&#13;
+&lt;li&gt;Новая&amp;nbsp;входная&amp;nbsp;дверь&amp;nbsp;в&amp;nbsp;подъезд&amp;nbsp;&amp;mdash; повышенная&amp;nbsp;безопасность&amp;nbsp;и&amp;nbsp;комфорт.&lt;/li&gt;&#13;
+&lt;li&gt;На&amp;nbsp;первом&amp;nbsp;этаже&amp;nbsp;расположен&amp;nbsp;пункт&amp;nbsp;выдачи&amp;nbsp;Ozon&amp;nbsp;&amp;mdash; удобно&amp;nbsp;получать&amp;nbsp;заказы.&lt;/li&gt;&#13;
+&lt;li&gt;Благоустройство:&amp;nbsp;рядом&amp;nbsp;есть&amp;nbsp;детская&amp;nbsp;и&amp;nbsp;спортивная&amp;nbsp;площадки.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Инфраструктура&amp;nbsp;в&amp;nbsp;шаговой&amp;nbsp;доступности:&lt;/strong&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Торговые&amp;nbsp;центры:&amp;nbsp;ТЦ&amp;nbsp;&amp;laquo;Аура&amp;raquo;&amp;nbsp;&amp;mdash; в&amp;nbsp;двух&amp;nbsp;шагах.&lt;/li&gt;&#13;
+&lt;li&gt;Магазины&amp;nbsp;и&amp;nbsp;сервисы:&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;супермаркет&amp;nbsp;&amp;laquo;Перекрёсток&amp;raquo;&amp;nbsp;(работает&amp;nbsp;круглосуточно);&lt;/li&gt;&#13;
+&lt;li&gt;пункт&amp;nbsp;выдачи&amp;nbsp;Wildberries;&lt;/li&gt;&#13;
+&lt;li&gt;круглосуточная&amp;nbsp;аптека.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;/li&gt;&#13;
+&lt;li&gt;Образование:&amp;nbsp;рядом&amp;nbsp;расположены&amp;nbsp;школы&amp;nbsp;и&amp;nbsp;детские&amp;nbsp;сады&amp;nbsp;&amp;mdash; идеально&amp;nbsp;для&amp;nbsp;семей&amp;nbsp;с&amp;nbsp;детьми.&lt;/li&gt;&#13;
+&lt;li&gt;Здравоохранение:&amp;nbsp;в&amp;nbsp;радиусе&amp;nbsp;15 минут&amp;nbsp;пешком&amp;nbsp;&amp;mdash; 3&amp;nbsp;поликлиники&amp;nbsp;и&amp;nbsp;больницы.&lt;/li&gt;&#13;
+&lt;li&gt;Общественный&amp;nbsp;транспорт:&amp;nbsp;отличная&amp;nbsp;транспортная&amp;nbsp;развязка&amp;nbsp;&amp;mdash; легко&amp;nbsp;добраться&amp;nbsp;в&amp;nbsp;любую&amp;nbsp;точку&amp;nbsp;города;&amp;nbsp;ж/д&amp;nbsp;станция&amp;nbsp;&amp;laquo;Ярославль‑Главный&amp;raquo;&amp;nbsp;&amp;mdash; 1,3 км.&lt;/li&gt;&#13;
+&lt;li&gt;Кафе&amp;nbsp;и&amp;nbsp;рестораны:&amp;nbsp;через&amp;nbsp;дорогу&amp;nbsp;находится&amp;nbsp;заведение&amp;nbsp;с&amp;nbsp;лучшей&amp;nbsp;шаурмой&amp;nbsp;в&amp;nbsp;городе&amp;nbsp;&amp;mdash; вкусно&amp;nbsp;и&amp;nbsp;быстро!&lt;/li&gt;&#13;
+&lt;li&gt;Прогулочные&amp;nbsp;зоны:&amp;nbsp;в&amp;nbsp;нескольких&amp;nbsp;минутах&amp;nbsp;ходьбы&amp;nbsp;&amp;mdash; уютные&amp;nbsp;скверы&amp;nbsp;и&amp;nbsp;пешеходные&amp;nbsp;улицы&amp;nbsp;для&amp;nbsp;прогулок.&lt;/li&gt;&#13;
+&lt;li&gt;Банки&amp;nbsp;и&amp;nbsp;отделения:&amp;nbsp;в&amp;nbsp;радиусе&amp;nbsp;10 минут&amp;nbsp;пешком&amp;nbsp;&amp;mdash; отделения&amp;nbsp;основных&amp;nbsp;банков,&amp;nbsp;банкоматы,&amp;nbsp;платёжные&amp;nbsp;терминалы.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Почему&amp;nbsp;стоит&amp;nbsp;выбрать&amp;nbsp;именно&amp;nbsp;эту&amp;nbsp;квартиру?&lt;/strong&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;Центр&amp;nbsp;города&amp;nbsp;&amp;mdash; престижный&amp;nbsp;район&amp;nbsp;с&amp;nbsp;развитой&amp;nbsp;инфраструктурой.&lt;/li&gt;&#13;
+&lt;li&gt;Всё&amp;nbsp;необходимое&amp;nbsp;рядом&amp;nbsp;&amp;mdash; магазины,&amp;nbsp;аптеки,&amp;nbsp;школы,&amp;nbsp;транспорт.&lt;/li&gt;&#13;
+&lt;li&gt;Квартира&amp;nbsp;в&amp;nbsp;идеальном&amp;nbsp;состоянии&amp;nbsp;&amp;mdash; готовьтесь&amp;nbsp;сразу&amp;nbsp;заселяться.&lt;/li&gt;&#13;
+&lt;li&gt;Надежный&amp;nbsp;кирпичный&amp;nbsp;дом&amp;nbsp;1960&amp;nbsp;года&amp;nbsp;постройки&amp;nbsp;с&amp;nbsp;железобетонными&amp;nbsp;перекрытиями.&lt;/li&gt;&#13;
+&lt;li&gt;Ухоженный&amp;nbsp;подъезд&amp;nbsp;после&amp;nbsp;ремонта.&lt;/li&gt;&#13;
+&lt;li&gt;Один&amp;nbsp;собственник,&amp;nbsp;без&amp;nbsp;обременений&amp;nbsp;&amp;mdash; прозрачная&amp;nbsp;и&amp;nbsp;быстрая&amp;nbsp;сделка.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;strong&gt;Звоните&amp;nbsp;прямо&amp;nbsp;сейчас,&amp;nbsp;чтобы&amp;nbsp;записаться&amp;nbsp;на&amp;nbsp;просмотр!&lt;/strong&gt;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Не&amp;nbsp;упустите&amp;nbsp;шанс&amp;nbsp;стать&amp;nbsp;владельцем&amp;nbsp;уютной&amp;nbsp;квартиры&amp;nbsp;в&amp;nbsp;самом&amp;nbsp;сердце&amp;nbsp;Ярославля!
+id:55514. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55514/php1ZsHas.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55514/phprdHBOl.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55514/phpWRozgf.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55514/phpKrJe1e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55514/phpyu8Lwc.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55514/php68EwCz.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55514/phpaDCcFf.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55514/phpUIy32p.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55514/phplwj8cc.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="9819">
@@ -31501,98 +31628,6 @@ id:29259.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php2YVayv.jpeg</picture>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="29261">
-      <categoryId>101</categoryId>
-      <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
-      <price>2566620</price>
-      <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
-КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
-Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
-&lt;strong&gt;Преимущества:&lt;/strong&gt;&#13;
-- современные лифты обеспечат высокий уровень комфорта жильцам дома;&#13;
-- доступная среда для людей с ограниченными возможностями, подъем с уровня земли на 1 этаж осуществляется на специальном подъемнике;&#13;
-- просторные лоджии во двор, французские окна в сторону ул. Дядьковская;&#13;
-- автоматизированный тепловой пункт с датчиками температуры;&#13;
-- умный домофон от Ростелеком;&#13;
-- кладовые в подвале обеспечат жильцов дополнительным пространством для хранения вещей, освобождая жилую площадь от лишних предметов;&#13;
-- специально оборудованные места для тренировок Street&amp;nbsp;Workout, места для отдыха, детская площадка;&#13;
-- озеленение территории, цветущие кустарники, газоны и цветники;&#13;
-- видеонаблюдение придомовой территории;&#13;
-- разные варианты приобретения: ипотека, рассрочка без удорожания, наличные.&#13;
-&#13;
-&lt;strong&gt;Инфраструктура района:&lt;/strong&gt;&#13;
-Дом расположен в новой, развивающейся части Фрунзенского района города Ярославля, в 15 минутах езды до центра. Рядом с домом находятся:&#13;
-- парк Судостроителей, по которому вы сможете погулять сами или со своими домашними животными, на детских площадках парка будет интересно детям;&#13;
-- спортивная школа олимпийского резерва №19, которая является одним из ведущих спортивных учреждений г. Ярославля;&#13;
-- гипермаркет &amp;laquo;Лента&amp;raquo;, обеспечит удобный доступ к широкому ассортименту товаров и услуг без необходимости долгих поездок;&#13;
-- аквапарк &amp;laquo;Тропический остров&amp;raquo;, предоставляет возможность наслаждаться активным отдыхом и развлечениями рядом с домом.&#13;
-Кроме того, в непосредственной близости от дома расположены офисы банков, торговые центры, магазины, школы, детские сады и многое другое, что обеспечит удобство и доступность различных услуг и инфраструктуры для жителей дома.&#13;
-&#13;
-&lt;strong&gt;Технология строительства:&lt;/strong&gt;&#13;
-ЖК &amp;laquo;Ин Парк&amp;raquo; представляет собой двухподъездный девятиэтажный дом, в котором представлено 270 квартир.&#13;
-Дома, построенные по данной технологии являются:&#13;
-- прочными и надежными благодаря использованию железобетонных конструкций, они способны выдерживать значительные нагрузки и долговечны в эксплуатации;&#13;
-- устойчивыми к различным воздействиям: такие дома обладают хорошей устойчивостью к различным природным и антропогенным воздействиям, таким как землетрясения, пожары и другие чрезвычайные ситуации;&#13;
-- энергоэффективными: обеспечивают хорошую теплоизоляцию благодаря применению современных материалов и технологий. Нашему дому будет присвоен класс энергоэффективности В+ (высокий);&#13;
-- звукоизоляция: обеспечивают хорошую звукоизоляцию, что способствует комфортному проживанию;&#13;
-- долговечность: благодаря использованию качественных материалов и технологий обладают высокой долговечностью и требуют минимального обслуживания.&#13;
-&#13;
-&lt;strong&gt;Отделка:&lt;/strong&gt;&#13;
-Все квартиры ЖК &amp;laquo;ИНН ПАРК&amp;raquo; выполнены качественными материалами, представлены в отделке &amp;laquo;GrayKey&amp;raquo;. В нее входит:&#13;
-- возведение внутриквартирных перегородок;&#13;
-- гидроизоляция в санузлах;&#13;
-- пластиковые окна с пятикамерными профилями;&#13;
-- установка современных радиаторов отопления;&#13;
-- выполнение стяжки пола;&#13;
-- установка счетчиков на горячее и холодное водоснабжение, двух тарифных счетчиков электричества.&#13;
-&#13;
-&lt;strong&gt;Планировки:&lt;/strong&gt;&#13;
-Клиентам доступно несколько спланированных эргономичных вариантов жилья. В ЖК &amp;laquo;Ин Парк&amp;raquo; представлены как компактные студии площадью от 26 кв.м., так и просторные квартиры евро формата площадью от 43 кв.м. Разнообразие планировок позволяет выбрать оптимальный вариант для комфортного проживания или инвестиций.&#13;
-&#13;
-&lt;strong&gt;О застройщике:&lt;/strong&gt;&#13;
-ГК &amp;laquo;Прогресс-Строй&amp;raquo; - надежный и проверенный временем застройщик, выполняющий свои обязательства. Компания основана группой профессионалов в сфере жилищного строительства в 2007 году.&#13;
-ГК &amp;laquo;Прогресс-Строй&amp;raquo; воссоздает лучшие традиции российского домостроения в новом качестве - современные технологии монолитного строения, привлекательный и комфортный дизайн, благоустройство для уютной жизни.&#13;
-За более 17 лет непрерывного роста на рынке Архангельской области, построено свыше 17 жилых многоквартирных домов. 90 процентов домов, возведенных ГК &amp;laquo;Прогресс-Строй&amp;raquo; были сданы с опережением сроков строительства. Остальные были сданы точно в срок.&#13;
-Основная задача застройщика - проектировать и строить не просто квадратные метры, а создавать комфортную среду для жизни.&#13;
-&#13;
-&lt;strong&gt;Наш дом предлагает не просто квартиры, а возможность создать свой уютный уголок. Добро пожаловать в Ваш новый дом, где сбудутся ваши мечты об идеальном жилье!&lt;/strong&gt;
-id:29261. 
-&amp;nbsp;</description>
-      <param name="Материал стен">monolith</param>
-      <param name="Комнат">9</param>
-      <param name="Площадь Дома">26.19</param>
-      <param name="Жилая площадь">14.02</param>
-      <param name="Площадь кухни">5.2</param>
-      <param name="Этаж">4</param>
-      <param name="Балкон">0</param>
-      <param name="Парковка">open</param>
-      <param name="Адрес">Ярославская область, Ярославль, Дядьковская</param>
-      <coordinates lat="57.574379" lon="39.909155"/>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29261/687661765841b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29261/phptNK3Zd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29261/phpwr4XMx.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29261/phpbH0Eax.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29261/phpMT5ivp.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29261/phpXxNYVd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpgTOCZU.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php9LXZ8a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpDb2Sam.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpsRmE6U.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpnijbnZ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmXBhAo.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpuzaTI6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phprK8AaP.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpz8MT2p.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpkmZlEL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpidP7Bn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php1BaBCn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php2YVayv.jpeg</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="29264">
       <categoryId>101</categoryId>
       <name>9-к, 31.21 кв.м, ЖК Ин Парк</name>
@@ -31845,98 +31880,6 @@ id:29266.
       <picture>https://progress.vtcrm.ru/uploads/Photos/29266/phpCRoZts.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/29266/phpVilnOY.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/29266/phpAon5PI.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpgTOCZU.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php9LXZ8a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpDb2Sam.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpsRmE6U.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpnijbnZ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmXBhAo.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpuzaTI6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phprK8AaP.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpz8MT2p.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpkmZlEL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpidP7Bn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php1BaBCn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php2YVayv.jpeg</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="29280">
-      <categoryId>101</categoryId>
-      <name>1-к, 48.36 кв.м, ЖК Ин Парк</name>
-      <price>4400760</price>
-      <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&#13;
-КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&#13;
-Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
-&lt;strong&gt;Преимущества:&lt;/strong&gt;&#13;
-- современные лифты обеспечат высокий уровень комфорта жильцам дома;&#13;
-- доступная среда для людей с ограниченными возможностями, подъем с уровня земли на 1 этаж осуществляется на специальном подъемнике;&#13;
-- просторные лоджии во двор, французские окна в сторону ул. Дядьковская;&#13;
-- автоматизированный тепловой пункт с датчиками температуры;&#13;
-- умный домофон от Ростелеком;&#13;
-- кладовые в подвале обеспечат жильцов дополнительным пространством для хранения вещей, освобождая жилую площадь от лишних предметов;&#13;
-- специально оборудованные места для тренировок Street&amp;nbsp;Workout, места для отдыха, детская площадка;&#13;
-- озеленение территории, цветущие кустарники, газоны и цветники;&#13;
-- видеонаблюдение придомовой территории;&#13;
-- разные варианты приобретения: ипотека, рассрочка без удорожания, наличные.&#13;
-&#13;
-&lt;strong&gt;Инфраструктура района:&lt;/strong&gt;&#13;
-Дом расположен в новой, развивающейся части Фрунзенского района города Ярославля, в 15 минутах езды до центра. Рядом с домом находятся:&#13;
-- парк Судостроителей, по которому вы сможете погулять сами или со своими домашними животными, на детских площадках парка будет интересно детям;&#13;
-- спортивная школа олимпийского резерва №19, которая является одним из ведущих спортивных учреждений г. Ярославля;&#13;
-- гипермаркет &amp;laquo;Лента&amp;raquo;, обеспечит удобный доступ к широкому ассортименту товаров и услуг без необходимости долгих поездок;&#13;
-- аквапарк &amp;laquo;Тропический остров&amp;raquo;, предоставляет возможность наслаждаться активным отдыхом и развлечениями рядом с домом.&#13;
-Кроме того, в непосредственной близости от дома расположены офисы банков, торговые центры, магазины, школы, детские сады и многое другое, что обеспечит удобство и доступность различных услуг и инфраструктуры для жителей дома.&#13;
-&#13;
-&lt;strong&gt;Технология строительства:&lt;/strong&gt;&#13;
-ЖК &amp;laquo;Ин Парк&amp;raquo; представляет собой двухподъездный девятиэтажный дом, в котором представлено 270 квартир.&#13;
-Дома, построенные по данной технологии являются:&#13;
-- прочными и надежными благодаря использованию железобетонных конструкций, они способны выдерживать значительные нагрузки и долговечны в эксплуатации;&#13;
-- устойчивыми к различным воздействиям: такие дома обладают хорошей устойчивостью к различным природным и антропогенным воздействиям, таким как землетрясения, пожары и другие чрезвычайные ситуации;&#13;
-- энергоэффективными: обеспечивают хорошую теплоизоляцию благодаря применению современных материалов и технологий. Нашему дому будет присвоен класс энергоэффективности В+ (высокий);&#13;
-- звукоизоляция: обеспечивают хорошую звукоизоляцию, что способствует комфортному проживанию;&#13;
-- долговечность: благодаря использованию качественных материалов и технологий обладают высокой долговечностью и требуют минимального обслуживания.&#13;
-&#13;
-&lt;strong&gt;Отделка:&lt;/strong&gt;&#13;
-Все квартиры ЖК &amp;laquo;ИНН ПАРК&amp;raquo; выполнены качественными материалами, представлены в отделке &amp;laquo;GrayKey&amp;raquo;. В нее входит:&#13;
-- возведение внутриквартирных перегородок;&#13;
-- гидроизоляция в санузлах;&#13;
-- пластиковые окна с пятикамерными профилями;&#13;
-- установка современных радиаторов отопления;&#13;
-- выполнение стяжки пола;&#13;
-- установка счетчиков на горячее и холодное водоснабжение, двух тарифных счетчиков электричества.&#13;
-&#13;
-&lt;strong&gt;Планировки:&lt;/strong&gt;&#13;
-Клиентам доступно несколько спланированных эргономичных вариантов жилья. В ЖК &amp;laquo;Ин Парк&amp;raquo; представлены как компактные студии площадью от 26 кв.м., так и просторные квартиры евро формата площадью от 43 кв.м. Разнообразие планировок позволяет выбрать оптимальный вариант для комфортного проживания или инвестиций.&#13;
-&#13;
-&lt;strong&gt;О застройщике:&lt;/strong&gt;&#13;
-ГК &amp;laquo;Прогресс-Строй&amp;raquo; - надежный и проверенный временем застройщик, выполняющий свои обязательства. Компания основана группой профессионалов в сфере жилищного строительства в 2007 году.&#13;
-ГК &amp;laquo;Прогресс-Строй&amp;raquo; воссоздает лучшие традиции российского домостроения в новом качестве - современные технологии монолитного строения, привлекательный и комфортный дизайн, благоустройство для уютной жизни.&#13;
-За более 17 лет непрерывного роста на рынке Архангельской области, построено свыше 17 жилых многоквартирных домов. 90 процентов домов, возведенных ГК &amp;laquo;Прогресс-Строй&amp;raquo; были сданы с опережением сроков строительства. Остальные были сданы точно в срок.&#13;
-Основная задача застройщика - проектировать и строить не просто квадратные метры, а создавать комфортную среду для жизни.&#13;
-&#13;
-&lt;strong&gt;Наш дом предлагает не просто квартиры, а возможность создать свой уютный уголок. Добро пожаловать в Ваш новый дом, где сбудутся ваши мечты об идеальном жилье!&lt;/strong&gt;
-id:29280. 
-&amp;nbsp;</description>
-      <param name="Материал стен">monolith</param>
-      <param name="Комнат">1</param>
-      <param name="Площадь Дома">48.36</param>
-      <param name="Жилая площадь">14.68</param>
-      <param name="Площадь кухни">18.93</param>
-      <param name="Этаж">3</param>
-      <param name="Балкон">0</param>
-      <param name="Парковка">open</param>
-      <param name="Адрес">Ярославская область, Ярославль, Дядьковская</param>
-      <coordinates lat="57.574379" lon="39.909155"/>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29280/68766177b4db3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29280/phpHnuMZw.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29280/php6A0oGo.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29280/phpb2BCXs.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29280/phpjCTLxd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/29280/phpwNssit.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpgTOCZU.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php9LXZ8a.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpDb2Sam.jpeg</picture>
