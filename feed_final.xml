@@ -12047,7 +12047,7 @@ id:50179.
       <param name="Этаж">1</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>3450000</price>
+      <price>3400000</price>
       <description>Двухкомнатная квартира в кирпичном доме!&#13;
 &lt;ul&gt;&#13;
 &lt;li&gt;Функциональная планировка: две раздельных комнаты, юго-западная сторона (солнце со второй половины дня)&lt;/li&gt;&#13;
@@ -15125,48 +15125,6 @@ id:52845.
       <picture>https://progress.vtcrm.ru/uploads/Photos/52845/php3dPWrY.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/52845/phplQq1XT.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/52845/phpRqeUha.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="52846">
-      <name>Продажа, Квартира, 1-к, 30 кв.м, Ярославль, Тепловой переулок, 14А</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">1</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">На улицу</param>
-      <param name="Адрес">Ярославская область, Ярославль, Тепловой переулок, 14А</param>
-      <param name="Имя агента">Анна Куликова</param>
-      <param name="Email для связи">big.letter@yandex.ru</param>
-      <param name="Телефон для связи">79080299869</param>
-      <param name="Общая площадь">30</param>
-      <param name="Жилая площадь">16</param>
-      <param name="Площадь кухни">8</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">3</param>
-      <categoryId>100</categoryId>
-      <price>2900000</price>
-      <description>Продается отличная квартира в малоэтажном кирпичном доме (2012г) Не угловая, теплая, светлая, с хорошей планировкой, окна пвх, лоджия 3м, входная железная дверь, натяжные потолки, линолеум, в санузле на полу плитка.&lt;br /&gt;&#13;
-хорошие соседи, чистый подъезд.&lt;br /&gt;&#13;
-развитая инфраструктура: рядом остановка общественного транспорта, магазин пятерочка, детский сад, &amp;nbsp;дворец культуры, парк с соснами, &amp;nbsp;общественная баня, рынок.&lt;br /&gt;&#13;
-Общественный транспорт ходит каждые 5 минут, до центра на машине 10 минут.&lt;br /&gt;&#13;
-Один взрослый собственник, быстрый выход на сделку.&lt;br /&gt;&#13;
-Звоните, пишите, отвечу на все вопросы.&lt;br /&gt;&#13;
-Показ в любое время по договоренности.
-id:52846. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/phpDOZ5uy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/phpFEPMY7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/phpvvrT57.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/phpkodQ0T.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/php19WmIZ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/phpk3hljV.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/phplBaLeQ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/phpXG9b3Z.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/phpD27cOS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/phpn4gmGo.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52846/phpW0AJT7.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
