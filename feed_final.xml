@@ -7913,7 +7913,7 @@ id:49607.
       <param name="Этаж">7</param>
       <param name="Этажность">9</param>
       <categoryId>100</categoryId>
-      <price>6550000</price>
+      <price>6700000</price>
       <description>Продаётся теплая и уютная квартира с прекрасным косметическим ремонтом в самом центре города!&#13;
 &lt;ul&gt;&#13;
 &lt;li&gt;тёплая и уютная квартира на 7-м этаже 9-этажного дома&lt;/li&gt;&#13;
@@ -9068,46 +9068,6 @@ id:49803.
       <picture>https://progress.vtcrm.ru/uploads/Photos/49803/6988d30759b8e.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49803/6988d307d9c9b.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49803/6988d30a5df42.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Буй</param>
-    </offer>
-    <offer id="49807">
-      <name>Продажа, Квартира, 1-к, 30.9 кв.м, г Буй, ул Ивана Сусанина, 4</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">4</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Ивана Сусанина, 4</param>
-      <param name="Имя агента">Ольга Торопова</param>
-      <param name="Email для связи">h.a.r.v.i.e@mail.ru</param>
-      <param name="Телефон для связи">79536465446</param>
-      <param name="Общая площадь">30.9</param>
-      <param name="Жилая площадь">23</param>
-      <param name="Площадь кухни">7</param>
-      <param name="Этаж">4</param>
-      <param name="Этажность">4</param>
-      <categoryId>100</categoryId>
-      <price>1300000</price>
-      <description>На продаже 1 комнатная квартира.В квартире выполнен косметический ремонт,окно ПВХ на кухне.&lt;br /&gt;&#13;
-.В квартире установлена газовая колонка что сделает коммунальные платежи меньше и обеспечит всегда горячей водой.&lt;br /&gt;&#13;
-.Развитая инфраструктура, рядом с домом, магазины продуктового питания, школы, остановки общественного транспорта, центр города в 15 минутах ходьбы.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении. Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие. Сопровождение сделки до перехода права собственности.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Все консультации бесплатно.
-id:49807. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d30bd925d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d30c5fcc9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d30cd9257.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d30dd70ed.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d30d5ed6d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d30e5b041.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d30ed5527.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d30f5cc95.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d3104f08e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d30b5f2dd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49807/6988d30ad9524.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Буй</param>
     </offer>
@@ -11144,38 +11104,6 @@ id:50083.
       <picture>https://progress.vtcrm.ru/uploads/Photos/50083/6988d577061c8.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/50083/6988d577d84ff.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/50083/6988d578af845.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Буй</param>
-    </offer>
-    <offer id="50084">
-      <name>Продажа, Квартира, 1-к, 30 кв.м, г Буй, ул Октябрьской Революции, 43</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">3</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Октябрьской Революции, 43</param>
-      <param name="Имя агента">Евгения Серова</param>
-      <param name="Email для связи">evgeniyaserovamaks@yandex.ru</param>
-      <param name="Телефон для связи">79969319171</param>
-      <param name="Общая площадь">30</param>
-      <param name="Жилая площадь">18</param>
-      <param name="Площадь кухни">6</param>
-      <param name="Этаж">3</param>
-      <param name="Этажность">4</param>
-      <categoryId>100</categoryId>
-      <price>1400000</price>
-      <description>С Ремонтом 1 комнатная квартира на СРЕДНЕМ этаже кирпичного дома!&amp;nbsp;&lt;br /&gt;&#13;
-В квартире выполнен ремонт, натяжные потолки, свежие обои, ламинат, пластиковые окна ПВХ, новый застекленный балкон!&lt;br /&gt;&#13;
-В центральной части города, рядом магазины продуктового питания, школы, дет. сады, аптеки, остановки общественного транспорта.&amp;nbsp;&lt;br /&gt;&#13;
-Записывайтесь на просмотр, не упустите выгодное предложение на рынке недвижимости
-id:50084. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/50084/6988d5790cca1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/50084/6988d578c9610.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/50084/6988d578db8bc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/50084/6988d578ee583.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/50084/6988d5791f4e8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/50084/6988d5792ed86.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Буй</param>
     </offer>
