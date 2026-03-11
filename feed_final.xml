@@ -4528,9 +4528,9 @@ id:46013.
       <param name="Разрешенное использование земельного участка">Садоводство</param>
       <param name="Площадь участка">11.8</param>
       <param name="Адрес">Ярославская область, Орлово</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <categoryId>304</categoryId>
       <price>3590000</price>
       <description>Представляется к продаже участок земли в направлении Красный Профинтерн около деревни Орлово&amp;nbsp; и озера Ярхобольское&amp;nbsp; , который станет идеальным местом для воплощения ваших самых смелых идей. Стоимость этого объекта составляет 1 100 000 рублей. Участок площадью 11,8 Га . Возможна продажа частями&lt;br /&gt;&#13;
@@ -4604,9 +4604,9 @@ id:46220.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Площадь участка">19</param>
       <param name="Адрес">Ярославская область, деревня Цеденево</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <categoryId>304</categoryId>
       <price>3000000</price>
       <description>Предлагается Вашему вниманию земельный участок 19 соток в деревне Цеденево .Участок расположен на въезде в д. Цеденево, есть газ, электричество, хорошие подъездные пути, в 15-20 минутах от г. Ярославля. Участок ровный, рядом есть небольшой водоем, не заросший.&lt;br /&gt;&#13;
@@ -4636,18 +4636,19 @@ id:46230.
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="46243">
-      <name>Продажа, Участок, 20 соток, село Лучинское, Светлая улица</name>
+      <name>Продажа, Участок, 20 соток, село Лучинское, 11</name>
       <param name="Тип предложения">Продажа</param>
       <param name="Единица измерения площади участка">сотка</param>
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Площадь участка">20</param>
-      <param name="Адрес">Ярославская область, село Лучинское, Светлая улица</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Адрес">Ярославская область, село Лучинское, 11</param>
+      <param name="Имя агента">Анна Куликова</param>
+      <param name="Email для связи">big.letter@yandex.ru</param>
+      <param name="Телефон для связи">79080299869</param>
       <categoryId>304</categoryId>
-      <price>3500000</price>
-      <description>Вашему вниманию предлагается&amp;nbsp; земельный участкок под ИЖС общей площадью 20 соток на участке: Построен каркасный дом с террасой 6х8. (На сегодняшний день закрыт теплый контур и выполнена отделка снаружи фиброцементным сайдингом) - Хоз.блок на 5 м2. - подведено электричество. 15кВт. Смонтированы 2 щитка с розеткой на двух разных опорах. - Завезен речной мытый песок 30т - Завезен гравий фракции 20-40 тоже 30т.&lt;br /&gt;&#13;
+      <price>3700000</price>
+      <description>Вашему вниманию предлагается&amp;nbsp; земельный участок под ИЖС общей площадью 20 соток на участке: Построен каркасный дом с террасой 6х8. (На сегодняшний день закрыт теплый контур и выполнена отделка снаружи фиброцементным сайдингом) - Хоз.блок на 5 м2. - подведено электричество 15кВт. Смонтирован&amp;nbsp; щиток с розеткой на опоре.&lt;br /&gt;&#13;
+Завезен речной мытый песок 30т - Завезен гравий фракции 20-40 тоже 30т.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 кадастровый номер :&amp;nbsp;76:17:140501:163&lt;br /&gt;&#13;
 &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br /&gt;&#13;
@@ -4657,7 +4658,7 @@ id:46243.
       <picture>https://progress.vtcrm.ru/uploads/Photos/46243/6988cdd1d5300.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/46243/6988cdd1dfd1e.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/46243/6988cdd1eb2d0.jpeg</picture>
-      <coordinates lat="57.554846" lon="39.851359"/>
+      <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="46798">
@@ -4667,9 +4668,9 @@ id:46243.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Площадь участка">10</param>
       <param name="Адрес">Ярославская область, деревня Климовское</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <categoryId>304</categoryId>
       <price>1200000</price>
       <description>Вашему вниманию предлагается учacток ИЖС 10 соток в дeрeвне Kлимoвское .&lt;br /&gt;&#13;
@@ -4823,9 +4824,9 @@ id:47179.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Площадь участка">19.5</param>
       <param name="Адрес">Ярославская область, деревня Корюково</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <categoryId>304</categoryId>
       <price>10700000</price>
       <description>Вашему вниманию предлагается земeльный учaсток в дерeвне Kоpюкoвo с хоpoшим pacпoлoжением в центpaльной части наceленного пункта, не на oкpaине, дoстаточнo удaлен oт шоccе.&amp;nbsp;&lt;br /&gt;&#13;
@@ -4931,9 +4932,9 @@ id:47356.
       <param name="Комнат">1</param>
       <param name="Площадь участка">14</param>
       <param name="Адрес">Ярославская область, рабочий посёлок Борисоглебский</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Этажей">1</param>
       <categoryId>304</categoryId>
       <price>10150000</price>
@@ -4991,9 +4992,9 @@ id:47494.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Площадь участка">9.6</param>
       <param name="Адрес">Ярославская область, Ярославль</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <categoryId>304</categoryId>
       <price>1400000</price>
       <description>Вашему вниманию предлагается земный участок в черте города , в районе Липовой горы.&lt;br /&gt;&#13;
@@ -9726,9 +9727,9 @@ id:50179.
       <param name="Комнат">3</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Папанина, 10к2</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">90.5</param>
       <param name="Жилая площадь">53.8</param>
       <param name="Площадь кухни">16.7</param>
@@ -11078,9 +11079,9 @@ id:52174.
       <param name="Комнат">2</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, пр-кт Октября, 43</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">42.4</param>
       <param name="Жилая площадь">28.5</param>
       <param name="Площадь кухни">6</param>
@@ -11330,49 +11331,6 @@ id:52466.
       <picture>https://progress.vtcrm.ru/uploads/Photos/52466/6988d7efab345.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/52466/6988d7efe2700.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/52466/6988d7f0087e8.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="52467">
-      <name>Продажа, Квартира, 2-к, 47.8 кв.м, г Ярославль, ул Калинина, 35</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">1</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Адрес">Ярославская обл, г Ярославль, ул Калинина, 35</param>
-      <param name="Имя агента">Ирина Левченко</param>
-      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
-      <param name="Телефон для связи">79109723294</param>
-      <param name="Общая площадь">47.8</param>
-      <param name="Жилая площадь">28.7</param>
-      <param name="Площадь кухни">9</param>
-      <param name="Этаж">1</param>
-      <param name="Этажность">9</param>
-      <categoryId>100</categoryId>
-      <price>4400000</price>
-      <description>В продаже теплая не угловая квартира с косметическим ремонтом,с теплым полом в ванной.&lt;br /&gt;&#13;
-В квартире раздельный санузел. Установлены новые окна ПВХ.&lt;br /&gt;&#13;
-Удобное местоположение, рядом вся инфраструктура,две школы,садики ТЦ &amp;quot;Вернисаж&amp;quot;. Во дворе есть детская площадка. Также для занятий спортом есть тренажерный зал и бассейн.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-ПОЛНОЕ ЮРИДИЧЕСКОЕ СОПРОВОЖДЕНИЕ СДЕЛКИ - ОРГАНИЗАЦИЯ БЕЗОПАСНЫХ РАСЧЕТОВ
-id:52467. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f6bda4c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f640c1e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f437fd2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f4b5332.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f53d008.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f745de1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f2ab8ac.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f333626.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f3af261.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f5b8bf1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f09fa50.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f12c5a2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f1a7be8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f22ee6e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52467/6988d7f75a8a6.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -12012,9 +11970,9 @@ id:52861.
       <param name="Этаж">2</param>
       <param name="Комнат">4</param>
       <param name="Адрес">ярославская область, Ярославль, Чехова, 26</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">98.3</param>
       <param name="Жилая площадь">65.1</param>
       <param name="Площадь кухни">26.2</param>
@@ -12248,9 +12206,9 @@ id:52924.
       <param name="Комнат">1</param>
       <param name="Окна выходят">На улицу и двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, пр-кт Машиностроителей, 17а</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">37</param>
       <param name="Жилая площадь">20</param>
       <param name="Площадь кухни">9</param>
@@ -12739,9 +12697,9 @@ id:53080.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Свободная планировка">да</param>
       <param name="Адрес">Ярославская область, деревня Ермолово, 5-й Рассветный проезд</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Этажей">1</param>
       <param name="Ипотека">да</param>
       <categoryId>300</categoryId>
@@ -12811,16 +12769,16 @@ id:53222.
       <param name="Офис">Буй</param>
     </offer>
     <offer id="53414">
-      <name>Продажа, Квартира, 2-к, 40.1 кв.м, Ярославль</name>
+      <name>Продажа, Квартира, 2-к, 40.1 кв.м, Ярославль, проспект Толбухина, 31</name>
       <param name="Тип предложения">Продажа</param>
       <param name="Ремонт">косметический</param>
       <param name="Этаж">5</param>
       <param name="Комнат">2</param>
       <param name="Тип комнат">смежные</param>
-      <param name="Адрес">Ярославская область, Ярославль</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Адрес">Ярославская область, Ярославль, проспект Толбухина, 31</param>
+      <param name="Имя агента">Марина Волжина</param>
+      <param name="Email для связи">23vmv@mail.ru</param>
+      <param name="Телефон для связи">79106652424</param>
       <param name="Общая площадь">40.1</param>
       <param name="Жилая площадь">30</param>
       <param name="Площадь кухни">6</param>
@@ -12909,7 +12867,7 @@ id:53414.
       <picture>https://progress.vtcrm.ru/uploads/Photos/53414/6988d93474ccb.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/53414/6988d9348a50e.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/53414/6988d9349fdd5.jpeg</picture>
-      <coordinates lat="57.626559" lon="39.893813"/>
+      <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="53418">
@@ -13013,9 +12971,9 @@ id:54364.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Свободная планировка">да</param>
       <param name="Адрес">Ярославская область, Ярославль, 3-й Иваньковский переулок</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Этажей">1</param>
       <param name="Ипотека">да</param>
       <categoryId>300</categoryId>
@@ -13669,9 +13627,9 @@ id:55486.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Свободная планировка">да</param>
       <param name="Адрес">Ярославская область, село Лучинское</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Этажей">1</param>
       <param name="Ипотека">да</param>
       <categoryId>300</categoryId>
@@ -13712,9 +13670,9 @@ id:55487.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Свободная планировка">да</param>
       <param name="Адрес">Ярославская область, Ярославль</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Этажей">1</param>
       <param name="Ипотека">да</param>
       <categoryId>300</categoryId>
@@ -13756,9 +13714,9 @@ id:55488.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Свободная планировка">да</param>
       <param name="Адрес">Ярославская обл, г Ярославль, Тверицкая наб</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Этажей">1</param>
       <param name="Ипотека">да</param>
       <categoryId>300</categoryId>
@@ -13797,9 +13755,9 @@ id:55489.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Свободная планировка">да</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Борки</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Этажей">1</param>
       <categoryId>300</categoryId>
       <price>3200000</price>
@@ -13966,9 +13924,9 @@ id:55505.
       <param name="Комнат">2</param>
       <param name="Тип комнат">раздельные</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Некрасова, 51</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Марина Волжина</param>
+      <param name="Email для связи">23vmv@mail.ru</param>
+      <param name="Телефон для связи">79106652424</param>
       <param name="Общая площадь">44.9</param>
       <param name="Жилая площадь">34</param>
       <param name="Площадь кухни">7</param>
@@ -14013,21 +13971,30 @@ id:55505.
 &lt;li&gt;&lt;strong&gt;Другое:&lt;/strong&gt;&amp;nbsp;пункты&amp;nbsp;выдачи&amp;nbsp;заказов&amp;nbsp;в&amp;nbsp;пешей&amp;nbsp;доступности.&lt;/li&gt;&#13;
 &lt;/ul&gt;&#13;
 Квартира&amp;nbsp;подойдёт&amp;nbsp;как&amp;nbsp;для&amp;nbsp;собственного&amp;nbsp;проживания,&amp;nbsp;так&amp;nbsp;и&amp;nbsp;для&amp;nbsp;инвестиций.&amp;nbsp;Тихий&amp;nbsp;двор&amp;nbsp;и&amp;nbsp;центральное&amp;nbsp;расположение&amp;nbsp;создают&amp;nbsp;идеальные&amp;nbsp;условия&amp;nbsp;для&amp;nbsp;жизни&amp;nbsp;в&amp;nbsp;ритме&amp;nbsp;большого&amp;nbsp;города.&lt;br /&gt;&#13;
-&lt;strong&gt;Звоните&amp;nbsp;прямо&amp;nbsp;сейчас,&amp;nbsp;чтобы&amp;nbsp;договориться&amp;nbsp;о&amp;nbsp;просмотре!&lt;/strong&gt;
+&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;strong&gt;О сделке.&lt;/strong&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;один взрослый собственник&lt;/li&gt;&#13;
+&lt;li&gt;сопровождение сделки до перехода права собственности&lt;/li&gt;&#13;
+&lt;li&gt;безопасные расчеты сторон. Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;/li&gt;&#13;
+&lt;li&gt;помощь в одобрении и оформлении ипотеки от банков-партнеров. Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;br /&gt;&#13;
+Все консультации бесплатно!&lt;br /&gt;&#13;
+Хотите купить эту квартиру - ЗВОНИТЕ!
 id:55509. 
 &amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9dfcd8bb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e04dd4b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e0c64e6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e14ceb6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e1c567a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e24a0ec.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e2c2623.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e24a0ec.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e1c567a.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e34759c.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e3be4d4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9dfcd8bb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e14ceb6.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e442afd.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e4b933a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e543725.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/55509/6988d9e5c03c8.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
@@ -14169,9 +14136,9 @@ id:55581.
       <param name="Комнат">2</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская область, деревня Кузнечиха (Кузнечихинский сельский округ), Радужная улица, 3</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Илья Майоров</param>
+      <param name="Email для связи">imajorov71@gmail.com</param>
+      <param name="Телефон для связи">79921011287</param>
       <param name="Общая площадь">46</param>
       <param name="Жилая площадь">26.9</param>
       <param name="Площадь кухни">8.9</param>
@@ -14327,9 +14294,9 @@ id:55586.
       <param name="Комнат">2</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Красноборская, 21</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Илья Майоров</param>
+      <param name="Email для связи">imajorov71@gmail.com</param>
+      <param name="Телефон для связи">79921011287</param>
       <param name="Общая площадь">43.8</param>
       <param name="Жилая площадь">27</param>
       <param name="Площадь кухни">7</param>
@@ -14563,9 +14530,9 @@ id:55597.
       <param name="Студия">да</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская область, Ярославль, 3-я Жилая улица, 9</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Марина Волжина</param>
+      <param name="Email для связи">23vmv@mail.ru</param>
+      <param name="Телефон для связи">79106652424</param>
       <param name="Общая площадь">28</param>
       <param name="Этаж">6</param>
       <param name="Этажность">17</param>
@@ -14650,9 +14617,9 @@ id:55610.
       <param name="Этаж">7</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославская область, Ярославль, Авиаторов, 94</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">48.1</param>
       <param name="Жилая площадь">30</param>
       <param name="Площадь кухни">15</param>
@@ -14761,9 +14728,9 @@ id:55613.
       <param name="Комнат">2</param>
       <param name="Тип комнат">раздельные</param>
       <param name="Адрес">Ярославская область, Ярославль, 5- я Яковслевская, 17 б</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">64</param>
       <param name="Жилая площадь">33</param>
       <param name="Площадь кухни">12.9</param>
@@ -14800,9 +14767,9 @@ id:55619.
       <param name="Комнат">2</param>
       <param name="Тип комнат">раздельные</param>
       <param name="Адрес">Ярославская область, Ярославль, Приозерная, 5</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">73.6</param>
       <param name="Жилая площадь">37</param>
       <param name="Площадь кухни">16</param>
@@ -14843,9 +14810,9 @@ id:55622.
       <param name="Разрешенное использование земельного участка">Садоводство</param>
       <param name="Свободная планировка">да</param>
       <param name="Адрес">Ярославская область, садоводческое некоммерческое товарищество Шинник, 63</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Этажей">2</param>
       <param name="Ипотека">да</param>
       <categoryId>301</categoryId>
@@ -15153,9 +15120,9 @@ id:55649.
       <param name="Этаж">5</param>
       <param name="Комнат">3</param>
       <param name="Адрес">Ярославская область, Ярославль, Серго Орджоникидзе, 8</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">63</param>
       <param name="Жилая площадь">47</param>
       <param name="Площадь кухни">6</param>
@@ -15518,9 +15485,9 @@ id:55686.
       <param name="Комнат">1</param>
       <param name="Окна выходят">На улицу</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Яковлевская, 14</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">37.9</param>
       <param name="Жилая площадь">18</param>
       <param name="Площадь кухни">10</param>
@@ -15640,9 +15607,9 @@ id:55697.
       <param name="Этаж">2</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославская Область, Ярославль, пос. Красный Бор, Экогород, 1</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">36.1</param>
       <param name="Жилая площадь">20</param>
       <param name="Площадь кухни">11</param>
@@ -15879,9 +15846,9 @@ id:55703.
       <param name="Этаж">2</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославсая область, Ярославль, Елены Колесовой, 22</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">30.5</param>
       <param name="Жилая площадь">18</param>
       <param name="Площадь кухни">6.5</param>
@@ -15914,9 +15881,9 @@ id:55705.
       <param name="Комнат">1</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская область, Ярославль, улица Урицкого, 67</param>
-      <param name="Имя агента">Иван Шабаров</param>
-      <param name="Email для связи">hb44@mail.ru</param>
-      <param name="Телефон для связи">79536633322</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
       <param name="Общая площадь">33.8</param>
       <param name="Жилая площадь">19</param>
       <param name="Площадь кухни">6,5</param>
@@ -16216,9 +16183,9 @@ id:55767.
       <param name="Комнат">2</param>
       <param name="Тип комнат">раздельные</param>
       <param name="Адрес">Ярославская область, Ярославль, Ленинградский проспект, 47</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">43.1</param>
       <param name="Жилая площадь">28.1</param>
       <param name="Площадь кухни">6</param>
@@ -16382,9 +16349,9 @@ id:56014.
       <param name="Этаж">1</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Собинова, 50к2</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Анна Куликова</param>
+      <param name="Email для связи">big.letter@yandex.ru</param>
+      <param name="Телефон для связи">79080299869</param>
       <param name="Общая площадь">42</param>
       <param name="Жилая площадь">25</param>
       <param name="Площадь кухни">12</param>
@@ -16434,9 +16401,9 @@ id:56016.
       <param name="Комнат">2</param>
       <param name="Тип комнат">раздельные</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Володарского, 19</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">43.2</param>
       <param name="Жилая площадь">29</param>
       <param name="Площадь кухни">7</param>
@@ -16587,9 +16554,9 @@ id:56026.
       <param name="Комнат">2</param>
       <param name="Тип комнат">раздельные</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Гончарова, 4</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">45.3</param>
       <param name="Жилая площадь">30</param>
       <param name="Площадь кухни">11</param>
@@ -16632,16 +16599,16 @@ id:56028.
       <param name="Тип комнат">раздельные</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская область, Ярославль, улица Елены Колесовой, 76</param>
-      <param name="Имя агента">Иван Шабаров</param>
-      <param name="Email для связи">hb44@mail.ru</param>
-      <param name="Телефон для связи">79536633322</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
       <param name="Общая площадь">46.7</param>
       <param name="Жилая площадь">30.6</param>
       <param name="Площадь кухни">6.3</param>
       <param name="Этаж">2</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>4600000</price>
+      <price>4400000</price>
       <description>Продаётся уютная двухкомнатная квартира с евро-ремонтом в панельном доме. Общая площадь 46.7 кв. м включает две изолированные комнаты общей жилой площадью 30.6 кв. м и кухню 6.3 кв. м, что обеспечивает комфорт и приватность для всех жильцов. Квартира расположена на втором этаже пятиэтажного здания, из окон открывается вид на тихий двор с детской и спортивной площадками.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Внутреннее пространство радует современной отделкой: раздельный санузел оформлен со вкусом, а просторный застеклённый балкон может служить дополнительным уютным уголком. Во дворе предусмотрена открытая парковка, а в подъезде всегда чисто и аккуратно, установлены современные двери.&lt;br /&gt;&#13;
@@ -17141,9 +17108,9 @@ id:56061.
       <param name="Комнат">1</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, пр-кт Дзержинского, 31</param>
-      <param name="Имя агента">Иван Шабаров</param>
-      <param name="Email для связи">hb44@mail.ru</param>
-      <param name="Телефон для связи">79536633322</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
       <param name="Общая площадь">34.1</param>
       <param name="Жилая площадь">17</param>
       <param name="Площадь кухни">10.2</param>
@@ -17254,9 +17221,9 @@ id:56066.
       <param name="Комнат">2</param>
       <param name="Тип комнат">смежные</param>
       <param name="Адрес">Ярославская область, Ярославль, Блюхера, 44</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">45.9</param>
       <param name="Жилая площадь">30.7</param>
       <param name="Площадь кухни">5.4</param>
@@ -17388,9 +17355,9 @@ id:56069.
       <param name="Тип комнат">смежные</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Туманова, 8а</param>
-      <param name="Имя агента">Иван Шабаров</param>
-      <param name="Email для связи">hb44@mail.ru</param>
-      <param name="Телефон для связи">79536633322</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
       <param name="Общая площадь">50.5</param>
       <param name="Жилая площадь">28.2</param>
       <param name="Площадь кухни">9.5</param>
@@ -17595,9 +17562,9 @@ id:56075.
       <param name="Тип комнат">раздельные</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Волгоградская, 47</param>
-      <param name="Имя агента">Иван Шабаров</param>
-      <param name="Email для связи">hb44@mail.ru</param>
-      <param name="Телефон для связи">79536633322</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
       <param name="Общая площадь">49.2</param>
       <param name="Жилая площадь">32</param>
       <param name="Площадь кухни">6</param>
@@ -17654,9 +17621,9 @@ id:56077.
       <param name="Этаж">1</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Урицкого, 33</param>
-      <param name="Имя агента">Иван Шабаров</param>
-      <param name="Email для связи">hb44@mail.ru</param>
-      <param name="Телефон для связи">79536633322</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
       <param name="Общая площадь">30.5</param>
       <param name="Жилая площадь">16.8</param>
       <param name="Площадь кухни">6</param>
@@ -17860,9 +17827,9 @@ id:56092.
       <param name="Этаж">5</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославская область, Ярославль, Пионерсккая, 1</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">31</param>
       <param name="Жилая площадь">25</param>
       <param name="Площадь кухни">5</param>
@@ -18004,9 +17971,9 @@ id:56125.
       <param name="Этаж">3</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославская область, Ярославль, Серго Орджоникидзе, 29</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">21.6</param>
       <param name="Жилая площадь">12</param>
       <param name="Площадь кухни">5</param>
@@ -18095,9 +18062,9 @@ id:56140.
       <param name="Тип комнат">раздельные</param>
       <param name="Окна выходят">На улицу и двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, Мурманский проезд, 4</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Имя агента">Марина Волжина</param>
+      <param name="Email для связи">23vmv@mail.ru</param>
+      <param name="Телефон для связи">79106652424</param>
       <param name="Общая площадь">63</param>
       <param name="Жилая площадь">40</param>
       <param name="Площадь кухни">7</param>
@@ -18107,17 +18074,17 @@ id:56140.
       <price>5000000</price>
       <description>&lt;strong&gt;Продаётся&amp;nbsp;3‑к&amp;nbsp;квартира&amp;nbsp;63&amp;nbsp;м&amp;sup2;&amp;nbsp;с&amp;nbsp;косметическим&amp;nbsp;ремонтом&amp;nbsp;&amp;mdash; отличный&amp;nbsp;вариант&amp;nbsp;для&amp;nbsp;семьи!&lt;/strong&gt;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
-&amp;nbsp;Предлагаеv к&amp;nbsp;покупке просторную&amp;nbsp;трёхкомнатную&amp;nbsp;квартиру&amp;nbsp;в&amp;nbsp;развитом&amp;nbsp;районе&amp;nbsp;Ярославля&amp;nbsp;&amp;mdash; идеальный&amp;nbsp;выбор&amp;nbsp;для&amp;nbsp;комфортной&amp;nbsp;жизни&amp;nbsp;всей&amp;nbsp;семьи.&lt;br /&gt;&#13;
+&amp;nbsp;Предлагаем к&amp;nbsp;покупке просторную&amp;nbsp;трёхкомнатную&amp;nbsp;квартиру&amp;nbsp;в&amp;nbsp;развитом&amp;nbsp;районе&amp;nbsp;Ярославля&amp;nbsp;&amp;mdash; идеальный&amp;nbsp;выбор&amp;nbsp;для&amp;nbsp;комфортной&amp;nbsp;жизни&amp;nbsp;всей&amp;nbsp;семьи.&lt;br /&gt;&#13;
 &lt;strong&gt;Основные&amp;nbsp;параметры:&lt;/strong&gt;&#13;
 &lt;ul&gt;&#13;
 &lt;li&gt;Площадь:&amp;nbsp;63&amp;nbsp;м2.&lt;/li&gt;&#13;
 &lt;li&gt;Год&amp;nbsp;постройки&amp;nbsp;дома:&amp;nbsp;1976.&lt;/li&gt;&#13;
-&lt;li&gt;Материал&amp;nbsp;стен:&amp;nbsp;панельный.&lt;/li&gt;&#13;
 &lt;li&gt;Этажность:&amp;nbsp;5&amp;nbsp;этажей.&lt;/li&gt;&#13;
 &lt;li&gt;Количество&amp;nbsp;подъездов:&amp;nbsp;6.&lt;/li&gt;&#13;
 &lt;li&gt;Тип&amp;nbsp;дома:&amp;nbsp;панельный.&lt;/li&gt;&#13;
 &lt;li&gt;Этаж:&amp;nbsp;1.&lt;/li&gt;&#13;
 &lt;/ul&gt;&#13;
+&lt;br /&gt;&#13;
 &lt;strong&gt;Преимущества&amp;nbsp;объекта:&lt;/strong&gt;&#13;
 &#13;
 &lt;ul&gt;&#13;
@@ -18133,8 +18100,6 @@ id:56140.
 &lt;/ul&gt;&#13;
 &lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
-&lt;strong&gt;​​​​​​​&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 &lt;strong&gt;О&amp;nbsp;доме&amp;nbsp;и&amp;nbsp;территории:&lt;/strong&gt;&#13;
 &#13;
@@ -18145,6 +18110,8 @@ id:56140.
 &lt;li&gt;Чистый&amp;nbsp;подъезд,&amp;nbsp;порядок&amp;nbsp;поддерживается&amp;nbsp;регулярно.&lt;/li&gt;&#13;
 &lt;li&gt;&amp;nbsp;Центральное&amp;nbsp;водоснабжение,&amp;nbsp;отопление&amp;nbsp;и&amp;nbsp;электроснабжение.&lt;/li&gt;&#13;
 &lt;/ul&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
 &lt;strong&gt;Инфраструктура&amp;nbsp;района&amp;nbsp;(в&amp;nbsp;пешей&amp;nbsp;доступности):&lt;/strong&gt;&#13;
 &#13;
 &lt;ul&gt;&#13;
@@ -18156,6 +18123,8 @@ id:56140.
 &lt;li&gt;Кафе&amp;nbsp;и&amp;nbsp;рестораны.&lt;/li&gt;&#13;
 &lt;li&gt;Остановки&amp;nbsp;общественного&amp;nbsp;транспорта&amp;nbsp;(автобусы&amp;nbsp;и&amp;nbsp;маршрутки)&amp;nbsp;в&amp;nbsp;3&amp;ndash;5&amp;nbsp;минутах&amp;nbsp;ходьбы,&amp;nbsp;удобная&amp;nbsp;транспортная&amp;nbsp;развязка.&lt;/li&gt;&#13;
 &lt;/ul&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
 &lt;strong&gt;О&amp;nbsp;сделке:&lt;/strong&gt;&#13;
 &#13;
 &lt;ul&gt;&#13;
@@ -18167,7 +18136,8 @@ id:56140.
 &lt;li&gt;Ключи&amp;nbsp;в&amp;nbsp;день&amp;nbsp;полного&amp;nbsp;расчёта.&lt;/li&gt;&#13;
 &lt;li&gt;&lt;strong&gt;Торг&amp;nbsp;уместен&lt;/strong&gt;&amp;nbsp;&amp;mdash; обсудим&amp;nbsp;ваши&amp;nbsp;условия&amp;nbsp;и&amp;nbsp;найдём&amp;nbsp;взаимовыгодный&amp;nbsp;вариант!&lt;/li&gt;&#13;
 &lt;/ul&gt;&#13;
-Не&amp;nbsp;упустите&amp;nbsp;шанс&amp;nbsp;стать&amp;nbsp;владельцем&amp;nbsp;просторной&amp;nbsp;и&amp;nbsp;уютной&amp;nbsp;квартиры&amp;nbsp;в&amp;nbsp;одном&amp;nbsp;из&amp;nbsp;самых&amp;nbsp;удобных&amp;nbsp;районов&amp;nbsp;Ярославля!&amp;nbsp;Квартира&amp;nbsp;готова&amp;nbsp;к&amp;nbsp;просмотру&amp;nbsp;&amp;mdash; звоните&amp;nbsp;прямо&amp;nbsp;сейчас,&amp;nbsp;чтобы&amp;nbsp;договориться&amp;nbsp;о&amp;nbsp;просмотре&amp;nbsp;и&amp;nbsp;получить&amp;nbsp;дополнительную&amp;nbsp;информацию.
+Не&amp;nbsp;упустите&amp;nbsp;шанс&amp;nbsp;стать&amp;nbsp;владельцем&amp;nbsp;просторной&amp;nbsp;и&amp;nbsp;уютной&amp;nbsp;квартиры&amp;nbsp;в&amp;nbsp;одном&amp;nbsp;из&amp;nbsp;самых&amp;nbsp;удобных&amp;nbsp;районов&amp;nbsp;&lt;br /&gt;&#13;
+Ярославля!&amp;nbsp;Квартира&amp;nbsp;готова&amp;nbsp;к&amp;nbsp;просмотру&amp;nbsp;&amp;mdash; звоните&amp;nbsp;прямо&amp;nbsp;сейчас,&amp;nbsp;чтобы&amp;nbsp;договориться&amp;nbsp;о&amp;nbsp;просмотре&amp;nbsp;или получить&amp;nbsp;дополнительную&amp;nbsp;информацию.
 id:56150. 
 &amp;nbsp;</description>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56150/php6gH6y3.jpeg</picture>
@@ -18449,34 +18419,32 @@ id:56175.
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="56177">
-      <name>Продажа, Квартира, 1-к, 33 кв.м, г Ярославль, ул Труфанова, 12</name>
+      <name>Продажа, Квартира, 1-к, 33 кв.м, Ярославль, улица Труфанова, 12</name>
       <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
+      <param name="Ремонт">требует ремонта</param>
       <param name="Этаж">8</param>
       <param name="Комнат">1</param>
+      <param name="Тип комнат">раздельные</param>
       <param name="Окна выходят">Во двор</param>
-      <param name="Адрес">Ярославская обл, г Ярославль, ул Труфанова, 12</param>
-      <param name="Имя агента">Степан Осипов</param>
-      <param name="Email для связи">stepan76196@gmail.com</param>
-      <param name="Телефон для связи">79159698664</param>
+      <param name="Адрес">Ярославская область, Ярославль, улица Труфанова, 12</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">33</param>
-      <param name="Жилая площадь">21</param>
+      <param name="Жилая площадь">18</param>
       <param name="Площадь кухни">7</param>
       <param name="Этаж">8</param>
       <param name="Этажность">9</param>
-      <param name="Ипотека">да</param>
       <categoryId>100</categoryId>
-      <price>3900000</price>
+      <price>3500000</price>
       <description>&lt;strong&gt;Продаётся&amp;nbsp;уютная&amp;nbsp;1‑к&amp;nbsp;квартира&amp;nbsp;32,6&amp;nbsp;м2&amp;nbsp;&amp;mdash; отличный&amp;nbsp;старт&amp;nbsp;для&amp;nbsp;жизни&amp;nbsp;в&amp;nbsp;Ярославле!&lt;/strong&gt;&lt;br /&gt;&#13;
-Предлагаем&amp;nbsp;к&amp;nbsp;покупке&amp;nbsp;светлую&amp;nbsp;однокомнатную&amp;nbsp;квартиру. Идеальный&amp;nbsp;вариант&amp;nbsp;для&amp;nbsp;первого&amp;nbsp;жилья,&amp;nbsp;студентов,&amp;nbsp;молодых&amp;nbsp;специалистов&amp;nbsp;или&amp;nbsp;как&amp;nbsp;инвестиция&amp;nbsp;&amp;mdash; в&amp;nbsp;одном&amp;nbsp;из&amp;nbsp;самых&amp;nbsp;удобных&amp;nbsp;районов&amp;nbsp;города.&lt;br /&gt;&#13;
+Идеальный&amp;nbsp;вариант&amp;nbsp;для&amp;nbsp;первого&amp;nbsp;жилья,&amp;nbsp;студентов,&amp;nbsp;молодых&amp;nbsp;специалистов&amp;nbsp;или&amp;nbsp;как&amp;nbsp;инвестиция&amp;nbsp;&amp;mdash; в&amp;nbsp;одном&amp;nbsp;из&amp;nbsp;самых&amp;nbsp;удобных&amp;nbsp;районов&amp;nbsp;города.&lt;br /&gt;&#13;
 &lt;strong&gt;Основные&amp;nbsp;параметры:&lt;/strong&gt;&#13;
 &lt;ul&gt;&#13;
 &lt;li&gt;Площадь:&amp;nbsp;32,6&amp;nbsp;м2.&lt;/li&gt;&#13;
 &lt;li&gt;Адрес:&amp;nbsp;г.&amp;nbsp;Ярославль,&amp;nbsp;ул.&amp;nbsp;Труфанова,&amp;nbsp;д.&amp;nbsp;12.&lt;/li&gt;&#13;
-&lt;li&gt;Тип&amp;nbsp;ремонта:&amp;nbsp;аккуратный&amp;nbsp;классический&amp;nbsp;ремонт&amp;nbsp;&amp;mdash; создаёт&amp;nbsp;основу&amp;nbsp;для&amp;nbsp;реализации&amp;nbsp;ваших&amp;nbsp;дизайнерских&amp;nbsp;идей.&lt;/li&gt;&#13;
-&lt;li&gt;Санузел:&amp;nbsp;совместный&amp;nbsp;&amp;mdash; компактно&amp;nbsp;и&amp;nbsp;функционально.&lt;/li&gt;&#13;
-&lt;li&gt;Количество&amp;nbsp;собственников:&amp;nbsp;один-вся&amp;nbsp;документация&amp;nbsp;в&amp;nbsp;порядке,&amp;nbsp;юридическая&amp;nbsp;чистота&amp;nbsp;сделки&amp;nbsp;гарантирована.&lt;/li&gt;&#13;
-&lt;li&gt;Обременения:&amp;nbsp;имеются,&amp;nbsp;будут&amp;nbsp;сняты&amp;nbsp;при&amp;nbsp;внесении&amp;nbsp;задатка&amp;nbsp;от&amp;nbsp;покупателя&amp;nbsp;&amp;mdash; после&amp;nbsp;этого&amp;nbsp;квартира&amp;nbsp;полностью&amp;nbsp;свободна&amp;nbsp;от&amp;nbsp;ограничений.&lt;/li&gt;&#13;
+&lt;li&gt;Квартира без ремонта - основа&amp;nbsp;для&amp;nbsp;реализации&amp;nbsp;ваших&amp;nbsp;дизайнерских&amp;nbsp;идей&lt;/li&gt;&#13;
+&lt;li&gt;Санузел:&amp;nbsp;совместный&amp;nbsp;&lt;/li&gt;&#13;
 &lt;/ul&gt;&#13;
 &lt;strong&gt;Преимущества&amp;nbsp;объекта:&lt;/strong&gt;&#13;
 &#13;
@@ -18528,10 +18496,7 @@ id:56177.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56177/phph7NNT8.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56177/php4h2nK7.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56177/phprBNXjR.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56177/phpHKEDDJ.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56177/phpmHNNH3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56177/phpQ7tGsh.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56177/phpktpT6n.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56177/phpWocD2E.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56177/phpCNvqj0.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56177/phpkkRZ8U.jpeg</picture>
@@ -18583,6 +18548,79 @@ id:56178.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56178/phpNIoiRI.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56178/phpXtJXOE.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56178/phpXRp7YH.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56188">
+      <name>Продажа, Квартира, 2-к, 57.3 кв.м, Ярославль, улица Бабича, 4к2</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">дизайнерский</param>
+      <param name="Этаж">8</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Адрес">Ярославская область, Ярославль, улица Бабича, 4к2</param>
+      <param name="Имя агента">Мария Баряк</param>
+      <param name="Email для связи">baryakmaria161@mail.ru</param>
+      <param name="Телефон для связи">79010465847</param>
+      <param name="Общая площадь">57.3</param>
+      <param name="Жилая площадь">29.69</param>
+      <param name="Площадь кухни">12</param>
+      <param name="Этаж">8</param>
+      <param name="Этажность">10</param>
+      <param name="Ипотека">да</param>
+      <categoryId>100</categoryId>
+      <price>7300000</price>
+      <description>&lt;strong&gt;Продаётся просторная двухкомнатная квартира с дизайнерским евро-ремонтом в кирпичном доме (Дзержинский район)&lt;/strong&gt;&lt;br /&gt;&#13;
+&amp;bull; светлая и тёплая квартира в качественном кирпичном доме&lt;br /&gt;&#13;
+&amp;bull; окна выходят на две стороны.&lt;br /&gt;&#13;
+&amp;bull; функциональная планировка: изолированные комнаты и раздельный санузел с большой ванной&lt;br /&gt;&#13;
+&amp;bull; уникальное решение: две лоджии, одна из которых сделана как дополнительная комната, а за счет второй расширилось пространство кухни&lt;br /&gt;&#13;
+&amp;bull; дизайнерский ремонт &amp;laquo;для себя&amp;raquo;: стены идеально выровнены, заменена вся проводка (розетки перенесены для удобства), установлены новые пластиковые трубы&lt;br /&gt;&#13;
+&amp;bull; стильная отделка: во всей квартире декоративная штукатурка, в детской &amp;mdash; качественные моющиеся обои под покраску&lt;br /&gt;&#13;
+&amp;bull; в стоимость входит: кухонный гарнитур, изготовленный по индивидуальному заказу, встроенная техника Electrolux (варочная панель, духовой шкаф), вытяжка Hansa, холодильник Samsung и бойлер Ariston (50л). Встроенная мебель в комнатах также остается новым владельцам.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;strong&gt;О доме.&lt;/strong&gt;&lt;br /&gt;&#13;
+&amp;bull; современный чистый подъезд, оборудован подъемником для колясок&lt;br /&gt;&#13;
+&amp;bull; собственные нагревательные котлы в доме &amp;mdash; существенно более низкие коммунальные платежи&lt;br /&gt;&#13;
+&amp;bull; спокойные и интеллигентные соседи (по соседству живет врач)&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;strong&gt;О районе.&lt;/strong&gt;&lt;br /&gt;&#13;
+&amp;bull; дом удачно расположен в Дзержинском районе (ул. Бабича), сочетая тишину и доступность инфраструктуры&lt;br /&gt;&#13;
+&amp;bull; отличная транспортная доступность: рядом остановки во все направления&lt;br /&gt;&#13;
+&amp;bull; всё для семьи: школа №92 всего в 8 минутах пешком (её видно из окон), в 100 метрах магазин &amp;laquo;Пятёрочка&amp;raquo;, в пешей доступности (900м) ТЦ &amp;laquo;Альтаир&amp;raquo;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;strong&gt;О сделке&lt;/strong&gt;&lt;br /&gt;&#13;
+&amp;bull;&amp;nbsp; квартире никто не проживает, прямая продажа в связи с переездом&lt;br /&gt;&#13;
+&amp;bull; без обременений и долгов, квартира полностью готова к сделке&lt;br /&gt;&#13;
+&amp;bull; сопровождение сделки до перехода права собственности и безопасные расчеты&lt;br /&gt;&#13;
+&amp;bull; Юридическая чистота сделки: полная проверка документов по объекту недвижимости, сопровождение на всех этапах сбора документов, помощь в их оформлении&lt;br /&gt;&#13;
+&amp;bull; Помощь в одобрении и оформлении ипотеки от банков-партнеров&lt;br /&gt;&#13;
+&amp;bull; Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;strong&gt;Все консультации бесплатно!&lt;/strong&gt; &lt;strong&gt;!Хотите купить эту квартиру &amp;mdash; ЗВОНИТЕ!&lt;/strong&gt;
+id:56188. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/php0AwjdW.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpdURqNV.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpdE0gPO.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phphJ92Hd.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpFin82Y.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpOMGc2i.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpZOtm4W.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpBIy0lQ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpfFr0Z4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpRBUZwg.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpSQGluV.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpFfHgtK.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpMMIqJi.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpDGKtZ0.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/php5Tf9Zh.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpgSgJ0r.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/php7VkXIT.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/php0Dy1WV.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/php1HZI64.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/3dec850e-62b1-4289-bd99-39d59017009c.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56188/phpMmAuuO.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -18907,9 +18945,9 @@ id:56215.
       <param name="Этаж">2</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Блюхера, 86/9</param>
-      <param name="Имя агента">Иван Шабаров</param>
-      <param name="Email для связи">hb44@mail.ru</param>
-      <param name="Телефон для связи">79536633322</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
       <param name="Общая площадь">22</param>
       <param name="Жилая площадь">13</param>
       <param name="Площадь кухни">5</param>
@@ -18949,9 +18987,9 @@ id:56224.
       <param name="Тип комнат">раздельные</param>
       <param name="Окна выходят">На улицу и двор</param>
       <param name="Адрес">Ярославская область, Ярославль, Панина, 14</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">86</param>
       <param name="Жилая площадь">60</param>
       <param name="Площадь кухни">17</param>
@@ -18976,6 +19014,57 @@ id:56228.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56228/f6f76d9f-bef8-4541-9c7f-8068ab71afab.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56228/a9ad91c3-814f-49b6-b0a4-1efb1cb25582.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56228/a7c6f2d4-f187-4463-bc84-db316bb0db9f.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56230">
+      <name>Продажа, Квартира, 2-к, 51.7 кв.м, г Ярославль, пр-кт Машиностроителей, 17а</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">2</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Окна выходят">На улицу</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, пр-кт Машиностроителей, 17а</param>
+      <param name="Имя агента">Ирина Левченко</param>
+      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
+      <param name="Телефон для связи">79109723294</param>
+      <param name="Общая площадь">51.7</param>
+      <param name="Жилая площадь">29</param>
+      <param name="Площадь кухни">8</param>
+      <param name="Этаж">2</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>6400000</price>
+      <description>В продаже уютная 2х комнатная квартира в кирпичном доме 2018г. постойки, с хорошим косметическим ремонтом.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+- Кватира готова к проживаю,&lt;br /&gt;&#13;
+- Частично остается мебель.&amp;nbsp;&lt;br /&gt;&#13;
+- Хорошая лоджия 4,3 кв.м&lt;br /&gt;&#13;
+- Раздельный санузел,изолированные комнаты&lt;br /&gt;&#13;
+- Обои под покраску,на полу ламинат во всех комнатах.&lt;br /&gt;&#13;
+- Ванна полностью в плитке.&lt;br /&gt;&#13;
+- В квартире ни кто не проживает.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Отличное местоположение, в самом центре Заволжского экологически чистого района. Остановка рядом с домом во все районы города. Рядом ТЦ &amp;quot;Яркий, ТЦ &amp;quot;Глобус&amp;quot;,ЛеманоПро,большое количество сетевых магазинов,аптеки,отделение банка,финтес-центр,школа №84,№59, детская поликлиника&amp;nbsp; &amp;nbsp;Квартира солнечная, из окон открывается вид на проспект Машинострроителей.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Один взрослый собственник,быстрый выход на сделку. Юредическое сопровождени на всех этапах сделки.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;nbsp;
+id:56230. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/php6ePMVU.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/phpGbhVn7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/phpMSKWfo.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/phpK8POhw.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/php1ML8FE.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/phpS7eEMw.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/phpZg2d7x.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/phpWrBYmf.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/phpx8TaxS.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/phpUZMibB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56230/phpiGcSzi.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -19103,7 +19192,7 @@ id:56236.
       <param name="Этаж">6</param>
       <param name="Этажность">17</param>
       <categoryId>100</categoryId>
-      <price>4600000</price>
+      <price>4500000</price>
       <description>&lt;strong&gt;В ПРОДАЖЕ 1-комнатная квартира в кирпичном доме в ЖК Яблоневый Посад: ул.Батова, д.28/2&lt;/strong&gt;&lt;br /&gt;&#13;
 Общая площадь 44 кв.м, квартира расположена на 6-м этаже 17-этажного дома&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
@@ -19195,38 +19284,6 @@ id:56238.
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="56239">
-      <name>Продажа, Квартира, 1-к, 32.4 кв.м, г Буй, ул Островского, 38</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Островского, 38</param>
-      <param name="Имя агента">Ольга Торопова</param>
-      <param name="Email для связи">h.a.r.v.i.e@mail.ru</param>
-      <param name="Телефон для связи">79536465446</param>
-      <param name="Общая площадь">32.4</param>
-      <param name="Жилая площадь">17.7</param>
-      <param name="Площадь кухни">7.7</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>2200000</price>
-      <description>В продаже 1 комнатная квартира на 2 этаже 5-ти этажного кирпичного дома.&lt;br /&gt;&#13;
-В квартире сделан косметический ремонт.Дом 1995 года,рядом все необходимое:магазины,школы ,садики,городская больница.&lt;br /&gt;&#13;
-Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении. Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие. Сопровождение сделки до перехода права собственности.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Все консультации бесплатно.
-id:56239. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56239/phpCoHFLF.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56239/phpE1lRom.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56239/phpuMWBKc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56239/php4u2p3X.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56239/phpMsvzxW.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Буй</param>
-    </offer>
     <offer id="56241">
       <name>Продажа, Квартира, 1-к, 30.1 кв.м, Ярославль, улица Туманова, 16</name>
       <param name="Тип предложения">Продажа</param>
@@ -19235,8 +19292,8 @@ id:56239.
       <param name="Комнат">1</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская область, Ярославль, улица Туманова, 16</param>
-      <param name="Имя агента">Иван Шабаров</param>
-      <param name="Email для связи">hb44@mail.ru</param>
+      <param name="Имя агента">Вероника Шабарова</param>
+      <param name="Email для связи">shabve@yandex.ru</param>
       <param name="Телефон для связи">79536633322</param>
       <param name="Общая площадь">30.1</param>
       <param name="Жилая площадь">18</param>
@@ -19331,7 +19388,7 @@ id:56245.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56245/phpZahjb4.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56245/phpRRIdBl.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56245/phpKxefNd.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
+      <coordinates lat="57.681260" lon="39.823324"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="56247">
@@ -19341,9 +19398,9 @@ id:56245.
       <param name="Этаж">2</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославская область, Ярославль, Спасская, 6</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
       <param name="Общая площадь">41.7</param>
       <param name="Жилая площадь">13.8</param>
       <param name="Площадь кухни">19.5</param>
@@ -19635,6 +19692,217 @@ id:56263.
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
+    <offer id="56275">
+      <name>Продажа, Квартира, 1-к, 32.4 кв.м, рп Лесная Поляна, 33</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">4</param>
+      <param name="Комнат">1</param>
+      <param name="Адрес">Ярославская обл, рп Лесная Поляна, 33</param>
+      <param name="Имя агента">Илья Майоров</param>
+      <param name="Email для связи">imajorov71@gmail.com</param>
+      <param name="Телефон для связи">79921011287</param>
+      <param name="Общая площадь">32.4</param>
+      <param name="Жилая площадь">18</param>
+      <param name="Площадь кухни">7</param>
+      <param name="Этаж">4</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>2580000</price>
+      <description>Объект 17525 Продаётся уютная 1-комнатная квартира в экологически чистом районе города Дом расположен в поселке Лесная Поляна В квартире выполнен косметический ремонт, выровнены стены, поменяны окна на пластиковые, установлена качественная входная дверь. Большая застекленная лоджия с видом на сосновый бор. Санузел совмещенный, в кафеле. Установлены счетчики на воду, а также общедомовой на отопление, электроэнергия по тарифам области, а это низкие коммунальные платежи круглый год. Имеется вместительное кладовое помещение, которое можно использовать под гардеробную. Квартира не угловая, теплая, солнечная, с красивым видом из окон. Новым владельцам остается кухонный гарнитур и стеллаж в прихожей. Эта квартира отлично подойдет тем, кто ценит тишину и комфорт, а также будет отличным вариантом для сдачи в аренду. БЕЗОПАСНОСТЬ И КОМФОРТ: Тихий уютный двор с детской и спортивной площадкой. Достаточно места для парковки личного автотранспорта. Чистый подъезд, социально благополучные соседи, организован тамбур на 2 квартиры, где можно хранить личные вещи. ИНФРАСТРУКТУРА: Очень удобное расположение. В шаговой доступности есть всё необходимое для комфортного проживания: различные продуктовые магазины и аптеки, детский сад и школа в шаговой доступности, поликлиника, спортивный центр, отделение почты и Сбербанка, рядом Ярославский Зоопарк ТРАНСПОРТНАЯ ДОСТУПНОСТЬ: До остановки общественного транспорта 5 минут пешком, до центра города ехать 10 минут, автобусы ходят в многие районы города с высокой регулярностью. СПОСОБЫ ОПЛАТЫ: 1 взрослый собственник, более 5 лет в собственности, обременений нет. Быстрый выход на сделку. Квартира подходит под ипотечные условия и сертификаты. Ваше жильё в зачет ИНОГОРОДНИМ: расскажем о городе и дистанционно проведём сделку. Гарантия финансовой и юридической безопасности сделки с выдачей сертификата и полиса страхования Покупатель получает сертификат безопасной сделки в подарок (страховка до 5 млн. р .)! Бесплатное юридическое сопровождение Оформление ипотеки сразу в офисе Существенная скидка на услуги страхования Звоните организуем показ в удобное для вас время
+id:56275. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845afe5318.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b008761.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b01fac1.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b02ea71.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b045355.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b0594a8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b069545.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b076d94.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b084710.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b092144.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b0a4e4b.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b0b2a9e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b0c85cd.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b0dc854.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b10022d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56275/69a845b117274.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56279">
+      <name>Продажа, Квартира, 2-к, 41.9 кв.м, г Ярославль, ул Курчатова, 7</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">требует ремонта</param>
+      <param name="Этаж">2</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, ул Курчатова, 7</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
+      <param name="Общая площадь">41.9</param>
+      <param name="Жилая площадь">25</param>
+      <param name="Площадь кухни">5</param>
+      <param name="Этаж">2</param>
+      <param name="Этажность">5</param>
+      <param name="Ипотека">да</param>
+      <categoryId>100</categoryId>
+      <price>3650000</price>
+      <description>🏡 Прoдаётся уютнaя 2-комнaтнaя квартира в Яpоcлавле, ул. Куpчaтoва 7&lt;br /&gt;&#13;
+Тёплая и cвeтлaя квapтира площaдью 42 м&amp;sup2; в пятиэтaжнoм киpпичном дoме.&lt;br /&gt;&#13;
+Kваpтиpа бeз ремонта &amp;mdash; отличная вoзможнoсть cдeлать вcё пoд себя и cоздать комфoртное пpостpaнствo пo своему вкуcу. Eсть бaлкoн.&lt;br /&gt;&#13;
+⚒️ В домe пpoведены paбoты по обновлению инженерных коммуникаций: заменены стояки и внутренняя разводка горячего и холодного водоснабжения, отопления и канализации.&lt;br /&gt;&#13;
+📍 О районе и расположении:&lt;br /&gt;&#13;
+Дом находится в Красноперекопском районе &amp;mdash; это тихий, зелёный и обжитой район с развитой инфраструктурой.&lt;br /&gt;&#13;
+В шаговой доступности всё необходимое для жизни:&lt;br /&gt;&#13;
+&amp;bull; детские сады (в том числе № 88 &amp;mdash; всего в 130 м от дома),&lt;br /&gt;&#13;
+&amp;bull; школы № 12 и № 75 &amp;mdash; в пяти минутах пешком,&lt;br /&gt;&#13;
+&amp;bull; продуктовые магазины, аптеки, салоны, почта, остановки общественного транспорта.&lt;br /&gt;&#13;
+🌳 Парк &amp;laquo;Нефтяник&amp;raquo; &amp;mdash; зелёное сердце района&lt;br /&gt;&#13;
+Всего в 10&amp;ndash;15 минутах прогулочным шагом находится благоустроенный парк &amp;laquo;Нефтяник&amp;raquo; &amp;mdash; одно из любимых мест жителей Ярославля.&lt;br /&gt;&#13;
+Здесь есть пруд, прогулочные дорожки, детские и спортивные площадки, уютные кафе и зона отдыха для всей семьи. Отличное место для прогулок, спорта и отдыха на природе, не выезжая из города.&lt;br /&gt;&#13;
+🚗 Двор и парковка:&lt;br /&gt;&#13;
+Тихий, зелёный двор, дружелюбные соседи, всегда можно найти место для парковки.&lt;br /&gt;&#13;
+📑 Продажа от собственника.&lt;br /&gt;&#13;
+Без посредников и лишних комиссий.&lt;br /&gt;&#13;
+Риэлторам просьба не беспокоить без реальных покупателей.&lt;br /&gt;&#13;
+Если остались вопросы &amp;mdash; пишите, с удовольствием расскажу подробнее или покажу квартиру лично!
+id:56279. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/bdfbc234-5715-4ffb-bf33-115d40ce6b68.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/52f23532-944f-4d1b-ab71-0cef9df285b4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/75c90749-0586-4190-aceb-4c80378095bc.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/9fb23e61-5c16-4502-bedc-98deff257288.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/04939e10-f749-40f5-831c-3d1a2f098f60.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/2a515dd5-c6e0-463e-b042-d244966f86bd.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/52360fe8-1c0c-4a39-a95e-aaa30f37ca32.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/059432e6-9422-42cf-b28f-e5101716bf4b.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/45cfdd6e-a393-48c5-817b-75396ccaa570.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/b9b10a7e-9695-43bb-a2d1-d0a77dcb7283.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/3ec61f9a-ac8e-4725-aed1-c7ad82909326.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/494e90ca-f945-42b4-a1cf-624fd94de31c.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/8f782686-6834-4c8c-8855-10c7b17d344a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/4ef91c6e-ea80-4e64-85d2-cbe83aa00b07.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/622a75b3-4449-4d5a-8493-747b27b483da.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/cbdcb33c-161a-43f7-b82f-b3b526a25e9f.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/78cc7858-dc3c-4d9a-b037-f76c3f3fc46d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/162614c7-0334-4f00-8996-08a7c28914f4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/2cf36127-1184-4f91-9f76-426afe9a04dc.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/ea1d5a62-21c3-4975-980e-7c0f8efe372a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/14fe073a-90e1-47bd-8de8-13e79c000b27.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/85679468-9ecf-455b-bb6b-d00e1d0e27f3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/59bae021-e589-47ff-a56c-035cbe7bcbe8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/fb706d76-9f19-41b5-871b-eec1e7e78b67.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/84fa0ea1-9e14-4bc7-ae3a-54189b4da7c6.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/9affa59f-47c2-4dd3-b16c-1b18deb2ca11.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/a7c87bea-32cc-4509-b28e-e92b328a4a46.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/7b908cf5-b09f-4f85-90ad-4257489319e3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/17d5d577-fe86-41f1-91aa-8e6afbddd8a5.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56279/062daebb-4dc1-49e0-a916-b6960402fd02.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56283">
+      <name>Продажа, Квартира, 3-к, 68 кв.м, Ярославль, 8 марта, 3к3</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">евроремонт</param>
+      <param name="Этаж">7</param>
+      <param name="Комнат">3</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Окна выходят">На улицу и двор</param>
+      <param name="Адрес">Ярославль, Ярославский, Ярославль, 8 марта, 3к3</param>
+      <param name="Имя агента">Мария Бурчалова</param>
+      <param name="Email для связи">masha.burchalova@mail.ru</param>
+      <param name="Телефон для связи">79301117607</param>
+      <param name="Общая площадь">68</param>
+      <param name="Жилая площадь">45</param>
+      <param name="Площадь кухни">9.6</param>
+      <param name="Этаж">7</param>
+      <param name="Этажность">11</param>
+      <categoryId>100</categoryId>
+      <price>10500000</price>
+      <description>Продается просторная уютная 3 комнатная квартира. Кирпичный дом с огороженной территорией, с парковкой и детской площадкой. В доме два лифта, есть видеонаблюдение.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Квартира расположена на 7-м этаже 11-этажного кирпичного дома. Общая площадь &amp;mdash; 68 квадратных метров, что позволяет комфортно разместить всю семью. Площадь кухни &amp;mdash; 9,6 квадратных метров.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Остаётся вся мебель и техника, как на фото. Полностью готова к проживанию. Имеется 2 отдельных санузла. Свежий современный ремонт, натяжные потолки.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+В квартире присутствует просторная застекленная лоджия, выход на которую есть из двух комнат. И так же, отдельный застекленный балкон.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Удобное месторасположение, рядом автобусная остановка, до центра на машине 7-10 минут. Рядом находятся магазины, аптеки, пункты выдачи, больница, школа и детский сад.&amp;nbsp;&lt;br /&gt;&#13;
+Адекватные, активные жильцы и соседи. Хорошая управляющая компания, которая решает все проблемы сразу.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Один собственник, квартира без обременений.&amp;nbsp;&lt;br /&gt;&#13;
+&amp;nbsp;
+id:56283. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/php0crljb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpaksLOv.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/php7rmTOz.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpPoyajZ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpaxnt78.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpagvs22.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpgJQKrs.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/php2ishgF.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpllnzkT.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpJxVa0m.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpNzl4RC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpQuaGf0.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/php2JVIpr.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpdJEn2P.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpakDxsK.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpRtSAqI.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpuLCsft.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpmd7ciK.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpSsf33o.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpb05Ovc.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phppJOCJV.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/php3ks07m.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56283/phpPcvZiK.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56288">
+      <name>Продажа, Квартира, 1-к, 30.3 кв.м, Ярославль</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">4</param>
+      <param name="Комнат">1</param>
+      <param name="Адрес">Ярославская область, Ярославль</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
+      <param name="Общая площадь">30.3</param>
+      <param name="Жилая площадь">20</param>
+      <param name="Площадь кухни">4.6</param>
+      <param name="Этаж">4</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>2600000</price>
+      <description>Прoдaетcя уютнaя oднокомнатная кваpтирa с коcметичecким peмoнтoм. Haxoдится на четвepтoм этaже киpпичногo домa, пoстpоенного в 1963 году.&lt;br /&gt;&#13;
+Квaртиpа oчeнь тёплая.&lt;br /&gt;&#13;
+Caнузел сoвмещённый. Сантeхникa в хорошeм cоcтoянии.&lt;br /&gt;&#13;
+Во двopе за дoмoм eсть дeтскaя площaдкa.&lt;br /&gt;&#13;
+Паpковка открытая, расположена во дворе.&lt;br /&gt;&#13;
+Детские сады 50, 179,210,215.&lt;br /&gt;&#13;
+Школы 15 и 31.&lt;br /&gt;&#13;
+В пешей доступности Арена, Атлант.&lt;br /&gt;&#13;
+Рядом ТЦ Шоколад, Вернисаж.
+id:56288. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56288/phpLhaPat.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56288/phpDjI5MV.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56288/phpQpI4V6.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56288/phprMBJRu.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56288/php0y6auB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56288/phpIXm5uG.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56288/phpJ1aPKU.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56288/phpRmAELL.jpeg</picture>
+      <coordinates lat="57.626559" lon="39.893813"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
     <offer id="56296">
       <name>Продажа, Участок, 20 соток, Ярославль</name>
       <param name="Тип предложения">Продажа</param>
@@ -19673,6 +19941,81 @@ id:56296.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56296/phpvtoNif.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56296/phpWqvlvE.jpeg</picture>
       <coordinates lat="57.626559" lon="39.893813"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56301">
+      <name>Продажа, Квартира, 3-к, 108 кв.м, Ярославль, 1-я улица Кольцова, 37</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">евроремонт</param>
+      <param name="Этаж">5</param>
+      <param name="Комнат">3</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Окна выходят">На улицу</param>
+      <param name="Адрес">Ярославская область, Ярославль, 1-я улица Кольцова, 37</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
+      <param name="Общая площадь">108</param>
+      <param name="Жилая площадь">66</param>
+      <param name="Площадь кухни">11</param>
+      <param name="Этаж">5</param>
+      <param name="Этажность">6</param>
+      <categoryId>100</categoryId>
+      <price>9700000</price>
+      <description>&lt;strong&gt;В ПРОДАЖЕ шикарная 2-х уровневая квapтира евро-трешка в кирпичном доме с ИГО по адресу: ул.1-я Кольцова, д.37&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;strong&gt;О квартире:&lt;/strong&gt;&lt;br /&gt;&#13;
+Квартира общей площадью 108 м2 расположенна на двух уровнях: на 5 и мансардном этаже дома&lt;br /&gt;&#13;
+На первом уровне:&lt;br /&gt;&#13;
+-&amp;nbsp;просторная кухня-гостиная 31 м2 с выходом на балкон&lt;br /&gt;&#13;
+- санузел совместный&amp;nbsp;&lt;br /&gt;&#13;
+- просторная прихожая 12.4 м2&amp;nbsp;&lt;br /&gt;&#13;
+- балкон 3 м2&lt;br /&gt;&#13;
+На втором уровне располагаются:&lt;br /&gt;&#13;
+- детская комната 28 м2&lt;br /&gt;&#13;
+- спальня 18,9 м2 с выходом на балкон&lt;br /&gt;&#13;
+- санузел 4,7 м2&lt;br /&gt;&#13;
+Современная отделка квартиры, состояние &amp;quot;заезжай живи&amp;quot;&lt;br /&gt;&#13;
+- установлены качественные межкомнатные двери&lt;br /&gt;&#13;
+- натяжные матовые потолки&lt;br /&gt;&#13;
+- стены оклеены обоями&lt;br /&gt;&#13;
+- на полах линолеум&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Квартира с прекрасной энергетикой! В одних руках владения с момента постройки дома&lt;br /&gt;&#13;
+Очень светлая, уютная, чистая! Все окна квартиры выходят на улицу, вам не будет мешать шум со двopа. С балкона открывается красивая панорама&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;strong&gt;О доме:&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
+Дом 2015 года постройки из керамического кирпича&amp;nbsp;с индивидуальным газовым&amp;nbsp;отоплением, что позволяет настраивать микроклимат в квартире в зависимости от погодных условий и экономить на коммунальных платежах&lt;br /&gt;&#13;
+Преимуществом района Норское, в котором расположен дом, является экология!&amp;nbsp;В пешей доступности река Волга с оборудованным песчаным пляжем, липовая роща для прогулок&lt;br /&gt;&#13;
+Рядом вся необходимая для комфортного проживания инфраструктура: детский сад №133 и № 139, школа №17, магазины всех сетей, ПВЗ, стадион и т.д.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Остановки автобусов 6, 10, 66, 70, 77&lt;br /&gt;&#13;
+Дом обслуживает Управляющая компания &amp;quot;Дом Сервис&amp;quot;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Звоните, проконсультирую по всем вопросам приобретения. Помогу с одобрением ипотеки&lt;br /&gt;&#13;
+Организую показ в удобное для Вас время!
+id:56301. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpGrFkFA.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpzjmnFQ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/php2tqO7n.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpRElteU.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phphqZydK.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpNp3xRY.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/php6njb60.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpqX0xKw.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/php1yuvqm.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpPJKJMw.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpWW2xvA.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpyn0lGN.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpOVg8PL.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phplzbC4y.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/php9ekjFU.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpNeNhIN.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/php6W5iRc.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/php1kbwnr.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56301/phpGYM27i.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="56306">
@@ -19727,6 +20070,283 @@ id:56306.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56306/phpfU2Dx5.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56306/phpwGfdI6.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56306/phpfnTlf8.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56309">
+      <name>Продажа, Квартира, 2-к, 43.5 кв.м, Ярославль</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">1</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Окна выходят">Во двор</param>
+      <param name="Адрес">Ярославская область, Ярославль</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
+      <param name="Общая площадь">43.5</param>
+      <param name="Жилая площадь">35</param>
+      <param name="Площадь кухни">6</param>
+      <param name="Этаж">1</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>3700000</price>
+      <description>Представляем вашему вниманию уютную двухкомнатную квартиру в кирпичном доме! Стоимость объекта &amp;mdash; 3 700 000 рублей. Квартира расположена на первом этаже пятиэтажного здания. Общая площадь составляет 43,5 м&amp;sup2;, из которых 35 м&amp;sup2; &amp;mdash; жилая площадь, а 6 м&amp;sup2; &amp;mdash; кухня.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+В квартире был произведён глобальный ремонт &amp;mdash; делали для себя, с вниманием к каждой детали. Полностью заменена проводка (включая подвал), осталось лишь закончить работу с потолком.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Будущему владельцу останется вся новая мебель и техника: микроволновая печь, чайник, холодильник, встроенный духовой шкаф с плитой, стиральная машинка на 8 кг с сушкой, кофемашина и многое другое.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Вторая комната готова к финишной отделке &amp;mdash; заведена новая проводка, а все материалы для ремонта останутся новому владельцу.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Инфраструктура района порадует вас: рядом есть детские сады и несколько магазинов. Подъезд удобный, дороги регулярно чистят. Соседи спокойные и дружелюбные.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Собственник один, взрослый.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Эта квартира &amp;mdash; отличное место для комфортной жизни! Здесь вас ждёт уют и всё необходимое для беззаботного проживания.&lt;br /&gt;&#13;
+&amp;nbsp;
+id:56309. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpV71pUq.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/php294puU.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpKF3CDs.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpmI968B.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpavIDCW.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpOtsTN2.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpeb3qSZ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpSe4iua.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/php2Odoyh.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpXlREDM.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpEid8wJ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpEsoifY.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpTqPmoS.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56309/phpJs5VJk.jpeg</picture>
+      <coordinates lat="57.626559" lon="39.893813"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56314">
+      <name>Продажа, Квартира, 2-к, 43 кв.м, Ярославль</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">требует ремонта</param>
+      <param name="Этаж">1</param>
+      <param name="Комнат">2</param>
+      <param name="Окна выходят">Во двор</param>
+      <param name="Адрес">Ярославская область, Ярославль</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
+      <param name="Общая площадь">43</param>
+      <param name="Жилая площадь">35</param>
+      <param name="Площадь кухни">5</param>
+      <param name="Этаж">1</param>
+      <param name="Этажность">5</param>
+      <param name="Ипотека">да</param>
+      <categoryId>100</categoryId>
+      <price>3950000</price>
+      <description>Хороший район, центр города! Представляем вашему вниманию уютную двухкомнатную квартиру в кирпичном доме. Расположенная на первом этаже пятиэтажного здания, квартира обладает отличной планировкой: общая площадь составляет 43 кв. м, из которых 35 кв. м &amp;mdash; жилая площадь, а 5 кв. м &amp;mdash; кухня.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Это отличный вариант под ремонт &amp;mdash; здесь вы сможете воплотить все свои дизайнерские мечты и создать интерьер, который будет отражать ваш уникальный стиль. Цена в 3 950 000 рублей делает это предложение особенно привлекательным на рынке вторичной недвижимости. Не упустите шанс стать владельцем квартиры в одном из самых востребованных районов города!
+id:56314. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56314/phpugCy0k.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56314/php7jt5e7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56314/php3XboDC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56314/phpSm4l6p.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56314/phpSLVfzS.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56314/phpCI3amF.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56314/php9438sS.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56314/phplsvd4S.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56314/phpWjenxn.jpeg</picture>
+      <coordinates lat="57.626559" lon="39.893813"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56316">
+      <name>Продажа, Квартира, 2-к, 44.7 кв.м, Ярославль</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">требует ремонта</param>
+      <param name="Этаж">3</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">смежные</param>
+      <param name="Адрес">Ярославская область, Ярославль</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
+      <param name="Общая площадь">44.7</param>
+      <param name="Жилая площадь">34</param>
+      <param name="Площадь кухни">6</param>
+      <param name="Этаж">3</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>3600000</price>
+      <description>Oтличнaя бaза для pеализации любого дизайнеpскoго пpоектa &amp;mdash; планировка пoзвoляeт дeмoнтировать пepeгoрoдки. Квaртиpa трeбует капитального рeмонтa, что являeтcя плюсoм: вы нe перeплачиваетe за чужой вкус. Киpпичный дом, вoзмoжноcть пeрепланиpoвки, вcе cтены нe неcущиe, демонтаж чacтично выполнен. Квартира теплая, светлая. Оптимальный 3этаж.&lt;br /&gt;&#13;
+Рядом детские сады, школы, лицей, колледжи, университет, спорткомплекс Атлант, Арена, поликлиника, парк Нефтяник. Хорошая транспортная доступность.&lt;br /&gt;&#13;
+Два взрослых собственника(продаем не через агентство). Никто не прописан.
+id:56316. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56316/99a05ab3-18b7-46b0-9745-6bc1a09a2000.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56316/5ef7c90c-f4d0-418a-95ed-aa67515b1c7b.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56316/3bb6c048-8fd3-4d6d-943c-a8721880cbfb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56316/78cc1ab3-4be3-421f-87c5-aff24f9a32db.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56316/209864db-9aaa-4ab0-bb27-b737891ea763.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56316/8ebd6a41-cb48-4ee3-8ffc-26f48cb7ec94.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56316/fb010a0f-dd5d-47be-9891-df6a09875170.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56316/2e5935ce-7311-43d0-8c85-ddf17795d220.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56316/f16dbab7-7d12-4f5d-9c8f-b033eb67eefd.jpeg</picture>
+      <coordinates lat="57.626559" lon="39.893813"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56317">
+      <name>Продажа, Квартира, 3-к, 58.8 кв.м, Ярославль, Ухтомского, 23</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">5</param>
+      <param name="Комнат">3</param>
+      <param name="Адрес">Ярославская область, Ярославль, Ухтомского, 23</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
+      <param name="Общая площадь">58.8</param>
+      <param name="Жилая площадь">42</param>
+      <param name="Площадь кухни">6</param>
+      <param name="Этаж">5</param>
+      <param name="Этажность">9</param>
+      <categoryId>100</categoryId>
+      <price>5700000</price>
+      <description>Представляем вашему вниманию шикарную трёхкомнатную квартиру, которая ждёт своего нового владельца! Расположенная на 5 этаже 9-этажного кирпичного дома, эта квартира обладает множеством преимуществ.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Общая площадь &amp;mdash; 58,8 м&amp;sup2;, из которых 42 м&amp;sup2; &amp;mdash; жилая площадь. Кухня &amp;mdash; 6 м&amp;sup2;. Прекрасное естественное освещение наполняет пространство светом и создаёт уютную атмосферу.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Квартира &amp;mdash; вторичка, и это отличная возможность воплотить в жизнь все свои дизайнерские мечты: здесь есть простор для творчества и реализации самых смелых идей по ремонту.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Цена &amp;mdash; 5 700 000 рублей. Это отличное предложение для тех, кто ищет просторную и светлую квартиру в хорошем доме. Здесь вы сможете создать свой идеальный дом, где будет комфортно всем членам семьи.
+id:56317. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/php5HjtV9.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phpUORjkA.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phpPVkZL3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phpkpvpel.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phphLEa79.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phpgbAFUR.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/php50iPm7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phpumLmqb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phpgv18Hl.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/0307fcf1-f5f3-4139-bb26-109d5417c242.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phpILamYp.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/php2ynpQX.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phpjGFZzh.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phpWbXj93.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56317/phpiNRdL1.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56320">
+      <name>Продажа, Квартира, 2-к, 44 кв.м, Ярославль, Большие Полянки, 17к2</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">5</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">смежные</param>
+      <param name="Адрес">Ярославская область, Ярославль, Большие Полянки, 17к2</param>
+      <param name="Имя агента">Ольга Павлова</param>
+      <param name="Email для связи">ppavlovaa.o@yandex.ru</param>
+      <param name="Телефон для связи">79301169171</param>
+      <param name="Общая площадь">44</param>
+      <param name="Жилая площадь">29</param>
+      <param name="Площадь кухни">6</param>
+      <param name="Этаж">5</param>
+      <param name="Этажность">5</param>
+      <param name="Ипотека">да</param>
+      <categoryId>100</categoryId>
+      <price>3300000</price>
+      <description>Представляем уютную двухкомнатную квартиру в кирпичном доме, расположенном в тихом и обжитом районе. Это светлое и просторное жильё общей площадью 44 м&amp;sup2;.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Просторная гостиная, объединённая с жилой зоной, и уединённая спальня предлагают комфорт для семьи или пары. Отдельная кухня площадью 6 м&amp;sup2; станет идеальным местом для утреннего кофе и вечерних чаепитий. Квартира находится на верхнем, пятом этаже пятиэтажного дома, что гарантирует прекрасную естественную освещённость и панорамный вид из окон.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Кирпичные стены дома обеспечивают прекрасную шумоизоляцию и сохраняют приятный микроклимат в любое время года. Объект готов к въезду и ждёт своих новых хозяев, чтобы наполниться жизнью и уютом. Это отличная возможность приобрести тёплое и душевное жильё за 3 300 000 рублей.
+id:56320. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56320/phpiyAwbG.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56320/phpaDlm23.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56320/phpgwLYM9.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56320/phpKQo1bP.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56320/phplX7hu2.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56320/phpTkHwGs.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56320/php0fvenJ.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56328">
+      <name>Продажа, Комната, 1-к, 23 кв.м, Ярославль, улица Нахимсона, 13</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">3</param>
+      <param name="Комнат">1</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Окна выходят">Во двор</param>
+      <param name="Адрес">Ярославская область, Ярославль, улица Нахимсона, 13</param>
+      <param name="Имя агента">Павел Голощапов</param>
+      <param name="Email для связи">pashapasha521@gmail.com</param>
+      <param name="Телефон для связи">79806612725</param>
+      <param name="Общая площадь">23.5</param>
+      <param name="Площадь кухни">10</param>
+      <param name="Этаж">3</param>
+      <param name="Этажность">3</param>
+      <categoryId>102</categoryId>
+      <price>5000000</price>
+      <description>Комната располагается в исторической части Ярославля &amp;mdash; в месте, где каждый камень дышит историей и культурой. Здесь вы сможете ощутить неповторимый колорит старинного города, наслаждаясь комфортом современного жилья.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Комната находится на третьем этаже трёхэтажного кирпичного дома. Высокие потолки и пластиковые окна создают ощущение простора и наполняют помещение естественным светом. Общая площадь комнаты &amp;mdash; 23,5 кв. м, а площадь кухни составляет 10 кв. м &amp;mdash; достаточно места для приготовления любимых блюд и семейных ужинов.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Это прекрасная возможность стать владельцем жилья в одном из самых живописных районов города, где каждый день будет радовать вас красотой окружающих пейзажей и атмосферой уюта. Здесь вы сможете создать свой уголок счастья и реализовать все свои идеи по обустройству жилья.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Если остались вопросы или появилось желание посмотреть, звоните!
+id:56328. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56328/phpAvjQqF.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56328/phpd9DaJz.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56328/phprOn9NV.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56328/phpjiFtkA.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56328/php3z28cr.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56328/phporQnpe.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56328/phpdMrja2.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56342">
+      <name>Продажа, Комната, 1-к, 24 кв.м, Ярославль, улица Нахимсона, 13</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">3</param>
+      <param name="Комнат">1</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Окна выходят">Во двор</param>
+      <param name="Адрес">Ярославская область, Ярославль, улица Нахимсона, 13</param>
+      <param name="Имя агента">Павел Голощапов</param>
+      <param name="Email для связи">pashapasha521@gmail.com</param>
+      <param name="Телефон для связи">79806612725</param>
+      <param name="Общая площадь">24.4</param>
+      <param name="Площадь кухни">10</param>
+      <param name="Этаж">3</param>
+      <param name="Этажность">3</param>
+      <categoryId>102</categoryId>
+      <price>5000000</price>
+      <description>Комната в доме, расположенном в исторической части города, ждёт своего нового владельца! Просторное и светлое помещение с высокими потолками создаёт ощущение свободы и воздуха. Пластиковые окна обеспечивают отличную звуко- и теплоизоляцию, а косметический ремонт позволяет сразу заселиться и наслаждаться уютом без дополнительных хлопот.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Общая площадь комнаты &amp;mdash; 24,4 кв. м, площадь кухни &amp;mdash; 10 кв. м. Дом кирпичный, расположен на третьем этаже трёхэтажного здания.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Это отличная возможность стать собственником недвижимости в живописном и исторически значимом районе, где каждая улица хранит следы прошлого, а современная инфраструктура делает жизнь комфортной и удобной. Здесь вы сможете насладиться спокойствием и уютом, при этом оставаясь в центре городской жизни.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Остались вопросы или появилось желание посмотреть, звоните!
+id:56342. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56342/phpegknWS.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56342/phpGX7Vyf.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56342/phpHbgTTz.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56342/phpLClEhB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56342/phpLQbP1T.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56342/phpwy9ZGZ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56342/phphHLmrT.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -36921,63 +37541,6 @@ id:29309.
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.714527" lon="39.760256"/>
       <picture>https://cdn.idalite.ru/s/feed/cian/02af/0795/02af0795f99a59a8b22af8ba210c745e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c8d7/7013/c8d770136b6f5ab48d7c482f2beebdd3.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/94da/6a8b/94da6a8b60fb5affaef650381630f5c1.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7d12/281c/7d12281c5e6a57ec9f0701c5177d6d3c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e18e/721f/e18e721ff14d50acb18e7c35df08f5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5f7/d4e3/d5f7d4e3556b5b88b27f93fe1008147e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5e9/056c/d5e9056c9675517db833b45c8a0fc712.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/63b5/9638/63b5963870855d9595794a84f4727dcb.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c02e/6340/c02e6340f87e5775ab20fd25ed6cbbe5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f4fd/4157/f4fd41577d895a8e80f9142f4aae8891.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b327/ce31/b327ce3141e3515b80983a1ddc8c3bf5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a528/d5fe/a528d5feeab751f8a652d463e31de5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/422a/069e/422a069e5dd2528bbac0203661fa4d2e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1031/3b6c/10313b6cd1af53e699a8da3eda96b3a5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8560/5a65/85605a65da2f5ee8948a93f3bce2b930.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/76a5/1389/76a51389cc125caca3c723f243081576.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9f01/265a/9f01265aec885ab8be0bea0eeefa3c26.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/5298/c7ff/5298c7ffb3b45128ad32873702a457fc.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/85c6/f3ae/85c6f3ae495957da8b703815463809d6.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1358/6c51/13586c51166a5598978369c8d3fa28c0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e2d8/61c9/e2d861c913375e24bde2151b4b9b5f89.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c4e5/c168/c4e5c1682c6755e39997dd8a73d6b02a.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3892/a3b7/3892a3b701cf52e8875429f3c6fe4f46.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f9ba/b992/f9bab992ec275633aa596f178c56c20e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c1b5/9e6d/c1b59e6db8d357ca97d62d435855536c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/61f3/b982/61f3b982f8e2538591379923309a49b0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/31ef/40ba/31ef40ba815058148dd5dee4d8178532.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e737/5542/e7375542512c567fbf389881a4a7885d.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f6e8/84af/f6e884af98af5b60a9e2ba96844a7fd7.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8f19bb3b9-ef53-436f-bb14-c8c321e63ed4">
-      <categoryId>101</categoryId>
-      <name>2-к, 49.55 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5075902</price>
-      <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
-
-Мы предлагаем различные варианты покупки: 
-• Ипотека от 6% годовых. Работаем с с сертификатами, материнским капиталом
-• Рассрочка от застройщика
-• Покупку за собственные средства на выгодных условиях
-
-Не упустите самые выгодные условия на покупку своей собственной квартиры на старте продаж!</description>
-      <param name="Материал стен">monolith</param>
-      <param name="Комнат">2</param>
-      <param name="Площадь Дома">49.55</param>
-      <param name="Жилая площадь">24.61</param>
-      <param name="Площадь кухни">9.91</param>
-      <param name="Этаж">4</param>
-      <param name="Балкон">1</param>
-      <param name="Парковка"></param>
-      <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
-      <coordinates lat="57.714527" lon="39.760256"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/6609/08d1/660908d112b35a62b6b15b3bd47b86b5.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
