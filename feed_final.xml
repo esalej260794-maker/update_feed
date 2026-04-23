@@ -2716,33 +2716,6 @@ id:35270.
       <coordinates lat="57.647709" lon="40.014861"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="35948">
-      <name>Аренда, Квартира, 2-к, 47 кв.м, Буй, улица 1905 года, 1</name>
-      <param name="Тип предложения">Аренда</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">2</param>
-      <param name="Адрес">Костромская область, Буй, улица 1905 года, 1</param>
-      <param name="Имя агента">Евгения Серова</param>
-      <param name="Email для связи">evgeniyaserovamaks@yandex.ru</param>
-      <param name="Телефон для связи">79969319171</param>
-      <param name="Общая площадь">47</param>
-      <param name="Жилая площадь">30</param>
-      <param name="Площадь кухни">6</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>11000</price>
-      <description>С
-id:35948. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/35948/69b17069c08c8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/35948/69b1706a006ed.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/35948/69b1706a450d5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/35948/69b170698c580.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Буй</param>
-    </offer>
     <offer id="35996">
       <name>Продажа, Дом, 3-к, 43.1 кв.м, деревня Афонино, Крайняя улица</name>
       <param name="Тип предложения">Продажа</param>
@@ -5290,50 +5263,6 @@ id:49499.
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Буй</param>
     </offer>
-    <offer id="49506">
-      <name>Продажа, Квартира, 2-к, 44.8 кв.м, г Буй, ул Республиканская, 2</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">5</param>
-      <param name="Комнат">2</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Республиканская, 2</param>
-      <param name="Имя агента">Виктория Набатова</param>
-      <param name="Email для связи">victoryvomanyar@yandex.ru</param>
-      <param name="Телефон для связи">79011954581</param>
-      <param name="Общая площадь">44.8</param>
-      <param name="Жилая площадь">33</param>
-      <param name="Площадь кухни">6</param>
-      <param name="Этаж">5</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>2600000</price>
-      <description>&lt;u&gt;&lt;strong&gt;Уважаемые покупатели, на продаже 2-х комнатная квартира, расположена на 5 этаже, 5 этажного кирпичного дома.&lt;/strong&gt;&lt;/u&gt;&lt;br /&gt;&#13;
-В квартире :&lt;br /&gt;&#13;
-натяжные потолки&lt;br /&gt;&#13;
-окна ПВХ&lt;br /&gt;&#13;
-застекленный балкон&lt;br /&gt;&#13;
-раздельный санузел&amp;nbsp; в кафельной плитке&lt;br /&gt;&#13;
-установлены счетчики вода ГВС и ХВС,&lt;br /&gt;&#13;
-Развитая инфраструктура, рядом с домом, магазины продуктового питания, школы, дет. садики, , остановки общественного транспорта, больница, автовокзал, центр города в 15 минутах ходьбы.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении. Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие. Сопровождение сделки до перехода права собственности.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Все консультации бесплатно.
-id:49506. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49506/69b177426d0f9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49506/69b177422ab6f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49506/69b17742ae124.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49506/69b17742f0a3e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49506/69b177433ce19.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49506/69b1774465876.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49506/69b1774380b3d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49506/69b17743c0ee2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49506/69b17744199bf.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49506/69b17744af59b.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Буй</param>
-    </offer>
     <offer id="49515">
       <name>Продажа, Квартира, 3-к, 60.8 кв.м, Буй, улица Социализма, 29</name>
       <param name="Тип предложения">Продажа</param>
@@ -5533,46 +5462,6 @@ id:49529.
       <picture>https://progress.vtcrm.ru/uploads/Photos/49529/69b17770cd6cd.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="49554">
-      <name>Продажа, Квартира, 1-к, 40.1 кв.м, г Буй, ул 1917 года, 1</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">5</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Костромская обл, г Буй, ул 1917 года, 1</param>
-      <param name="Имя агента">Виктория Набатова</param>
-      <param name="Email для связи">victoryvomanyar@yandex.ru</param>
-      <param name="Телефон для связи">79011954581</param>
-      <param name="Общая площадь">40.1</param>
-      <param name="Жилая площадь">27</param>
-      <param name="Площадь кухни">8</param>
-      <param name="Этаж">5</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>1800000</price>
-      <description>На продаже 1 комнатная квартира!&lt;br /&gt;&#13;
-В квартире косметический ремонт: окна ПВХ, ,установлены счетчики вода ГВС и ХВС,&lt;br /&gt;&#13;
-Развитая инфраструктура, рядом с домом, магазины продуктового питания, школы, дет. садики, , остановки общественного транспорта, центр города в 15 минутах ходьбы.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении. Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие. Сопровождение сделки до перехода права собственности.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Все консультации бесплатно.
-id:49554. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b177a3609c6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b177a3eff1d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b177a19bf05.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b177a071411.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b177a2c2291.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b177a52788e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b177a23603e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b177a10d19f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b177a48eb6c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b1779fd6948.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49554/69b1779f45842.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Буй</param>
     </offer>
     <offer id="49576">
       <name>Продажа, Квартира, 2-к, 56.7 кв.м, посёлок Ивняки, улица Новосёлов, 7</name>
@@ -7615,46 +7504,6 @@ id:49929.
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="49930">
-      <name>Продажа, Квартира, 1-к, 39 кв.м, г Буй, ул Октябрьской Революции, 29</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">3</param>
-      <param name="Комнат">1</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Октябрьской Революции, 29</param>
-      <param name="Имя агента">Виктория Набатова</param>
-      <param name="Email для связи">victoryvomanyar@yandex.ru</param>
-      <param name="Телефон для связи">79011954581</param>
-      <param name="Общая площадь">39</param>
-      <param name="Жилая площадь">20</param>
-      <param name="Площадь кухни">8</param>
-      <param name="Этаж">3</param>
-      <param name="Этажность">9</param>
-      <categoryId>100</categoryId>
-      <price>1370000</price>
-      <description>В продаже полногабаритная 1 комнатная квартира 39 квадратных метров с просторной кухней.&lt;br /&gt;&#13;
-В квартире сделан косметический ремонт.В доме 2 новых лифта,тихие соседи.&lt;br /&gt;&#13;
-Рядом вся инфраструктура,&amp;nbsp; школа,продуктовые магазины ,аптеки. &amp;nbsp;&lt;br /&gt;&#13;
-Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении. Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие. Сопровождение сделки до перехода права собственности.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Все консультации бесплатно.
-id:49930. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d13a29f6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d1311b07.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d10b4c22.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d10251dc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d0ef0142.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d1275394.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d114f4e5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d11da6b0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d0f888ec.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d143ac6d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49930/69b17d0e62357.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Буй</param>
-    </offer>
     <offer id="49941">
       <name>Продажа, Квартира, 2-к, 49.8 кв.м, Ярославль, улица Доронина, 6к3</name>
       <param name="Тип предложения">Продажа</param>
@@ -8001,6 +7850,79 @@ id:50060.
       <picture>https://progress.vtcrm.ru/uploads/Photos/50060/69b17de2a2c6e.jpeg</picture>
       <coordinates lat="57.574060" lon="39.848789"/>
       <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="50083">
+      <name>Продажа, Комната, 1-к, 19.1 кв.м, г Буй, ул Октябрьской Революции, 29</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">9</param>
+      <param name="Комнат">1</param>
+      <param name="Адрес">Костромская обл, г Буй, ул Октябрьской Революции, 29</param>
+      <param name="Имя агента">Виктория Набатова</param>
+      <param name="Email для связи">victoryvomanyar@yandex.ru</param>
+      <param name="Телефон для связи">79011954581</param>
+      <param name="Общая площадь">39</param>
+      <param name="Площадь кухни">7</param>
+      <param name="Этаж">9</param>
+      <param name="Этажность">9</param>
+      <categoryId>102</categoryId>
+      <price>550000</price>
+      <description>Уважаемые покупатели!&lt;br /&gt;&#13;
+На продаже комната&amp;nbsp;&lt;br /&gt;&#13;
+В комнате пластиковое окно ПВХ&amp;nbsp;&lt;br /&gt;&#13;
+В доме 2 новых лифта,тихие соседи.&lt;br /&gt;&#13;
+Рядом вся инфраструктура,&amp;nbsp; школа,продуктовые магазины ,аптеки. &amp;nbsp;&lt;br /&gt;&#13;
+Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении. Работа с государственными сертификатами и программами: материнский капитал и другие. Сопровождение сделки до перехода права собственности.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Все консультации бесплатно.
+id:50083. 
+.</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50083/69b17de7c2130.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50083/69b17de732761.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50083/69b17de85bffe.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50083/69b17de8ea595.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50083/69b17de982d56.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50083/69b17dea2141d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50083/69b17deab0ed1.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Буй</param>
+    </offer>
+    <offer id="50086">
+      <name>Продажа, Комната, 1-к, 12 кв.м, Буй, улица Октябрьской Революции, 29</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">3</param>
+      <param name="Комнат">1</param>
+      <param name="Адрес">Костромская область, Буй, улица Октябрьской Революции, 29</param>
+      <param name="Имя агента">Виктория Набатова</param>
+      <param name="Email для связи">victoryvomanyar@yandex.ru</param>
+      <param name="Телефон для связи">79011954581</param>
+      <param name="Общая площадь">39</param>
+      <param name="Площадь кухни">8</param>
+      <param name="Этаж">3</param>
+      <param name="Этажность">9</param>
+      <categoryId>102</categoryId>
+      <price>450000</price>
+      <description>Уважаемые покупатели!&lt;br /&gt;&#13;
+На продаже комната на 3 этаже !&lt;br /&gt;&#13;
+В комнате пластиковое окно ПВХ&amp;nbsp;&lt;br /&gt;&#13;
+В доме 2 новых лифта,тихие соседи.&lt;br /&gt;&#13;
+Рядом вся инфраструктура,&amp;nbsp; школа,продуктовые магазины ,аптеки. &amp;nbsp;&lt;br /&gt;&#13;
+Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении. Работа с государственными сертификатами и программами: материнский капитал и другие. Сопровождение сделки до перехода права собственности.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Все консультации бесплатно.
+id:50086. 
+.</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50086/69b17ded66dd4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50086/69b17dee0a52d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50086/69b17decc9dd3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50086/69b17dee9c4ef.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50086/69b17dec36f6e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50086/69b17def37b19.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50086/69b17defc5b64.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/50086/69b17df0641b6.jpeg</picture>
+      <coordinates lat="58.473936" lon="41.539661"/>
+      <param name="Офис">Буй</param>
     </offer>
     <offer id="50179">
       <name>Продажа, Квартира, 2-к, 66.7 кв.м, г Ярославль, Волжская наб, 49/1</name>
@@ -10506,7 +10428,7 @@ id:54484.
       <picture>https://progress.vtcrm.ru/uploads/Photos/54484/69b18361af798.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/54484/69b1835a52dc9.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/54484/69b1836445ebb.jpeg</picture>
-      <coordinates lat="56.733845" lon="38.850214"/>
+      <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="54487">
@@ -10631,41 +10553,6 @@ id:54490.
       <picture>https://progress.vtcrm.ru/uploads/Photos/54490/69b1837495bc3.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="54630">
-      <name>Продажа, Квартира, 1-к, 29.1 кв.м, г Буй, ул Максима Горького, 27</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">3</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Максима Горького, 27</param>
-      <param name="Имя агента">Виктория Набатова</param>
-      <param name="Email для связи">victoryvomanyar@yandex.ru</param>
-      <param name="Телефон для связи">79011954581</param>
-      <param name="Общая площадь">29.1</param>
-      <param name="Жилая площадь">15.2</param>
-      <param name="Площадь кухни">6.8</param>
-      <param name="Этаж">3</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>2500000</price>
-      <description>Уважаемые покупатели, на продаже 1 комнатная квартира, расположена на 3 этаже, 5 этажного кирпичного дома!&lt;br /&gt;&#13;
-В квартире окна ПВХ,на полу линолеум&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Развитая инфраструктура, рядом с домом, магазины продуктового питания, школы, дет. садики, , остановки общественного транспорта, больница, автовокзал, центр города в 15 минутах ходьбы.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение
-id:54630. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/54630/69b183954713c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/54630/69b183941a82b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/54630/69b18395d69f7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/54630/69b18397a20fe.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/54630/69b183970d821.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/54630/69b183966f335.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/54630/69b18394ab56f.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Буй</param>
     </offer>
     <offer id="54646">
       <name>Продажа, Квартира, 2-к, 42.4 кв.м, Ярославль, проезд Матросова, 7</name>
@@ -11118,46 +11005,6 @@ id:55504.
       <picture>https://progress.vtcrm.ru/uploads/Photos/55504/69b18416a7c23.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/55504/69b184173ef3e.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/55504/69b18417d1205.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Буй</param>
-    </offer>
-    <offer id="55505">
-      <name>Продажа, Квартира, 1-к, 31.7 кв.м, Буй, Республиканская улица, 11</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Костромская область, Буй, Республиканская улица, 11</param>
-      <param name="Имя агента">Виктория Набатова</param>
-      <param name="Email для связи">victoryvomanyar@yandex.ru</param>
-      <param name="Телефон для связи">79011954581</param>
-      <param name="Общая площадь">31.7</param>
-      <param name="Жилая площадь">22</param>
-      <param name="Площадь кухни">5</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>2600000</price>
-      <description>В продаже 1 комнатная&amp;nbsp; квартира на 2 этаже в кирпичном доме 1985 года постройки.&lt;br /&gt;&#13;
-В квартире выполнен качественный ремонт:Окна ПВХ ,застекленный балкон,натяжные потолки,санузел в кафельной плитке,новые межкомнатные двери,установлен кондиционер.&lt;br /&gt;&#13;
-В подарок покупателям остается кухонный гарнитур,остальная мебель по согласованию.&lt;br /&gt;&#13;
-В шаговой доступности магазины продуктового питания,остановки общественного транспорта&lt;br /&gt;&#13;
-Развитая инфраструктура, придомовая территория дома благоустроенна и приспособлена для комфортного проживания.&lt;br /&gt;&#13;
-Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении. Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие. Сопровождение сделки до перехода права собственности.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Все консультации бесплатно.
-id:55505. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55505/69b184191d155.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55505/69b1841969cea.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55505/69b1841879c3f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55505/69b1841807b5c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55505/69b184182cd32.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55505/69b18418543cc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55505/69b18418c69da.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55505/69b184189f22d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55505/69b18418ec28f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55505/69b1841942841.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Буй</param>
     </offer>
@@ -11794,6 +11641,45 @@ id:55653.
       <picture>https://progress.vtcrm.ru/uploads/Photos/55653/69b18521c57ff.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="55658">
+      <name>Аренда, Квартира, 2-к, 52 кв.м, г Буй, ул Парижской Коммуны, 7</name>
+      <param name="Тип предложения">Аренда</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">4</param>
+      <param name="Комнат">2</param>
+      <param name="Адрес">Костромская обл, г Буй, ул Парижской Коммуны, 7</param>
+      <param name="Имя агента">Ольга Торопова</param>
+      <param name="Email для связи">h.a.r.v.i.e@mail.ru</param>
+      <param name="Телефон для связи">79536465446</param>
+      <param name="Общая площадь">52</param>
+      <param name="Жилая площадь">40</param>
+      <param name="Площадь кухни">7.3</param>
+      <param name="Этаж">4</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>15000</price>
+      <description>Сдается 2х комнатная квартира с косметическим ремонтом .Очень уютная и теплая.Есть вся мебель и техника, все для комфортного проживания.&lt;br /&gt;&#13;
+15000 + счетчики.&lt;br /&gt;&#13;
+100% комиссия агентству ,оплата 1 раз.&lt;br /&gt;&#13;
+&amp;nbsp;
+id:55658. 
+.</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/phpBrcpXm.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/phpBWtqT3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/phpxBBvik.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/php8UE1Rk.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/phpS4w3ZZ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/69b185276d619.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/69b1852899fd6.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/phpx4nYGF.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/phpM93eTs.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/phpjCYu4d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/phpFnkUu8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/69b18529c58de.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/55658/69b18529346ac.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Буй</param>
     </offer>
     <offer id="55668">
       <name>Продажа, Квартира, 3-к, 77.7 кв.м, Ярославль, улица Пирогова, 45к3</name>
@@ -14166,7 +14052,7 @@ id:56245.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56245/69b1870ab3571.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56245/69b1870a6989f.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56245/69b18709e6f7a.jpeg</picture>
-      <coordinates lat="57.682173" lon="39.831108"/>
+      <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="56247">
@@ -14641,7 +14527,7 @@ id:56314.
       <param name="Этажность">5</param>
       <param name="Ипотека">да</param>
       <categoryId>100</categoryId>
-      <price>3600000</price>
+      <price>3500000</price>
       <description>&lt;strong&gt;Продаётся 3‑комнатная&amp;nbsp;квартира&amp;nbsp;в&amp;nbsp;тихом&amp;nbsp;районе&lt;/strong&gt;&lt;br /&gt;&#13;
 &lt;strong&gt;Адрес:&lt;/strong&gt;&amp;nbsp;Ярославская&amp;nbsp;область,&amp;nbsp;Ярославский муниципальный округ, рабочий поселок Лесная поляна 29&lt;br /&gt;&#13;
 &lt;strong&gt;Основные&amp;nbsp;характеристики:&lt;/strong&gt;&#13;
@@ -15169,10 +15055,10 @@ id:56371.
 Юридическая чистота сделки гарантирована: один взрослый собственник (не пенсионер), нет обременений и долгов, никто не прописан.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Район, в котором расположена квартира, отличается развитой инфраструктурой. Рядом находятся планетарий, парк 1000-летия и набережная реки Которосль &amp;mdash; идеальные места для прогулок и отдыха. Здесь вы сможете наслаждаться комфортной жизнью, совмещая удобство городского проживания с возможностью регулярно проводить время на природе. Рядом есть всё необходимое для повседневной жизни: магазины, школы, детские сады и другие социальные объекты.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Стоимость квартиры &amp;mdash; 4 100 000 рублей. Это прекрасная возможность стать владельцем уютного жилья в живописном районе с хорошей инфраструктурой и создать в квартире пространство, которое будет полностью соответствовать вашим представлениям об идеальном доме.
+Это прекрасная возможность стать владельцем уютного жилья в живописном районе с хорошей инфраструктурой и создать в квартире пространство, которое будет полностью соответствовать вашим представлениям об идеальном доме.
 id:56372. 
 &amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56372/phpqVuOUO.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56372/phprBadtP.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56372/phpTu5s9b.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56372/phpmeuI96.jpeg</picture>
@@ -15181,7 +15067,6 @@ id:56372.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56372/phpdQ9TOG.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56372/phpVNEaq2.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56372/phpzRpT1x.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56372/phpqVuOUO.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -16042,7 +15927,7 @@ id:56446.
       <param name="Офис">Буй</param>
     </offer>
     <offer id="56451">
-      <name>Продажа, Дом, 2-к, 40 кв.м, г Буй, ул Зеленая, 2</name>
+      <name>Продажа, Дом, 2-к, 40 кв.м, Буй, Зелёная улица, 2</name>
       <param name="Тип предложения">Продажа</param>
       <param name="Материал стен">Деревянный</param>
       <param name="Площадь Дома">40</param>
@@ -16050,7 +15935,7 @@ id:56446.
       <param name="Ремонт">Без ремонта</param>
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Комнат">2</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Зеленая, 2</param>
+      <param name="Адрес">Костромская область, Буй, Зелёная улица, 2</param>
       <param name="Имя агента">Ольга Торопова</param>
       <param name="Email для связи">h.a.r.v.i.e@mail.ru</param>
       <param name="Телефон для связи">79536465446</param>
@@ -19469,41 +19354,6 @@ id:56854.
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="56855">
-      <name>Продажа, Квартира, 2-к, 61 кв.м, Ярославль, Карла Либкнехта, 24</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">13</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Адрес">Ярославская область, Ярославль, Карла Либкнехта, 24</param>
-      <param name="Имя агента">Вероника Завгородняя</param>
-      <param name="Email для связи">zaveroni38@yandex.ru</param>
-      <param name="Телефон для связи">79915346013</param>
-      <param name="Общая площадь">61</param>
-      <param name="Жилая площадь">34</param>
-      <param name="Площадь кухни">10</param>
-      <param name="Этаж">13</param>
-      <param name="Этажность">14</param>
-      <categoryId>100</categoryId>
-      <price>8900000</price>
-      <description>&lt;p&gt;Прoдaётся уютная квapтира с еврo рeмонтом в мoнолитнo-киpпичном доме 2013 гoдa пocтpойки. Проcтopнaя кухня плoщадью 10 м&amp;sup2;. Kомнaты изoлирoванные, что обеспeчиваeт комфopт и привaтнoсть. Окнa в формe эркepa, что пpидаeт пoмещeнию мнoго светa и нeoбычнoгo дизайнa. Bысoкие пoтолки 2,65. В квартире санузел, совмещённого типа, оформлен в светлых тонах с качественной сантехникой. В квартире имеются два застекленных балкона, один с выходом из кухни, другой из спальни. Квартира видовая, на 13 этаже, с прекрасным видом на весь город. Очень теплая, светлая, солнечная и тихая. Соседи доброжелательные , все живут с постройки дома. Территория огорожена электронными воротами с отличной детской площадкой. Парковка во дворе гарантирует безопасность автомобиля.&lt;br /&gt;&#13;
-Для удобства жильцов предусмотрены два пассажирских и один грузовой лифт. В подъезде также есть тамбур для колясок и велосипедов.&lt;br /&gt;&#13;
-Удобная инфраструктура, все в шаговой доступности.&lt;br /&gt;&#13;
-Квартира подходит под ипотеку, что делает её доступной для покупки. Являюсь собственником, квартира полностью чистая , без обременений и долгов. Реальному покупателю хороший торг. Пришлю фото по запросу, тк Авито почему то их отклоняет, к сожалению.&lt;/p&gt;
-id:56855. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56855/29b59e2c-3484-4a49-a2fd-16b6c99660d6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56855/58778f33-c058-424f-bde8-1768623d5714.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56855/f2de1ce2-736d-4e7d-9811-3fbfc5cc9093.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56855/2c1ca325-5889-4caf-9e09-43c4fe522fd3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56855/9de02523-9317-4269-9ca7-931d922e39af.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56855/c106f53d-0950-4ca1-97be-6aab81de78e0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56855/bf8f675e-a05c-4603-98ff-02622142a04a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56855/b7005256-6ec3-4a6a-b146-1e1729d6b770.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="56864">
       <name>Продажа, Квартира, 2-к, 44.5 кв.м, Ярославль</name>
       <param name="Тип предложения">Продажа</param>
@@ -20553,59 +20403,6 @@ id:56929.
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="56940">
-      <name>Продажа, Квартира, 2-к, 47 кв.м, Ивняки, Новоселов, 8</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Адрес">Ярославль, Ивняки, Новоселов, 8</param>
-      <param name="Имя агента">Мария Бурчалова</param>
-      <param name="Email для связи">masha.burchalova@mail.ru</param>
-      <param name="Телефон для связи">79301117607</param>
-      <param name="Общая площадь">47</param>
-      <param name="Жилая площадь">28</param>
-      <param name="Площадь кухни">8.2</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">4</param>
-      <categoryId>100</categoryId>
-      <price>5380000</price>
-      <description>&lt;p&gt;&lt;strong&gt;В продаже просторная, светлая 2-х комнатная квартира в кирпичном доме с индивидуальным газовым отоплением&lt;/strong&gt;&lt;br /&gt;&#13;
-Дом 2020 года постройки. В квартире сделан хороший ремонт, натяжные потолки, в комнате пол -&amp;nbsp;ламинат;&amp;nbsp;на кухне и в коридоре пол - плитка.&amp;nbsp;&lt;br /&gt;&#13;
-Раздельный санузел. Ванна в плитке.&lt;br /&gt;&#13;
-Есть отдельная гардеробная для хранения вещей.&amp;nbsp;Так же в квартире имеется просторный, застекленный балкон.&lt;br /&gt;&#13;
-Новым собственникам остается кухонный гарнитур, шкаф в прихожей, а так же некоторая мебель из комнат.&amp;nbsp;&lt;br /&gt;&#13;
-По всему дому и в подъезде установлено видеонаблюдение. Во дворе есть детская-спортивная площадка. Перед домом расположены парковочные места для машин.&amp;nbsp;&amp;nbsp;&lt;br /&gt;&#13;
-В поселке очень развитая инфраструктура. Рядом находится ФОК, школа, детский сад, больница.&lt;br /&gt;&#13;
-Так же в шаговой доступности расположены магазины, аптеки, кафе.&amp;nbsp;&lt;br /&gt;&#13;
-До центра города 10 минут на машине. Рядом автобусная остановка, регулярно ходит транспорт.&lt;br /&gt;&#13;
-Очень удобное месторасположение с транспортной развязкой во все районы города.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;strong&gt;Два взрослых собственника. Быстрый выход на сделку. Гарантия безопасной сделки, юридическое сопровождение сделки.&amp;nbsp;&lt;br /&gt;&#13;
-Звоните, показ в любое удобное время.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
-id:56940. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpHktVc6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/php7r2AwH.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/php31MuVk.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpY2q9tz.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpzCpdTN.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpVR4FJh.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpP3c9vS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/php3UH6uc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpb3hh8d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpfN4jTF.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpewMKIO.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpLKlftO.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/php4iMEGN.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpWzz66j.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpLNL3XZ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpg1mWWJ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/phpawmx7o.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56940/php2S3PMQ.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="56948">
       <name>Продажа, Квартира, 3-к, 86 кв.м, г Ярославль, ул Лескова, 36б</name>
       <param name="Тип предложения">Продажа</param>
@@ -20892,7 +20689,7 @@ id:56966.
       <param name="Этаж">4</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>4300000</price>
+      <price>4400000</price>
       <description>&lt;p&gt;&lt;strong&gt;В продаже просторная &amp;nbsp;3-х комнатная квартира в кирпичном доме.&lt;/strong&gt;&lt;br /&gt;&#13;
 Квартира - распашонка, на обе стороны. Очень &amp;nbsp;светлая, с удобной планировкой. Окна ПВХ, большой застекленный балкон.&amp;nbsp;&lt;br /&gt;&#13;
 Сделан хороший ремонт: натяжные потолки, пастельного цвета обои, ровный пол. Санузел в плитке. Можно заезжать и жить без дополнительных вложений.&amp;nbsp;&lt;br /&gt;&#13;
@@ -20987,7 +20784,7 @@ id:56969.
       <param name="Этаж">8</param>
       <param name="Этажность">16</param>
       <categoryId>100</categoryId>
-      <price>5650000</price>
+      <price>5570000</price>
       <description>&lt;p&gt;&lt;strong&gt;В продаже уютная однокомнатная квартира с современным евро ремонтом&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 О квартире:&lt;/strong&gt;&lt;/p&gt;&#13;
@@ -21036,6 +20833,49 @@ id:56971.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56971/phpkAGBbQ.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56971/phpfe8KdJ.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56971/phpl8gl2R.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="56973">
+      <name>Продажа, Квартира, 2-к, 43.9 кв.м, г Ярославль, ул Володарского, 55</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">2</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, ул Володарского, 55</param>
+      <param name="Имя агента">Илья Майоров</param>
+      <param name="Email для связи">imajorov71@gmail.com</param>
+      <param name="Телефон для связи">79921011287</param>
+      <param name="Общая площадь">43.9</param>
+      <param name="Жилая площадь">32</param>
+      <param name="Площадь кухни">5</param>
+      <param name="Этаж">2</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>6900000</price>
+      <description>&lt;p&gt;&lt;strong&gt;Двухкомнатная&amp;nbsp;квартира в центре города!&amp;nbsp;&amp;nbsp;&lt;br /&gt;&#13;
+О квартире:&lt;/strong&gt;&lt;br /&gt;&#13;
+Квартира расположена на втором этаже. Из окон открывается вид на стадион &amp;quot;Шинник&amp;quot;. Имеется балкон. Мебель остается новому собственнику по договорённости.&lt;br /&gt;&#13;
+&lt;strong&gt;О доме:&lt;/strong&gt;&lt;br /&gt;&#13;
+Кирпичный дом 1961 года постройки.&lt;br /&gt;&#13;
+Центральные коммуникации.&lt;br /&gt;&#13;
+Тихие доброжелательные соседи.&lt;br /&gt;&#13;
+&lt;strong&gt;О районе:&lt;/strong&gt;&lt;br /&gt;&#13;
+Дом расположен в Кировском районе. Развитая инфраструктура. В шаговой доступности&amp;nbsp;продуктовые магазины, школы и детские сады. Отличная транспортная доступность, рядом остановки общественного транспорта.&lt;br /&gt;&#13;
+&lt;strong&gt;О сделке:&lt;/strong&gt;&lt;br /&gt;&#13;
+Сопровождение сделки до перехода права собственности; безопасные расчеты сторон. Юридическая чистота сделки; полная проверка документов по объекту недвижимости. полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;br /&gt;&#13;
+Остались вопросы - ЗВОНИТЕ!&lt;br /&gt;&#13;
+&amp;nbsp;&lt;/p&gt;
+id:56973. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56973/php4KraNv.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56973/phpK8Y0iQ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56973/phpkWkA56.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56973/php3NIIyx.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56973/phpRPDiWv.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56973/phpCbTJqM.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56973/php8fGtWj.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -21297,6 +21137,45 @@ id:57000.
       <picture>https://progress.vtcrm.ru/uploads/Photos/57000/phpxfzyRf.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="57007">
+      <name>Аренда, Квартира, 2-к, 52 кв.м, г Буй, ул Парижской Коммуны, 7</name>
+      <param name="Тип предложения">Аренда</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">4</param>
+      <param name="Комнат">2</param>
+      <param name="Адрес">Костромская обл, г Буй, ул Парижской Коммуны, 7</param>
+      <param name="Имя агента">Ольга Торопова</param>
+      <param name="Email для связи">h.a.r.v.i.e@mail.ru</param>
+      <param name="Телефон для связи">79536465446</param>
+      <param name="Общая площадь">52</param>
+      <param name="Жилая площадь">40</param>
+      <param name="Площадь кухни">7.3</param>
+      <param name="Этаж">4</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>15000</price>
+      <description>Сдается 2х комнатная квартира с косметическим ремонтом .Очень уютная и теплая.Есть вся мебель и техника, все для комфортного проживания.&lt;br /&gt;&#13;
+15000 + счетчики.&lt;br /&gt;&#13;
+100% комиссия агентству ,оплата 1 раз.&lt;br /&gt;&#13;
+&amp;nbsp;
+id:57007. 
+.</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/phpBrcpXm.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/phpBWtqT3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/phpxBBvik.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/php8UE1Rk.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/phpS4w3ZZ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/69b185276d619.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/69b1852899fd6.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/phpx4nYGF.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/phpM93eTs.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/phpjCYu4d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/phpFnkUu8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/69b18529c58de.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57007/69b18529346ac.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Буй</param>
     </offer>
     <offer id="9819">
       <categoryId>101</categoryId>
@@ -32761,7 +32640,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7f85/d9af/7f85d9afc8d15047adfb94f125a07520.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -32819,7 +32698,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/2fc2/108f/2fc2108f39af58e7b1a092016f443c94.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -32877,7 +32756,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e88e/783b/e88e783b690f5a80bcb627613f563b53.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -32935,7 +32814,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3a7e/4418/3a7e4418b653522789d29768acdaef01.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -32993,7 +32872,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d3e9/0ee8/d3e90ee86d295388a7295ef669236379.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33051,7 +32930,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d514/d7cb/d514d7cba67c53ea8cc196480be58e9d.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33109,7 +32988,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c8b8/2417/c8b82417c2da5dd099ad676becfb1eb6.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33167,7 +33046,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/00cf/55ce/00cf55cefa9c5577a386f5fe18a7c343.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33225,7 +33104,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/0d77/73d2/0d7773d2c11d5554ab10c702cd5ddc2c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33283,7 +33162,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/670a/a632/670aa6320f965b8487195e537b28edc0.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33341,7 +33220,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1aab/f23b/1aabf23bfe6959d5937f1ee666c24091.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33399,7 +33278,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b34f/83e1/b34f83e1db385b84be814ad903b02d60.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33457,7 +33336,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/fae7/2de1/fae72de1ec6a5b829fda37751e490cc1.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33515,7 +33394,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9f53/4cd8/9f534cd862b85ad79cf7a307308363c2.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33573,7 +33452,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/6536/2b84/65362b8490ea5eaaa4884fec9d173c06.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33631,7 +33510,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/4cff/5f46/4cff5f460a4155a383c34ad23176300a.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33689,7 +33568,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d17e/9f1e/d17e9f1e7f805d89855f9516000fcb25.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33747,7 +33626,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7b69/ba57/7b69ba574ee45665ac120eddb3338b1c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33805,7 +33684,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/ef96/9537/ef969537cabe5e109b4bbfd872111c37.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33863,7 +33742,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/05da/3098/05da3098dbdc5c228f70a8bae177e44f.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33921,7 +33800,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/2649/6c35/26496c35d5735e0cb95ac6926ad15cd8.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -33979,7 +33858,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1ee4/a772/1ee4a7721fcd5ca7a1dbb232b834c74a.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34037,7 +33916,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c81e/d8a5/c81ed8a5fe7451019deee3eead0e0b69.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34095,7 +33974,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/fd5e/6d48/fd5e6d483dfc5b9f8b8b2ccebf9b503a.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34153,7 +34032,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/119b/7cea/119b7cea88ed5799af939fcb7ada4c6a.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34211,7 +34090,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/14f3/6ceb/14f36ceb4bd257f188df415132df6a46.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34269,7 +34148,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/331b/a6d7/331ba6d75c8b580fa2c5172686f18704.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34327,7 +34206,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d3ef/deb4/d3efdeb4074b59b59c7e4a6e106d70a4.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34385,7 +34264,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9770/7139/97707139d6dc5d75a37ecb0787f19f00.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34443,7 +34322,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/97de/9e6a/97de9e6aecf15a2aa98ab7ce53f62577.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34501,7 +34380,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/ca2b/0970/ca2b097048fc526598583e6e3c7ed28f.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34559,7 +34438,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a47b/4cdd/a47b4cdd529f557a854ac93c3c2c8508.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34617,7 +34496,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7bb7/ce2c/7bb7ce2c769d5bc2800cc0b12dc396b7.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34675,7 +34554,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/55b3/f122/55b3f122af5353b59ff6846befd382ec.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34733,7 +34612,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3286/4079/32864079173951a3812b565f6cb163fa.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34791,7 +34670,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/01af/bca0/01afbca05cbc5cac87def225aeea7704.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34849,7 +34728,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a991/0115/a9910115bd6f59399fe6fdc3b4cdf0c5.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34907,7 +34786,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/ef3f/24e5/ef3f24e5bd14557695343d2979d5740b.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -34965,7 +34844,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/0119/e9fd/0119e9fdca2f5a9898311154ae4ca9f4.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35023,7 +34902,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/48b2/500a/48b2500a08535a54aac2b537a1050e08.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35081,7 +34960,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/ce12/2383/ce122383efbe5431b78f56b39c47563c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35139,7 +35018,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/75bd/45dd/75bd45dd90de5a45808b15103c88d30f.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35197,7 +35076,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e571/b01c/e571b01c7df05694960505b9800a663a.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35255,7 +35134,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b230/6c48/b2306c48254a519a98bc6fec18009cb4.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35313,7 +35192,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/2532/a309/2532a30961365ed286744c3d36372733.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35371,7 +35250,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3335/8558/33358558a44c576496d2b9178dcf0fc1.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35429,7 +35308,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/cf2f/2ef5/cf2f2ef505f456a2961ff447a8e628f0.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35487,7 +35366,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/47d8/d0c0/47d8d0c03cf259e7b7eb90d2d7c4021b.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35545,7 +35424,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3626/0893/36260893219a5414ad0cd32d126fca0c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35603,7 +35482,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b1a3/ab02/b1a3ab02f1495d788aeab083b2de3e83.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35661,7 +35540,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/93ef/54d0/93ef54d016705dffab79ea77a2cb5d23.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35719,7 +35598,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a7d7/210c/a7d7210c00a754309a5cd14e882ed56f.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35777,7 +35656,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/43d5/1ec5/43d51ec5db2d506c9b1399076db41f54.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35835,7 +35714,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b907/e583/b907e5837a5f549fad922c1fcceb1eb2.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35893,7 +35772,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/70c6/3f7b/70c63f7becd15e70a3932e7bcfa9265c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -35951,7 +35830,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/bc5e/b699/bc5eb6990d9654ab8be885803d85b8ac.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36009,7 +35888,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/dd11/0b4b/dd110b4bb8955118b449f19bffa85be5.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36067,7 +35946,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a4ce/779e/a4ce779eb9845cacb5a677942e738a2e.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36125,7 +36004,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/706c/fc72/706cfc728e9155cfad5efc3260cf4614.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36183,7 +36062,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7883/7185/78837185258e5630bc798e436ba6e58c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36241,7 +36120,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/57ce/2397/57ce239770625876bebaf98e9f09f790.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36299,7 +36178,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7fc8/1236/7fc81236863559639a53d26e1dacbefe.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36357,7 +36236,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/ba8a/d2ed/ba8ad2ed51ab5626b7d21ad35d68bbce.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36415,7 +36294,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/78d1/ed7a/78d1ed7a07025258b171a1c1e8919c5d.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36473,7 +36352,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/42c8/7376/42c873769ba75e0f94471258cb56d721.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36531,7 +36410,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/eab0/38ee/eab038eeff94531981b2135646398367.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36589,7 +36468,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/4634/9ca2/46349ca29c065d9db1e34291d46d1848.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36647,7 +36526,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/ecfd/cee2/ecfdcee29f4f5a0ea52366e9f4f0e0d4.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36705,7 +36584,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/725b/6976/725b6976fa1a577b9e8b4616ceaf8549.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36763,7 +36642,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/edd1/c262/edd1c2622ce15984930f32cb64255351.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36821,7 +36700,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/fc29/dedb/fc29dedb1f165c848268e29d8370c16b.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36879,7 +36758,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e5c5/68f4/e5c568f4537f5014a188711b4aa45771.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36937,7 +36816,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/2c9c/3223/2c9c3223073559968ac8d694114fd80d.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -36995,7 +36874,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/4b8d/f70c/4b8df70cedba514d8147432f4049897d.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37053,7 +36932,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b45c/4a2c/b45c4a2cb0185daeab964896f0b42486.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37111,7 +36990,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/50b5/e6b6/50b5e6b650845307bfefbca18288038a.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37169,7 +37048,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8842/7842/884278421e065d35bd75488c3edab865.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37227,7 +37106,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/818f/0225/818f022591015e648a850c37989fd11d.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37285,7 +37164,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/76e5/a34f/76e5a34fe1e05a1ba7905000b4b47e3e.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37343,7 +37222,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c2a1/4b89/c2a14b89401a5cf7bd22ff644d130edb.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37401,7 +37280,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a9f9/8e3a/a9f98e3a3c3b5b57a50fdc97e54a3899.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37459,7 +37338,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a6f0/7776/a6f07776d89e5266bf7b7060d34c1c95.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37517,7 +37396,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/47ed/1b5b/47ed1b5b3723541db77ef7d977c12256.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37575,7 +37454,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/4974/7994/49747994dda15ca8887a5bb5e1c1d439.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37633,7 +37512,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/4d5f/9ace/4d5f9ace065453fa81304eb2aac3cfa6.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37691,7 +37570,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/eb72/73e2/eb7273e2758955c88c372ca70cc80702.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37749,7 +37628,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/35dd/5e34/35dd5e34039051409f5a336bd6b8d0df.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37807,7 +37686,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8124/4980/81244980aa6852a5a6dcb2ad1fc3b89f.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37865,7 +37744,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d790/dc14/d790dc14951a5d1987a45090ac47478f.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37923,7 +37802,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/02af/0795/02af0795f99a59a8b22af8ba210c745e.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -37981,7 +37860,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/6609/08d1/660908d112b35a62b6b15b3bd47b86b5.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38039,7 +37918,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f682/c4d6/f682c4d6bc325a0bb1b827e3272ed019.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38097,7 +37976,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/ab24/787f/ab24787f91da57059ccc5021471c9dbb.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38155,7 +38034,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/decc/4eeb/decc4eeba7615f1397fabdfce4e80247.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38213,7 +38092,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/55ba/fb6d/55bafb6d0d7e55b0a2cb5bb8b65b0f3a.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38271,7 +38150,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8882/16be/888216be3e895942bf0931c7440f3a78.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38329,7 +38208,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/6d11/93d1/6d1193d184e550d3a3a6b81f1002ad27.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38387,7 +38266,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c2da/651d/c2da651d247854e69f4a913044dcdc8a.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38445,7 +38324,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a9bb/60dd/a9bb60dd6d235a8e957744a1ea849d94.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38503,7 +38382,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a385/bc87/a385bc87b6e65040abc004e4efd09291.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38561,7 +38440,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8843/5e8c/88435e8ca29e524b8b00f3f9e3fdc6f1.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38619,7 +38498,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a538/e9bd/a538e9bd8c2b55a1a905da248ada15b8.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38677,7 +38556,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7630/ec50/7630ec5077bb50b7a1c476d92fac3be1.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38735,7 +38614,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9147/86ee/914786ee088b55318dfdd6cdf2ee2b25.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38793,7 +38672,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7d82/7e81/7d827e81085d5ab4a5a7c3e69b8ef7a7.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38851,7 +38730,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7f3c/eff5/7f3ceff550075b63bee5feff3366bac0.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38909,7 +38788,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/db50/9a16/db509a1636a8575793cd601b5b4ca292.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -38967,7 +38846,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/41fa/9c70/41fa9c7071c657d0af1968f50c2c6125.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39025,7 +38904,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e1a6/26e3/e1a626e32b2d576c9163ed3aaf42d135.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39083,7 +38962,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/6cd5/ab06/6cd5ab06d77850a291ba8ea3929a7ca7.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39141,7 +39020,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/6474/50bd/647450bdd62858efb1ce1b1e69778c06.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39199,7 +39078,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/64bd/2cfc/64bd2cfcb0345174b0ae5a53a8518364.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39257,7 +39136,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b4ee/ca3d/b4eeca3d484350b182a3135dc85356d5.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39315,7 +39194,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/59d2/deee/59d2deee4dba59cbbc6fbbf7aa3c1aa0.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39373,7 +39252,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e8ad/2594/e8ad259474be5dc8b73fd725c471afdf.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39431,7 +39310,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/4b62/ab4c/4b62ab4c15b85012b7ad8ca6a70ecaf8.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39489,7 +39368,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/2607/067b/2607067b1880561daa5aea02cfde231c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39547,7 +39426,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1419/1955/14191955e2b754e3b436140fd5a9e5d2.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39605,7 +39484,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/6677/812f/6677812f57dd5434b4692b81bcda44f0.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39663,7 +39542,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/0552/de05/0552de05213f597d82139ae5cd6d91bd.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39721,7 +39600,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/6cf9/1ae5/6cf91ae544fa5e279df10fa49518d99f.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39779,7 +39658,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/535e/35f4/535e35f4686c5f6a8377cb640096271d.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39837,7 +39716,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1fc4/19dd/1fc419dd263c5edda7482b33520e9063.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39895,7 +39774,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8001/984e/8001984e659d5f6cb51281386f9a5528.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -39953,7 +39832,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/522c/501d/522c501da538507b86cef21ef83ec1ec.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40011,7 +39890,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/42b6/2e23/42b62e23af64515f8c627200339f1114.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40069,7 +39948,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/32c9/822c/32c9822c7c5b52fe8d1ae7327e9983d5.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40127,7 +40006,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f663/8543/f663854397ed5382b80568ba115f8a00.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40185,7 +40064,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a704/4125/a7044125a517587694c0431ffeb00300.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40243,7 +40122,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3732/e2bc/3732e2bc9ac15465b75a4213c9f621e6.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40301,7 +40180,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/6b5d/786e/6b5d786e0cf05fb8869c1406cb8f3850.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40359,7 +40238,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/acfd/ef51/acfdef517f7c5484a74ed7311a01a0c1.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40417,7 +40296,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/de43/7e37/de437e37a4e95dc4b2db25839852a411.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40475,7 +40354,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/88c5/592d/88c5592db20b5310a2eabd7d30eceae7.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40533,7 +40412,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f869/7fee/f8697fee772859118d39ac4fd87c5a0f.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40591,7 +40470,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3928/2ee7/39282ee79de85e939a72d5b214bff40e.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40649,7 +40528,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e8b3/edb0/e8b3edb0359a5f7191f9cd703b8c044b.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40707,7 +40586,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/932b/198d/932b198daa31592ead4d964c8dbf11da.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40765,7 +40644,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/76fe/a269/76fea269567a5594b04093ef4580fcda.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40823,7 +40702,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/6f03/40e6/6f0340e664865493b88ed5231155b887.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40881,7 +40760,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/4e7a/d8fe/4e7ad8fec75f5145a927cebc2122e249.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40939,7 +40818,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/da92/30db/da9230db58f75891a5e30a0b06ecaf8c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -40997,7 +40876,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/da1f/7ff9/da1f7ff9d95155f5ae10e4c461808732.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -41055,7 +40934,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a23e/8b8d/a23e8b8dcdc7571881b7552bad2dd35a.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -41113,7 +40992,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/0f7a/e226/0f7ae226650451959e7f33f795b3fdb7.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -41171,7 +41050,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c203/0163/c203016379db5f809f47ccb247549e77.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -41229,7 +41108,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/edab/6f0e/edab6f0e71f05a62b4b20ec23926c050.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -41461,7 +41340,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c159/a393/c159a39349b65ac09d1709b9173f541c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -42505,65 +42384,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/bbc2/f756/bbc2f756e83653b4a29a44a579a35183.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c8d7/7013/c8d770136b6f5ab48d7c482f2beebdd3.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/94da/6a8b/94da6a8b60fb5affaef650381630f5c1.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7d12/281c/7d12281c5e6a57ec9f0701c5177d6d3c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e18e/721f/e18e721ff14d50acb18e7c35df08f5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5f7/d4e3/d5f7d4e3556b5b88b27f93fe1008147e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5e9/056c/d5e9056c9675517db833b45c8a0fc712.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/63b5/9638/63b5963870855d9595794a84f4727dcb.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c02e/6340/c02e6340f87e5775ab20fd25ed6cbbe5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f4fd/4157/f4fd41577d895a8e80f9142f4aae8891.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b327/ce31/b327ce3141e3515b80983a1ddc8c3bf5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a528/d5fe/a528d5feeab751f8a652d463e31de5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/422a/069e/422a069e5dd2528bbac0203661fa4d2e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1031/3b6c/10313b6cd1af53e699a8da3eda96b3a5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8560/5a65/85605a65da2f5ee8948a93f3bce2b930.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/76a5/1389/76a51389cc125caca3c723f243081576.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9f01/265a/9f01265aec885ab8be0bea0eeefa3c26.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/5298/c7ff/5298c7ffb3b45128ad32873702a457fc.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/85c6/f3ae/85c6f3ae495957da8b703815463809d6.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1358/6c51/13586c51166a5598978369c8d3fa28c0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e2d8/61c9/e2d861c913375e24bde2151b4b9b5f89.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c4e5/c168/c4e5c1682c6755e39997dd8a73d6b02a.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3892/a3b7/3892a3b701cf52e8875429f3c6fe4f46.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f9ba/b992/f9bab992ec275633aa596f178c56c20e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c1b5/9e6d/c1b59e6db8d357ca97d62d435855536c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/61f3/b982/61f3b982f8e2538591379923309a49b0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/31ef/40ba/31ef40ba815058148dd5dee4d8178532.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e737/5542/e7375542512c567fbf389881a4a7885d.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f6e8/84af/f6e884af98af5b60a9e2ba96844a7fd7.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="8bf9fe48-11fc-4c43-83ea-f3d6888000339566b385-e9e4-4240-9195-730df4b9a8c2">
-      <categoryId>101</categoryId>
-      <name>1-к, 31.86 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3145909</price>
-      <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
-
-Мы предлагаем различные варианты покупки: 
-• Ипотека от 6% годовых. Работаем с с сертификатами, материнским капиталом
-• Рассрочка от застройщика
-• Покупку за собственные средства на выгодных условиях
-• Военная ипотека
-
-Не упустите самые выгодные условия на покупку своей собственной квартиры на старте продаж!</description>
-      <param name="Материал стен">bricks</param>
-      <param name="Комнат">1</param>
-      <param name="Площадь Дома">31.86</param>
-      <param name="Жилая площадь">8.44</param>
-      <param name="Площадь кухни">14.47</param>
-      <param name="Этаж">2</param>
-      <param name="Балкон">0</param>
-      <param name="Парковка"></param>
-      <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
-      <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a110/2487/a1102487c7e853d58d6cf20ab233d446.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -42853,7 +42674,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/abeb/9b0b/abeb9b0bd5455517b7133f81642d3a3e.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -43375,7 +43196,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a96c/0918/a96c091820b452a7a035928c62290169.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
@@ -43897,7 +43718,7 @@ id:29309.
       <param name="Парковка"></param>
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7f18/df31/7f18df3184ee5051a6bd3431db3fcd23.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
