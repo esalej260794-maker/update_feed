@@ -4979,51 +4979,6 @@ id:49499.
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Буй</param>
     </offer>
-    <offer id="49515">
-      <name>Продажа, Квартира, 3-к, 60.8 кв.м, Буй, улица Социализма, 29</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">3</param>
-      <param name="Адрес">Костромская область, Буй, улица Социализма, 29</param>
-      <param name="Имя агента">Виктория Набатова</param>
-      <param name="Email для связи">victoryvomanyar@yandex.ru</param>
-      <param name="Телефон для связи">79011954581</param>
-      <param name="Общая площадь">60.8</param>
-      <param name="Жилая площадь">47.4</param>
-      <param name="Площадь кухни">5.7</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>3250000</price>
-      <description>&lt;strong&gt;Уважаемые покупатели! Продаётся&amp;nbsp; 3-комнатная квартира на 2 этаже 5-этажного кирпичного дома!&lt;/strong&gt;&lt;br /&gt;&#13;
-Квартира расположена в центральной части города,что позволяет добраться в любую точку города.&lt;br /&gt;&#13;
-В квартире выполнен косметический ремонт,застекленный балкон, санузел в кафельной плитке&amp;nbsp;&lt;br /&gt;&#13;
-На кухне выполнен навесной потолок.&lt;br /&gt;&#13;
-Установлены счетчики ХВС и ГВС.&lt;br /&gt;&#13;
-В локацию дома входит все, что необходимо для комфортного проживания: школы, детские сады, магазины, остановки общественного транспорта.&lt;br /&gt;&#13;
-Все в шаговой доступности.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Поможем в одобрении и оформлении ипотеки от банков партнеров. Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;br /&gt;&#13;
-Все консультации бесплатно
-id:49515. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b1774ff089b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b1774f62669.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b1774e3b7f3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b17750899f8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b1775379080.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b17752de17e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b17751236f1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b1775252395.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b177539e505.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b1774ec9af7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b17751b7410.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b1774da1f14.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49515/69b1774d14716.jpeg</picture>
-      <coordinates lat="58.479075" lon="41.539825"/>
-      <param name="Офис">Буй</param>
-    </offer>
     <offer id="49520">
       <name>Продажа, Квартира, 1-к, 36 кв.м, г Буй, ул Парижской Коммуны, 3</name>
       <param name="Тип предложения">Продажа</param>
@@ -9866,7 +9821,7 @@ id:54484.
       <picture>https://progress.vtcrm.ru/uploads/Photos/54484/69b18361af798.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/54484/69b1835a52dc9.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/54484/69b1836445ebb.jpeg</picture>
-      <coordinates lat="56.733845" lon="38.850214"/>
+      <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="54490">
@@ -15579,74 +15534,6 @@ id:56633.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56633/phpcWmpBi.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56633/phprN1kUE.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56633/phpwRabvE.jpeg</picture>
-      <coordinates lat="0.000000" lon="0.000000"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="56635">
-      <name>Продажа, Квартира, 2-к, 53.9 кв.м, Ярославль, проспект Фрунзе, 35/17</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">На улицу и двор</param>
-      <param name="Адрес">Ярославская область, Ярославль, проспект Фрунзе, 35/17</param>
-      <param name="Имя агента">Елена Штепен</param>
-      <param name="Email для связи">evr0299@yandex.ru</param>
-      <param name="Телефон для связи">79038230299</param>
-      <param name="Общая площадь">53.9</param>
-      <param name="Жилая площадь">30.3</param>
-      <param name="Площадь кухни">11.8</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">9</param>
-      <categoryId>100</categoryId>
-      <price>6880000</price>
-      <description>&lt;h2 data-end="112" data-section-id="vu81if" data-start="54"&gt;2-комнатная квартира, в которую хочется переехать сразу&lt;/h2&gt;&#13;
-&#13;
-&lt;p data-end="362" data-start="114"&gt;Есть квартиры, где после просмотра остаётся только один вопрос: &lt;strong data-end="202" data-start="178"&gt;когда можно заехать?&lt;/strong&gt;&lt;br data-end="205" data-start="202" /&gt;&#13;
-Именно такой вариант &amp;mdash; светлая, ухоженная 2-комнатная квартира 53,9 м&amp;sup2; на проспекте Фрунзе с ремонтом, мебелью и действительно удобной планировкой для жизни.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="637" data-start="364"&gt;С первых минут здесь ощущается порядок, пространство и комфорт. Две изолированные комнаты 16 и 14 м&amp;sup2; расположены на разные стороны дома &amp;mdash; это больше света, свежего воздуха и личного пространства для каждого члена семьи. Утром солнце в одной комнате, вечером уютно в другой.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="840" data-start="639"&gt;Просторная кухня 12 м&amp;sup2; &amp;mdash; редкое преимущество для двухкомнатной квартиры. Здесь удобно готовить, собираться всей семьёй за ужином, принимать гостей или просто наслаждаться спокойным утром с чашкой кофе.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="1001" data-start="842"&gt;Из гостиной есть выход на застеклённую лоджию &amp;mdash; дополнительное пространство, которое можно использовать как кабинет, место отдыха или удобную систему хранения.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="1305" data-start="1003"&gt;В квартире уже выполнен качественный ремонт: окна ПВХ, ламинат, натяжные потолки с продуманным освещением, плитка в санузле, надёжная входная дверь. Большая часть мебели остаётся, техника &amp;mdash; по договорённости. Это значит, что после покупки не придётся тратить месяцы на ремонт и дополнительные вложения.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="1462" data-start="1307"&gt;Комфортный 2 этаж из 9 &amp;mdash; один из самых востребованных вариантов: удобно семьям с детьми, родителям, пожилым людям и всем, кто ценит независимость от лифта.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="1610" data-start="1464"&gt;Дом ухоженный, чистый подъезд, грузопассажирский лифт, спокойные соседи, тамбур на две квартиры. Во дворе детская площадка и зелёное пространство.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="1797" data-start="1612"&gt;Район особенно ценят семьи: рядом 4 детских сада, школы №21 и новая №91, магазины, Лента, Метро, спортивный зал, бассейн, остановки транспорта &amp;mdash; всё необходимое находится рядом с домом.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="2010" data-start="1799"&gt;Дополнительное финансовое преимущество для покупателей с ипотекой: &lt;strong data-end="1938" data-start="1866"&gt;по этой квартире доступна скидка -0,3% к ставке по ипотеке Сбербанка&lt;/strong&gt;, что позволяет снизить ежемесячный платёж и общую переплату по кредиту.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="2095" data-start="2012"&gt;Юридически безопасный объект: более 5 лет в собственности, быстрый выход на сделку.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="2237" data-start="2097"&gt;Такие квартиры долго не задерживаются: удобный этаж, готовое состояние, большая кухня и сильная локация редко совпадают в одном предложении.&lt;/p&gt;&#13;
-&#13;
-&lt;p data-end="2332" data-is-last-node="" data-is-only-node="" data-start="2239"&gt;&lt;strong data-end="2332" data-is-last-node="" data-start="2239"&gt;Запишитесь на просмотр сейчас &amp;mdash; вживую квартира производит ещё более сильное впечатление.&lt;/strong&gt;&lt;/p&gt;
-id:56635. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpDqOhK6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpcc113t.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phptbVjTV.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpWol4LN.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpyVEXjQ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpND6Xz1.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpTbnf9r.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpvAJUxH.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpEuYhmc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/php7YuFfP.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/php1SMf67.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpgV9Pms.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpRcrOu3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpo0L9mA.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpGJEh89.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpBiIDhv.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpnn5vHH.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56635/phpXmQvt6.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -21419,6 +21306,46 @@ id:57155.
       <picture>https://progress.vtcrm.ru/uploads/Photos/57155/69b1868272c62.jpeg</picture>
       <coordinates lat="0.000000" lon="0.000000"/>
       <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="57158">
+      <name>Продажа, Квартира, 3-к, 51.4 кв.м, г Буй, ул Социализма, 21</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">требует ремонта</param>
+      <param name="Этаж">5</param>
+      <param name="Комнат">3</param>
+      <param name="Адрес">Костромская обл, г Буй, ул Социализма, 21</param>
+      <param name="Имя агента">Виктория Набатова</param>
+      <param name="Email для связи">victoryvomanyar@yandex.ru</param>
+      <param name="Телефон для связи">79011954581</param>
+      <param name="Общая площадь">51.4</param>
+      <param name="Жилая площадь">30</param>
+      <param name="Площадь кухни">6.5</param>
+      <param name="Этаж">5</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>1900000</price>
+      <description>Уважаемые покупатели! Продаётся&amp;nbsp; 3-комнатная квартира !&lt;br /&gt;&#13;
+Требуется ремонт,что позволит воплотить все ваши идеи!&lt;br /&gt;&#13;
+В шаговой доступности:Торговый центр,магазины,аптеки,остановки общественного транспорта.&lt;br /&gt;&#13;
+Поможем в одобрении и оформлении ипотеки от банков партнеров. Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;br /&gt;&#13;
+Все консультации бесплатно
+id:57158. 
+.</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phpBZvq7W.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/php7zhKB0.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phppllIMA.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phpIH0vLG.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phpw0rD2D.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phpeMFRXf.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phpWZhRPz.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/php4eFXtb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phpkRMKew.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phpQqVHOa.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phpTcMBen.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phpPYX5zI.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57158/phpsX6uPL.jpeg</picture>
+      <coordinates lat="0.000000" lon="0.000000"/>
+      <param name="Офис">Буй</param>
     </offer>
     <offer id="9819">
       <categoryId>101</categoryId>
