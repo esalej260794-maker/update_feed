@@ -51,10 +51,14 @@ def geocode_address(address):
     # --- пробуем геокодировать ---
     for variant in variants:
         try:
-            loc = geolocator.geocode(variant + ", Россия")
+            loc = geolocator.geocode(
+                variant + ", Ярославская область, Россия",
+                country_codes="ru",
+                exactly_one=True
+)
             time.sleep(1)
 
-            if loc:
+            if loc and "ярослав" in loc.address.lower():
                 geo_cache[key] = (loc.latitude, loc.longitude)
                 return loc.latitude, loc.longitude
 
@@ -93,7 +97,7 @@ def get_coords_from_aux(address, aux_feed):
             if coords_elem is not None:
                 lat = coords_elem.get("lat")
                 lon = coords_elem.get("lon")
-                if lat != "0" and lon != "0":
+                if float(lat) != 0.0 or float(lon) != 0.0:
                     return float(lat), float(lon)
     return 0.0, 0.0
 
@@ -112,14 +116,21 @@ for offer in main_feed.findall(".//offer"):
         except:
             lat = lon = 0.0
 
-    if lat == 0.0 and lon == 0.0:
-        lat, lon = get_coords_from_aux(address_text, aux_feed)
-        if lat == 0.0 and lon == 0.0:
-            lat, lon = geocode_address(address_text)
-        if coords_elem is None:
-            coords_elem = etree.SubElement(offer, "coordinates")
-        coords_elem.set("lat", f"{lat:.6f}")
-        coords_elem.set("lon", f"{lon:.6f}")
+  if (
+    lat == 0.0 or
+    lon == 0.0 or
+    "Ярославль" in address_text
+):
+    lat, lon = get_coords_from_aux(address_text, aux_feed)
+
+    if lat == 0.0 or lon == 0.0:
+        lat, lon = geocode_address(address_text)
+
+    if coords_elem is None:
+        coords_elem = etree.SubElement(offer, "coordinates")
+
+    coords_elem.set("lat", f"{lat:.6f}")
+    coords_elem.set("lon", f"{lon:.6f}")
 
     agent = offer.find("param[@name='Имя агента']")
     office_val = "Буй" if agent is not None and agent.text in agents_bui else "Ярославль"
