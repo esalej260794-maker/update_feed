@@ -24,18 +24,44 @@ def normalize_address(addr):
 def geocode_address(address):
     if not address:
         return 0.0, 0.0
+
     key = normalize_address(address)
+
+    # --- проверяем кеш ---
     if key in geo_cache:
-        return geo_cache[key]
-    try:
-        loc = geolocator.geocode(address + ", Россия")
-        time.sleep(1)
-        if loc:
-            geo_cache[key] = (loc.latitude, loc.longitude)
-            return loc.latitude, loc.longitude
-    except:
-        pass
-    geo_cache[key] = (0.0, 0.0)
+        lat, lon = geo_cache[key]
+
+        # если в кеше нормальные координаты — используем
+        if lat != 0.0 or lon != 0.0:
+            return lat, lon
+
+    # --- варианты адреса ---
+    variants = [address]
+
+    parts = [p.strip() for p in address.split(",") if p.strip()]
+
+    # деревня + район
+    if len(parts) >= 2:
+        variants.append(", ".join(parts[:2]))
+
+    # только населённый пункт
+    if len(parts) >= 1:
+        variants.append(parts[0])
+
+    # --- пробуем геокодировать ---
+    for variant in variants:
+        try:
+            loc = geolocator.geocode(variant + ", Россия")
+            time.sleep(1)
+
+            if loc:
+                geo_cache[key] = (loc.latitude, loc.longitude)
+                return loc.latitude, loc.longitude
+
+        except Exception as e:
+            print(f"Ошибка геокодинга: {e}")
+
+    # НЕ кешируем 0,0
     return 0.0, 0.0
 
 # --- Фиды ---
