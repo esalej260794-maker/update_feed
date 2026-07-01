@@ -1133,56 +1133,6 @@ id:17467.
       <coordinates lat="57.576733" lon="39.907252"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="17603">
-      <name>Продажа, Квартира, 2-к, 51.40 кв.м, Ярославль, Суздальская улица, 180</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">7</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">Во двор</param>
-      <param name="Адрес">Ярославская область, Ярославль, Суздальская улица, 180</param>
-      <param name="Имя агента">Анна Куликова</param>
-      <param name="Email для связи">big.letter@yandex.ru</param>
-      <param name="Телефон для связи">79080299869</param>
-      <param name="Общая площадь">51.40</param>
-      <param name="Жилая площадь">27,4</param>
-      <param name="Площадь кухни">8,6</param>
-      <param name="Этаж">7</param>
-      <param name="Этажность">9</param>
-      <categoryId>100</categoryId>
-      <price>4499000</price>
-      <description>Двухкомнатная квартира&lt;br /&gt;&#13;
-- Угловая&lt;br /&gt;&#13;
-- Тамбур на две квартиры&lt;br /&gt;&#13;
-- Рядом 2 остановки транспорта&lt;br /&gt;&#13;
-- Квартира без долгов и обременений, два совершеннолетних собственника&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;Юридическая чистота сделки:&lt;/strong&gt; полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;br /&gt;&#13;
-Помощь в одобрении и оформлении ипотеки от банков-партнеров.&lt;br /&gt;&#13;
-Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие.&lt;br /&gt;&#13;
-Все консультации &lt;strong&gt;бесплатно!&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;strong&gt;Хотите купить эту квартиру - ЗВОНИТЕ!&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;nbsp;
-id:17603. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6ea5707.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6d8cf2c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6d039fc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6d2e32a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6e4a923.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6d5b230.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6e79d5a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6de8b50.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6dbd372.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6e1fa62.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6f0d043.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6fa77b0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/17603/69b16c6ecfca5.jpeg</picture>
-      <coordinates lat="57.572674" lon="39.875371"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="17810">
       <name>Продажа, Квартира, 3-к, 99.5 кв.м, Ярославль, Московский проспект, 163к2</name>
       <param name="Тип предложения">Продажа</param>
@@ -2202,7 +2152,7 @@ id:36399.
       <param name="Этаж">6</param>
       <param name="Этажность">6</param>
       <categoryId>100</categoryId>
-      <price>2900000</price>
+      <price>2850000</price>
       <description>В продаже 2 комнатная квартира с ремонтом!&amp;nbsp;&lt;br /&gt;&#13;
 В квартире нятжные потолки, линолеум, пластиковые окна ПВХ, новые радиаторы отопления, раздельный санузел, застекленный балкон. Высокие потолки 3 метра, удобная планировка, большая прихожая и кухня!&amp;nbsp;&lt;br /&gt;&#13;
 В подарок новым собственникам остается кухонный гарнитур, все остальное по согласованию.&amp;nbsp;
@@ -6439,96 +6389,6 @@ id:51872.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="52175">
-      <name>Продажа, Квартира, 2-к, 42.4 кв.м, г Ярославль, пр-кт Октября, 43</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">4</param>
-      <param name="Комнат">2</param>
-      <param name="Окна выходят">Во двор</param>
-      <param name="Адрес">Ярославская обл, г Ярославль, пр-кт Октября, 43</param>
-      <param name="Имя агента">Екатерина Новикова</param>
-      <param name="Email для связи">79807061099@yandex.ru</param>
-      <param name="Телефон для связи">79807061099</param>
-      <param name="Общая площадь">42.4</param>
-      <param name="Жилая площадь">28.5</param>
-      <param name="Площадь кухни">6</param>
-      <param name="Этаж">4</param>
-      <param name="Этажность">5</param>
-      <param name="Ипотека">да</param>
-      <categoryId>100</categoryId>
-      <price>7300000</price>
-      <description>Продажа 2‑комнатной квартиры, Ярославль, проспект Октября, 43&lt;br /&gt;&#13;
-&lt;strong&gt;О квартире&lt;/strong&gt;&lt;br /&gt;&#13;
-Светлая и уютная квартира с удобной планировкой:&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;2 изолированные комнаты правильной формы&lt;/li&gt;&#13;
-&lt;li&gt;просторная кухня 6&lt;strong&gt; м&amp;sup2;&lt;/strong&gt;&amp;nbsp;с кухонным гарнитуром и обеденной зоной &amp;mdash; отлично подходит для семейных посиделок;&lt;/li&gt;&#13;
-&lt;li&gt;&lt;strong&gt;1 застекленный балкон&lt;/strong&gt;&lt;/li&gt;&#13;
-&lt;li&gt;совмещенный санузел: комната отделана плиткой, достаточно места даже с учётом стиральной машины; в санузле предусмотрено место для хранения бытовой химии;&amp;nbsp;​​​​​​​&lt;/li&gt;&#13;
-&lt;li&gt;выполнен косметический ремонт &amp;mdash; заезжайте и живите без дополнительных вложений.&lt;/li&gt;&#13;
-&lt;li&gt;Предусмотрены ​​2 зоны хранения (кладовки)&amp;nbsp;&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;​​​​​​​О доме&lt;/strong&gt;&#13;
-&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;кирпичный дом&amp;nbsp;&lt;strong&gt;1964 года постройки&lt;/strong&gt;, 5 этажей, 4 подъезда;&lt;/li&gt;&#13;
-&lt;li&gt;железобетонные перекрытия&lt;/li&gt;&#13;
-&lt;li&gt;центральное отопление, горячее и холодное водоснабжение&lt;/li&gt;&#13;
-&lt;li&gt;чистый ухоженный подъезд&lt;/li&gt;&#13;
-&lt;li&gt;спокойные соседи;&lt;/li&gt;&#13;
-&lt;li&gt;открытая парковка во дворе;&lt;/li&gt;&#13;
-&lt;li&gt;рядом с домом &amp;mdash; зелёная зона.&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;strong&gt;О районе&lt;/strong&gt;&lt;br /&gt;&#13;
-&amp;nbsp;Преимущества локации:&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;удобная транспортная доступность &amp;mdash; рядом остановки общественного транспорта;&lt;/li&gt;&#13;
-&lt;li&gt;спокойная обстановка &amp;mdash; вдали от шумных магистралей.&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;strong&gt;Инфраструктура рядом&lt;/strong&gt;&lt;br /&gt;&#13;
-Всё необходимое &amp;mdash; в шаговой доступности:&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;детские сады&lt;/li&gt;&#13;
-&lt;li&gt;школы&lt;/li&gt;&#13;
-&lt;li&gt;магазины&lt;/li&gt;&#13;
-&lt;li&gt;аптеки&lt;/li&gt;&#13;
-&lt;li&gt;кафе и рестораны&lt;/li&gt;&#13;
-&lt;li&gt;медицинские учреждения&lt;/li&gt;&#13;
-&lt;li&gt;салоны красоты&lt;/li&gt;&#13;
-&lt;li&gt;ТЦ Гигант&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;О сделке&lt;/strong&gt;&#13;
-&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;квартира в собственности одной семьи;&lt;/li&gt;&#13;
-&lt;li&gt;рассмотрим встречное предложение в этом же районе&lt;/li&gt;&#13;
-&lt;li&gt;полное сопровождение сделки до перехода права собственности;&lt;/li&gt;&#13;
-&lt;li&gt;безопасные расчёты между сторонами;&lt;/li&gt;&#13;
-&lt;li&gt;юридическая чистота: проверка всех документов, помощь в оформлении, сопровождение на каждом этапе.&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-Звоните, чтобы узнать подробности и договориться о просмотре!
-id:52175. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b181376701c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b18137b24d2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b181378cd76.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b18137db094.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b1813810d24.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b181386856a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b18139120bb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b181383cd9a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b18138b7176.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b18139391ed.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b181388e343.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b18138dd3c8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b181395dced.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52175/69b18139839a5.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="52177">
       <name>Продажа, Квартира, 2-к, 50.5 кв.м, г Ярославль, Московский пр-кт, 125к2</name>
       <param name="Тип предложения">Продажа</param>
@@ -6714,7 +6574,7 @@ id:52639.
       <param name="Этаж">3</param>
       <param name="Этажность">3</param>
       <categoryId>100</categoryId>
-      <price>1700000</price>
+      <price>1600000</price>
       <description>Квартира расположена на центральной улицы города Буя. Выполнен косметический ремонт, пластиковые окна ПВХ, имеется кладовая комната - для хранения вещей, металлическая дверь.&amp;nbsp;&lt;br /&gt;&#13;
 Развитая инфраструктура, рядом магазины продуктового питания, аптеки, школы, дет.сад, ДКЖ.&lt;br /&gt;&#13;
 &amp;nbsp;
@@ -7109,59 +6969,6 @@ id:52920.
       <picture>https://progress.vtcrm.ru/uploads/Photos/52920/69b1829abdab3.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/52920/69b1829401641.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/52920/69b1829ae6056.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="52921">
-      <name>Продажа, Квартира, 2-к, 43 кв.м, г Ярославль, ул Ньютона, 22</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">1</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">смежные</param>
-      <param name="Окна выходят">Во двор</param>
-      <param name="Адрес">Ярославская обл, г Ярославль, ул Ньютона, 22</param>
-      <param name="Имя агента">Ирина Левченко</param>
-      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
-      <param name="Телефон для связи">79109723294</param>
-      <param name="Общая площадь">43</param>
-      <param name="Жилая площадь">26</param>
-      <param name="Площадь кухни">4</param>
-      <param name="Этаж">1</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>3700000</price>
-      <description>&lt;strong&gt;Описание:&lt;/strong&gt;&lt;br /&gt;&#13;
-Продается светлая и теплая двухкомнатная квартира, в которой только что завершен качественный ремонт. После обновления в квартире никто не жил &amp;mdash; вы будете первыми!&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;Главные преимущества:&lt;/strong&gt;&lt;br /&gt;&#13;
-&amp;bull; &lt;strong&gt;Полное обновление:&lt;/strong&gt;&amp;nbsp;Свежий ремонт во всех комнатах, выполненный в нейтральных современных тонах,деревянный настил убран, вместо него стяжка.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;bull; &lt;strong&gt;Новая сантехника:&lt;/strong&gt;&amp;nbsp;Установлена современная душевая кабина и новая газовая колонка (забудьте о сезонных отключениях горячей воды). Кухонный гарнитур остается в подарок.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;bull; &lt;strong&gt;Энергоэффективность:&lt;/strong&gt;&amp;nbsp;Во всей квартире установлены новые окна ПВХ, обеспечивающие отличную тепло- и шумоизоляцию.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Удобное месторасположение,рядом школа,детский сад.&amp;nbsp;&lt;br /&gt;&#13;
-Развитая инфраструктура: рядом магазины,кафе парки и остановка общественного транспорта-все что нужно для комфортной жизни.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Один взрослый собственник. Квартира без долгов и обременения. Быстрый выход на сделку.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-ПОЛНОЕ ЮРИДИЧЕСКОЕ СОПРОВОЖДЕНИЕ СДЕЛКИ - ОРГАНИЗАЦИЯ БЕЗОПАСНЫХ РАСЧЕТОВ&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;nbsp;
-id:52921. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52921/69b1829d58759.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52921/69b182a06cce5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52921/69b1829cb96ff.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52921/69b1829de8ff3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52921/69b1829fc710e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52921/69b1829f31090.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52921/69b1829e8c088.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52921/69b1829c25405.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52921/69b1829b886c3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52921/69b182a09528d.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -8017,75 +7824,6 @@ id:55703.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="55715">
-      <name>Продажа, Квартира, 2-к, 42.2 кв.м, г Ярославль, ул Панина, 13</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">3</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">Во двор</param>
-      <param name="Адрес">Ярославская обл, г Ярославль, ул Панина, 13</param>
-      <param name="Имя агента">Светлана Козлова</param>
-      <param name="Email для связи">svetlana_kozlova_vektor@mail.ru</param>
-      <param name="Телефон для связи">79065275779</param>
-      <param name="Общая площадь">42.2</param>
-      <param name="Жилая площадь">26</param>
-      <param name="Площадь кухни">6.5</param>
-      <param name="Этаж">3</param>
-      <param name="Этажность">9</param>
-      <categoryId>100</categoryId>
-      <price>3700000</price>
-      <description>В продаже отличная 2-комнатная квартира в кирпичном доме в Дзержинском районе (Брагино)!&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-О квартире:&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;Самый лучший этаж - 3 этаж!&lt;/li&gt;&#13;
-&lt;li&gt;Отличная планировка! Комнаты раздельные!!! Санузел раздельный.&lt;/li&gt;&#13;
-&lt;li&gt;Кухня 6.7 кв.м, комнаты 12.5 и 13.5 кв.м., просторный коридор!&lt;/li&gt;&#13;
-&lt;li&gt;Балкон, куда солнце заглядывает с самого утра. 2 новых окна ПВХ.&lt;/li&gt;&#13;
-&lt;li&gt;Квартира чистая и светлая не смотря на необходимость ремонта.&lt;/li&gt;&#13;
-&lt;li&gt;Мебель остается при необходимости.&lt;/li&gt;&#13;
-&lt;li&gt;Хорошие соседи, тамбур на 3 квартиры.&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-&lt;br /&gt;&#13;
-О доме:&lt;br /&gt;&#13;
-- ТСЖ&amp;nbsp; - порядок и низкие коммунальные платежи!&lt;br /&gt;&#13;
-- Видеонаблюдение в подъезде и на придомовой территории.&lt;br /&gt;&#13;
-- Кирпичный дом!&lt;br /&gt;&#13;
-- Находится на удалении от дороги, тихий двор.&lt;br /&gt;&#13;
-- Чистый подъезд.&lt;br /&gt;&#13;
-- Всегда есть парковочные места.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-В шаговой доступности находится: магазины, 2 детских сада, школа, гимназия, аптеки, поликлиники, парк 30-ти летия Победы, пруд Очки, СК Чемпион, остановки общественного транспорта.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Легко купить:&lt;br /&gt;&#13;
-- один собственник&lt;br /&gt;&#13;
-- подходит под ипотеку,&lt;br /&gt;&#13;
-- сертификат,&lt;br /&gt;&#13;
-- материнский капитал,&lt;br /&gt;&#13;
-- быстрый выход на сделку&lt;br /&gt;&#13;
-- Показ в удобное для вас время&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Звоните прямо сейчас!!!
-id:55715. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/phpSpu0uk.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b185825f03c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b1858287fdc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b18582b18bb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b18582db03c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b18583384b8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b18583621db.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b185838c08c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b18583b193e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b18583d6fbe.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b185840c2c2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b1858431735.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/55715/69b1858237ef7.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="56040">
       <name>Продажа, Квартира, 2-к, 59.3 кв.м, посёлок Щедрино, Парковая улица, 16</name>
       <param name="Тип предложения">Продажа</param>
@@ -8145,7 +7883,7 @@ id:56040.
       <param name="Этаж">3</param>
       <param name="Этажность">12</param>
       <categoryId>100</categoryId>
-      <price>6800000</price>
+      <price>7000000</price>
       <description>Продаётся уютная двухкомнатная квартира в кирпичном доме 1993 года постройки в самом центре Фрунзенского района. Квартира расположена на 3 этаже 12-этажного дома. Общая площадь &amp;mdash; 50,3 кв. м, жилая &amp;mdash; 30 кв. м, площадь кухни &amp;mdash; 7 кв. м. Комнаты изолированные, что обеспечивает комфорт и приватность. В квартире всегда тихо и тепло.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Кухня оборудована всем необходимым: есть встроенная варочная панель, духовой шкаф и холодильник. В квартире установлен тёплый пол, который добавляет уюта в холодные дни. Санузел раздельный, выполнен в светлых тонах.&lt;br /&gt;&#13;
@@ -9608,7 +9346,7 @@ id:56346.
       <param name="Этаж">2</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>870000</price>
+      <price>850000</price>
       <description>В продаже однокомнатная квартира с кухней 8 кв.м, квартира расположена не далеко от г. Буя (17 км) в&amp;nbsp;поселке городского типа Чистые Боры.&lt;br /&gt;&#13;
 Квартира находится на втором этаже с хорошей планировкой: изолированная комната 20.4 кв.м. Застекление на лоджии ПВХ.&amp;nbsp;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
@@ -9632,47 +9370,6 @@ id:56373.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56373/phpldbvzm.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Буй</param>
-    </offer>
-    <offer id="56387">
-      <name>Продажа, Квартира, 1-к, 28.6 кв.м, Щедрино, Парковая, 15</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Ярославль, Щедрино, Парковая, 15</param>
-      <param name="Имя агента">Мария Бурчалова</param>
-      <param name="Email для связи">masha.burchalova@mail.ru</param>
-      <param name="Телефон для связи">79301117607</param>
-      <param name="Общая площадь">28.6</param>
-      <param name="Жилая площадь">22.6</param>
-      <param name="Площадь кухни">6</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">3</param>
-      <param name="Ипотека">да</param>
-      <categoryId>100</categoryId>
-      <price>2890000</price>
-      <description>&lt;strong&gt;В продаже уютная однокомнатная квартира в посёлке Щедрино.&lt;/strong&gt;&lt;br /&gt;&#13;
-Квартира не угловая, теплая, расположена в центральной части дома. Мебель и техника остается в квартире.&amp;nbsp;&lt;br /&gt;&#13;
-Индивидуальное отопление. Небольшие коммунальные платежи.&lt;br /&gt;&#13;
-Застекленный, просторный балкон. Все коммуникации работают исправно.&lt;br /&gt;&#13;
-В поселке развитая инфраструктура. До города 10 минут на машине, рядом автобусная остановка. Магазины, школа, детский сад в шаговой доступности. Всегда есть парковочные места во дворе.&lt;br /&gt;&#13;
-Один взрослый собственник, быстрый выход на сделку.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;nbsp;
-id:56387. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56387/php84XMHy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56387/phpij7Z6o.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56387/phpjcSt9B.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56387/phpTMC4a7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56387/php6XpGPl.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56387/phpdQnCgD.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56387/phplmJtPe.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56387/phpyFq8b4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56387/phpM6h8Vx.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
     </offer>
     <offer id="56392">
       <name>Продажа, Квартира, 3-к, 65 кв.м, Ярославль, Яковлевская, 4</name>
@@ -10483,7 +10180,7 @@ id:56550.
       <param name="Общая площадь">200</param>
       <param name="Этаж">1</param>
       <categoryId>207</categoryId>
-      <price>10000000</price>
+      <price>9000000</price>
       <description>&lt;strong&gt;Уникальное предложение! Для тех, кто мечтает о собственном бизнесе! &lt;/strong&gt;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Пpoдaeтся&lt;strong&gt; глэмпинг &lt;/strong&gt;в красивейшем месте на берегу реки Волги!&lt;br /&gt;&#13;
@@ -11127,7 +10824,7 @@ id:56680.
       <param name="Телефон для связи">79011954581</param>
       <param name="Этажей">2</param>
       <categoryId>300</categoryId>
-      <price>3940000</price>
+      <price>3820000</price>
       <description>Уважаемые покупатели на продаже дом 76,4&amp;nbsp;кв.м. расположенный на земельном участке 6 сот.&lt;br /&gt;&#13;
 В доме изолированные комнаты ,индивидуальное отопление!&lt;br /&gt;&#13;
 В доме выполнен качественный ремонт:&lt;br /&gt;&#13;
@@ -11264,71 +10961,6 @@ id:56722.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56722/phpxfFQf5.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Буй</param>
-    </offer>
-    <offer id="56730">
-      <name>Продажа, Квартира, 1-к, 42.7 кв.м, Ярославль, улица Вишняки, 5к2</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">1</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Ярославская область, Ярославль, улица Вишняки, 5к2</param>
-      <param name="Имя агента">Мария Баряк</param>
-      <param name="Email для связи">baryakmaria161@mail.ru</param>
-      <param name="Телефон для связи">79010465847</param>
-      <param name="Общая площадь">42.7</param>
-      <param name="Жилая площадь">18.8</param>
-      <param name="Площадь кухни">12</param>
-      <param name="Этаж">1</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>5300000</price>
-      <description>&lt;p&gt;Продаётся современная просторная 1-к квартира в одном из самых востребованных комплексов Фрунзенского района &amp;mdash; ЖК &amp;laquo;Галимов&amp;raquo;!&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-О квартире&lt;br /&gt;&#13;
-&amp;mdash; Максимальная экономия: коммунальные платежи в 2 раза ниже городских за счет собственной котельной на 4 дома.&lt;br /&gt;&#13;
-&amp;mdash; Солнечная сторона, квартира светлая и очень теплая.&lt;br /&gt;&#13;
-&amp;mdash; Делался ремонт: стены и пол выровнены, под стяжкой уложен толстый утеплитель 10 см (отличная шумо- и теплоизоляция).&lt;br /&gt;&#13;
-&amp;mdash; Чистовая отделка: в комнатах поклеены&amp;nbsp;обои, на полу ламинат, потолки выкрашены качественной несмываемой краской.&lt;br /&gt;&#13;
-&amp;mdash; Квартира готова к переезду, а также отлично подойдет для сдачи в аренду.&lt;br /&gt;&#13;
-&amp;mdash; На кухне установлена система контроля утечки газа (регулятор), сотрудники газовой службы проводят регулярные проверки.&lt;br /&gt;&#13;
-&amp;mdash; Просторный балкон с панорамными окнами. Проведен кабель для интернета (можно выбрать любого провайдера).&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-О доме.&lt;br /&gt;&#13;
-&amp;mdash; Современный кирпичный дом в составе престижного ЖК &amp;laquo;Галимов&amp;raquo;. На территории ЖК - стоматология, клиника для животных, пункты выдачи.&lt;br /&gt;&#13;
-&amp;mdash; Закрытая территория: въезд через двое автоматических ворот (открытие с пульта), всегда есть место для парковки под видеонаблюдением.&lt;br /&gt;&#13;
-&amp;mdash; Своя котельная: горячая вода есть всегда, отопление включается вовремя. Обслуживается регулярно управляющей компанией&lt;br /&gt;&#13;
-&amp;mdash; Чистый подъезд, на цокольном этаже расположены коммуникации, что гарантирует оперативное обслуживание труб.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-О районе.&lt;br /&gt;&#13;
-&amp;mdash; Развитая инфраструктура Фрунзенского района: в шаговой доступности школы, современные детские сады, поликлиники.&lt;br /&gt;&#13;
-&amp;mdash;&amp;nbsp;ХК &amp;laquo;Локомотив&amp;raquo;, СК &amp;laquo;Арена-2000&amp;raquo;, парк Судостроителей.&lt;br /&gt;&#13;
-&amp;mdash; В&amp;nbsp;непосредственной близости ТЦ &amp;laquo;Атлас&amp;raquo;, гипермаркеты &amp;laquo;Лента&amp;raquo;, &amp;laquo;Metro&amp;raquo;, &amp;laquo;Аксон&amp;raquo;.&amp;nbsp;&lt;br /&gt;&#13;
-&amp;mdash; Отличная транспортная доступность: удобный выезд на Московский проспект, до центра города &amp;mdash; 10&amp;ndash;15 минут.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-О сделке.&lt;br /&gt;&#13;
-&amp;mdash; Один взрослый собственник.&lt;br /&gt;&#13;
-&amp;mdash; Сопровождение сделки до перехода права собственности.&lt;br /&gt;&#13;
-&amp;mdash; Безопасные расчеты сторон.&lt;br /&gt;&#13;
-&amp;mdash; Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;br /&gt;&#13;
-&amp;mdash; Помощь в одобрении и оформлении ипотеки от банков-партнеров.&lt;br /&gt;&#13;
-&amp;mdash; Работа с государственными сертификатами и программами: военная ипотека, материнский капитал и другие.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Все консультации бесплатно!&lt;br /&gt;&#13;
-Хотите купить эту квартиру &amp;mdash; ЗВОНИТЕ!&lt;/p&gt;
-id:56730. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56730/phpd5NfjB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56730/php7Xk0cL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56730/php5d2svS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56730/phpJBfcwb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56730/phpr39oEB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56730/phpbnlnT8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56730/php2hkK0g.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56730/phpl0vlTh.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56730/b8a0fbeb-675e-4be2-8ed8-d85faa6d1205.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
     </offer>
     <offer id="56732">
       <name>Продажа, Квартира, 1-к, 30.5 кв.м, Ярославль, улица Зелинского, 15к2</name>
@@ -13542,45 +13174,6 @@ id:57072.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="57074">
-      <name>Продажа, Квартира, 1-к, 33 кв.м, г Буй, ул Комсомольская, 26</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">1</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Комсомольская, 26</param>
-      <param name="Имя агента">Евгения Серова</param>
-      <param name="Email для связи">evgeniyaserovamaks@yandex.ru</param>
-      <param name="Телефон для связи">79969319171</param>
-      <param name="Общая площадь">33</param>
-      <param name="Жилая площадь">20</param>
-      <param name="Площадь кухни">8</param>
-      <param name="Этаж">1</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>1600000</price>
-      <description>Продажа 1 комнатной квартиры в доме 1984 года постройки.&amp;nbsp;&lt;br /&gt;&#13;
-Квартира находится в хорошем состоянии -&amp;nbsp; косметического ремонта. Пластиковые окна ПВХ, на полу линолеум, совмещенный санузел, счетчики на воду имеются.&amp;nbsp;&lt;br /&gt;&#13;
-Развитая инфраструктура района Завёксы: средняя&amp;nbsp;общеобразовательная школа №9,детский садик, магазины продуктового питания, супермаркеты.&amp;nbsp;&lt;br /&gt;&#13;
-&amp;nbsp;
-id:57074. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpOOgtlK.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpZBlx3N.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpxnMhOR.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpPBfHEU.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/php39nKz0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpINMKAA.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpXEg9CE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpUKz9QE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpWkKlyi.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/php7lT7M3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpKICah7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpxb46ok.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57074/phpUUIdeq.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Буй</param>
-    </offer>
     <offer id="57086">
       <name>Продажа, Квартира, 2-к, 52.7 кв.м, Ярославль, проспект Машиностроителей, 36</name>
       <param name="Тип предложения">Продажа</param>
@@ -13650,7 +13243,7 @@ id:57086.
       <param name="Этаж">4</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>3100000</price>
+      <price>2800000</price>
       <description>Уважаемые покупатели, в продаже 4-х комнатная квартира на 4 этаже 5-ти этажного дома.Дом находится в центральной части города .Окна выходят на обе стороны. В доме свое ТСЖ, установлен счетчик на дом.&lt;br /&gt;&#13;
 В квартире сделан косметический ремонт,новая проводка,,окна ПВХ,&amp;nbsp;залита новая стяжка пола по всей квартире,поменяны стояки.&lt;br /&gt;&#13;
 Рядом вся инфраструктура,садик, школа,продуктовые магазины ,аптеки.&lt;br /&gt;&#13;
@@ -14992,7 +14585,7 @@ id:57164.
       <param name="Этаж">1</param>
       <param name="Этажность">9</param>
       <categoryId>100</categoryId>
-      <price>2250000</price>
+      <price>2350000</price>
       <description>&lt;p&gt;&lt;br /&gt;&#13;
 &lt;span style="font-size:12pt"&gt;&lt;span style="line-height:115%"&gt;&lt;span style="font-family:Calibri,sans-serif"&gt;В продаже уютная однокомнатная квартира ( с ремонтом).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&#13;
 &lt;span style="font-size:12pt"&gt;&lt;span style="line-height:115%"&gt;&lt;span style="font-family:Calibri,sans-serif"&gt;Расположена на 1 этаже девятиэтажного здания, наличии пандуса с улици на крыльцо и внутри подьезда с выездом в общий коридор, &amp;nbsp;что делает ее доступной для матерей одиночек, пожилых людей и людей с ограничиными физическими возможностями. Окна квартиры находятся на достаточно высоком расстоянии и имеются решетки, что делает проживание безопасным и комфортным.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&#13;
@@ -15849,7 +15442,7 @@ id:57242.
       <param name="Этаж">2</param>
       <param name="Этажность">12</param>
       <categoryId>100</categoryId>
-      <price>9050000</price>
+      <price>8950000</price>
       <description>&lt;p&gt;&lt;strong&gt;В пpодaже&amp;nbsp;уютная трехкомнатная квaртиpа с сoвpeменным pемoнтoм в мoнoлитнoм доме 2022 годa пocтpойки. &lt;/strong&gt;ЖK Прeобpaжениe.&lt;br /&gt;&#13;
 Закрытая территoрия, внутpенний двop без мaшин c детскими плoщадкaми и зонами отдыxa. Bъeзд на тepритopию чepeз шлaгбaум. Дом oбоpудовaн пасcажиpcким и гpузовым лифтами.&lt;br /&gt;&#13;
 В квартире просторная кухня площадью 17м&amp;sup2;, оснащена встроенной техникой, включая холодильник, стиральную, посудомоечную машину и духовой шкаф.&lt;br /&gt;&#13;
@@ -16098,6 +15691,148 @@ id:57256.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
+    <offer id="57271">
+      <name>Продажа, Дом, 3-к, 155 кв.м, посёлок Заволжье, Боровая улица, 83</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Материал стен">Газобетонный блок</param>
+      <param name="Площадь Дома">155</param>
+      <param name="Единица измерения площади участка">сотка</param>
+      <param name="Ремонт">Дизайнерский</param>
+      <param name="Разрешенное использование земельного участка">ИЖС</param>
+      <param name="Комнат">3</param>
+      <param name="Адрес">Ярославская область, посёлок Заволжье, Боровая улица, 83</param>
+      <param name="Имя агента">Светлана Козлова</param>
+      <param name="Email для связи">svetlana_kozlova_vektor@mail.ru</param>
+      <param name="Телефон для связи">79065275779</param>
+      <param name="Этажей">1</param>
+      <categoryId>300</categoryId>
+      <price>23500000</price>
+      <description>Продается технологичный энергоэффективный дом (White Box премиум-класса)&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Ищете дом, построенный без компромиссов и экономии на скрытых работах?&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Этот проект создавался с 2023 года &amp;mdash; без спешки, с соблюдением всех строительных циклов и технологических пауз. Дом уже прошел естественную усадку, полностью проверен лютой зимой и готов к чистовой отделке по вашему вкусу.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+📐 ПЛАНИРОВКА (100% полезной площади):&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Кухня-гостиная с великолепным панорамным остеклением и обеденной зоной.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Мастер-спальня (родительская) с выделенной нишей под большой шкаф-купе.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; 2 уютные детские комнаты с продуманным зонированием.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; 2 санузла: просторный семейный санузел (с выводами под 2 раковины и колонну стиральной/сушильной машин) и удобный гостевой санузел при входе.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Сердце дома &amp;mdash; технологичная котельная с отдельным выходом во внутренний двор (к будущей мангальной зоне).&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Чердачное пространство для хранения вещей (складная телескопическая лестница уже в комплекте).&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Потолки высотой 3.1 метра создают ощущение объема и свободы.&lt;br /&gt;&#13;
+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+🧱 КОНСТРУКТИВ И ВЫСОЧАЙШАЯ ТЕПЛОЭФФЕКТИВНОСТЬ:&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Стены с двойным запасом тепла: Показатель теплоэффективности стен равен 1.7 (при норме региона 1.0). Зимой здесь тепло при минимальных затратах, а летом &amp;mdash; прохладно даже без кондиционера.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Премиальное утепление: 250 мм минеральной ваты (200 мм по лагам + 50 мм перекрестное утепление для полного исключения &amp;laquo;мостиков холода&amp;raquo;).&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Защита премиум-класса: Использованы элитные немецкие пленки и мембраны Delta (пароизоляция внутри, диффузионная мембрана на кровле).&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Кровля: Настоящий двойной стоячий фальц (самая надежная и долговечная технология на рынке).&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Капитальные внутренние стены: Все перегородки имеют толщину 300 мм &amp;mdash; это идеальная шумоизоляция между комнатами и мощная опора для армопояса.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Окна: Энергосберегающий профиль VEKA SOFTLINE 70 мм.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; &amp;laquo;Теплые откосы&amp;raquo;: Оконные откосы выполнены по системе СФТК (утеплены, заармированы и подготовлены под покраску). Они никогда не будут холодными и сырыми.&amp;nbsp;Энергосберегающий профиль VEKA SOFTLINE 70 мм.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Подоконники Crystallit &amp;mdash; надежные, эстетичные и устойчивые к износу.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; &amp;nbsp;Наружные стены: Декоративная 3D плитка Real Brick, фиброцементный сайдинг и камешковая штукатурка.&lt;br /&gt;&#13;
+&amp;bull; &amp;nbsp;Входная группа: Армированный бетонный заезд и мощеная площадка по СНиП на 2 автомобиля.&lt;br /&gt;&#13;
+&amp;bull; &amp;nbsp;Крыльца: Два крыльца, отделанных керамогранитом.&lt;br /&gt;&#13;
+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+💎 ПРЕМИАЛЬНАЯ ПРЕДЧИСТОВАЯ ОТДЕЛКА (White Box):&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Стены идеально выровнены под маяк штукатуркой QuickMix (цементно-известковая во влажных зонах, облегченная перлитовая &amp;mdash; в жилых комнатах).&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Выполнена базовая шпатлевка материалами премиум-бренда Semin и нанесена французская грунтовка под покраску (sous-couche). Стены полностью готовы под обои или финишную покраску. Все углы выведены армирующими профилями Semin.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Перфекционизм в котельной: Стены и пол полностью облицованы керамогранитом, швы затерты эпоксидной затиркой, углы и откосы запилены под 45&amp;deg;. Раскладка плитки выполнена идеально &amp;laquo;шов в шов&amp;raquo;.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+🔌 ИНЖЕНЕРНЫЕ СИСТЕМЫ И &amp;laquo;УМНЫЙ ДОМ&amp;raquo;:&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Отопление: Полностью смонтированы водяные теплые полы по всей площади (на полусухой стяжке с утеплителем 150 мм) + радиаторы отопления.&amp;nbsp;Газовый и электрокотлы, бойлер на 150 л, система &amp;laquo;теплый пол&amp;raquo;. Вся обвязка выполнена из долговечной нержавеющей стали.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Электрика: Разводка кабелем ГОСТ мощного сечения (25 мм).&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Установлены автоматы Dcraft и стабилизатор напряжения. На каждую стационарную ТВ-зону и рабочий стол выведен интернет-кабель (витая пара) для стабильного сигнала.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+* &amp;nbsp; &amp;laquo;Мастер-кнопка&amp;raquo;: При выходе из дома вы можете одним нажатием отключить весь свет, при этом критически важные системы (холодильник, котельная, интернет, септик) останутся под напряжением.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+* &amp;nbsp; Адаптивная вентиляция Halbox: Умная вытяжная система с датчиками CO2, влажности и запахов в каждой зоне. Система работает точечно: увеличивает мощность вытяжки только там, где это необходимо в данный момент (например, в санузле во время душа), экономя тепло.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+* &amp;nbsp; Система &amp;laquo;Тихая кухня&amp;raquo; (Vilpe, Финляндия): Двигатель кухонной вытяжки выведен на крышу. Вы готовите в абсолютной тишине, а запахи удаляются мгновенно. Сама вытяжная система входит в стоимость!&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+* &amp;nbsp; Водоснабжение и очистка: Своя скважина. Установлена многоступенчатая система водоподготовки с байпасом и вентилем тонкой регулировки жесткости (никакого эффекта &amp;laquo;вечно мыльных рук&amp;raquo;).&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+* &amp;nbsp; Канализация: Смонтированы и запущены две инсталляции (унитазы и кнопки смыва уже закуплены и входят в стоимость). Предусмотрены скрытые конденсатоотводы в канализацию для вентиляционных систем.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+🌳 УЧАСТОК, БЛАГОУСТРОЙСТВО И ВНЕШНИЕ СЕТИ:&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Участок 9 соток. По периметру сделан качественный забор в едином стиле с соседями.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Умное планирование территории: Перед домом специально не ставили глухой забор. Это позволило визуально расширить зону владения. В стоимость входит планировка и посев ровного зеленого газона.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Идеальный заезд и парковка: Капитальный бетонный въезд с 3-метровыми подпорными стенами. В канаву уложена правильная труба диаметром 500 мм (в строгом соответствии с регламентом, у соседей &amp;mdash; всего 315 мм). Парковка выложена плиткой &amp;laquo;Сиян&amp;raquo; на мощной подушке (200 мм щебня, геотекстиль, мытый песок).&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Двойной дренаж: Помимо придомового дренажа, по границе участка выполнен улавливающий дренаж (щебень, геотекстиль, труба). Он собирает всю талую и дождевую воду с вышестоящих участков и выводит в единый коллектор с насосом. Ваш участок всегда будет сухим!&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; &amp;nbsp;Отмостка: &amp;laquo;Живая&amp;raquo; отмостка для долговечности фундамента.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Готовность к газификации: Газ подведен к дому (выполнен прокол под дорогой, получены разрешения, сделана врезка и разводка по дому/кухне). Все работы полностью оплачены и входят в стоимость.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; Уличный комфорт: Установлен незамерзающий зимний кран для полива (запорный шнек находится внутри теплого контура дома), влагозащищенные розетки IP54 по периметру и стильная фасадная подсветка с реле времени. Заложены гильзы-выводы для кабелей под будущие постройки (баню, беседку, ворота).&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+💳 УСЛОВИЯ ПОКУПКИ:&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Дом специально НЕ зарегистрирован в Росреестре, что дает вам уникальную возможность приобрести его по самым выгодным льготным ипотечным программам (Семейная ипотека, IT-ипотека, господдержка на строительство от юрлица). После сделки мы поможем быстро завершить регистрацию и запустить газ.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+🎁 Что вы получаете в подарок:&amp;nbsp;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Готовый дизайн-проект кухни, 2 инсталляции с унитазами и кнопками, телескопическую лестницу на чердак, премиальную кровельную вытяжку Vilpe.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;bull; &amp;nbsp;Площадь дома: 155,81 м&amp;sup2; (с террасами) / 128 м&amp;sup2; (жилая).&lt;br /&gt;&#13;
+&amp;bull; &amp;nbsp;Участок: 9 соток.&lt;br /&gt;&#13;
+&amp;bull; &amp;nbsp;Локация: Поселок Заволжье (вся инфраструктура в шаговой доступности: школа, сад, МФЦ, рестораны, пункты выдачи Wildberries и OZON). КП Васильковые Поля.&lt;br /&gt;&#13;
+&amp;bull; &amp;nbsp;Ипотека: Полное соответствие условиям Семейной (6%) и Сельской (3%) ипотеки.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+📞 Звоните! С удовольствием отвечу на все вопросы и организую показ этого инженерного шедевра.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Этот дом действительно нужно увидеть своими глазами, чтобы оценить уровень качества!
+id:57271. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57271/phpDOK5b6.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57271/phpvJ5Grv.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57271/phpnQnSVa.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57271/phpECd43Q.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57271/phpT7i2b4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57271/php13u5dB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57271/phpKyYElC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57271/phpNQNdlN.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57271/phpm4PjPN.jpeg</picture>
+      <coordinates lat="57.626560" lon="39.893822"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
     <offer id="57277">
       <name>Продажа, Квартира, студия, 26.5 кв.м, Ярославль, улица Володарского, 4</name>
       <param name="Тип предложения">Продажа</param>
@@ -16256,7 +15991,7 @@ id:57286.
       <param name="Этаж">4</param>
       <param name="Этажность">4</param>
       <categoryId>100</categoryId>
-      <price>3480000</price>
+      <price>3300000</price>
       <description>&lt;p&gt;&lt;strong&gt;В продаже уютная, светлая 2-х комнатная квартира в кирпичном доме.&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 На кухне сделан свежий ремонт. В комнатах натяжные потолки. Ремонт позволяет заехать и жить без дополнительных вложений. В квартиру проведен высокоскоростной интернет. Планировка квартиры позволяет в будущем сделать современную кухню-гостинную.&amp;nbsp;&lt;br /&gt;&#13;
@@ -17811,46 +17546,6 @@ id:57402.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="57408">
-      <name>Продажа, Квартира, 1-к, 42 кв.м, Ярославль, улица Батова, 14</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">дизайнерский</param>
-      <param name="Этаж">3</param>
-      <param name="Комнат">1</param>
-      <param name="Окна выходят">На улицу</param>
-      <param name="Адрес">Ярославская область, Ярославль, улица Батова, 14</param>
-      <param name="Имя агента">Мария Бурчалова</param>
-      <param name="Email для связи">masha.burchalova@mail.ru</param>
-      <param name="Телефон для связи">79301117607</param>
-      <param name="Общая площадь">42</param>
-      <param name="Жилая площадь">18</param>
-      <param name="Площадь кухни">15</param>
-      <param name="Этаж">3</param>
-      <param name="Этажность">9</param>
-      <categoryId>100</categoryId>
-      <price>5500000</price>
-      <description>&lt;p&gt;&lt;strong&gt;В продаже просторная однокомнатная квартира в центральной части района Брагино.&lt;/strong&gt;&amp;nbsp;&amp;nbsp;&lt;br /&gt;&#13;
-В квартире выполнен качественный дизайнерский ремонт. Все продуманно до мелочей. Много места для хранения. В том числе большая застекленная лоджия. Во всей квартире установлены пластиковые окна.&amp;nbsp;&lt;br /&gt;&#13;
-Так же остается часть мебели и техника: 2 телевизора;&amp;nbsp;кондиционер- что является огромным преимуществом в жаркую погоду; встроенная посудомоечная машина; микроволновая печь; стиральная машинка; водонагреватель - очень удобно в период отключения горячей воды. Можно заезжать и жить без дополнительных вложений.&amp;nbsp;&lt;br /&gt;&#13;
-В районе развитая инфраструктура. В шаговой доступности магазины, гипермаркет Лента, аптеки, ПВЗ, кафе, парк для прогулок, фитнес клубы. Так же рядом находятся школа и детский сад. Хорошая транспортная развязка, рядом автобусные остановки, до центра города на машине 10 минут.&amp;nbsp;&lt;/p&gt;&#13;
-&#13;
-&lt;p&gt;&lt;strong&gt;Квартира без обременений. Срок владения более 5 лет, чистая продажа. Гарантия безопасной сделки и юридическое сопровождение. Показ в любое удобное время, звоните!&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
-&amp;nbsp;&lt;/p&gt;
-id:57408. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57408/php06zoyY.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57408/phpLfEHKx.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57408/phpjBGIIk.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57408/phpk4AiGD.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57408/phpD1823D.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57408/phpO4CPDm.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57408/phpB6rqdu.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57408/phpnK4YtR.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57408/phpf0Ejql.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57408/phptVAdzc.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="57410">
       <name>Продажа, Квартира, 2-к, 58.6 кв.м, Ярославль, Московский проспект, 117</name>
       <param name="Тип предложения">Продажа</param>
@@ -18373,9 +18068,9 @@ id:57434.
       <param name="Этаж">4</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославль, Ярославль, Калмыковых, 7</param>
-      <param name="Имя агента">Мария Бурчалова</param>
-      <param name="Email для связи">masha.burchalova@mail.ru</param>
-      <param name="Телефон для связи">79301117607</param>
+      <param name="Имя агента">Ирина Левченко</param>
+      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
+      <param name="Телефон для связи">79109723294</param>
       <param name="Общая площадь">35</param>
       <param name="Жилая площадь">24</param>
       <param name="Площадь кухни">10</param>
@@ -18968,9 +18663,9 @@ id:57470.
       <param name="Этаж">4</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославский, Ярославль, Мурманский проезд, 8</param>
-      <param name="Имя агента">Мария Бурчалова</param>
-      <param name="Email для связи">masha.burchalova@mail.ru</param>
-      <param name="Телефон для связи">79301117607</param>
+      <param name="Имя агента">Ирина Левченко</param>
+      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
+      <param name="Телефон для связи">79109723294</param>
       <param name="Общая площадь">30.1</param>
       <param name="Жилая площадь">19</param>
       <param name="Площадь кухни">5.5</param>
@@ -19388,16 +19083,16 @@ id:57503.
       <param name="Этаж">1</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославский, Ярославль, 4 Портовая, 13</param>
-      <param name="Имя агента">Мария Бурчалова</param>
-      <param name="Email для связи">masha.burchalova@mail.ru</param>
-      <param name="Телефон для связи">79301117607</param>
+      <param name="Имя агента">Ирина Левченко</param>
+      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
+      <param name="Телефон для связи">79109723294</param>
       <param name="Общая площадь">30.8</param>
       <param name="Жилая площадь">17</param>
       <param name="Площадь кухни">6</param>
       <param name="Этаж">1</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>3200000</price>
+      <price>2800000</price>
       <description>&lt;p&gt;&lt;strong&gt;В продаже светлая однокомнатная квартира в кирпичном доме&lt;/strong&gt;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 В районе развитая инфрастуктура, до центра города на машине 10 минут. Рядом остановка общественного транспорта.&lt;br /&gt;&#13;
@@ -19743,9 +19438,9 @@ id:57525.
       <param name="Тип комнат">раздельные</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская область, Ярославль, улица Калмыковых, 18</param>
-      <param name="Имя агента">Мария Бурчалова</param>
-      <param name="Email для связи">masha.burchalova@mail.ru</param>
-      <param name="Телефон для связи">79301117607</param>
+      <param name="Имя агента">Ирина Левченко</param>
+      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
+      <param name="Телефон для связи">79109723294</param>
       <param name="Общая площадь">54.2</param>
       <param name="Жилая площадь">32</param>
       <param name="Площадь кухни">11</param>
@@ -20028,7 +19723,7 @@ id:57533.
       <param name="Этаж">3</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>6600000</price>
+      <price>6550000</price>
       <description>&lt;br /&gt;&#13;
 Представляем вашему вниманию светлую и уютную двухкомнатную квартиру общей площадью 60,1 м&amp;sup2; на третьем этаже пятиэтажного дома. Жилая площадь составляет 29,8 м&amp;sup2;, площадь кухни &amp;mdash; 10,5 м&amp;sup2;.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
@@ -21087,9 +20782,9 @@ id:57614.
       <param name="Этаж">5</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославская область, Ярославль, улица Посохова, 16</param>
-      <param name="Имя агента">Мария Бурчалова</param>
-      <param name="Email для связи">masha.burchalova@mail.ru</param>
-      <param name="Телефон для связи">79301117607</param>
+      <param name="Имя агента">Ирина Левченко</param>
+      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
+      <param name="Телефон для связи">79109723294</param>
       <param name="Общая площадь">42.2</param>
       <param name="Жилая площадь">20</param>
       <param name="Площадь кухни">12.1</param>
@@ -21788,7 +21483,7 @@ id:57641.
       <param name="Этаж">2</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>4500000</price>
+      <price>4300000</price>
       <description>&amp;nbsp;&#13;
 &lt;p&gt;Продаётся уютная трёхкомнатная квартира на втором этаже пятиэтажного дома. Общая площадь &amp;mdash; 63 м&amp;sup2;, из которых 40 м&amp;sup2; &amp;mdash; жилая площадь, а 7 м&amp;sup2; &amp;mdash; кухня.&lt;/p&gt;&#13;
 &amp;nbsp;&#13;
@@ -22224,7 +21919,7 @@ id:57674.
       <param name="Этаж">2</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>4400000</price>
+      <price>4350000</price>
       <description>&lt;strong&gt;Просторная 3-к квартира в кирпичном доме &amp;mdash; комфорт и тишина!&lt;/strong&gt;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Продается уютная трехкомнатная квартира для тех, кто ценит тишину спального района в сочетании с идеальной транспортной доступностью.&lt;br /&gt;&#13;
@@ -22876,6 +22571,7 @@ id:57713.
       <description>&lt;strong&gt;Продается прекрасная двухэтажная дача (48,1 м2) на участке 15,4 сотки ИЖС !!!&lt;/strong&gt;&lt;br /&gt;&#13;
 И земля, и дом на отдельном кадастровом учёте!&lt;br /&gt;&#13;
 Возможность регистрации, прописки&lt;br /&gt;&#13;
+Кадастровый номер земельного участка&amp;nbsp;76:13:040802:28&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Дом выполнен из щитовых панелей, 2 года назад была произведена замена кладки фундамента.&lt;br /&gt;&#13;
 Сделан косметический ремонт, поставлены пластиковые окна, проведено кабельное ТВ,&lt;br /&gt;&#13;
@@ -22896,6 +22592,8 @@ id:57713.
 Близость к центру поселка Петровское и ближайшим магазинам (7-10 минут езды на автомобиле), что очень удобно и комфортно.&amp;nbsp;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 В 15-ти минутах езды есть места для купания, также рядом с дачным участком находится лес, где летом-осенью много грибов и ягод.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Есть ещё особенность этого места - недалеко находится Годеновский&amp;nbsp;(Животворящий) Крест - уникальная православная святыня. Является одной из главных святынь и местом массового паломничества в Ярославской области.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 &lt;strong&gt;О сделке.&lt;/strong&gt;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
@@ -23774,7 +23472,7 @@ id:57740.
       <param name="Этажей">2</param>
       <param name="Ипотека">да</param>
       <categoryId>300</categoryId>
-      <price>16000000</price>
+      <price>15000000</price>
       <description>&lt;strong&gt;В продаже уютный дом в очень живописном месте - в полнoстью развитом коттеджном поселке в районе д. Твердино!!!&lt;/strong&gt;&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Год постройки 2018!&lt;br /&gt;&#13;
@@ -23954,52 +23652,6 @@ id:57753.
       <picture>https://progress.vtcrm.ru/uploads/Photos/57753/phpQORmqe.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57753/phpnIVhJ1.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57753/phpHw12Uv.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="57754">
-      <name>Продажа, Квартира, 2-к, 46.1 кв.м, Ярославль, Блюхера, 52</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">4</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">смежные</param>
-      <param name="Адрес">Ярославская Область, Ярославль, Блюхера, 52</param>
-      <param name="Имя агента">Анна Куликова</param>
-      <param name="Email для связи">big.letter@yandex.ru</param>
-      <param name="Телефон для связи">79080299869</param>
-      <param name="Общая площадь">46.1</param>
-      <param name="Жилая площадь">39</param>
-      <param name="Площадь кухни">6</param>
-      <param name="Этаж">4</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>4000000</price>
-      <description>&amp;nbsp;&#13;
-&lt;p&gt;Продаётся уютная двухкомнатная квартира с евро-ремонтом на четвёртом этаже панельного дома. Комнаты смежные, что позволяет рационально использовать пространство. Из окон открывается вид на улицу, обеспечивая хорошее естественное освещение.&lt;/p&gt;&#13;
-&amp;nbsp;&#13;
-&#13;
-&lt;p&gt;В квартире выполнен свежий ремонт, стены оформлены в светлых тонах, что создаёт атмосферу уюта и комфорта. Просторная гостиная оборудована стильной мебелью и телевизором, а также имеется выход на балкон, где можно наслаждаться свежим воздухом.&lt;/p&gt;&#13;
-&amp;nbsp;&#13;
-&#13;
-&lt;p&gt;Кухня площадью 6 квадратных метров оснащена всей необходимой бытовой техникой, включая водонагреватель, и имеет удобный обеденный стол. Совмещённый санузел оснащён современной сантехникой и ванной.&lt;/p&gt;&#13;
-&amp;nbsp;&#13;
-&#13;
-&lt;p&gt;Общая площадь квартиры составляет 46,1 квадратных метров, жилая площадь &amp;mdash; 39 квадратных метров. Дом газифицирован, что обеспечивает удобство в быту. Во дворе есть спортивная площадка и открытая парковка, что особенно удобно для семей с детьми.&lt;/p&gt;&#13;
-&amp;nbsp;&#13;
-&#13;
-&lt;p&gt;Квартира расположена в доме, где всего 5 этажей &amp;mdash; это гарантирует удобство и отсутствие длинных очередей в лифте. Стоимость объекта &amp;mdash; 4 000 000 рублей. Возможна покупка в ипотеку. Этот вариант станет отличным выбором для тех, кто ищет комфортное жильё в спокойном районе.&lt;/p&gt;&#13;
-&lt;br /&gt;&#13;
-```
-id:57754. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57754/php3LPPOP.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57754/phpZXdxZo.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57754/phpmVQvlW.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57754/phpRXwMCS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57754/phpQZasIQ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57754/php1d72WR.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57754/phpJ7Xo4o.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -24274,6 +23926,53 @@ id:57769.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
+    <offer id="57771">
+      <name>Продажа, Квартира, 3-к, 60.4 кв.м, г Ярославль, ул Труфанова, 12</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">2</param>
+      <param name="Комнат">3</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Окна выходят">На улицу и двор</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, ул Труфанова, 12</param>
+      <param name="Имя агента">Анна Куликова</param>
+      <param name="Email для связи">big.letter@yandex.ru</param>
+      <param name="Телефон для связи">79080299869</param>
+      <param name="Общая площадь">60.4</param>
+      <param name="Жилая площадь">46</param>
+      <param name="Площадь кухни">6</param>
+      <param name="Этаж">2</param>
+      <param name="Этажность">9</param>
+      <categoryId>100</categoryId>
+      <price>5300000</price>
+      <description>Продаётся уютная 3‑комнатная квартира в Ярославле &amp;mdash; идеальное решение для вашей семьи! Квартира расположена на втором этаже девятиэтажного кирпичного дома. Общая площадь составляет 60,4 кв. м, из которых 46 кв. м &amp;mdash; жилая площадь. Три комнаты позволят каждому члену семьи иметь своё личное пространство. Кухня площадью 6 кв. м &amp;mdash; отличное место для приготовления вкусных блюд и семейных ужинов.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Кирпичный дом гарантирует хорошую звуко- и теплоизоляцию, а второй этаж обеспечит удобный доступ без необходимости подниматься слишком высоко. Квартира &amp;mdash; вторичное жильё, но её можно адаптировать под любые ваши пожелания и создать интерьер мечты.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+&amp;nbsp;
+id:57771. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpp3CLOF.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpEQAFQW.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phprbOKrh.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpTkJUt5.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpQIkw8M.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpNaXe7S.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpqZEgbA.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/php1ePQcd.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/php4iDZ03.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpF7KfrJ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpfk0DKL.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpgxRVLM.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpUGmEby.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpkcoWQX.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpZs0tEp.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpLpk6ZX.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpuAeOJl.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/php0lpooJ.jpeg</picture>
+      <coordinates lat="57.626560" lon="39.893822"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
     <offer id="57772">
       <name>Продажа, Квартира, 3-к, 61 кв.м, г Ярославль, ул Большая Октябрьская, 126</name>
       <param name="Тип предложения">Продажа</param>
@@ -24325,26 +24024,36 @@ id:57769.
 Мечтаете о комфортном жилье? Эта квартира ждет именно вас! Не упустите свой шанс - свяжитесь с нами уже сегодня!
 id:57772. 
 &amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpNNE2pU.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpjjSGbd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpCGTjJg.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/php8B7Y6D.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/php6JlAKo.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpCGri6d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/php0fQ3QJ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpHPKpiX.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpfHAz4g.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpGK1vbW.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpPHa1Ek.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpuqeB9T.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpfuHBH3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phptiA5Sp.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpZtLAyN.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpTgtW00.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpQb2RPx.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpEEoe3A.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpJelcUH.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpZX0GW6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/php1ukgOy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpyf8Fu8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpMCEkvu.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpBCn085.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpb43cG7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpvW7oKl.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/php5ODtpS.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpLb4LRx.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpT8ALM5.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/php1qpFx6.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpBKGYmN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpYLKbVk.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/php2YHbMb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpzj3Wq0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpmkZwxf.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpJQFoXJ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpjioM1x.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/php5fDLks.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpaOqvGm.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpL3tBUB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpLUcb5J.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phprVp3BH.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpiFTbQ0.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phppocXdu.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpg8hDtH.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpHaZtfS.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/php053l4Z.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57772/phpLCipUx.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -24370,8 +24079,7 @@ id:57772.
 &lt;li&gt;газ и водопровод по границе участка&lt;/li&gt;&#13;
 &lt;li&gt;земля облагорожена, удобрена под посадки, сделаны грядки&lt;/li&gt;&#13;
 &lt;li&gt;на участке есть яблони.&amp;nbsp;груши&lt;/li&gt;&#13;
-&lt;li&gt;рядом заправка, автомойка;&amp;nbsp;6 минут до Магнит;&amp;nbsp;остановки общественного транспорта в 5 минутах ходьбы :&amp;nbsp; &amp;nbsp;автобусы 93, 21, 21Б, 40С&lt;/li&gt;&#13;
-&lt;li&gt;есть ещё особенность этого места - недалеко находится Годеновский&amp;nbsp;(Животворящий) Крест - уникальная православная святыня. Является одной из главных святынь и местом массового паломничества в Ярославской области.&lt;/li&gt;&#13;
+&lt;li&gt;рядом заправка, автомойка;&amp;nbsp;6 минут до Магнит;&amp;nbsp;остановки общественного транспорта через дорогу в 2 минутах ходьбы&amp;nbsp;:&amp;nbsp; &amp;nbsp;автобусы 93, 21, 21Б, 40С&lt;/li&gt;&#13;
 &lt;/ul&gt;&#13;
 &amp;nbsp;&#13;
 &#13;
@@ -24606,68 +24314,112 @@ id:57785.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8ff3fde09-b5d5-4799-afbf-dfef0a0ca552">
-      <categoryId>101</categoryId>
-      <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4955350</price>
-      <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
-
-Мы предлагаем различные варианты покупки: 
-• Субсидированная ипотека от 4.5% годовых. Работаем с сертификатами, материнским капиталом
-• Рассрочка 0% от застройщика без переплат
-• Покупку за собственные средства на выгодных условиях
-• Военная ипотека
-
-Не упустите самые выгодные условия на покупку своей собственной квартиры на старте продаж!</description>
-      <param name="Материал стен">monolith</param>
-      <param name="Комнат">2</param>
-      <param name="Площадь Дома">48.29</param>
-      <param name="Жилая площадь">25.28</param>
-      <param name="Площадь кухни">11.05</param>
-      <param name="Этаж">2</param>
-      <param name="Балкон">1</param>
-      <param name="Парковка"></param>
-      <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
-      <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c8d7/7013/c8d770136b6f5ab48d7c482f2beebdd3.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/94da/6a8b/94da6a8b60fb5affaef650381630f5c1.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7d12/281c/7d12281c5e6a57ec9f0701c5177d6d3c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e18e/721f/e18e721ff14d50acb18e7c35df08f5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5f7/d4e3/d5f7d4e3556b5b88b27f93fe1008147e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5e9/056c/d5e9056c9675517db833b45c8a0fc712.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/63b5/9638/63b5963870855d9595794a84f4727dcb.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c02e/6340/c02e6340f87e5775ab20fd25ed6cbbe5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f4fd/4157/f4fd41577d895a8e80f9142f4aae8891.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b327/ce31/b327ce3141e3515b80983a1ddc8c3bf5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a528/d5fe/a528d5feeab751f8a652d463e31de5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/422a/069e/422a069e5dd2528bbac0203661fa4d2e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1031/3b6c/10313b6cd1af53e699a8da3eda96b3a5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8560/5a65/85605a65da2f5ee8948a93f3bce2b930.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/76a5/1389/76a51389cc125caca3c723f243081576.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9f01/265a/9f01265aec885ab8be0bea0eeefa3c26.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/5298/c7ff/5298c7ffb3b45128ad32873702a457fc.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/85c6/f3ae/85c6f3ae495957da8b703815463809d6.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1358/6c51/13586c51166a5598978369c8d3fa28c0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e2d8/61c9/e2d861c913375e24bde2151b4b9b5f89.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c4e5/c168/c4e5c1682c6755e39997dd8a73d6b02a.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3892/a3b7/3892a3b701cf52e8875429f3c6fe4f46.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f9ba/b992/f9bab992ec275633aa596f178c56c20e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c1b5/9e6d/c1b59e6db8d357ca97d62d435855536c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/61f3/b982/61f3b982f8e2538591379923309a49b0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/31ef/40ba/31ef40ba815058148dd5dee4d8178532.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e737/5542/e7375542512c567fbf389881a4a7885d.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f6e8/84af/f6e884af98af5b60a9e2ba96844a7fd7.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
+    <offer id="57787">
+      <name>Продажа, Квартира, 1-к, 41.3 кв.м, Ярославль, деревня Мостец - Зелёный Бор, 1</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">требует ремонта</param>
+      <param name="Этаж">4</param>
+      <param name="Комнат">1</param>
+      <param name="Окна выходят">Во двор</param>
+      <param name="Адрес">Ярославская область, Ярославль, деревня Мостец - Зелёный Бор, 1</param>
+      <param name="Имя агента">Виктор Логинов</param>
+      <param name="Email для связи">a.n.vektor@bk.ru</param>
+      <param name="Телефон для связи">79622142999</param>
+      <param name="Общая площадь">41.3</param>
+      <param name="Жилая площадь">14.0</param>
+      <param name="Площадь кухни">18.3</param>
+      <param name="Этаж">4</param>
+      <param name="Этажность">6</param>
+      <categoryId>100</categoryId>
+      <price>3740000</price>
+      <description>Представляем вашему вниманию прекрасную квартиру в сданном доме, которая станет вашим уютным и комфортным домом.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Эта квартира &amp;mdash; отличный выбор для тех, кто ценит качество и практичность. Квартира расположена на четвёртом этаже шестиэтажного кирпичного дома с лифтом, не угловая, из лоджии открывается прекрасный вид из окна.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Общая площадь квартиры составляет 41,5 квадратных метров, из которых 18,3 квадратных метров приходится на кухню &amp;mdash; идеальное место для кулинарных экспериментов и семейных ужинов. Жилая площадь в 14 квадратных метров позволит вам создать уютное и функциональное пространство для отдыха и работы.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Однокомнатная квартира станет отличным решением для одного человека или молодой пары. Кирпичные стены дома обеспечивают хорошую звуко- и теплоизоляцию, создавая комфортные условия для жизни.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Отличное предложение для тех, кто хочет стать владельцем недвижимости в новостройке и наслаждаться всеми преимуществами современного жилья.
+id:57787. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/phpXrwBW8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bb69cd01.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bba811a7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bbb179ca.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bbdc1a95.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bbed00cb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bbfe234e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bc1033a8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bc194d13.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bc232a98.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bc605b62.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bc2bf5bc.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bc3c7624.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bc56bc0f.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bc461fce.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/php2G9W2o.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/phpmxqyLK.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/php4KhLJB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/phppLeUiH.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/phpANPdOh.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57787/69b17bb6521f0.jpeg</picture>
+      <coordinates lat="57.628834" lon="40.002249"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="57789">
+      <name>Продажа, Квартира, 1-к, 39 кв.м, Ярославль, Брагинская улица, 18к4</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">евроремонт</param>
+      <param name="Этаж">9</param>
+      <param name="Комнат">1</param>
+      <param name="Адрес">Ярославская область, Ярославль, Брагинская улица, 18к4</param>
+      <param name="Имя агента">Илья Майоров</param>
+      <param name="Email для связи">imajorov71@gmail.com</param>
+      <param name="Телефон для связи">79921011287</param>
+      <param name="Общая площадь">39</param>
+      <param name="Жилая площадь">16</param>
+      <param name="Площадь кухни">9</param>
+      <param name="Этаж">9</param>
+      <param name="Этажность">10</param>
+      <categoryId>100</categoryId>
+      <price>4300000</price>
+      <description>&lt;p&gt;&lt;strong&gt;Квартира в десятиэтажном доме!&lt;br /&gt;&#13;
+О квартире:&lt;/strong&gt;&lt;br /&gt;&#13;
+Квартира расположена на девятом&amp;nbsp;этаже.&lt;br /&gt;&#13;
+Имеется балкон.&lt;br /&gt;&#13;
+Окна выходят на солнечную сторону.&lt;br /&gt;&#13;
+Санузел, полы кухни и входной зоны покрыты плиткой.&amp;nbsp;&lt;br /&gt;&#13;
+&lt;strong&gt;О доме:&lt;/strong&gt;&lt;br /&gt;&#13;
+Монолитно-кирпичный дом 2024&amp;nbsp;года постройки.&lt;br /&gt;&#13;
+Центральные коммуникации.&lt;br /&gt;&#13;
+Тихие доброжелательные соседи.&lt;br /&gt;&#13;
+Благоустроенная территория.&lt;br /&gt;&#13;
+&lt;strong&gt;О районе:&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
+Дом расположен в Дзержинском районе с развитой инфраструктурой. Рядом продуктовые магазины, почта, аптеки, школы и детские сады.&amp;nbsp;Отличная транспортная доступность ( до центра города 20-25 минут пути ).&lt;br /&gt;&#13;
+&lt;strong&gt;О сделке:&lt;/strong&gt;&amp;nbsp;&lt;br /&gt;&#13;
+Сопровождение сделки до перехода права собственности; безопасные расчеты сторон. Юридическая чистота сделки; полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;br /&gt;&#13;
+&lt;strong&gt;Остались вопросы, звоните!&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+id:57789. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/0e584411-20f6-4cf3-b5a0-dcff07d3bcf2.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/5962b23d-f227-4860-a181-e80ab1580957.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/6ab20dc6-0349-4560-a9ae-0c4ce4b55001.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/6eb25b09-b952-4680-a64a-b294d09c02d3.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/8860cf9a-e09e-4719-8627-c4d496918740.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/6ad247f6-d703-46cf-bbe5-af6c48d96a20.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/5310ef64-7217-4ae5-9856-de168159bf2a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/69f962d9-d51d-4f46-9b6b-3dabcb6fa92a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/27b3a640-e475-44df-b6fc-31fca9ec8856.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/1bc6ca03-44c7-4628-98f5-c206297d18fb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57789/b3128f1c-c35e-4188-9b2d-0538a165dc23.jpeg</picture>
+      <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8e06478ad-15a2-4b03-96dc-30d30159f747">
       <categoryId>101</categoryId>
       <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4106932</price>
+      <price>4144268</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -24725,7 +24477,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8c0c75186-70b5-4296-a50e-6df9804d0b53">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4089244</price>
+      <price>4126419</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -24783,7 +24535,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae89935613d-7de7-4f59-b318-723dfa06b364">
       <categoryId>101</categoryId>
       <name>1-к, 35.95 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3974272</price>
+      <price>4010402</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -24899,7 +24651,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae87610af2e-86f7-4de0-bbdb-ccdff50dd9cb">
       <categoryId>101</categoryId>
       <name>1-к, 36.66 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4052763</price>
+      <price>4089606</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -25015,7 +24767,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae817f1da17-d341-4d0b-a176-d45f6f2a1a4e">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5342564</price>
+      <price>5391578</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -25073,7 +24825,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8333b9aa2-98ae-41cc-819c-d513eb0e23f5">
       <categoryId>101</categoryId>
       <name>1-к, 33.77 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3911579</price>
+      <price>3928295</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -25305,7 +25057,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae82ae64f13-d9dd-45ec-947f-1d4cc8cfd331">
       <categoryId>101</categoryId>
       <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4144268</price>
+      <price>4181604</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -25363,7 +25115,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8046ce1b3-5d36-4455-9f0c-d91e1ca4b7b6">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4126419</price>
+      <price>4163594</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -25421,7 +25173,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8b869bd5e-bdb4-4cdf-8a6c-976954b5baf8">
       <categoryId>101</categoryId>
       <name>1-к, 35.95 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4010402</price>
+      <price>4046532</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -25537,7 +25289,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae89edecae2-4154-4a86-9f65-ed82369f7ef3">
       <categoryId>101</categoryId>
       <name>1-к, 36.66 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4089606</price>
+      <price>4126449</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -25653,7 +25405,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae883ddd3ae-1058-43a0-a800-54456b5df7ab">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5391578</price>
+      <price>5440592</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -25711,7 +25463,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae81124a108-5ee4-4007-a759-45ac2ff55de7">
       <categoryId>101</categoryId>
       <name>1-к, 33.77 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3978443</price>
+      <price>3995159</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -25943,7 +25695,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae86b649981-f7e7-4c4a-9b06-79e8a2ea996c">
       <categoryId>101</categoryId>
       <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4181604</price>
+      <price>4218939</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -26001,7 +25753,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8d9ac08fd-4b4a-4bba-9a9d-c925f9e9c1cd">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4163594</price>
+      <price>4200769</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -26059,7 +25811,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8940a625c-156b-4f1d-b488-c72fd6e85e5d">
       <categoryId>101</categoryId>
       <name>1-к, 35.95 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4046532</price>
+      <price>4082661</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -26175,7 +25927,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8ba13efe0-68fe-45ae-8949-14ffce3b3cbd">
       <categoryId>101</categoryId>
       <name>1-к, 36.66 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4126449</price>
+      <price>4163292</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -26291,7 +26043,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae83e0ef641-3521-41b3-ba2c-77c16e36b122">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5440592</price>
+      <price>5489607</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -26407,7 +26159,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae85b54e1cb-58a4-4263-92e1-268415ca30e0">
       <categoryId>101</categoryId>
       <name>1-к, 33.77 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4011876</price>
+      <price>4028592</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -26639,7 +26391,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae892a652ff-4978-40ce-94a8-64446b42e2e9">
       <categoryId>101</categoryId>
       <name>1-к, 37.41 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4474048</price>
+      <price>4511646</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -26697,7 +26449,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8ff5a9232-d4b8-4b52-b29c-6d8758542241">
       <categoryId>101</categoryId>
       <name>1-к, 37.25 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4454913</price>
+      <price>4492350</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -26755,7 +26507,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae808137c65-c38e-40e7-9c19-f1eb503ef445">
       <categoryId>101</categoryId>
       <name>1-к, 36.21 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4330534</price>
+      <price>4366926</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -26929,7 +26681,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8fa21a5e0-3231-49d3-9fec-9aea1fcd3ba0">
       <categoryId>101</categoryId>
       <name>1-к, 36.92 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4415447</price>
+      <price>4452552</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -27045,7 +26797,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8a2453a58-39ac-4a3c-a9d7-73513c26c61f">
       <categoryId>101</categoryId>
       <name>2-к, 49.01 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5869927</price>
+      <price>5919672</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -27161,7 +26913,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8b2fa5842-d5ee-4ab4-b5ec-8bf06260227f">
       <categoryId>101</categoryId>
       <name>1-к, 34.03 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4110143</price>
+      <price>4126988</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -27393,7 +27145,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae895ee00f6-f9fe-43cf-9f3c-99ce684707ae">
       <categoryId>101</categoryId>
       <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4368282</price>
+      <price>4405618</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -27451,7 +27203,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8c824f5f1-7e6a-4685-8592-fffc1389b653">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4349469</price>
+      <price>4386644</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -27509,7 +27261,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8b146dd98-7a44-47a2-a113-7387fa086ab3">
       <categoryId>101</categoryId>
       <name>1-к, 35.95 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4227180</price>
+      <price>4263310</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -27625,7 +27377,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae82b98aa9c-ca30-4e38-abbd-185b352f7365">
       <categoryId>101</categoryId>
       <name>1-к, 36.66 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4310666</price>
+      <price>4347509</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -27741,7 +27493,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae86ce4d900-8258-4939-8b9f-505324edf784">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5685664</price>
+      <price>5734678</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -27857,7 +27609,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae81caf612c-36cc-46e0-a37a-c049077e4347">
       <categoryId>101</categoryId>
       <name>1-к, 33.77 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4045308</price>
+      <price>4062024</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -28089,7 +27841,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8407e4e54-f0ed-4736-8474-1581e408cd72">
       <categoryId>101</categoryId>
       <name>1-к, 37.41 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4474048</price>
+      <price>4511646</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -28147,7 +27899,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae828e1046c-d1a1-4cac-950d-73d01543fd95">
       <categoryId>101</categoryId>
       <name>1-к, 37.25 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4454913</price>
+      <price>4492350</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -28205,7 +27957,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8a27f3d85-a636-40f2-b4f6-a6383b4c014b">
       <categoryId>101</categoryId>
       <name>1-к, 36.21 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4330534</price>
+      <price>4366926</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -28321,7 +28073,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8b321226c-da82-493c-bd61-db58a4f3d44f">
       <categoryId>101</categoryId>
       <name>1-к, 36.92 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4415447</price>
+      <price>4452552</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -28437,7 +28189,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae84e83873d-1bbd-45d1-b613-21d308d8fcaa">
       <categoryId>101</categoryId>
       <name>2-к, 49.01 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5869927</price>
+      <price>5919672</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -28553,7 +28305,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8451c77e5-a085-409d-9c19-5bf5f548a2ae">
       <categoryId>101</categoryId>
       <name>1-к, 34.03 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4143833</price>
+      <price>4160677</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -28785,7 +28537,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8aee7cdd6-00cc-4552-8252-7dbd89e8b8f0">
       <categoryId>101</categoryId>
       <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4368282</price>
+      <price>4405618</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -28843,7 +28595,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8975d4bad-3481-4cf2-b338-c658b3d187fb">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4349469</price>
+      <price>4386644</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -28901,7 +28653,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8e6faecb1-f83c-478e-9ea2-c2beac9e7c42">
       <categoryId>101</categoryId>
       <name>1-к, 35.95 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4227180</price>
+      <price>4263310</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -29017,7 +28769,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8754144e4-4213-4a86-95bf-892c2ab1e66e">
       <categoryId>101</categoryId>
       <name>1-к, 36.66 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4310666</price>
+      <price>4347509</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -29133,7 +28885,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae831843e6f-c74f-4fed-aff8-06711611bbe5">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5685664</price>
+      <price>5734678</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -29249,7 +29001,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae85fe9ecb2-1181-45e9-a436-7a0ca1ec0f45">
       <categoryId>101</categoryId>
       <name>1-к, 33.77 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4045308</price>
+      <price>4062024</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -29423,7 +29175,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8d3223502-96d1-431a-972c-d6525a76fca9">
       <categoryId>101</categoryId>
       <name>1-к, 37.41 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4436451</price>
+      <price>4474048</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -29481,7 +29233,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8305107b5-24ec-472d-adec-dcdf08c51645">
       <categoryId>101</categoryId>
       <name>1-к, 37.25 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4417477</price>
+      <price>4454913</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -29539,7 +29291,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8b3baf4dc-9fc8-4bd1-9136-99a5fbb34af9">
       <categoryId>101</categoryId>
       <name>1-к, 36.21 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4294143</price>
+      <price>4330534</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -29655,7 +29407,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8b6206de9-3219-4ecf-a8fa-394e29f0bd76">
       <categoryId>101</categoryId>
       <name>1-к, 36.92 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4378342</price>
+      <price>4415447</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -29771,7 +29523,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8a1e81293-1481-4051-a595-1a31298c8854">
       <categoryId>101</categoryId>
       <name>2-к, 49.01 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5820182</price>
+      <price>5869927</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -29887,7 +29639,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8a41ec7f2-8909-483e-8941-33a57bb959b3">
       <categoryId>101</categoryId>
       <name>1-к, 34.03 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4076453</price>
+      <price>4093298</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -29945,7 +29697,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8ad96151f-1823-4f32-816a-62d15452755d">
       <categoryId>101</categoryId>
       <name>1-к, 33.28 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3754483</price>
+      <price>3772620</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30000,10 +29752,10 @@ id:57785.
       <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8d49b0417-9b94-4006-aae4-56903676ab4b">
+    <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8d1893efb-922f-4796-bac8-595b1930d97d">
       <categoryId>101</categoryId>
-      <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3882918</price>
+      <name>1-к, 35.95 кв.м, ЖК ЖК Новое Брагино</name>
+      <price>3829753</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30015,8 +29767,8 @@ id:57785.
 Не упустите самые выгодные условия на покупку своей собственной квартиры на старте продаж!</description>
       <param name="Материал стен">monolith</param>
       <param name="Комнат">1</param>
-      <param name="Площадь Дома">37.15</param>
-      <param name="Жилая площадь">14.0</param>
+      <param name="Площадь Дома">35.95</param>
+      <param name="Жилая площадь">15.42</param>
       <param name="Площадь кухни">15.42</param>
       <param name="Этаж">4</param>
       <param name="Балкон">1</param>
@@ -30119,7 +29871,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae87d3f620f-57b9-480b-876c-41e8bbd98139">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5048478</price>
+      <price>5097492</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30177,7 +29929,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8b3306eb3-8671-4419-9a6d-9028a968dead">
       <categoryId>101</categoryId>
       <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3920253</price>
+      <price>3957589</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30235,7 +29987,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8a63a2925-7e1b-4c73-a1bd-175e301ff0a7">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3903369</price>
+      <price>3940544</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30293,7 +30045,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae82c720905-b9e5-45b6-b4b7-a996446d8f33">
       <categoryId>101</categoryId>
       <name>1-к, 35.95 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3829753</price>
+      <price>3865883</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30409,7 +30161,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae87d8e12af-f5c3-4b31-9d82-222f3b8776ba">
       <categoryId>101</categoryId>
       <name>1-к, 36.66 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3868546</price>
+      <price>3905389</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30525,7 +30277,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8ccd1d0c8-e1f7-4ab5-83a4-5708ae74ef42">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5097492</price>
+      <price>5146506</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30641,7 +30393,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae89f66d811-4d20-423b-966c-18dc038be356">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3829019</price>
+      <price>3866194</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30754,10 +30506,68 @@ id:57785.
       <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
       <param name="Офис">Ярославль</param>
     </offer>
+    <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae80277ba6e-e51d-4345-b13b-5208898ca3d7">
+      <categoryId>101</categoryId>
+      <name>2-к, 47.15 кв.м, ЖК ЖК Новое Брагино</name>
+      <price>5066739</price>
+      <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
+
+Мы предлагаем различные варианты покупки: 
+• Субсидированная ипотека от 4.5% годовых. Работаем с сертификатами, материнским капиталом
+• Рассрочка 0% от застройщика без переплат
+• Покупку за собственные средства на выгодных условиях
+• Военная ипотека
+
+Не упустите самые выгодные условия на покупку своей собственной квартиры на старте продаж!</description>
+      <param name="Материал стен">monolith</param>
+      <param name="Комнат">2</param>
+      <param name="Площадь Дома">47.15</param>
+      <param name="Жилая площадь">23.59</param>
+      <param name="Площадь кухни">10.12</param>
+      <param name="Этаж">6</param>
+      <param name="Балкон">0</param>
+      <param name="Парковка"></param>
+      <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
+      <coordinates lat="57.713236" lon="39.761415"/>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d2f8/9e6b/d2f89e6bce755561be1866202039e922.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/c8d7/7013/c8d770136b6f5ab48d7c482f2beebdd3.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/94da/6a8b/94da6a8b60fb5affaef650381630f5c1.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/7d12/281c/7d12281c5e6a57ec9f0701c5177d6d3c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/e18e/721f/e18e721ff14d50acb18e7c35df08f5f0.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d5f7/d4e3/d5f7d4e3556b5b88b27f93fe1008147e.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/d5e9/056c/d5e9056c9675517db833b45c8a0fc712.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/63b5/9638/63b5963870855d9595794a84f4727dcb.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/c02e/6340/c02e6340f87e5775ab20fd25ed6cbbe5.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/f4fd/4157/f4fd41577d895a8e80f9142f4aae8891.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/b327/ce31/b327ce3141e3515b80983a1ddc8c3bf5.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/a528/d5fe/a528d5feeab751f8a652d463e31de5f0.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/422a/069e/422a069e5dd2528bbac0203661fa4d2e.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/1031/3b6c/10313b6cd1af53e699a8da3eda96b3a5.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/8560/5a65/85605a65da2f5ee8948a93f3bce2b930.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/76a5/1389/76a51389cc125caca3c723f243081576.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/9f01/265a/9f01265aec885ab8be0bea0eeefa3c26.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/5298/c7ff/5298c7ffb3b45128ad32873702a457fc.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/85c6/f3ae/85c6f3ae495957da8b703815463809d6.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/1358/6c51/13586c51166a5598978369c8d3fa28c0.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/e2d8/61c9/e2d861c913375e24bde2151b4b9b5f89.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/c4e5/c168/c4e5c1682c6755e39997dd8a73d6b02a.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/3892/a3b7/3892a3b701cf52e8875429f3c6fe4f46.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/f9ba/b992/f9bab992ec275633aa596f178c56c20e.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/c1b5/9e6d/c1b59e6db8d357ca97d62d435855536c.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/61f3/b982/61f3b982f8e2538591379923309a49b0.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/31ef/40ba/31ef40ba815058148dd5dee4d8178532.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/e737/5542/e7375542512c567fbf389881a4a7885d.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/f6e8/84af/f6e884af98af5b60a9e2ba96844a7fd7.png</picture>
+      <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
+      <param name="Офис">Ярославль</param>
+    </offer>
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8a452fbd8-f306-480b-9722-4a7375ac50da">
       <categoryId>101</categoryId>
       <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3957589</price>
+      <price>3994925</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30815,7 +30625,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae89f369eb2-5e53-42ca-8896-49b296699dd9">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3940544</price>
+      <price>3977719</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -30931,7 +30741,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8cd353c9f-5afb-4a16-8bc2-702afe92c6da">
       <categoryId>101</categoryId>
       <name>1-к, 36.66 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3905389</price>
+      <price>3942233</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -31047,7 +30857,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8fe0ece94-9eb6-4161-9184-ddf61e422814">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5146506</price>
+      <price>5195521</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -31163,7 +30973,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8fdbba34e-8f0d-4f2d-b8a2-f7cccdb9abba">
       <categoryId>101</categoryId>
       <name>1-к, 33.77 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3644120</price>
+      <price>3660836</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -31395,7 +31205,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae800faf741-ca87-40ab-8e7a-28726e54d993">
       <categoryId>101</categoryId>
       <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3994925</price>
+      <price>4032261</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -31453,7 +31263,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae82e494004-bac1-4dab-8d61-7ebccce076ad">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3977719</price>
+      <price>4014894</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -31511,7 +31321,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8d4a0426e-f841-445e-9a45-f1696c59ba71">
       <categoryId>101</categoryId>
       <name>1-к, 35.95 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3865883</price>
+      <price>3902013</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -31627,7 +31437,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae80e3d20a3-d0fd-4046-bcc2-1f47bb8419d6">
       <categoryId>101</categoryId>
       <name>1-к, 36.66 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3942233</price>
+      <price>3979076</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -31743,7 +31553,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8ec96e47e-fb2a-4d2c-af99-bc96e6ce6bd7">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5195521</price>
+      <price>5244535</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -31859,7 +31669,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae80427d8ad-90f7-4135-b8f3-330094ff2609">
       <categoryId>101</categoryId>
       <name>1-к, 33.77 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3710985</price>
+      <price>3727701</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -32091,7 +31901,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae81d26c4cc-13e6-4a11-accd-c25943eb6c35">
       <categoryId>101</categoryId>
       <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4032261</price>
+      <price>4069596</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -32149,7 +31959,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae85c54d568-2619-40b8-bad8-fffdf5e605bd">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4014894</price>
+      <price>4052069</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -32207,7 +32017,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae81965aaee-54a0-4cdf-a6f5-b322adcb13cc">
       <categoryId>101</categoryId>
       <name>1-к, 35.95 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3902013</price>
+      <price>3938142</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -32323,7 +32133,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae853584bf0-12e5-438c-9c11-db127d39519e">
       <categoryId>101</categoryId>
       <name>1-к, 36.66 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3979076</price>
+      <price>4015919</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -32439,7 +32249,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae86ff10772-c7a6-4d36-b72f-b11445829992">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5244535</price>
+      <price>5293549</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -32555,7 +32365,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8ceafbb9d-1a27-436a-a302-2b36962d4cc8">
       <categoryId>101</categoryId>
       <name>1-к, 33.77 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3777849</price>
+      <price>3794566</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -32787,7 +32597,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8d4817f4f-2ab6-4b41-9bfd-4c6c47e3294a">
       <categoryId>101</categoryId>
       <name>1-к, 37.15 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4069596</price>
+      <price>4106932</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -32845,7 +32655,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8512e3d30-fdc9-4d92-b6de-e2b2a5ac4542">
       <categoryId>101</categoryId>
       <name>1-к, 36.99 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4052069</price>
+      <price>4089244</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -32903,7 +32713,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae87ae17841-1744-49cd-b542-5d52a2596a3d">
       <categoryId>101</categoryId>
       <name>1-к, 35.95 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3938142</price>
+      <price>3974272</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -33019,7 +32829,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae86655e916-c8b6-426a-a360-a430caffb802">
       <categoryId>101</categoryId>
       <name>1-к, 36.66 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>4015919</price>
+      <price>4052763</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -33135,7 +32945,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae87c8d8d60-23e7-409a-8a5b-b21d7ff66f62">
       <categoryId>101</categoryId>
       <name>2-к, 48.29 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5293549</price>
+      <price>5342564</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -33193,7 +33003,7 @@ id:57785.
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae8bcac9823-e6b8-45f0-9dad-b6b63a2357bb">
       <categoryId>101</categoryId>
       <name>1-к, 33.77 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3844714</price>
+      <price>3861430</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -34469,7 +34279,7 @@ id:57785.
     <offer id="8bf9fe48-11fc-4c43-83ea-f3d688800033bbf2d819-dbb9-4ef0-bbe5-5b86efc677c8">
       <categoryId>101</categoryId>
       <name>2-к, 48.84 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>5058142</price>
+      <price>5104977</price>
       <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
 
 Мы предлагаем различные варианты покупки: 
@@ -36578,64 +36388,6 @@ id:57785.
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
       <picture>https://cdn.idalite.ru/s/feed/cian/c605/eb19/c605eb19be7a592ea99c69b5c7f4fa68.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c8d7/7013/c8d770136b6f5ab48d7c482f2beebdd3.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/94da/6a8b/94da6a8b60fb5affaef650381630f5c1.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7d12/281c/7d12281c5e6a57ec9f0701c5177d6d3c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e18e/721f/e18e721ff14d50acb18e7c35df08f5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5f7/d4e3/d5f7d4e3556b5b88b27f93fe1008147e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5e9/056c/d5e9056c9675517db833b45c8a0fc712.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/63b5/9638/63b5963870855d9595794a84f4727dcb.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c02e/6340/c02e6340f87e5775ab20fd25ed6cbbe5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f4fd/4157/f4fd41577d895a8e80f9142f4aae8891.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b327/ce31/b327ce3141e3515b80983a1ddc8c3bf5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a528/d5fe/a528d5feeab751f8a652d463e31de5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/422a/069e/422a069e5dd2528bbac0203661fa4d2e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1031/3b6c/10313b6cd1af53e699a8da3eda96b3a5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8560/5a65/85605a65da2f5ee8948a93f3bce2b930.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/76a5/1389/76a51389cc125caca3c723f243081576.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9f01/265a/9f01265aec885ab8be0bea0eeefa3c26.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/5298/c7ff/5298c7ffb3b45128ad32873702a457fc.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/85c6/f3ae/85c6f3ae495957da8b703815463809d6.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1358/6c51/13586c51166a5598978369c8d3fa28c0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e2d8/61c9/e2d861c913375e24bde2151b4b9b5f89.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c4e5/c168/c4e5c1682c6755e39997dd8a73d6b02a.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3892/a3b7/3892a3b701cf52e8875429f3c6fe4f46.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f9ba/b992/f9bab992ec275633aa596f178c56c20e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c1b5/9e6d/c1b59e6db8d357ca97d62d435855536c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/61f3/b982/61f3b982f8e2538591379923309a49b0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/31ef/40ba/31ef40ba815058148dd5dee4d8178532.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e737/5542/e7375542512c567fbf389881a4a7885d.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f6e8/84af/f6e884af98af5b60a9e2ba96844a7fd7.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="8bf9fe48-11fc-4c43-83ea-f3d688800033c569c4f9-951e-41f5-bfca-5d0595db9aaa">
-      <categoryId>101</categoryId>
-      <name>3-к, 67.79 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>7109154</price>
-      <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
-
-Мы предлагаем различные варианты покупки: 
-• Субсидированная ипотека от 4.5% годовых. Работаем с сертификатами, материнским капиталом
-• Рассрочка 0% от застройщика без переплат
-• Покупку за собственные средства на выгодных условиях
-• Военная ипотека
-
-Не упустите самые выгодные условия на покупку своей собственной квартиры на старте продаж!</description>
-      <param name="Материал стен">bricks</param>
-      <param name="Комнат">3</param>
-      <param name="Площадь Дома">67.79</param>
-      <param name="Жилая площадь">35.52</param>
-      <param name="Площадь кухни">15.28</param>
-      <param name="Этаж">7</param>
-      <param name="Балкон">0</param>
-      <param name="Парковка"></param>
-      <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
-      <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/0f14/9bb3/0f149bb302875326b51f0d589775e544.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
