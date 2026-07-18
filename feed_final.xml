@@ -8702,52 +8702,6 @@ id:56328.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="56336">
-      <name>Продажа, Квартира, 2-к, 46 кв.м, Ярославль, Алмазная, 7</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">требует ремонта</param>
-      <param name="Этаж">4</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Адрес">Ярославская область, Ярославль, Алмазная, 7</param>
-      <param name="Имя агента">Илья Майоров</param>
-      <param name="Email для связи">ilya.rieltorov@mail.com</param>
-      <param name="Телефон для связи">79921011287</param>
-      <param name="Общая площадь">46</param>
-      <param name="Жилая площадь">30</param>
-      <param name="Площадь кухни">7</param>
-      <param name="Этаж">4</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>2800000</price>
-      <description>&lt;strong&gt;Двухкомнатная квартира в кирпичном доме 1979 года постройки.&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;strong&gt;О квартире:&lt;/strong&gt;&lt;br /&gt;&#13;
-Квартира расположена на четвертом этаже, имеется застекленный балкон, раздельный санузел, две изолированные комнаты.&lt;br /&gt;&#13;
-&lt;strong&gt;О доме:&lt;/strong&gt;&lt;br /&gt;&#13;
-Кирпичный дом оборудован газоснабжением, что позволяет экономить на коммунальных услугах. Во дворе обустроена детская площадка и открытая парковка, что особенно удобно для семей с детьми.&lt;br /&gt;&#13;
-&lt;strong&gt;О сделке:&lt;/strong&gt;&lt;br /&gt;&#13;
-Сопровождение сделки до перехода права собственности; безопасные расчеты сторон. Юридическая чистота сделки; полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&lt;br /&gt;&#13;
-Остались вопросы, звоните!&amp;nbsp;
-id:56336. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpvKPuwO.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpJ3TD3B.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/php0xpeeE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/php67bNIH.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpXx7L28.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpDoIyEy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpX82I7r.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpo1F1jz.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpSeBVtm.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpaBLWmD.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/php29GaQX.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/php3HhygU.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpWkWQD7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpfxVBVb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56336/phpjyfl1c.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="56342">
       <name>Продажа, Комната, 1-к, 24 кв.м, Ярославль, улица Нахимсона, 13</name>
       <param name="Тип предложения">Продажа</param>
@@ -17550,7 +17504,7 @@ id:57497.
       <param name="Этажность">8</param>
       <param name="Ипотека">да</param>
       <categoryId>100</categoryId>
-      <price>8050000</price>
+      <price>7990000</price>
       <description>&lt;p&gt;&lt;strong&gt;Просторная 2‑комнатная квартира 64 м&amp;sup2; в новом кирпичном доме с ИГО&lt;/strong&gt; &amp;mdash; идеальный вариант для семьи: много пространства, безопасный двор и всё необходимое рядом.&lt;/p&gt;&#13;
 &#13;
 &lt;p&gt;&lt;strong&gt;Коротко о квартире:&lt;/strong&gt;&lt;br /&gt;&#13;
