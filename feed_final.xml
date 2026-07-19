@@ -3176,42 +3176,6 @@ id:48517.
       <coordinates lat="57.633532" lon="39.856866"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="49323">
-      <name>Продажа, Квартира, 1-к, 32 кв.м, г Буй, ул Октябрьской Революции, 17</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">4</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Октябрьской Революции, 17</param>
-      <param name="Имя агента">Евгения Серова</param>
-      <param name="Email для связи">evgeniyaserovamaks@yandex.ru</param>
-      <param name="Телефон для связи">79969319171</param>
-      <param name="Общая площадь">32</param>
-      <param name="Жилая площадь">26</param>
-      <param name="Площадь кухни">6</param>
-      <param name="Этаж">4</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>1560000</price>
-      <description>Продажа 1 комнатной квартиры на среднем этаже, кирпичного дома.&amp;nbsp;&lt;br /&gt;&#13;
-В квартире поменяны стояки, пластиковое окно на кухне, ванная комната - панели, балкон застеклен.&amp;nbsp;
-id:49323. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b1757af3235.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b17578328e0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b17579959df.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b17578d9147.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b1757ee7317.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b1757a4a958.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b1757bab985.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b1757e4af51.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b1757c59596.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b1757da005b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b1757d0306b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49323/69b175777d4c5.jpeg</picture>
-      <coordinates lat="58.478030" lon="41.536823"/>
-      <param name="Офис">Буй</param>
-    </offer>
     <offer id="49392">
       <name>Продажа, Квартира, 3-к, 63.7 кв.м, г Ярославль, ул Папанина, 17</name>
       <param name="Тип предложения">Продажа</param>
@@ -8430,9 +8394,9 @@ id:56301.
       <param name="Комнат">2</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Чехова, 43а</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">42.8</param>
       <param name="Жилая площадь">32</param>
       <param name="Площадь кухни">6</param>
@@ -8540,9 +8504,9 @@ id:56318.
       <param name="Комнат">2</param>
       <param name="Тип комнат">смежные</param>
       <param name="Адрес">Ярославская область, Ярославль, Большие Полянки, 17к2</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">44</param>
       <param name="Жилая площадь">29</param>
       <param name="Площадь кухни">6</param>
@@ -9230,9 +9194,9 @@ id:56446.
       <param name="Комнат">2</param>
       <param name="Тип комнат">смежные</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Ньютона, 38</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">44</param>
       <param name="Жилая площадь">32</param>
       <param name="Площадь кухни">4.5</param>
@@ -9594,9 +9558,9 @@ id:56557.
       <param name="Комнат">3</param>
       <param name="Тип комнат">смежные</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Чкалова, 78а</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">54.7</param>
       <param name="Жилая площадь">36.3</param>
       <param name="Площадь кухни">8</param>
@@ -9695,9 +9659,9 @@ id:56595.
       <param name="Комнат">1</param>
       <param name="Окна выходят">Во двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Свободы, 87</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">30.2</param>
       <param name="Жилая площадь">17</param>
       <param name="Площадь кухни">6</param>
@@ -11106,9 +11070,9 @@ id:56875.
       <param name="Комнат">2</param>
       <param name="Тип комнат">раздельные</param>
       <param name="Адрес">Ярославская обл, г Ярославль, пр-кт Фрунзе, 29</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">55.8</param>
       <param name="Жилая площадь">28.2</param>
       <param name="Площадь кухни">11</param>
@@ -11168,9 +11132,9 @@ id:56907.
       <param name="Комнат">2</param>
       <param name="Тип комнат">раздельные</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Чернопрудная, 17/1</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">62.2</param>
       <param name="Жилая площадь">40</param>
       <param name="Площадь кухни">14</param>
@@ -11319,9 +11283,9 @@ id:56929.
       <param name="Комнат">3</param>
       <param name="Тип комнат">раздельные</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Лескова, 36б</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">86</param>
       <param name="Жилая площадь">31.5</param>
       <param name="Площадь кухни">47</param>
@@ -12162,9 +12126,9 @@ id:57058.
       <param name="Разрешенное использование земельного участка">ИЖС</param>
       <param name="Комнат">3</param>
       <param name="Адрес">Ярославская область, Ярославль</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Этажей">1</param>
       <categoryId>300</categoryId>
       <price>12000000</price>
@@ -18371,9 +18335,9 @@ id:57541.
       <param name="Этаж">7</param>
       <param name="Комнат">1</param>
       <param name="Адрес">Ярославская область, Ярославль, Родниковая улица, 11</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">38.4</param>
       <param name="Жилая площадь">15.7</param>
       <param name="Площадь кухни">11.8</param>
@@ -20162,9 +20126,9 @@ id:57673.
       <param name="Комнат">3</param>
       <param name="Тип комнат">раздельные</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Гоголя, 17б</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">51.8</param>
       <param name="Жилая площадь">34.5</param>
       <param name="Площадь кухни">6</param>
@@ -22040,9 +22004,9 @@ id:57771.
       <param name="Тип комнат">раздельные</param>
       <param name="Окна выходят">На улицу и двор</param>
       <param name="Адрес">Ярославская обл, г Ярославль, ул Большая Октябрьская, 126</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">61</param>
       <param name="Жилая площадь">36</param>
       <param name="Площадь кухни">12</param>
@@ -23044,9 +23008,9 @@ id:57952.
       <param name="Тип комнат">смежные</param>
       <param name="Окна выходят">На улицу</param>
       <param name="Адрес">Ярославская область, Ярославль, Свердлова, 33</param>
-      <param name="Имя агента">Вероника Шабарова</param>
-      <param name="Email для связи">shabve@yandex.ru</param>
-      <param name="Телефон для связи">79536634393</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
       <param name="Общая площадь">44.8</param>
       <param name="Жилая площадь">28.7</param>
       <param name="Площадь кухни">6</param>
