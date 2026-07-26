@@ -3954,54 +3954,6 @@ id:49655.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Буй</param>
     </offer>
-    <offer id="49672">
-      <name>Продажа, Квартира, 2-к, 60.2 кв.м, посёлок Красный Бор, улица Энергетиков, 6</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">5</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">На улицу и двор</param>
-      <param name="Адрес">Ярославская область, посёлок Красный Бор, улица Энергетиков, 6</param>
-      <param name="Имя агента">Елена Штепен</param>
-      <param name="Email для связи">evr0299@yandex.ru</param>
-      <param name="Телефон для связи">79038230299</param>
-      <param name="Общая площадь">60.2</param>
-      <param name="Жилая площадь">30.9</param>
-      <param name="Площадь кухни">14.5</param>
-      <param name="Этаж">5</param>
-      <param name="Этажность">5</param>
-      <param name="Ипотека">да</param>
-      <categoryId>100</categoryId>
-      <price>8200000</price>
-      <description>Представляем вашему вниманию уютную двухкомнатную квартиру на пятом этаже пятиэтажного кирпичного дома.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-В квартире провели ряд работ по улучшению её состояния после выкупа у застройщика: выполнили шумоизоляцию и утепление, переделали систему электро- и водоснабжения в соответствии с ГОСТ, установили тёплый пол в ванной, туалете, прихожей и кухне, а также оборудовали квартиру газовым котлом.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Район, в котором расположена квартира, отличается развитой инфраструктурой. В шаговой доступности находятся торговые центры &amp;laquo;Яркий&amp;raquo;, &amp;laquo;Глобус&amp;raquo;, &amp;laquo;Космос&amp;raquo;, а также садики и школы. Здесь есть всё необходимое для комфортной жизни &amp;mdash; и это лишь часть преимуществ данного объекта. Квартира станет идеальным местом для жизни, где вы сможете создать свой уютный уголок и наслаждаться комфортом каждый день.
-id:49672. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cf94ca5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cfc401d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cff2d69.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cceb5f4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cd26c20.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cd55954.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cc8dcd9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cc5f457.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178ccbc68d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cd847bc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cdb4cbc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178ce1e578.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178ce7c966.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178ce4d537.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cf15efb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cf36e53.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cf65cad.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49672/69b178cc30d4e.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="49677">
       <name>Продажа, Часть дома, 2-к, 45 кв.м, Ярославль, 4-я Тверицкая улица, 2В</name>
       <param name="Тип предложения">Продажа</param>
