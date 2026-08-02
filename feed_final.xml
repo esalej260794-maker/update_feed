@@ -11206,58 +11206,6 @@ id:57072.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="57086">
-      <name>Продажа, Квартира, 2-к, 52.7 кв.м, Ярославль, проспект Машиностроителей, 36</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">требует ремонта</param>
-      <param name="Этаж">6</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Адрес">Ярославская область, Ярославль, проспект Машиностроителей, 36</param>
-      <param name="Имя агента">Елена Штепен</param>
-      <param name="Email для связи">evr0299@yandex.ru</param>
-      <param name="Телефон для связи">79038230299</param>
-      <param name="Общая площадь">52.7</param>
-      <param name="Жилая площадь">40</param>
-      <param name="Площадь кухни">7</param>
-      <param name="Этаж">6</param>
-      <param name="Этажность">14</param>
-      <categoryId>100</categoryId>
-      <price>6000000</price>
-      <description>&lt;p&gt;&lt;span style="font-family: Calibri, sans-serif; font-size: 12pt;"&gt;Продается&amp;nbsp;&amp;nbsp; двухкомнатная&amp;nbsp; квартира на 6-м этаже 14-этажного дома.&amp;nbsp; Просторные комнаты и кухня площадью 7 м&amp;sup2;., в квартире уже заменены три из четырех&amp;nbsp; окон на новые, а также водопроводные стояки. , однако&amp;nbsp;&amp;nbsp;необходимо&amp;nbsp; провести косметический&amp;nbsp; ремонт по своему вкусу.&lt;br /&gt;&#13;
-Место расположения здания очень удобное : рядом несколько ТЦ (Яркий. Глобус, ЛИ ПРО), школы, детские сады, детская и взрослая поликлиники, закрытый ледовый каток, Тверицкий бор,&amp;nbsp;автобусные остановки.&amp;nbsp; Много&amp;nbsp; место для парковки. детская площадка , вход в здание огорожен.&amp;nbsp;&lt;br /&gt;&#13;
-В основном мебель и техника остается за исключением двух столов , шкафа и большого&amp;nbsp;телевизора. Соседи хорошие , в квартире хорошая шумоизоляция.&amp;nbsp; Один взрослый собственник квартира без обременений. Полное сопровождение, быстрый выход на сделку.&lt;/span&gt;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;nbsp;&lt;/p&gt;&#13;
-&amp;nbsp;&#13;
-&#13;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
-&amp;nbsp;&#13;
-&#13;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
-&amp;nbsp;&#13;
-&#13;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
-&lt;br /&gt;&#13;
-```
-id:57086. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phphzfNOm.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/php0NmXCF.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phpdnArv9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phpAky6Vc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phphgBnD2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phpMVoaMj.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phpf19jKR.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phpVh0PZ3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phpx4dhsE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phpY76jas.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phpBQxoS6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phpbq8m6o.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57086/phpSDyN8g.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="57088">
       <name>Продажа, Квартира, 4-к, 80 кв.м, г Буй, ул Ленских Событий, 4</name>
       <param name="Тип предложения">Продажа</param>
@@ -21379,56 +21327,6 @@ id:58059.
       <picture>https://progress.vtcrm.ru/uploads/Photos/58059/phprYSHz1.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/58059/phpWxtRXR.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/58059/phpWTZuNB.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="58336">
-      <name>Продажа, Квартира, 3-к, 55.5 кв.м, Ярославль, Архангельский проезд, 1</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">3</param>
-      <param name="Окна выходят">На улицу</param>
-      <param name="Адрес">Ярославская область, Ярославль, Архангельский проезд, 1</param>
-      <param name="Имя агента">Ирина Левченко</param>
-      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
-      <param name="Телефон для связи">79109723294</param>
-      <param name="Общая площадь">55.5</param>
-      <param name="Жилая площадь">39.65</param>
-      <param name="Площадь кухни">6.75</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">9</param>
-      <categoryId>100</categoryId>
-      <price>7300000</price>
-      <description>В продаже уютная 3х комнатная квартира с новым ремонтом, ве делали под себя из хорощих материалов.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-В квартире поменяны все трубы и проводка, полы полностью заменены&amp;nbsp;&lt;br /&gt;&#13;
-(стяжка,заливка). Стены все выровнены, хорошие обои, установлена хорошая сантехника.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-В квартире остается обсолютно всё, мебель,техника,кухонный гарнитур. Все куплено в июле 2026г.&amp;nbsp;&lt;br /&gt;&#13;
-Хорошее местоположение, не далеко от центра города. Рядом с домом магазины,аптеки,ПВЗ, школы,детсад.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Быстрый выход на сделку. Один взрослый собственник, без обременения,долгов, детских долей.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;Полное юридическое сопровождение, помощь в оформлении ипотеки.&lt;/strong&gt;&lt;br /&gt;&#13;
-&amp;nbsp;
-id:58336. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/phpvnrv3o.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/phpOQuPHH.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/phpp6sDWg.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/phpULBWRx.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/php3lsLFC.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/php2DdSWx.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/phpymfuJq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/phpNQnyX4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/php8ycWcr.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/phpNWXTUO.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/php10loBD.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/phpN5liFH.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/phpqjxfjJ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/php0ieCRQ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58336/phprAIKsC.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
