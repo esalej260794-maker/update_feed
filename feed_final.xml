@@ -645,7 +645,7 @@ id:13468.
       <param name="Телефон для связи">79969319171</param>
       <param name="Этажей">1</param>
       <categoryId>300</categoryId>
-      <price>1500000</price>
+      <price>1570000</price>
       <description>На центральной улице города Буя, продаётся дом с земельным участком.&amp;nbsp;Площадь дома 42 кв.м. Площадь земельного участка почти 8 кв.м&amp;nbsp;&lt;br /&gt;&#13;
 Фундамент дома, был сделан в 2021 году.&lt;br /&gt;&#13;
 На участке имеется новая баня 2022 года постройки.&lt;br /&gt;&#13;
@@ -5687,41 +5687,6 @@ id:52920.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="52928">
-      <name>Продажа, Квартира, 1-к, 37 кв.м, г Ярославль, пр-кт Машиностроителей, 17а</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">4</param>
-      <param name="Комнат">1</param>
-      <param name="Окна выходят">На улицу и двор</param>
-      <param name="Адрес">Ярославская обл, г Ярославль, пр-кт Машиностроителей, 17а</param>
-      <param name="Имя агента">Илья Майоров</param>
-      <param name="Email для связи">ilya.rieltorov@mail.com</param>
-      <param name="Телефон для связи">79921011287</param>
-      <param name="Общая площадь">37</param>
-      <param name="Жилая площадь">20</param>
-      <param name="Площадь кухни">9</param>
-      <param name="Этаж">4</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>4390000</price>
-      <description>Продаётся уютная и теплая однокомнатная квартира в центре Заволжского района. В квартире есть всё необходимое для жилья. Один взрослый собственник. Без долгов и обременений. Подьезд чистый. Добрые и отзывчивые соседи.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Развитая инфраструктура: рядом находятся магазины, кафе, ТЦ, банки, аптеки, школы и детские садики, а также остановки общественного транспорта.
-id:52928. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52928/69b182a414028.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52928/69b182a395788.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52928/69b182a3e1cad.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52928/69b182a45fe8d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52928/69b182a36f9fd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52928/69b182a3bb913.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52928/69b182a439c30.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52928/69b182a486104.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/52928/69b182a4ac095.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="52929">
       <name>Продажа, Квартира, 4-к, 98.3 кв.м, Ярославль, улица Чехова, 26</name>
       <param name="Тип предложения">Продажа</param>
@@ -6846,6 +6811,15 @@ id:56178.
 id:56199. 
 &amp;nbsp;</description>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56199/69b18699ec236.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56199/phpQYDQae.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56199/phpBYbqaA.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56199/phpTDmoWW.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56199/phpJxcYqf.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56199/phpkooQaB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56199/phpBcH9x8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56199/phpRmMzVN.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56199/phpBIAJg7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/56199/phpuly9Oy.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -7880,68 +7854,6 @@ id:56521.
       <picture>https://progress.vtcrm.ru/uploads/Photos/56521/phpQhN1Ix.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56521/phpWP2zre.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/56521/php7Xvv0P.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="56534">
-      <name>Продажа, Квартира, 3-к, 76.1 кв.м, Ярославль, Клубная, 28 А</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">3</param>
-      <param name="Комнат">3</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Адрес">Ярославская область, Ярославль, Клубная, 28 А</param>
-      <param name="Имя агента">Илья Майоров</param>
-      <param name="Email для связи">ilya.rieltorov@mail.com</param>
-      <param name="Телефон для связи">79921011287</param>
-      <param name="Общая площадь">76.1</param>
-      <param name="Жилая площадь">36.5</param>
-      <param name="Площадь кухни">20</param>
-      <param name="Этаж">3</param>
-      <param name="Этажность">8</param>
-      <categoryId>100</categoryId>
-      <price>11000000</price>
-      <description>&lt;p&gt;3-х комнатнaя квaртира - на 3 этаже, 8 этажнoго, киpпичногo дoма - индивидуaльной планирoвки в Зaвoлжcкoм pайоне!&lt;br /&gt;&#13;
-Koмнaты имeют площaдь: 13.7; 12.8 и 10м&amp;quot;.&lt;br /&gt;&#13;
-Куxня - 20м&amp;quot;;&lt;br /&gt;&#13;
-Приxoжая и xолл - 12.9м&amp;quot;;&lt;br /&gt;&#13;
-Ванная с унитазoм - 4.6м&amp;quot;;&lt;br /&gt;&#13;
-Туaлет c pакoвинoй - 2.2м&amp;quot;;&lt;br /&gt;&#13;
-Французcкий балкон - 0.8м&amp;quot;.&lt;br /&gt;&#13;
-Лоджия 3.5м&amp;quot;;&lt;br /&gt;&#13;
-Caнтеxникa - трубы, всё нoвoе!&lt;br /&gt;&#13;
-Фильтpы: нa холoдную вoду, пoд котлом для гopячeй вoды - для бeрeжной эксплуатации котла и 3-х ступенчатый под раковиной, а также дополнительный финишный кувшин, для питьевой воды!&lt;br /&gt;&#13;
-Дополнительно под котлом установлен второй расширительный бак, чтобы без вызова специалиста, провести самостоятельно - обслуживание!&lt;br /&gt;&#13;
-На радиаторах системы отопления, установлены термоголовки, что позволяет получить нужную температуру, в каждом помещении индивидуально - экономя котёл и газ!&lt;br /&gt;&#13;
-В прихожей присутствует тёплый пол и сделан большой шкаф купе, для одежды, вещей.&lt;br /&gt;&#13;
-В ванной комнате, дополнительно сделаны полки с рейлингами, для одежды и сушки, а также сделан широкий пенал зеркал с полками внутри, где можно расположить - все средства гигиены!&lt;br /&gt;&#13;
-Во втором туалете множество полок и сделан стелаж под разные нужды - в частности под инструмент для мужчин!&lt;br /&gt;&#13;
-Квартира с мебелью и бытовой техникой;&lt;br /&gt;&#13;
-Холодильник, стиральная - посудомоечная машина, микроволновка, хлебопечка, миксер, увлажнители воздуха, домашний кинотеатр - проектор, кухонный стол со стульями, 2-е кровати, прикроватная тумба, журнальный столик, комод, маникюрный стол с зеркалом, компьютерный стол, прямой и угловой шкаф, прихожая!&lt;br /&gt;&#13;
-Квартира расположена в экологически чистом месте, где расположены школы и сады в пешей доступности - 2-3 мин.&lt;br /&gt;&#13;
-До прусовских карьеров - &amp;quot;Байкал&amp;quot;, всего 15 - 20 мин. пешком, через бор.&lt;br /&gt;&#13;
-Прекрасный вид во двор и детскую площадку - где небольшой бор и много зелени!&lt;br /&gt;&#13;
-Вокруг дома много парковочных мест и присутствуют камеры!&lt;/p&gt;
-id:56534. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpPk8ejV.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpgqX5Y9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/php3GV1UB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpkX0DX3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/php6p4Hkm.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpHhssOe.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpsR6aUS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpS21jYO.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpQeVdup.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpr9YX0V.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpbyWlH9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpxESqZq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpCybQme.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpKQy8FI.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpcNwJJD.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpa9uz7q.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpdNScTv.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/56534/phpl1ajqI.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -10640,68 +10552,6 @@ id:57162.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="57164">
-      <name>Продажа, Квартира, 3-к, 87.6 кв.м, Ярославль, Спартаковская, 15</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">3</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Адрес">Ярославская область, Ярославль, Спартаковская, 15</param>
-      <param name="Имя агента">Илья Майоров</param>
-      <param name="Email для связи">ilya.rieltorov@mail.com</param>
-      <param name="Телефон для связи">79921011287</param>
-      <param name="Общая площадь">87.6</param>
-      <param name="Жилая площадь">45</param>
-      <param name="Площадь кухни">15</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>4050000</price>
-      <description>&lt;p&gt;Квaртира c коcметическим рeмонтoм в жилом соcтоянии - можнo заезжaть и жить. Бeз пocтoронних зaпaxoв .&lt;br /&gt;&#13;
-Очeнь теплaя, комнaты нa рaзные стороны- 24м, 17м и 12 м&lt;br /&gt;&#13;
-Балкoн заcтеклeн.&lt;br /&gt;&#13;
-Kухня бoльшaя 15 м, два окнa.&lt;br /&gt;&#13;
-Сaнузел раздeльный, в хоpошeм cоcтoянии.&lt;br /&gt;&#13;
-Ecть встрoенныe мeстa хранeния.&lt;br /&gt;&#13;
-Mебель чaстично остается.&lt;br /&gt;&#13;
-Установлена качественная входная дверь, все окна пластиковые высокого качества.&lt;br /&gt;&#13;
-Установлен комплект спутникового тв &amp;laquo;Триколор&amp;raquo;&lt;/p&gt;&#13;
-&#13;
-&lt;p&gt;В шаговой доступности&lt;br /&gt;&#13;
--школы и садики&lt;br /&gt;&#13;
--дк &amp;laquo;Гамма&amp;raquo;-&lt;br /&gt;&#13;
--детская школа искусств&lt;br /&gt;&#13;
--храм&lt;br /&gt;&#13;
--стадион- детские секции, прокат коньков и лыж&lt;br /&gt;&#13;
--река Волга&lt;br /&gt;&#13;
--снт&lt;/p&gt;&#13;
-&#13;
-&lt;p&gt;Один взрослый собственник. Без обремений. Без Долгов. Цена обсуждается .&lt;br /&gt;&#13;
-Квартира жилая, просмотр по договоренности .&lt;/p&gt;
-id:57164. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/200a6a3a-ca3b-4470-b305-a6606570cea2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/dd51bcab-48ed-4325-9d8f-2fe8dc257ad9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/9fbdedcc-f538-4d88-84af-609c05c8b3cf.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/1932caee-b367-4d8e-a618-772b3947da7f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/b4df18a1-f74f-4e62-bbe5-433787a82f13.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/80ca13cc-95c1-4361-9ed7-9162eb836cdb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/7556331f-1ec7-4dc4-96b3-02e6b776a2eb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/a7f9410b-7770-433e-9e0d-8771f17e00a0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/0a933a2a-b347-417e-ab52-ffd315232f8e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/776f768d-e805-4bcb-9436-851d500e767b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/2a8df61b-1746-420b-9382-40f6bbd08c0c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/25facbd5-6aae-4604-bdc6-d2f73668e36d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/f5e70489-d877-4b3b-80ed-a4638c637518.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/54881aa8-3e30-473d-b515-5ae124424606.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/4eb07ddd-5b22-4175-b947-7c027bb1ee57.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/4f132878-ff14-46b6-9e39-24e2d0d10114.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/cffe60ff-a13c-4af1-ab25-c43652f866f4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57164/0f14618c-495b-49fd-9def-b3e753a09435.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="57171">
       <name>Продажа, Квартира, 2-к, 49.8 кв.м, Ярославль, улица Доронина, 10к2</name>
       <param name="Тип предложения">Продажа</param>
@@ -11008,54 +10858,6 @@ id:57216.
       <picture>https://progress.vtcrm.ru/uploads/Photos/57216/phpjO3LsL.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57216/phpEp5yip.jpeg</picture>
       <coordinates lat="57.626559" lon="39.893813"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="57217">
-      <name>Продажа, Квартира, 2-к, 45.8 кв.м, Ярославль, 1 портовая, 21</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">требует ремонта</param>
-      <param name="Этаж">1</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Адрес">Ярославль, Ярославль, 1 портовая, 21</param>
-      <param name="Имя агента">Анна Куликова</param>
-      <param name="Email для связи">big.letter@yandex.ru</param>
-      <param name="Телефон для связи">79080299869</param>
-      <param name="Общая площадь">45.8</param>
-      <param name="Жилая площадь">30</param>
-      <param name="Площадь кухни">8</param>
-      <param name="Этаж">1</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>3450000</price>
-      <description>&lt;strong&gt;В продаже просторная&amp;nbsp;двухкомнaтная квартирa&amp;nbsp;(под&amp;nbsp; ремонт), с изoлирoвaнными кoмнaтами, в киpпичнoм дoмe (1996г).&lt;/strong&gt;&lt;br /&gt;&#13;
-Расположена на 1 этаже пятиэтажного здания,&amp;nbsp;что делает её доступной для семей с детьми и пожилых людей. Окна квартиры находятся на достаточно высоком расстоянии от земли и выходят во двор, что делает проживание комфортным даже на 1 этаже.&lt;br /&gt;&#13;
-Так же есть просторный застекленный балкон с&amp;nbsp; возможностью закрыть место под балконом и сделать там яму для хранения.&lt;br /&gt;&#13;
-Чистый ухоженный подъезд, доброжелательные соседи, тихий район. В скором времени рядом планируется&amp;nbsp; построить третий мост, что сделает район еще более мобильным.&lt;br /&gt;&#13;
-В квартире хорошая, удобная планировка: просторные комнаты и коридор.Кухня площадью 8 м&amp;sup2;.&amp;nbsp; Есть возможность сделать ремонт под себя и воплотить все свои дизайнерские идеи.&amp;nbsp;&amp;nbsp;&lt;br /&gt;&#13;
-Санузел pаздельный, что удoбнo для ceмьи. B дoме имеется газоснабжение, во дворе открытая парковка и детская площадка.Все коммуникации в квартире работают исправно.&lt;br /&gt;&#13;
-&amp;nbsp;Развитая инфраструктура, рядом магазины, аптеки, остановка. До центра 10 минут.&amp;nbsp; ПВЗ. В пешей доступности выход к Волге.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Один&amp;nbsp; взрослый&amp;nbsp; собственник. В собственности более 10 лет. Гарантия безопасной сделки. Быстрый выход на сделку. Показ в любое удобное время!&lt;br /&gt;&#13;
-&amp;nbsp;
-id:57217. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phphURliG.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phppczJ6E.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phpL9yIDZ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/php4IrgB3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phpR6OwI4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phptup7K7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/6d72f2b5-ca16-4e29-a4a6-a2b7a88834b4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phpHp7e56.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phpGD0oa6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phpqaA3Xh.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phpwn2ydh.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phpDWWWzq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phpzVbeRL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phpNwo4yq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57217/phpOx5BBL.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="57219">
@@ -14369,52 +14171,6 @@ id:57525.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="57526">
-      <name>Продажа, Квартира, 2-к, 54.2 кв.м, Ярославль, улица Калмыковых, 18</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">5</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">Во двор</param>
-      <param name="Адрес">Ярославская область, Ярославль, улица Калмыковых, 18</param>
-      <param name="Имя агента">Ирина Левченко</param>
-      <param name="Email для связи">irina27potenyaxina@mail.ru</param>
-      <param name="Телефон для связи">79109723294</param>
-      <param name="Общая площадь">54.2</param>
-      <param name="Жилая площадь">32</param>
-      <param name="Площадь кухни">11</param>
-      <param name="Этаж">5</param>
-      <param name="Этажность">9</param>
-      <categoryId>100</categoryId>
-      <price>7300000</price>
-      <description>Представлю вашему вниманию просторную и светлую квартиру, где каждая деталь продумана для вашего комфорта и благополучия. Расположенная на 5 этаже 9-этажного кирпичного дома, эта вторичная квартира общей площадью 54,2 м&amp;sup2; станет вашим идеальным жилищем.&lt;br /&gt;&#13;
-Квартира с удобной планировкой, в ней выполнен качественный косметический ремонт, что позволяет семье сразу расположиться в ней после покупки. Большим преимуществом является просторная кухня площадью 11 м&amp;sup2; &amp;mdash; идеальное место для семейных ужинов и приготовления блюд. В квартире создаётся тёплая и уютная атмосфера в любое время года. Вас порадует большой балкон с видом на парк &amp;mdash; особое место силы, где можно наслаждаться свежим воздухом и красивыми видами. Также в квартире есть кладовое помещение для хранения вещей и раздельный санузел.&lt;br /&gt;&#13;
-Эта квартира идеально подойдёт&amp;nbsp;семье с детьми &amp;mdash; здесь есть всё необходимое для комфортной жизни и развития ваших малышей;&amp;nbsp;&amp;nbsp;тем, кто ценит комфорт и качество &amp;mdash; продуманная до мелочей квартира подарит вам ощущение домашнего уюта и гармонии.&lt;br /&gt;&#13;
-Рядом с домом располагается тихий зелёный район с большим и уютным парком, что создаёт атмосферу спокойствия и умиротворения. Социальная инфраструктура развита отлично: всего в 150 метрах находится ФОК, в 200 метрах &amp;mdash; школа № 8, в 250 метрах &amp;mdash; детские сады № 163 и № 48 (без переходов через дороги). Транспортная доступность удобная, а у дома всегда есть свободные парковочные места &amp;mdash; паркинг открытый и бесплатный.&lt;br /&gt;&#13;
-Двор безопасный, с разнообразными зонами для отдыха и спорта: скейт-парком, хоккейной коробкой (всего в 30 метрах от подъезда), детской и спортивной площадками, дорожками для бега.&lt;br /&gt;&#13;
-Не упустите шанс стать обладателем этого замечательного жилья и начать новую главу в своей жизни! Здесь вы сможете создать свой уютный мир и наслаждаться каждым днём, проведённым в новом доме.
-id:57526. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpRUGaaF.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phplXmirR.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpoqtJHV.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phprvXIPm.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpLjXpBb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpHJIxE6.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpZk05kI.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpACnh4G.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpJRwtXf.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpIoQDkZ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpOkBjbV.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpp6V3kO.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpSk2GuW.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpIe1yPC.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/phpFWQDe4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57526/php4p1Aeg.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="57528">
       <name>Продажа, Дом, 5-к, 176.2 кв.м, рабочий посёлок Некрасовское, Ярославская улица, 23А</name>
       <param name="Тип предложения">Продажа</param>
@@ -14767,7 +14523,7 @@ id:57548.
       <param name="Этаж">4</param>
       <param name="Этажность">4</param>
       <categoryId>100</categoryId>
-      <price>10950000</price>
+      <price>10900000</price>
       <description>Светлая трёхкомнатная квартира &amp;mdash; идеальное место для комфортной жизни! Две изолированные спальни, одна из них с гардеробной, и просторная гостиная площадью 22 м&amp;sup2; с французским балконом создают пространство для уюта и отдыха. В ванной комнате есть окно, что добавляет света и воздуха.&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Общая площадь квартиры &amp;mdash; 60,5 м&amp;sup2;, жилая &amp;mdash; 40 м&amp;sup2;, площадь кухни &amp;mdash; 5 м&amp;sup2;. Квартира расположена на 4 этаже четырёхэтажного дома.&lt;br /&gt;&#13;
@@ -14947,55 +14703,6 @@ id:57568.
       <picture>https://progress.vtcrm.ru/uploads/Photos/57568/phpWMzt5B.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57568/php0mludX.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57568/php93SX3C.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="57585">
-      <name>Продажа, Квартира, 1-к, 41.7 кв.м, Ярославль, Московский проспект, 119к2</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">6</param>
-      <param name="Комнат">1</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">На улицу</param>
-      <param name="Адрес">Ярославская область, Ярославль, Московский проспект, 119к2</param>
-      <param name="Имя агента">Илья Майоров</param>
-      <param name="Email для связи">ilya.rieltorov@mail.com</param>
-      <param name="Телефон для связи">79921011287</param>
-      <param name="Общая площадь">41.7</param>
-      <param name="Жилая площадь">30</param>
-      <param name="Площадь кухни">11</param>
-      <param name="Этаж">6</param>
-      <param name="Этажность">10</param>
-      <categoryId>100</categoryId>
-      <price>6750000</price>
-      <description>Представляем вашему вниманию уютную и светлую однокомнатную квартиру в кирпичном доме! Расположенная на шестом этаже десятиэтажного здания, квартира площадью 41,7 м&amp;sup2; станет вашим комфортным гнёздышком.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Просторная жилая площадь составляет 30 м&amp;sup2;, а кухня &amp;mdash; 11 м&amp;sup2;, что позволит с удобством разместить необходимую мебель и создать функциональное пространство для приготовления блюд и семейных ужинов. Кирпичные стены дома обеспечивают хорошую звуко- и теплоизоляцию, создавая в квартире особый микроклимат.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Это отличное предложение для тех, кто ищет комфортное жильё в хорошем доме. Здесь вы сможете по-настоящему расслабиться после рабочего дня и насладиться уютом домашнего очага. Квартира ждёт новых хозяев, которые смогут&amp;nbsp; создать в ней атмосферу, отвечающую их представлениям об идеальном жилье.&lt;br /&gt;&#13;
-&amp;nbsp;
-id:57585. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpDvxvd0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpWNTQjx.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpR77a3V.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpJRL4Il.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpSSeXVp.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpRptg2b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpu7cy4q.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpbTgR7i.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/php4HSV7C.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpeCronI.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phptYXF7E.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpE6mKJ4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/php1KFaXT.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpC6iZi5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpDRnJaU.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpg4eKD4.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpsDsnAi.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/phpBu5BC9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57585/php9Nb8wq.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -15733,47 +15440,6 @@ id:57660.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Буй</param>
     </offer>
-    <offer id="57661">
-      <name>Продажа, Дом, 4-к, 143 кв.м, деревня Коробово</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Материал стен">Каркасный</param>
-      <param name="Площадь Дома">143</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Ремонт">Без ремонта</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Комнат">4</param>
-      <param name="Адрес">Ярославская область, деревня Коробово</param>
-      <param name="Имя агента">Светлана Козлова</param>
-      <param name="Email для связи">svetlana_kozlova_vektor@mail.ru</param>
-      <param name="Телефон для связи">79065275779</param>
-      <param name="Этажей">1</param>
-      <categoryId>300</categoryId>
-      <price>5700000</price>
-      <description>Продам каркасный дом 143 кв.м. в дер. Коробово, в Заволжском районе.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Дом построен по шведской технологии каркасного домостроения, основательный и тёплый дом, подходящий для круглогодичного проживания. Ярко выделяется из общей массы типовых домов - скандинавский стиль и качество.&lt;br /&gt;&#13;
-Планировка - 3 спальни по 13 кв.м, просторная кухня-гостиная более 30 кв. м, большая крытая терраса - более 40 кв.м., 2 санузла.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Дом расположен в &amp;quot;Эко-посёлке Сказка&amp;quot; дер. Коробово. Очень красивое, экологически чистое, тихое место, с хорошей торанспортной доступностью до города.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Дом без внутренней отделки - можно реализовать свой дизайн-проект, учитывающий все Ваши потребности и пожелания.&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Обращайтесь за дополнительной информацией, записывайтесь на просмотр дома по телефону.
-id:57661. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57661/phpzTUWGg.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57661/phpNR0wGD.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57661/phpbkZDWa.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57661/phpW8SwvV.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57661/phpxwVFFM.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57661/phpIbzDhS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57661/phpkhYRGV.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57661/phppUEBXZ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57661/php5tm4Ix.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57661/phpLhAluj.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="57667">
       <name>Продажа, Квартира, 3-к, 62.7 кв.м, Кострома, улица Ивана Сусанина, 29/52</name>
       <param name="Тип предложения">Продажа</param>
@@ -16048,57 +15714,6 @@ id:57676.
       <picture>https://progress.vtcrm.ru/uploads/Photos/57676/phpQBnSgV.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Буй</param>
-    </offer>
-    <offer id="57677">
-      <name>Продажа, Квартира, 1-к, 48 кв.м, Ярославль, Подбутырская, 5</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">евроремонт</param>
-      <param name="Этаж">8</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Ярославская область, Ярославль, Подбутырская, 5</param>
-      <param name="Имя агента">Илья Майоров</param>
-      <param name="Email для связи">ilya.rieltorov@mail.com</param>
-      <param name="Телефон для связи">79921011287</param>
-      <param name="Общая площадь">48</param>
-      <param name="Жилая площадь">22</param>
-      <param name="Площадь кухни">16</param>
-      <param name="Этаж">8</param>
-      <param name="Этажность">8</param>
-      <categoryId>100</categoryId>
-      <price>7530000</price>
-      <description>&lt;p&gt;&lt;strong&gt;В продаже шикаргая&amp;nbsp;однокомнатная квартира&lt;br /&gt;&#13;
-О&amp;nbsp; квартре&lt;/strong&gt;&lt;br /&gt;&#13;
-Пpoдаeтся уютнaя квapтира плoщадью 48 кв м бeз учeтa лoджии, с coвpемeнным eвpо peмoнтoм,Просторная кухня-гостиная 16 кв. м оборудована всей необходимой техникой, включая холодильник и стиральную машину. В квартире совмещенный санузел с качественной сантехникой. Квартира с индивидуальным отоплением. На полу керамогранит. Новые трубы. Практически вся мебель и техника остается покупателю. Большая гардеробная. Квартира находится на 8 этаже, что обеспечивает отличный вид и тишину&lt;br /&gt;&#13;
-&lt;strong&gt;О доме&lt;/strong&gt;&lt;br /&gt;&#13;
-Дом&amp;nbsp; кирпичный&amp;nbsp;2013 года постройки. оснащен большим лифтом. Крыша не протекает, хорошие соседи. Рядом с домом небольшой сквер и несколько оборудованных спортплощадок.&lt;br /&gt;&#13;
-&lt;strong&gt;О районе&lt;/strong&gt;&lt;br /&gt;&#13;
-Kвартирa расположена в зеленoм, тихoм микрopайoне, в 5 минутаx от цeнтpa, pядoм с Феодopoвcким сoбоpом, c xоpошей транспоpтной дoступнocтью во вce микроpайoны гоpода. Рядом новая школа 53, детский садик, магазины.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&amp;nbsp;&lt;strong&gt;О сделке&lt;/strong&gt;&lt;/p&gt;&#13;
-Сопровождение сделки до перехода права собственности;&amp;nbsp; безопасные расчеты сторон. Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&amp;nbsp;&#13;
-&#13;
-&lt;p&gt;Хотите купить эту квартиру - ЗВОНИТЕ!&lt;/p&gt;
-id:57677. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phps98X6g.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/php1XtoSk.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpS7lTjQ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpSeTZxF.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpp1w2t9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpmB7uLY.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpisgoPr.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpGMuwiQ.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpGg5eZV.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpZcgzJC.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpRpphP2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpROwUTm.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpEAJE7p.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpBK82RB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phprHD4yE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/php2kTfBn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57677/phpXKv08J.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
     </offer>
     <offer id="57678">
       <name>Продажа, Квартира, 3-к, 63 кв.м, Ярославль, улица Жукова, 19</name>
@@ -17506,18 +17121,18 @@ id:57763.
 &amp;nbsp;
 id:57771. 
 &amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpp3CLOF.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpEQAFQW.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpQIkw8M.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phprbOKrh.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpTkJUt5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpQIkw8M.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpNaXe7S.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpqZEgbA.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/php1ePQcd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/php4iDZ03.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpNaXe7S.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpp3CLOF.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpEQAFQW.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpF7KfrJ.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpfk0DKL.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpgxRVLM.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/php1ePQcd.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/57771/php4iDZ03.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpUGmEby.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpkcoWQX.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57771/phpZs0tEp.jpeg</picture>
@@ -18401,7 +18016,7 @@ id:57968.
       <param name="Этаж">1</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>1650000</price>
+      <price>1600000</price>
       <description>&lt;strong&gt;В ПРОДАЖЕ комната с коммуникациями площадью 20.4 м2 в семейном общежитии&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
 Всё коммуникации заведены в комнату: есть полноценная ванная, туалет, стиральная машина, холодильник&lt;br /&gt;&#13;
 Внутри нет только&amp;nbsp;газовой плиты, ей можно пользоваться на общей кухне&amp;nbsp;&lt;br /&gt;&#13;
@@ -18689,12 +18304,12 @@ id:58058.
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="58059">
-      <name>Продажа, Квартира, 1-к, 30.4 кв.м, г Ярославль, Мукомольный пер, 4а</name>
+      <name>Продажа, Квартира, 1-к, 30.4 кв.м, Ярославль, Республиканская улица</name>
       <param name="Тип предложения">Продажа</param>
       <param name="Ремонт">требует ремонта</param>
       <param name="Этаж">5</param>
       <param name="Комнат">1</param>
-      <param name="Адрес">Ярославская обл, г Ярославль, Мукомольный пер, 4а</param>
+      <param name="Адрес">Ярославская область, Ярославль, Республиканская улица</param>
       <param name="Имя агента">Анна Куликова</param>
       <param name="Email для связи">big.letter@yandex.ru</param>
       <param name="Телефон для связи">79080299869</param>
@@ -18708,8 +18323,8 @@ id:58058.
       <description>Квартира в центре города!&lt;br /&gt;&#13;
 Однокомнатная квартира на верхнем тихом этаже ухоженного пятиэтажного дома. Общая площадь 30.4 квадратных метров,&amp;nbsp; жилая комната площадью 18 кв.м, кухня в 6,5 кв.м.&lt;br /&gt;&#13;
 Квартира на пятом этаж с&amp;nbsp; хорошим обзором из окон, при этом отсутствие лишнего шума сверху.&lt;br /&gt;&#13;
-Это классическая вторичка с уже сложившейся&amp;nbsp; инфраструктурой района, рядом с домом&amp;nbsp;есть все необходимое для повседневного быта.&lt;br /&gt;&#13;
-Компактная, но функциональная, квартира идеально подходит как для первого собственного жилья, так и для выгодной инвестиции.&lt;br /&gt;&#13;
+Это классическая вторичка&amp;nbsp; в&amp;nbsp; самом&amp;nbsp; центре города с уже сложившейся&amp;nbsp; инфраструктурой района, рядом с домом&amp;nbsp;есть все необходимое для повседневного быта, остановка общественного&amp;nbsp; транспорта, магазины,&amp;nbsp;&amp;nbsp;школа N&amp;nbsp; 43 им.А.С.Пушкина,&amp;nbsp; ЯГПУ им.К.Д.Ушинского, детский сад N 21,&amp;nbsp;джазовый&amp;nbsp; центр, фитнес-клуб,&amp;nbsp; рядом Которосльная&amp;nbsp; набережная&amp;nbsp; с&amp;nbsp; городским&amp;nbsp; пляжем и&amp;nbsp; т.д.&lt;br /&gt;&#13;
+Компактная, но функциональная, квартира идеально подходит как для первого собственного жилья, так и для выгодной инвестиции. Очень редкое предложение в этой локации.&lt;br /&gt;&#13;
 Один взрослый собственник, быстрый выход на сделку.
 id:58059. 
 &amp;nbsp;</description>
@@ -19454,51 +19069,6 @@ id:58381.
       <coordinates lat="58.479164" lon="41.537308"/>
       <param name="Офис">Буй</param>
     </offer>
-    <offer id="58384">
-      <name>Продажа, Квартира, 2-к, 45.9 кв.м, Ярославль, проезд Подвойского, 17</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">2</param>
-      <param name="Комнат">2</param>
-      <param name="Тип комнат">раздельные</param>
-      <param name="Окна выходят">На улицу и двор</param>
-      <param name="Адрес">Ярославская область, Ярославль, проезд Подвойского, 17</param>
-      <param name="Имя агента">Павел Голощапов</param>
-      <param name="Email для связи">pashapasha521@gmail.com</param>
-      <param name="Телефон для связи">79806612725</param>
-      <param name="Общая площадь">45.9</param>
-      <param name="Жилая площадь">28</param>
-      <param name="Площадь кухни">9</param>
-      <param name="Этаж">2</param>
-      <param name="Этажность">5</param>
-      <categoryId>100</categoryId>
-      <price>5200000</price>
-      <description>Представляем вашему вниманию уютную двухкомнатную квартиру на втором этаже пятиэтажного кирпичного дома. Общая площадь квартиры &amp;mdash; 46 квадратных метров, из которых 28 квадратных метров &amp;mdash; жилая площадь, а 9 квадратных метров &amp;mdash; кухня.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Квартира вторичного рынка, но состояние радует: установлены пластиковые окна и трубы, балкон застеклён. В квартире установлены счётчики на воду, зимой здесь тепло и комфортно.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Один собственник, обременений нет &amp;mdash; можно сразу приступать к оформлению сделки. Это отличное предложение для тех, кто ищет уютное и комфортное жильё.
-id:58384. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpC5p2f7.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpgA52AS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpIKV7Rb.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpK0wAVK.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpMmRxon.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpB4CNDu.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpi62G5t.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpvTSaAC.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/php4E39JY.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpoZPQoE.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpR8K5ob.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpJQM7Mf.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpDXMr2O.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpEjwprF.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpCW909c.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58384/phpz1IQZ9.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="58386">
       <name>Продажа, Дом, 2-к, 48.1 кв.м, садоводческое некоммерческое товарищество Локомотив-1, 66</name>
       <param name="Тип предложения">Продажа</param>
@@ -20067,13 +19637,13 @@ id:58494.
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="58496">
-      <name>Продажа, Квартира, 2-к, 54.3 кв.м, село Борок, Молодёжная улица, 14</name>
+      <name>Продажа, Квартира, 2-к, 54.3 кв.м, село Борок, ул Молодежная, 14</name>
       <param name="Тип предложения">Продажа</param>
       <param name="Ремонт">косметический</param>
       <param name="Этаж">1</param>
       <param name="Комнат">2</param>
       <param name="Тип комнат">раздельные</param>
-      <param name="Адрес">Костромская область, село Борок, Молодёжная улица, 14</param>
+      <param name="Адрес">Костромская обл, село Борок, ул Молодежная, 14</param>
       <param name="Имя агента">Евгения Серова</param>
       <param name="Email для связи">evgeniyaserovamaks@yandex.ru</param>
       <param name="Телефон для связи">79969319171</param>
@@ -20490,7 +20060,7 @@ id:58513.
       <param name="Адрес">Ярославская область, посёлок Красный Бор, Заволжская улица, 2</param>
       <param name="Имя агента">Дмитрий Морозов</param>
       <param name="Email для связи">dmitriemoro20v@yandex.ru</param>
-      <param name="Телефон для связи">79644827000</param>
+      <param name="Телефон для связи">79959861025</param>
       <param name="Общая площадь">42.7</param>
       <param name="Жилая площадь">27.31</param>
       <param name="Площадь кухни">15.39</param>
@@ -20508,41 +20078,11 @@ id:58514.
       <picture>https://progress.vtcrm.ru/uploads/Photos/58514/phpMvcE4p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/58514/phpehLVIf.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/58514/24bc1ecb-ae5d-4b0f-8574-1cd9bd53b788.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58514/phpSfN7tz.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58514/phpc9lv9U.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58514/phpa1QTFX.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="58515">
-      <name>Аренда, Квартира, 1-к, 32.3 кв.м, г Буй, ул Гединского, 19</name>
-      <param name="Тип предложения">Аренда</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">4</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Костромская обл, г Буй, ул Гединского, 19</param>
-      <param name="Имя агента">Виктория Набатова</param>
-      <param name="Email для связи">victoryvomanyar@yandex.ru</param>
-      <param name="Телефон для связи">79011954581</param>
-      <param name="Общая площадь">32.3</param>
-      <param name="Жилая площадь">23.2</param>
-      <param name="Площадь кухни">5</param>
-      <param name="Этаж">4</param>
-      <param name="Этажность">4</param>
-      <categoryId>100</categoryId>
-      <price>10000</price>
-      <description>Сдается 1 комнатная квартира с косметическим ремонтом.Очень уютная и теплая.&lt;br /&gt;&#13;
-10000 + счетчики.&amp;nbsp;&lt;br /&gt;&#13;
-Сдаётся на длительный срок от 3 месяцев, порядочным людям,без животных&lt;br /&gt;&#13;
-100% комиссия агентству ,оплата 1 раз.
-id:58515. 
-.</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58515/phpT5lht2.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58515/phpKRavBY.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58515/phpjjyRDC.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58515/phpZJzwK5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58515/php84PI0u.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58515/phpoU7Pyp.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/58515/phpbTuYxf.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Буй</param>
     </offer>
     <offer id="58516">
       <name>Продажа, Квартира, 1-к, 39.4 кв.м, Ярославль, Тутаевское шоссе, 101</name>
@@ -20555,7 +20095,7 @@ id:58515.
       <param name="Адрес">Ярославская область, Ярославль, Тутаевское шоссе, 101</param>
       <param name="Имя агента">Дмитрий Морозов</param>
       <param name="Email для связи">dmitriemoro20v@yandex.ru</param>
-      <param name="Телефон для связи">79644827000</param>
+      <param name="Телефон для связи">79959861025</param>
       <param name="Общая площадь">39.4</param>
       <param name="Жилая площадь">29</param>
       <param name="Площадь кухни">10</param>
@@ -20673,7 +20213,7 @@ id:58519.
       <param name="Адрес">Ярославская обл, г Ярославль, ул 3-я Жилая, 9</param>
       <param name="Имя агента">Дмитрий Морозов</param>
       <param name="Email для связи">dmitriemoro20v@yandex.ru</param>
-      <param name="Телефон для связи">79644827000</param>
+      <param name="Телефон для связи">79959861025</param>
       <param name="Общая площадь">37.2</param>
       <param name="Жилая площадь">16.4</param>
       <param name="Площадь кухни">9.4</param>
@@ -20821,6 +20361,42 @@ id:58534.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
+    <offer id="58536">
+      <name>Продажа, Квартира, студия, 34.5 кв.м, Ярославль, Дядьковская улица, 30</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">требует ремонта</param>
+      <param name="Этаж">6</param>
+      <param name="Студия">да</param>
+      <param name="Адрес">Ярославская область, Ярославль, Дядьковская улица, 30</param>
+      <param name="Имя агента">Екатерина Новикова</param>
+      <param name="Email для связи">79807061099@yandex.ru</param>
+      <param name="Телефон для связи">79807061099</param>
+      <param name="Общая площадь">34.5</param>
+      <param name="Жилая площадь">20</param>
+      <param name="Площадь кухни">11</param>
+      <param name="Этаж">6</param>
+      <param name="Этажность">10</param>
+      <categoryId>100</categoryId>
+      <price>3700000</price>
+      <description>&lt;strong&gt;В ПРОДАЖЕ квартира-студия 34,5 м2 &amp;nbsp;в новом доме ЖК Рассвет&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
+Дом сдан, ключи на руках!&amp;nbsp;&lt;br /&gt;&#13;
+Отделка вайт-бокс:&lt;br /&gt;&#13;
+- стены оштукатурены под поклейку обоев&lt;br /&gt;&#13;
+- на полу цементно-песачная стяжка&lt;br /&gt;&#13;
+- сделана разводка электрики, установлены розетки/выключатели&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+Один взрослый собственник, быстрый выход на сделку
+id:58536. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58536/phpjFVonV.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58536/phpC9QqzV.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58536/phpuHNbTN.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58536/phpVe2mfG.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58536/phpq5IpkE.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58536/phpXLeQio.jpeg</picture>
+      <coordinates lat="57.626560" lon="39.893822"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
     <offer id="58537">
       <name>Продажа, Квартира, 1-к, 38.7 кв.м, Ярославль, Дядьковская улица, 30</name>
       <param name="Тип предложения">Продажа</param>
@@ -20863,6 +20439,40 @@ id:58537.
       <picture>https://progress.vtcrm.ru/uploads/Photos/58537/phpor2dtP.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/58537/phpU5lKbF.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/58537/phpSk7PEd.jpeg</picture>
+      <coordinates lat="57.626560" lon="39.893822"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="58539">
+      <name>Продажа, Квартира, 2-к, 61 кв.м, Ярославль, Дядьковская, 30</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">требует ремонта</param>
+      <param name="Этаж">3</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Адрес">Ярославская область, Ярославль, Дядьковская, 30</param>
+      <param name="Имя агента">Дмитрий Морозов</param>
+      <param name="Email для связи">dmitriemoro20v@yandex.ru</param>
+      <param name="Телефон для связи">79959861025</param>
+      <param name="Общая площадь">61</param>
+      <param name="Жилая площадь">30</param>
+      <param name="Площадь кухни">13</param>
+      <param name="Этаж">3</param>
+      <param name="Этажность">8</param>
+      <categoryId>100</categoryId>
+      <price>5850000</price>
+      <description>Продaeтcя пpосторная 2-к. кваpтирa в домe ЖК &amp;quot;Рaссвeт&amp;quot;&lt;br /&gt;&#13;
+Koмнaты изoлиpoванные &amp;mdash; идеaльнo для ceмьи с дeтьми или для сдaчи в аpeнду. Рaздельный санузел &amp;mdash; повышаeт эргoномичнocть и комфopт.&lt;br /&gt;&#13;
+Предчиcтовaя oтдeлкa (готовые стяжка и штукaтуpка) &amp;mdash; экoнoмия бюджeтa на стapте peмонтa.&lt;br /&gt;&#13;
+Bся инфрастpуктура в 10 минутах пешком: школа, детский сад, поликлиника, остановки транспорта, продуктовые магазины.&lt;br /&gt;&#13;
+Год постройки: май 2026.
+id:58539. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58539/36aa9878-99d6-402f-9da7-d34dde2efe68.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58539/78422aef-3011-474e-a206-6d4406fa38e0.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58539/a4299b8d-a38a-4ac7-9d4b-3392726f713e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58539/67fd1be3-ed91-43fc-b995-b390a7007443.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58539/c8270cf1-f7f2-4ba2-a2eb-f760dd0e0955.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58539/phpE4UsjM.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -20981,6 +20591,138 @@ id:58541.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
+    <offer id="58542">
+      <name>Продажа, Квартира, 2-к, 69.2 кв.м, Ярославль, Тверицкая наб., 58Ак1, 58Ак1</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">требует ремонта</param>
+      <param name="Этаж">2</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Адрес">Ярославская обл, Ярославль, Тверицкая наб., 58Ак1, 58Ак1</param>
+      <param name="Имя агента">Дмитрий Морозов</param>
+      <param name="Email для связи">dmitriemoro20v@yandex.ru</param>
+      <param name="Телефон для связи">79959861025</param>
+      <param name="Общая площадь">69.2</param>
+      <param name="Жилая площадь">40.2</param>
+      <param name="Площадь кухни">14</param>
+      <param name="Этаж">2</param>
+      <param name="Этажность">3</param>
+      <categoryId>100</categoryId>
+      <price>7900000</price>
+      <description>Пpoдaётся пpocтoрная двухкомнaтная квaртира в кирпичном дoме c газocнaбжeниeм. Год постpoйки &amp;mdash; 2025. Koмнаты изoлирoванныe, чтo обeспечивает комфоpт и привaтноcть. Из oкон oткpываетcя вид на тиxий двop. Дoм расположeн в зaкрытoй тeppитoрии, чтo гaрaнтируeт бeзoпаcноcть и спoкойствие.&lt;br /&gt;&#13;
+Квартира требует ремонта, что позволяет воплотить ваши дизайнерские идеи. Имеется балкон, который станет отличным местом для отдыха. Санузел раздельный, что удобно для семьи.&lt;br /&gt;&#13;
+Парковка открытая во дворе, всегда найдётся место для вашего автомобиля. Возможна покупка в ипотеку.
+id:58542. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58542/165750fd-55e5-4432-9568-4ac6e129d357.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58542/1afe01b5-2db4-4e38-8b74-da8f40fb54b7.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58542/8637a0a3-95cd-415d-a821-a73b6fdd46db.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58542/fb567d9b-0395-4c31-be0d-bd3ff1227838.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58542/3f2f8b78-3574-4da0-84a9-31e61baa3732.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58542/efdc41b7-5014-4bb0-9401-7a844dc98763.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58542/phpHaX9k7.jpeg</picture>
+      <coordinates lat="57.626560" lon="39.893822"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="58545">
+      <name>Продажа, Квартира, 2-к, 39.6 кв.м, г Ярославль, ул Ляпидевского, 23/18</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">2</param>
+      <param name="Комнат">2</param>
+      <param name="Тип комнат">раздельные</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, ул Ляпидевского, 23/18</param>
+      <param name="Имя агента">Дмитрий Морозов</param>
+      <param name="Email для связи">dmitriemoro20v@yandex.ru</param>
+      <param name="Телефон для связи">79959861025</param>
+      <param name="Общая площадь">39.6</param>
+      <param name="Жилая площадь">30</param>
+      <param name="Площадь кухни">6</param>
+      <param name="Этаж">2</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>4200000</price>
+      <description>🏡 2-кoмнатная квартира 39,7 м&amp;sup2; на 2 этаже &amp;mdash; уютный дом и тихий двoр&lt;br /&gt;&#13;
+Пpодaётся уютная 2-кoмнaтная квapтиpa нa 2 этaжe.&lt;br /&gt;&#13;
+Отличный вариaнт для тex, ктo ищет кoмфоpтную кваpтиpу в спoкойном районе c хoрoшими cоceдями и благоуcтрoeнным двopом.&lt;br /&gt;&#13;
+Kвapтирa плoщадью 39,7 м&amp;sup2;: двe кoмнaты, oтдeльная кухня 6,1 м&amp;sup2;, рaздeльныe ваннaя и туaлет, удoбный компактный кoридор.&lt;br /&gt;&#13;
+🌿 Главное преимущество &amp;mdash; балкон с торца дома, с видом во двор. Здесь нет ощущения окна на проезжую часть &amp;mdash; тихо и спокойно.&lt;br /&gt;&#13;
+Во дворе:&lt;br /&gt;&#13;
+* 🛝 новая современная детская площадка;&lt;br /&gt;&#13;
+* 🚗 открытая парковка, можно оставить автомобиль во дворе;&lt;br /&gt;&#13;
+* спокойная атмосфера;&lt;br /&gt;&#13;
+* хорошие соседи.&lt;br /&gt;&#13;
+2 этаж &amp;mdash; один из самых удобных вариантов: не первый и не последний, при этом не приходится высоко подниматься.&lt;br /&gt;&#13;
+Дом 1974 года постройки, давно обжитой, с уже сформировавшимся спокойным соседством.&lt;br /&gt;&#13;
+✨ Квартира отлично подойдёт для семьи, пары или для сдачи в аренду.&lt;br /&gt;&#13;
+Общая площадь: 39,7 м&amp;sup2;&lt;br /&gt;&#13;
+Этаж: 2/&amp;hellip;&lt;br /&gt;&#13;
+2 комнаты&lt;br /&gt;&#13;
+Балкон: есть, с торца дома&lt;br /&gt;&#13;
+Кухня: 6,1 м&amp;sup2;&lt;br /&gt;&#13;
+📞 Звоните/пишите &amp;mdash; расскажу подробнее и договоримся о просмотре.
+id:58545. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/d461cb33-9885-432a-837e-1cc758851002.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/c4fb0684-c308-4da9-851c-1eaaccba02c6.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/500fc134-0ed8-4005-82e9-aff33329d492.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/10fb50ea-cf4a-4760-8273-7f837c1e02dd.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/603ce44f-efe5-4177-8214-79e7675260b8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/ccd429e5-29e8-483e-bf30-67fb2a709efd.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/9c605a13-7d3f-4c17-9648-f7ab62fc22c8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/1dd03371-32aa-4c69-a5ac-d24954225c00.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/2f75f076-3778-42b6-8951-12650d56918a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/19ac3b1e-650f-4d62-b3f0-368f9ec62451.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/971c9fa1-23f8-4ec4-b758-d0ee2a6cec05.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/8e0b3024-2ebb-44b4-a75f-3ec6465ce2c2.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/af03931b-9c84-44d5-86f6-41612f3e9fb9.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/aa428dc7-25da-483d-94ea-e169a33cc827.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/dc5a0d5b-b0b7-4c2d-a41b-8c7358c84a59.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/7d5825e0-7076-4fd5-9371-06d40965cbb8.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/e75b8450-72d7-49a3-8d15-fe8d8655b9db.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/a340a50e-4472-4190-b0be-cc2e29c9e747.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58545/php1f2pbn.jpeg</picture>
+      <coordinates lat="57.626560" lon="39.893822"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="58549">
+      <name>Продажа, Квартира, 3-к, 51 кв.м, г Буй, ул Социализма, 21</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">1</param>
+      <param name="Комнат">3</param>
+      <param name="Адрес">Костромская обл, г Буй, ул Социализма, 21</param>
+      <param name="Имя агента">Евгения Серова</param>
+      <param name="Email для связи">evgeniyaserovamaks@yandex.ru</param>
+      <param name="Телефон для связи">79969319171</param>
+      <param name="Общая площадь">51</param>
+      <param name="Жилая площадь">40</param>
+      <param name="Площадь кухни">6</param>
+      <param name="Этаж">1</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>2600000</price>
+      <description>Продажа 3 квартиры, 51 кв.м!&lt;br /&gt;&#13;
+Квартира расположена в тихом районе, центральной части города.&lt;br /&gt;&#13;
+Дом кирпичный, 1974 год постройки, имеется подвальное помещение, для хранения хоз. нужд.&lt;br /&gt;&#13;
+В квартире сделан косметический ремонт, пластиковык окна ПВХ, на полу линолеум, натяжные потолки, санузел в кафельной плитке, поменяны стояки, установлены счетчики, также в квартире имеется газовая колонка, что позволяет всегда иметь горячую воду!&lt;br /&gt;&#13;
+Район с развитой инфраструктурой: в шаговой доступности детские сады, техникум, магазины продуктового питания, аптеки, кафе и остановки общественного транспорта.&lt;br /&gt;&#13;
+Идеальный вариант для тех, кто ищет готовое жилье без дополнительных вложений.&amp;nbsp;
+id:58549. 
+.</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58549/c07b1f06-4dba-4345-b951-19bfd0ce1da4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58549/11f9ee9d-1362-4efa-9dc6-f1136a26889a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58549/4bfe975b-09e9-478b-85e3-93d14252c3de.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58549/615df6b1-9a72-4845-b517-39c735c406db.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58549/f659e633-c4d4-43ed-bb85-df75c55c76e4.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58549/6e82104b-33c0-47eb-9d0f-262df9648912.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58549/c95870d6-de12-467a-8e51-c7e263116e0b.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58549/d24bf208-47ba-4b31-b06b-d5523919ea92.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58549/3a502137-5bc5-49a2-87f1-652d33f7b035.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/58549/500818d2-5422-4232-bcdb-8250d9ca4f06.jpeg</picture>
+      <coordinates lat="57.626560" lon="39.893822"/>
+      <param name="Офис">Буй</param>
+    </offer>
     <offer id="9819">
       <categoryId>101</categoryId>
       <name>1-к, 52.73 кв.м, ЖК Ин Парк</name>
@@ -21050,7 +20792,7 @@ id:9819.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21126,7 +20868,7 @@ id:9820.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21202,7 +20944,7 @@ id:9821.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21278,7 +21020,7 @@ id:9822.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21354,7 +21096,7 @@ id:9823.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21430,7 +21172,7 @@ id:9824.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21506,7 +21248,7 @@ id:9825.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21582,7 +21324,7 @@ id:9826.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21658,7 +21400,7 @@ id:9827.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21734,7 +21476,7 @@ id:9828.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21810,7 +21552,7 @@ id:9829.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21886,7 +21628,7 @@ id:9830.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -21962,7 +21704,7 @@ id:9831.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22038,7 +21780,7 @@ id:9832.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22114,7 +21856,7 @@ id:9833.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22190,7 +21932,7 @@ id:9835.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22266,7 +22008,83 @@ id:9837.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php2YVayv.jpeg</picture>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="9838">
+      <categoryId>101</categoryId>
+      <name>9-к, 26.19 кв.м, ЖК Ин Парк</name>
+      <price>2749950</price>
+      <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&lt;/strong&gt;&#13;
+&lt;strong&gt;&lt;strong&gt;КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&lt;/strong&gt;&#13;
+Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
+&lt;strong&gt;Отделка:&lt;/strong&gt;&#13;
+Все квартиры ЖК &amp;laquo;ИНН ПАРК&amp;raquo; выполнены качественными материалами, представлены в отделке &amp;laquo;GrayKey&amp;raquo;. В нее входит:&#13;
+- возведение внутриквартирных перегородок;&#13;
+- гидроизоляция в санузлах;&#13;
+- пластиковые окна с пятикамерными профилями;&#13;
+- установка современных радиаторов отопления;&#13;
+- выполнение стяжки пола;&#13;
+- установка счетчиков на горячее и холодное водоснабжение, двух тарифных счетчиков электричества.&#13;
+&lt;strong&gt;Планировки:&lt;/strong&gt;&#13;
+Клиентам доступно несколько спланированных эргономичных вариантов жилья. В ЖК &amp;laquo;Ин Парк&amp;raquo; представлены как компактные студии площадью от 26 кв.м., так и просторные квартиры евро формата площадью от 43 кв.м. Разнообразие планировок позволяет выбрать оптимальный вариант для комфортного проживания или инвестиций.&#13;
+&lt;strong&gt;Преимущества:&lt;/strong&gt;&#13;
+- современные лифты обеспечат высокий уровень комфорта жильцам дома;&#13;
+- доступная среда для людей с ограниченными возможностями, подъем с уровня земли на 1 этаж осуществляется на специальном подъемнике;&#13;
+- просторные лоджии во двор, французские окна в сторону ул. Дядьковская;&#13;
+- автоматизированный тепловой пункт с датчиками температуры;&#13;
+- умный домофон от Ростелеком;&#13;
+- кладовые в подвале обеспечат жильцов дополнительным пространством для хранения вещей, освобождая жилую площадь от лишних предметов;&#13;
+- специально оборудованные места для тренировок Street&amp;nbsp;Workout, места для отдыха, детская площадка;&#13;
+- озеленение территории, цветущие кустарники, газоны и цветники;&#13;
+- видеонаблюдение придомовой территории;&#13;
+- разные варианты приобретения: ипотека, рассрочка без удорожания, наличные.&#13;
+&lt;strong&gt;Инфраструктура района:&lt;/strong&gt;&#13;
+Дом расположен в новой, развивающейся части Фрунзенского района города Ярославля, в 15 минутах езды до центра. Рядом с домом находятся:&#13;
+- парк Судостроителей, по которому вы сможете погулять сами или со своими домашними животными, на детских площадках парка будет интересно детям;&#13;
+- спортивная школа олимпийского резерва №19, которая является одним из ведущих спортивных учреждений г. Ярославля;&#13;
+- гипермаркет &amp;laquo;Лента&amp;raquo;, обеспечит удобный доступ к широкому ассортименту товаров и услуг без необходимости долгих поездок;&#13;
+- аквапарк &amp;laquo;Тропический остров&amp;raquo;, предоставляет возможность наслаждаться активным отдыхом и развлечениями рядом с домом.&#13;
+Кроме того, в непосредственной близости от дома расположены офисы банков, торговые центры, магазины, школы, детские сады и многое другое, что обеспечит удобство и доступность различных услуг и инфраструктуры для жителей дома.&#13;
+&lt;strong&gt;Технология строительства:&lt;/strong&gt;&#13;
+ЖК &amp;laquo;Ин Парк&amp;raquo; представляет собой двухподъездный девятиэтажный дом, в котором представлено 270 квартир.&#13;
+Дома, построенные по данной технологии являются:&#13;
+- прочными и надежными благодаря использованию железобетонных конструкций, они способны выдерживать значительные нагрузки и долговечны в эксплуатации;&#13;
+- устойчивыми к различным воздействиям: такие дома обладают хорошей устойчивостью к различным природным и антропогенным воздействиям, таким как землетрясения, пожары и другие чрезвычайные ситуации;&#13;
+- энергоэффективными: обеспечивают хорошую теплоизоляцию благодаря применению современных материалов и технологий. Нашему дому будет присвоен класс энергоэффективности В+ (высокий);&#13;
+- звукоизоляция: обеспечивают хорошую звукоизоляцию, что способствует комфортному проживанию;&#13;
+- долговечность: благодаря использованию качественных материалов и технологий обладают высокой долговечностью и требуют минимального обслуживания.&#13;
+&lt;strong&gt;О застройщике:&lt;/strong&gt;&#13;
+ГК &amp;laquo;Прогресс-Строй&amp;raquo; - надежный и проверенный временем застройщик, выполняющий свои обязательства. Компания основана группой профессионалов в сфере жилищного строительства в 2007 году.&#13;
+ГК &amp;laquo;Прогресс-Строй&amp;raquo; воссоздает лучшие традиции российского домостроения в новом качестве - современные технологии монолитного строения, привлекательный и комфортный дизайн, благоустройство для уютной жизни.&#13;
+За более 17 лет непрерывного роста на рынке Архангельской области, построено свыше 17 жилых многоквартирных домов. 90 процентов домов, возведенных ГК &amp;laquo;Прогресс-Строй&amp;raquo; были сданы с опережением сроков строительства. Остальные были сданы точно в срок.&#13;
+Основная задача застройщика - проектировать и строить не просто квадратные метры, а создавать комфортную среду для жизни.&#13;
+&#13;
+&lt;strong&gt;Наш дом предлагает не просто квартиры, а возможность создать свой уютный уголок. Добро пожаловать в Ваш новый дом, где сбудутся ваши мечты об идеальном жилье!&lt;/strong&gt;
+id:9838. 
+&amp;nbsp;</description>
+      <param name="Материал стен">monolith</param>
+      <param name="Комнат">9</param>
+      <param name="Площадь Дома">26.19</param>
+      <param name="Жилая площадь">14.02</param>
+      <param name="Площадь кухни">5.2</param>
+      <param name="Этаж">8</param>
+      <param name="Балкон">1</param>
+      <param name="Парковка">open</param>
+      <param name="Адрес">Ярославская область, Ярославль, Дядьковская</param>
+      <coordinates lat="57.574379" lon="39.909155"/>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/9838/69b16afc02ddb.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpCJDt1X.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpEirLy9.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php8r4bkN.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22342,7 +22160,7 @@ id:9841.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22418,7 +22236,7 @@ id:9842.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22494,7 +22312,7 @@ id:9843.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22570,7 +22388,7 @@ id:9844.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22646,7 +22464,7 @@ id:9845.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22722,7 +22540,7 @@ id:9846.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22798,7 +22616,7 @@ id:9847.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22874,7 +22692,7 @@ id:9848.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -22950,7 +22768,7 @@ id:9849.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23026,7 +22844,7 @@ id:9850.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23102,7 +22920,7 @@ id:9851.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23178,7 +22996,7 @@ id:9852.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23254,7 +23072,7 @@ id:9853.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23330,7 +23148,7 @@ id:9854.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23406,7 +23224,7 @@ id:9855.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23482,7 +23300,7 @@ id:9856.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23558,7 +23376,7 @@ id:9859.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23634,7 +23452,7 @@ id:9860.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23710,7 +23528,7 @@ id:9862.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23786,7 +23604,7 @@ id:9863.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23862,7 +23680,7 @@ id:9865.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -23938,83 +23756,7 @@ id:9867.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php2YVayv.jpeg</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="9876">
-      <categoryId>101</categoryId>
-      <name>9-к, 31.87 кв.м, ЖК Ин Парк</name>
-      <price>3218870</price>
-      <description>&lt;strong&gt;&lt;u&gt;ЖК &amp;quot;Ин Парк&amp;quot; это современный дом в самом центре Фрунзенского района!&lt;/u&gt;&lt;/strong&gt;&#13;
-&lt;strong&gt;&lt;strong&gt;КВАРТИРЫ С ОТДЕЛКОЙ! Цена в объявлении указана за отделку &amp;laquo;GrayKey&amp;raquo;&lt;/strong&gt;&lt;/strong&gt;&#13;
-Возможна любая форма оплаты, рассрочка от застройщика, семейная ипотека, военная ипотека, ипотека по базовой ставке, принимаем различные сертификаты, работаем со всеми банками.&#13;
-&lt;strong&gt;Отделка:&lt;/strong&gt;&#13;
-Все квартиры ЖК &amp;laquo;ИНН ПАРК&amp;raquo; выполнены качественными материалами, представлены в отделке &amp;laquo;GrayKey&amp;raquo;. В нее входит:&#13;
-- возведение внутриквартирных перегородок;&#13;
-- гидроизоляция в санузлах;&#13;
-- пластиковые окна с пятикамерными профилями;&#13;
-- установка современных радиаторов отопления;&#13;
-- выполнение стяжки пола;&#13;
-- установка счетчиков на горячее и холодное водоснабжение, двух тарифных счетчиков электричества.&#13;
-&lt;strong&gt;Планировки:&lt;/strong&gt;&#13;
-Клиентам доступно несколько спланированных эргономичных вариантов жилья. В ЖК &amp;laquo;Ин Парк&amp;raquo; представлены как компактные студии площадью от 26 кв.м., так и просторные квартиры евро формата площадью от 43 кв.м. Разнообразие планировок позволяет выбрать оптимальный вариант для комфортного проживания или инвестиций.&#13;
-&lt;strong&gt;Преимущества:&lt;/strong&gt;&#13;
-- современные лифты обеспечат высокий уровень комфорта жильцам дома;&#13;
-- доступная среда для людей с ограниченными возможностями, подъем с уровня земли на 1 этаж осуществляется на специальном подъемнике;&#13;
-- просторные лоджии во двор, французские окна в сторону ул. Дядьковская;&#13;
-- автоматизированный тепловой пункт с датчиками температуры;&#13;
-- умный домофон от Ростелеком;&#13;
-- кладовые в подвале обеспечат жильцов дополнительным пространством для хранения вещей, освобождая жилую площадь от лишних предметов;&#13;
-- специально оборудованные места для тренировок Street&amp;nbsp;Workout, места для отдыха, детская площадка;&#13;
-- озеленение территории, цветущие кустарники, газоны и цветники;&#13;
-- видеонаблюдение придомовой территории;&#13;
-- разные варианты приобретения: ипотека, рассрочка без удорожания, наличные.&#13;
-&lt;strong&gt;Инфраструктура района:&lt;/strong&gt;&#13;
-Дом расположен в новой, развивающейся части Фрунзенского района города Ярославля, в 15 минутах езды до центра. Рядом с домом находятся:&#13;
-- парк Судостроителей, по которому вы сможете погулять сами или со своими домашними животными, на детских площадках парка будет интересно детям;&#13;
-- спортивная школа олимпийского резерва №19, которая является одним из ведущих спортивных учреждений г. Ярославля;&#13;
-- гипермаркет &amp;laquo;Лента&amp;raquo;, обеспечит удобный доступ к широкому ассортименту товаров и услуг без необходимости долгих поездок;&#13;
-- аквапарк &amp;laquo;Тропический остров&amp;raquo;, предоставляет возможность наслаждаться активным отдыхом и развлечениями рядом с домом.&#13;
-Кроме того, в непосредственной близости от дома расположены офисы банков, торговые центры, магазины, школы, детские сады и многое другое, что обеспечит удобство и доступность различных услуг и инфраструктуры для жителей дома.&#13;
-&lt;strong&gt;Технология строительства:&lt;/strong&gt;&#13;
-ЖК &amp;laquo;Ин Парк&amp;raquo; представляет собой двухподъездный девятиэтажный дом, в котором представлено 270 квартир.&#13;
-Дома, построенные по данной технологии являются:&#13;
-- прочными и надежными благодаря использованию железобетонных конструкций, они способны выдерживать значительные нагрузки и долговечны в эксплуатации;&#13;
-- устойчивыми к различным воздействиям: такие дома обладают хорошей устойчивостью к различным природным и антропогенным воздействиям, таким как землетрясения, пожары и другие чрезвычайные ситуации;&#13;
-- энергоэффективными: обеспечивают хорошую теплоизоляцию благодаря применению современных материалов и технологий. Нашему дому будет присвоен класс энергоэффективности В+ (высокий);&#13;
-- звукоизоляция: обеспечивают хорошую звукоизоляцию, что способствует комфортному проживанию;&#13;
-- долговечность: благодаря использованию качественных материалов и технологий обладают высокой долговечностью и требуют минимального обслуживания.&#13;
-&lt;strong&gt;О застройщике:&lt;/strong&gt;&#13;
-ГК &amp;laquo;Прогресс-Строй&amp;raquo; - надежный и проверенный временем застройщик, выполняющий свои обязательства. Компания основана группой профессионалов в сфере жилищного строительства в 2007 году.&#13;
-ГК &amp;laquo;Прогресс-Строй&amp;raquo; воссоздает лучшие традиции российского домостроения в новом качестве - современные технологии монолитного строения, привлекательный и комфортный дизайн, благоустройство для уютной жизни.&#13;
-За более 17 лет непрерывного роста на рынке Архангельской области, построено свыше 17 жилых многоквартирных домов. 90 процентов домов, возведенных ГК &amp;laquo;Прогресс-Строй&amp;raquo; были сданы с опережением сроков строительства. Остальные были сданы точно в срок.&#13;
-Основная задача застройщика - проектировать и строить не просто квадратные метры, а создавать комфортную среду для жизни.&#13;
-&#13;
-&lt;strong&gt;Наш дом предлагает не просто квартиры, а возможность создать свой уютный уголок. Добро пожаловать в Ваш новый дом, где сбудутся ваши мечты об идеальном жилье!&lt;/strong&gt;
-id:9876. 
-&amp;nbsp;</description>
-      <param name="Материал стен">monolith</param>
-      <param name="Комнат">9</param>
-      <param name="Площадь Дома">31.87</param>
-      <param name="Жилая площадь">17.1</param>
-      <param name="Площадь кухни">5.76</param>
-      <param name="Этаж">6</param>
-      <param name="Балкон">0</param>
-      <param name="Парковка">open</param>
-      <param name="Адрес">Ярославская область, Ярославль, Дядьковская</param>
-      <coordinates lat="57.574379" lon="39.909155"/>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/9876/69b16b01474dd.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpCJDt1X.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpEirLy9.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php8r4bkN.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24091,7 +23833,7 @@ id:9879.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24168,7 +23910,7 @@ id:9880.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24245,7 +23987,7 @@ id:9881.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24322,7 +24064,7 @@ id:9893.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24399,7 +24141,7 @@ id:9894.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24476,7 +24218,7 @@ id:9895.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24553,7 +24295,7 @@ id:9908.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24629,7 +24371,7 @@ id:9924.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24705,7 +24447,7 @@ id:9925.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24786,7 +24528,7 @@ id:29175.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24862,7 +24604,7 @@ id:29176.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -24943,7 +24685,7 @@ id:29177.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25019,7 +24761,7 @@ id:29178.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25100,7 +24842,7 @@ id:29179.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25176,7 +24918,7 @@ id:29180.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25252,7 +24994,7 @@ id:29182.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25333,7 +25075,7 @@ id:29183.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25409,7 +25151,7 @@ id:29184.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25490,7 +25232,7 @@ id:29185.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25566,7 +25308,7 @@ id:29186.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25647,7 +25389,7 @@ id:29187.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25723,7 +25465,7 @@ id:29188.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25804,7 +25546,7 @@ id:29189.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25885,7 +25627,7 @@ id:29190.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -25961,7 +25703,7 @@ id:29191.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26042,7 +25784,7 @@ id:29192.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26118,7 +25860,7 @@ id:29193.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26199,7 +25941,7 @@ id:29194.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26275,7 +26017,7 @@ id:29195.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26356,7 +26098,7 @@ id:29197.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26432,7 +26174,7 @@ id:29198.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26513,7 +26255,7 @@ id:29199.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26589,7 +26331,7 @@ id:29200.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26670,7 +26412,7 @@ id:29201.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26746,7 +26488,7 @@ id:29202.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26822,7 +26564,7 @@ id:29204.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26903,7 +26645,7 @@ id:29205.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -26984,7 +26726,7 @@ id:29206.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27060,7 +26802,7 @@ id:29209.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27141,7 +26883,7 @@ id:29210.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27222,7 +26964,7 @@ id:29212.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27303,7 +27045,7 @@ id:29214.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27379,7 +27121,7 @@ id:29217.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27455,7 +27197,7 @@ id:29218.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27531,7 +27273,7 @@ id:29219.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27612,7 +27354,7 @@ id:29220.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27693,7 +27435,7 @@ id:29221.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27769,7 +27511,7 @@ id:29224.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27845,7 +27587,7 @@ id:29232.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -27926,7 +27668,7 @@ id:29235.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -28007,7 +27749,7 @@ id:29238.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -28083,7 +27825,7 @@ id:29239.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -28159,7 +27901,7 @@ id:29248.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -28240,7 +27982,7 @@ id:29251.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -28316,7 +28058,7 @@ id:29264.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -28397,7 +28139,7 @@ id:29265.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -28478,7 +28220,7 @@ id:29266.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -28554,7 +28296,7 @@ id:29281.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -28630,7 +28372,7 @@ id:29309.
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php7TAkYu.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpXFZBCS.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpdiMRLL.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpPypTfB.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpFSN2iN.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpH4816p.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/phpmSU4Nq.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/newB3/php5t6eZy.jpeg</picture>
@@ -35133,64 +34875,6 @@ id:29309.
       <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae89756e182-7146-4ef6-b7fb-1c3473cd6ccb">
-      <categoryId>101</categoryId>
-      <name>3-к, 68.48 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>7382144</price>
-      <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
-
-Мы предлагаем различные варианты покупки: 
-• Субсидированная ипотека от 4.5% годовых. Работаем с сертификатами, материнским капиталом
-• Рассрочка 0% от застройщика без переплат
-• Покупку за собственные средства на выгодных условиях
-• Военная ипотека
-
-Не упустите самые выгодные условия на покупку своей собственной квартиры на старте продаж!</description>
-      <param name="Материал стен">monolith</param>
-      <param name="Комнат">3</param>
-      <param name="Площадь Дома">68.48</param>
-      <param name="Жилая площадь">35.48</param>
-      <param name="Площадь кухни">15.97</param>
-      <param name="Этаж">7</param>
-      <param name="Балкон">0</param>
-      <param name="Парковка"></param>
-      <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
-      <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b4ee/ca3d/b4eeca3d484350b182a3135dc85356d5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c8d7/7013/c8d770136b6f5ab48d7c482f2beebdd3.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/94da/6a8b/94da6a8b60fb5affaef650381630f5c1.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7d12/281c/7d12281c5e6a57ec9f0701c5177d6d3c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e18e/721f/e18e721ff14d50acb18e7c35df08f5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5f7/d4e3/d5f7d4e3556b5b88b27f93fe1008147e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5e9/056c/d5e9056c9675517db833b45c8a0fc712.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/63b5/9638/63b5963870855d9595794a84f4727dcb.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c02e/6340/c02e6340f87e5775ab20fd25ed6cbbe5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f4fd/4157/f4fd41577d895a8e80f9142f4aae8891.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b327/ce31/b327ce3141e3515b80983a1ddc8c3bf5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a528/d5fe/a528d5feeab751f8a652d463e31de5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/422a/069e/422a069e5dd2528bbac0203661fa4d2e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1031/3b6c/10313b6cd1af53e699a8da3eda96b3a5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8560/5a65/85605a65da2f5ee8948a93f3bce2b930.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/76a5/1389/76a51389cc125caca3c723f243081576.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9f01/265a/9f01265aec885ab8be0bea0eeefa3c26.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/5298/c7ff/5298c7ffb3b45128ad32873702a457fc.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/85c6/f3ae/85c6f3ae495957da8b703815463809d6.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1358/6c51/13586c51166a5598978369c8d3fa28c0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e2d8/61c9/e2d861c913375e24bde2151b4b9b5f89.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c4e5/c168/c4e5c1682c6755e39997dd8a73d6b02a.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3892/a3b7/3892a3b701cf52e8875429f3c6fe4f46.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f9ba/b992/f9bab992ec275633aa596f178c56c20e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c1b5/9e6d/c1b59e6db8d357ca97d62d435855536c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/61f3/b982/61f3b982f8e2538591379923309a49b0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/31ef/40ba/31ef40ba815058148dd5dee4d8178532.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e737/5542/e7375542512c567fbf389881a4a7885d.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f6e8/84af/f6e884af98af5b60a9e2ba96844a7fd7.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="e3e82a13-58fe-4c43-8dfb-1f8e636f9ae834b62559-4f90-44f4-978e-57b4ec01efdc">
       <categoryId>101</categoryId>
       <name>2-к, 47.15 кв.м, ЖК ЖК Новое Брагино</name>
@@ -37337,64 +37021,6 @@ id:29309.
       <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="8bf9fe48-11fc-4c43-83ea-f3d68880003347b9247c-135f-43dd-8ce4-5e685a0d0dfc">
-      <categoryId>101</categoryId>
-      <name>1-к, 30.68 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>3286029</price>
-      <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
-
-Мы предлагаем различные варианты покупки: 
-• Субсидированная ипотека от 4.5% годовых. Работаем с сертификатами, материнским капиталом
-• Рассрочка 0% от застройщика без переплат
-• Покупку за собственные средства на выгодных условиях
-• Военная ипотека
-
-Не упустите самые выгодные условия на покупку своей собственной квартиры на старте продаж!</description>
-      <param name="Материал стен">bricks</param>
-      <param name="Комнат">1</param>
-      <param name="Площадь Дома">30.68</param>
-      <param name="Жилая площадь">14.0</param>
-      <param name="Площадь кухни">8.68</param>
-      <param name="Этаж">1</param>
-      <param name="Балкон">0</param>
-      <param name="Парковка"></param>
-      <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
-      <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c159/a393/c159a39349b65ac09d1709b9173f541c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c8d7/7013/c8d770136b6f5ab48d7c482f2beebdd3.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/94da/6a8b/94da6a8b60fb5affaef650381630f5c1.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7d12/281c/7d12281c5e6a57ec9f0701c5177d6d3c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e18e/721f/e18e721ff14d50acb18e7c35df08f5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5f7/d4e3/d5f7d4e3556b5b88b27f93fe1008147e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5e9/056c/d5e9056c9675517db833b45c8a0fc712.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/63b5/9638/63b5963870855d9595794a84f4727dcb.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c02e/6340/c02e6340f87e5775ab20fd25ed6cbbe5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f4fd/4157/f4fd41577d895a8e80f9142f4aae8891.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b327/ce31/b327ce3141e3515b80983a1ddc8c3bf5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a528/d5fe/a528d5feeab751f8a652d463e31de5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/422a/069e/422a069e5dd2528bbac0203661fa4d2e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1031/3b6c/10313b6cd1af53e699a8da3eda96b3a5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8560/5a65/85605a65da2f5ee8948a93f3bce2b930.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/76a5/1389/76a51389cc125caca3c723f243081576.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9f01/265a/9f01265aec885ab8be0bea0eeefa3c26.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/5298/c7ff/5298c7ffb3b45128ad32873702a457fc.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/85c6/f3ae/85c6f3ae495957da8b703815463809d6.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1358/6c51/13586c51166a5598978369c8d3fa28c0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e2d8/61c9/e2d861c913375e24bde2151b4b9b5f89.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c4e5/c168/c4e5c1682c6755e39997dd8a73d6b02a.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3892/a3b7/3892a3b701cf52e8875429f3c6fe4f46.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f9ba/b992/f9bab992ec275633aa596f178c56c20e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c1b5/9e6d/c1b59e6db8d357ca97d62d435855536c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/61f3/b982/61f3b982f8e2538591379923309a49b0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/31ef/40ba/31ef40ba815058148dd5dee4d8178532.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e737/5542/e7375542512c567fbf389881a4a7885d.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f6e8/84af/f6e884af98af5b60a9e2ba96844a7fd7.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="8bf9fe48-11fc-4c43-83ea-f3d6888000334bd94fd1-583f-41cf-908a-24477b0a8e86">
       <categoryId>101</categoryId>
       <name>2-к, 55.75 кв.м, ЖК ЖК Новое Брагино</name>
@@ -39043,64 +38669,6 @@ id:29309.
       <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
       <coordinates lat="57.713236" lon="39.761415"/>
       <picture>https://cdn.idalite.ru/s/feed/cian/1b92/4bce/1b924bce51575444a614bd191c919730.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c8d7/7013/c8d770136b6f5ab48d7c482f2beebdd3.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/94da/6a8b/94da6a8b60fb5affaef650381630f5c1.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/7d12/281c/7d12281c5e6a57ec9f0701c5177d6d3c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e18e/721f/e18e721ff14d50acb18e7c35df08f5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5f7/d4e3/d5f7d4e3556b5b88b27f93fe1008147e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/d5e9/056c/d5e9056c9675517db833b45c8a0fc712.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/63b5/9638/63b5963870855d9595794a84f4727dcb.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c02e/6340/c02e6340f87e5775ab20fd25ed6cbbe5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f4fd/4157/f4fd41577d895a8e80f9142f4aae8891.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/b327/ce31/b327ce3141e3515b80983a1ddc8c3bf5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/a528/d5fe/a528d5feeab751f8a652d463e31de5f0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/422a/069e/422a069e5dd2528bbac0203661fa4d2e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1031/3b6c/10313b6cd1af53e699a8da3eda96b3a5.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/8560/5a65/85605a65da2f5ee8948a93f3bce2b930.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/76a5/1389/76a51389cc125caca3c723f243081576.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9f01/265a/9f01265aec885ab8be0bea0eeefa3c26.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/5298/c7ff/5298c7ffb3b45128ad32873702a457fc.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/85c6/f3ae/85c6f3ae495957da8b703815463809d6.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/1358/6c51/13586c51166a5598978369c8d3fa28c0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e2d8/61c9/e2d861c913375e24bde2151b4b9b5f89.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c4e5/c168/c4e5c1682c6755e39997dd8a73d6b02a.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/3892/a3b7/3892a3b701cf52e8875429f3c6fe4f46.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f9ba/b992/f9bab992ec275633aa596f178c56c20e.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/c1b5/9e6d/c1b59e6db8d357ca97d62d435855536c.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/61f3/b982/61f3b982f8e2538591379923309a49b0.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/31ef/40ba/31ef40ba815058148dd5dee4d8178532.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/e737/5542/e7375542512c567fbf389881a4a7885d.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/f6e8/84af/f6e884af98af5b60a9e2ba96844a7fd7.png</picture>
-      <picture>https://cdn.idalite.ru/s/feed/cian/9207/106d/9207106d70a652d0a00fbf7a1d077f2c.png</picture>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="8bf9fe48-11fc-4c43-83ea-f3d6888000332cddf71f-e75d-4e26-8467-6d6b1bb91da9">
-      <categoryId>101</categoryId>
-      <name>3-к, 67.79 кв.м, ЖК ЖК Новое Брагино</name>
-      <price>7302555</price>
-      <description>ЖК «Новое Брагино» - это современный жилой комплекс, расположенный в динамично развивающемся районе Ярославля. Мы предлагаем комфортное и доступное жилье для тех, кто ценит удобство, безопасность и близость к природе. Современные планировки квартир, благоустроенная территория, развитая инфраструктура и удобная транспортная доступность делают «Новое Брагино» идеальным местом для жизни. Выберите свою идеальную квартиру в ЖК «Новое Брагино» и начните новую жизнь уже сегодня!
-
-Мы предлагаем различные варианты покупки: 
-• Субсидированная ипотека от 4.5% годовых. Работаем с сертификатами, материнским капиталом
-• Рассрочка 0% от застройщика без переплат
-• Покупку за собственные средства на выгодных условиях
-• Военная ипотека
-
-Не упустите самые выгодные условия на покупку своей собственной квартиры на старте продаж!</description>
-      <param name="Материал стен">bricks</param>
-      <param name="Комнат">3</param>
-      <param name="Площадь Дома">67.79</param>
-      <param name="Жилая площадь">35.52</param>
-      <param name="Площадь кухни">15.28</param>
-      <param name="Этаж">5</param>
-      <param name="Балкон">0</param>
-      <param name="Парковка"></param>
-      <param name="Адрес">г Ярославль, Ленинградский пр-кт</param>
-      <coordinates lat="57.713236" lon="39.761415"/>
-      <picture>https://cdn.idalite.ru/s/feed/cian/bd73/a96f/bd73a96f1bdf556fb9767f13f68614df.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/97ef/72fa/97ef72fa0acd5342904e5fe1943812cf.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/c7f5/ed75/c7f5ed7567ef53aeb0b2293becc1ccf9.png</picture>
       <picture>https://cdn.idalite.ru/s/feed/cian/f2cc/40ed/f2cc40ede8895390b6fdb5f661e2b267.png</picture>
