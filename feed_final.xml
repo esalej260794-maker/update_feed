@@ -13089,7 +13089,7 @@ id:57727.
       <param name="Этаж">5</param>
       <param name="Этажность">5</param>
       <categoryId>100</categoryId>
-      <price>4790000</price>
+      <price>4630000</price>
       <description>Продается уютная трёхкомнатная квартира общей площадью &amp;mdash; 56,4 кв. м,&amp;nbsp;&lt;br /&gt;&#13;
 на 5‑м этаже в жилом доме по адресу: г.&amp;nbsp;Ярославль, ул.Урицкого, 49.&amp;nbsp;&lt;br /&gt;&#13;
 Не&amp;nbsp; угловая.&lt;br /&gt;&#13;
@@ -18901,6 +18901,41 @@ id:61694.
       <picture>https://progress.vtcrm.ru/uploads/Photos/61694/php7e4SBB.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/61694/phptokGAy.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/61694/php3n6RqF.jpeg</picture>
+      <coordinates lat="57.626560" lon="39.893822"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="61699">
+      <name>Продажа, Квартира, 1-к, 18.2 кв.м, г Ярославль, Тутаевское шоссе, 87</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Ремонт">косметический</param>
+      <param name="Этаж">2</param>
+      <param name="Комнат">1</param>
+      <param name="Адрес">Ярославская обл, г Ярославль, Тутаевское шоссе, 87</param>
+      <param name="Имя агента">Анна Куликова</param>
+      <param name="Email для связи">big.letter@yandex.ru</param>
+      <param name="Телефон для связи">79080299869</param>
+      <param name="Общая площадь">18.2</param>
+      <param name="Жилая площадь">14</param>
+      <param name="Площадь кухни">2</param>
+      <param name="Этаж">2</param>
+      <param name="Этажность">5</param>
+      <categoryId>100</categoryId>
+      <price>2000000</price>
+      <description>Продается&amp;nbsp; квартира-студия с&amp;nbsp; мебелью&amp;nbsp; и техникой&amp;nbsp; в кирпичном доме.&lt;br /&gt;&#13;
+Кухня компактная, санузел совмещенный, входная зона аккуратная и функциональная с встроенным шкафом для хранения,&amp;nbsp; пластиковые&amp;nbsp; окна, натяжной&amp;nbsp; потолок, железная&amp;nbsp; входная&amp;nbsp; дверь.&lt;br /&gt;&#13;
+В&amp;nbsp; тамбуре&amp;nbsp; на&amp;nbsp; этаже&amp;nbsp; пять квартир,&amp;nbsp; все&amp;nbsp; соседи приличные.&lt;br /&gt;&#13;
+Чистый&amp;nbsp; подъезд. Удобное&amp;nbsp; расположение дома.&lt;br /&gt;&#13;
+Развитая&amp;nbsp; инфраструктура:&amp;nbsp; рядом&amp;nbsp; остановка&amp;nbsp; общественного&amp;nbsp; транспорта,&amp;nbsp; поликлиника,&amp;nbsp; магазины,&amp;nbsp; школа&amp;nbsp; и детский&amp;nbsp; сад.&lt;br /&gt;&#13;
+Один&amp;nbsp; взрослый&amp;nbsp; собственник,&amp;nbsp; быстрый&amp;nbsp; выход&amp;nbsp; на&amp;nbsp; сделку.&lt;br /&gt;&#13;
+Звоните,&amp;nbsp; пишите,&amp;nbsp; показы&amp;nbsp; в&amp;nbsp; любое&amp;nbsp; время&amp;nbsp; по&amp;nbsp; договоренности.
+id:61699. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/61699/phpKIZl0r.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/61699/phpszGt1A.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/61699/php8ECu4i.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/61699/phpneSAtA.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/61699/6aa3cc5d48da0.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/61699/phplsushs.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
