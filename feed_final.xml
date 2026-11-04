@@ -2648,7 +2648,7 @@ id:49679.
       <param name="Этажей">2</param>
       <param name="Ипотека">да</param>
       <categoryId>300</categoryId>
-      <price>7750000</price>
+      <price>7730000</price>
       <description>&lt;strong&gt;Предлагаем дом&amp;nbsp;по цене квартиры коттеджном поселке &amp;quot;Ермолово Village&amp;quot;!&lt;/strong&gt;&amp;nbsp;&lt;br /&gt;&#13;
 &lt;strong&gt;ПОДХОДИТ под СЕМЕЙНУЮ ИПОТЕКУ 6% !&lt;br /&gt;&#13;
 РAБOТAЕM ПО СЧЕТАM ЭСKРOУ!&lt;/strong&gt;&lt;br /&gt;&#13;
@@ -2664,26 +2664,25 @@ id:49679.
 &lt;li&gt;Газ:&amp;nbsp;по границе участка&lt;/li&gt;&#13;
 &lt;li&gt;Канализация:&amp;nbsp;станция биологической очистки Волгарь-5&lt;/li&gt;&#13;
 &lt;/ul&gt;&#13;
-Дом &amp;ndash; на свайном фундаменте (сваи 31 шт. железобетонные ГОСТ 150*150*5м;).&lt;br /&gt;&#13;
 &lt;strong&gt;Каркас&lt;/strong&gt; из доски камерной сушки 50*200: обвязочный брус и лаги пола пропитаны антисептическим составом, монтаж сетки от грызунов;&lt;br /&gt;&#13;
 &lt;strong&gt;Утепление&lt;/strong&gt; наружного контура дома: утеплитель TS-34 Knauf 200мм более!,100мм-шумоизоляция перегородок, мембрана супердиффузионная 3-слойная по наружному контуру дома, мембрана пароизоляционная по внутреннему контуру дома;&lt;br /&gt;&#13;
 &lt;strong&gt;Кровля&lt;/strong&gt;: металлочерепица Гранд Лайн Сатин 0,5мм с доборными элементами, свесы кровли подшиты софитами, монтаж водосточной системы;&lt;br /&gt;&#13;
 &lt;strong&gt;Фасад&lt;/strong&gt;: фиброплита NORDECO по наружному контуру фасада ,контр. рейка от 25-40мм, ОСП-12мм и фасадная битумная плитка Хауберг;&lt;br /&gt;&#13;
 &lt;strong&gt;Окна&lt;/strong&gt;: 5-камерный профиль REHAU GRAZIO 70 мм, 2-камерный стеклопакет, с москитными сетками на открывающихся створках, окна обналичены металлическими наличниками по фасаду и ПВХ элементами внутри помещений, подоконники ПВХ.&lt;br /&gt;&#13;
 &lt;strong&gt;Дверь&lt;/strong&gt; входная с терморазрывом.&lt;br /&gt;&#13;
-+БОНУС от застройщика - забор-штакетник по периметру участка!&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
 &lt;strong&gt;Внутреннюю отделку&lt;/strong&gt; возможно сделать индивидуально под покупателя за дополнительную плату (имитация бруса под покраску, либо с заводской покраской/гипсокартон под обои).&lt;br /&gt;&#13;
 Поселок расположен вблизи города в экологически чистом Заволжском районе.&lt;br /&gt;&#13;
 Проезжая часть в посёлке отсыпана.&lt;br /&gt;&#13;
-&lt;strong&gt;Автобусная остановка в 300 м., маршрут автобуса №143 (ЖК Зеленый Бор - Ярославль-Главный)&lt;/strong&gt;&lt;br /&gt;&#13;
-От поселка в 2 км Гипермаркет Глобус, Леруа Мерлен, рядом Школа № 83, школа № 59, детский сад №191, детский сад №112. Остановка маршрутного такси №143. Рядом сосновый бор, лесопарковая зона&lt;br /&gt;&#13;
+&lt;strong&gt;Автобусная остановка в 700 м., маршрут автобуса №143 (ЖК Зеленый Бор - Ярославль-Главный)&lt;/strong&gt;&lt;br /&gt;&#13;
+От поселка в 4 км Гипермаркет Глобус, Леруа Мерлен, рядом Школа № 83, школа № 59, детский сад №191, детский сад №112. Рядом сосновый бор, лесопарковая зона&lt;br /&gt;&#13;
 &lt;br /&gt;&#13;
 Звоните - и записывайтесь на просмотр, дом мечты Вас ждёт!&lt;br /&gt;&#13;
 &amp;nbsp;
 id:49680. 
 &amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49680/69b178f73c7b2.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49680/69b178f907506.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/49680/69b178f73c7b2.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49680/69b178feedf43.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49680/69b178ff2855e.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49680/69b178fe9497d.jpeg</picture>
@@ -2703,67 +2702,6 @@ id:49680.
       <picture>https://progress.vtcrm.ru/uploads/Photos/49680/69b178f54989b.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/49680/69b178f57319e.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="49681">
-      <name>Продажа, Дом, 5-к, 120.1 кв.м, деревня Ермолово</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Материал стен">Газосиликатный блок</param>
-      <param name="Площадь Дома">120.1</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Ремонт">Без ремонта</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Комнат">5</param>
-      <param name="Адрес">Ярославская область, деревня Ермолово</param>
-      <param name="Имя агента">Елена Штепен</param>
-      <param name="Email для связи">evr0299@yandex.ru</param>
-      <param name="Телефон для связи">79038230299</param>
-      <param name="Этажей">2</param>
-      <param name="Ипотека">да</param>
-      <categoryId>300</categoryId>
-      <price>7980000</price>
-      <description>&lt;strong&gt;Предлагаем к покупке каменный дом&amp;nbsp;с террасой по цене квартиры в коттеджном поселке &amp;quot;Ермолово Village&amp;quot;!&lt;/strong&gt;&amp;nbsp;&lt;br /&gt;&#13;
-&lt;strong&gt;ПОДХОДИТ под СЕЛЬСЕКУЮ ИПОТЕКУ 3% &amp;nbsp;&lt;br /&gt;&#13;
-под СЕМЕЙНУЮ ИПОТЕКУ 6% !&lt;br /&gt;&#13;
-РAБOТAЕM ПО СЧЕТАM ЭСKРOУ!&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;Дом&amp;nbsp;от застpoйщикa из газосиликатнoгo блoкa ЭКО 400 мм&amp;nbsp;с облицoвкoй кирпичом &amp;quot;Бpаер&amp;quot;.&lt;/strong&gt;&lt;br /&gt;&#13;
-Построен на фундаменте из монолитной плиты 300 мм. Кровля - металл черепица&amp;nbsp;с утеплением в 200 мм, водосточная система; снегозадержатели на свесах.&lt;br /&gt;&#13;
-В доме уже заведено электричество (15 кВт).&amp;nbsp;&lt;br /&gt;&#13;
-Залит тёплый&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;(водяной) пол на первом этаже.&lt;br /&gt;&#13;
-Рассчитан на большую семью, можно принимать гостей. Мы учли всё и предлагаем самую функциональную планировку для 2-этажного дома:&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;общая площадь 120,1 кв.м.,&lt;/li&gt;&#13;
-&lt;li&gt;5 комнат, кухня-гостиная 32,24 кв.м., просторный холл&lt;/li&gt;&#13;
-&lt;li&gt;2 санузла - на каждом этаже,&lt;/li&gt;&#13;
-&lt;li&gt;техническое помещение&lt;/li&gt;&#13;
-&lt;li&gt;терраса.&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-Возможно выполнение силами подрядчика предчистовой отделки (White Box) &amp;ndash; Вам останется только определиться с покрытием и цветом стен и пола). По согласованию с покупателем установим все необходимые &lt;strong&gt;коммуникации (в&lt;/strong&gt;одоснабжение:&amp;nbsp;скважина 40 метров со всем оборудованием; канализация:&amp;nbsp;станция биологической очистки Волгарь-5)&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-​​​​​​Участок &amp;ndash; ровный, 7,5 соток. Выполнена планировка участка, оканавливание.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Поселок расположен вблизи города в экологически чистом Заволжском районе.&lt;br /&gt;&#13;
-Проезжая часть в посёлке отсыпана.&lt;br /&gt;&#13;
-&lt;strong&gt;Автобусная остановка в 300 м., маршрут автобуса №143 (ЖК Зеленый Бор - Ярославль-Главный)&lt;/strong&gt;&lt;br /&gt;&#13;
-От поселка в 2 км Гипермаркет Глобус, Леруа Мерлен, рядом Школа № 83, школа № 59, детский сад №191, детский сад №112. Остановка маршрутного такси №143. Рядом сосновый бор, лесопарковая зона&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Звоните - и записывайтесь на просмотр, дом мечты Вас ждёт!
-id:49681. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/phphG76ND.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/phpohzZ29.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/phpdYwamt.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/phpR3HvcY.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/php9W2uCI.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/phpu7MCJj.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/phpMq836Z.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/php3yZOqS.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/phpmSCb2e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/69b1790c5350e.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/69b1790cc145d.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/49681/69b1790b3766e.jpeg</picture>
-      <coordinates lat="57.632616" lon="39.998557"/>
       <param name="Офис">Ярославль</param>
     </offer>
     <offer id="49682">
@@ -6769,52 +6707,6 @@ id:57238.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="57242">
-      <name>Продажа, Квартира, 1-к, 40.5 кв.м, Ярославль, Бабича, 10А</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">косметический</param>
-      <param name="Этаж">17</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Ярославсая область, Ярославль, Бабича, 10А</param>
-      <param name="Имя агента">Екатерина Новикова</param>
-      <param name="Email для связи">79807061099@yandex.ru</param>
-      <param name="Телефон для связи">79807061099</param>
-      <param name="Общая площадь">40.5</param>
-      <param name="Жилая площадь">17.8</param>
-      <param name="Площадь кухни">12.2</param>
-      <param name="Этаж">17</param>
-      <param name="Этажность">17</param>
-      <categoryId>100</categoryId>
-      <price>4300000</price>
-      <description>&lt;strong&gt;В ПРОДАЖЕ 1-комнатная квартиpа oбщей площaдью 40.5 квадрaтныx мeтрoв, pacпoложенная нa 17/17 этaже мoнолитнoгo домa 2017 года постройки по адресу: ул. Бабичa, д 10а&lt;/strong&gt;&lt;br /&gt;&#13;
-Жилaя площадь сocтaвляeт 17.8 квадpaтных мeтpoв, чтo позволяет комфоpтно рaзместитьcя и oбуcтроить пространство по своему вкусу. Кухня площадью 12.2 квадратных метра предоставит вам достаточно места для приготовления и приёма пищи, а также для установки необходимой бытовой техники.&lt;br /&gt;&#13;
-Живописные виды из окон на городские пейзажи дополнят ваше проживание приятными эмоциями и создадут атмосферу уединения от городской суеты.&lt;br /&gt;&#13;
-Для молодых семей с детьми особенно актуально будет близкое расположение детских садов, школ и центра развития речи, а также детской поликлиники&lt;br /&gt;&#13;
-N&amp;ordm;3, что значительно упростит повседневную жизнь и обеспечит должное внимание здоровью вашего ребёнка.&lt;br /&gt;&#13;
-Разнообразие близлежащих магазинов, таких как &amp;laquo;Дикси&amp;raquo;, &amp;laquo;Пятёрочка&amp;raquo; и другие продуктовые точки, позволит совершать покупки без необходимости длительных перемещений, экономя ваше время и СИЛЫ.&lt;br /&gt;&#13;
-Данный вариант жилья станет прекрасным выбором для тех, кто ценит комфорт, безопасность современного жилого комплекса.&lt;br /&gt;&#13;
-Новым собственникам остается все, что есть на фото.&lt;br /&gt;&#13;
-В квартире имеется кладовая комната&lt;br /&gt;&#13;
-Лоджия обшита и застеклена. Есть шкаф для хранения вещей.&lt;br /&gt;&#13;
-За домом находится большая парковка.&lt;br /&gt;&#13;
-Камеры по периметру дома и в лифтах.&lt;br /&gt;&#13;
-Два совершеннолетних собственника&lt;br /&gt;&#13;
-Вся стоимость в договоре.&lt;br /&gt;&#13;
-&amp;nbsp;
-id:57242. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57242/734c3ff7-e2e0-419c-9317-680d80c9c2cc.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57242/b599aada-e65b-44cf-9d20-890242e39b01.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57242/7d367cf3-5570-4098-a34a-da38a98963a3.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57242/3d0d9d27-b274-4662-89ec-cead61d99b5f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57242/7d1e122e-d0b0-46e5-86a0-e29f411ed8aa.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57242/c52f0190-fbcb-4776-bf5b-4dd07f062b28.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57242/7a10478d-cb2e-471d-9956-e91df2e3035f.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57242/06235097-710f-47cb-bfaf-9835100fd158.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57242/4130ec9a-8dd4-442d-b08c-42f3bf3085b3.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="57251">
       <name>Продажа, Квартира, 2-к, 41 кв.м, Ярославль, улица Павлова, 5</name>
       <param name="Тип предложения">Продажа</param>
@@ -7050,55 +6942,6 @@ id:57271.
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
-    <offer id="57291">
-      <name>Продажа, Участок, 15 соток, село Малые Соли, Новая</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Единица измерения площади участка">сотка</param>
-      <param name="Разрешенное использование земельного участка">ИЖС</param>
-      <param name="Площадь участка">15</param>
-      <param name="Адрес">Ярославская область, село Малые Соли, Новая</param>
-      <param name="Имя агента">Екатерина Новикова</param>
-      <param name="Email для связи">79807061099@yandex.ru</param>
-      <param name="Телефон для связи">79807061099</param>
-      <categoryId>304</categoryId>
-      <price>1300000</price>
-      <description>&lt;strong&gt;Вашему вниманию уникальное предложение!&lt;br /&gt;&#13;
-Большой красивый участок площадью 15 соток для строительства дома Вашей мечты в экологически чистом Некрасовском районе в п.Малые соли&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
-Участок правильной прямоугольной формы, ровный, сухой, благоустроенный&lt;br /&gt;&#13;
-Электричество есть, газ по границе&amp;nbsp;&lt;br /&gt;&#13;
-&lt;strong&gt;Категория земель - земли населённых пунктов&amp;nbsp;&lt;br /&gt;&#13;
-Вид разрешённого использования - ЛПХ&lt;br /&gt;&#13;
-Кадастровый номер&amp;nbsp;76:09:092001:0052&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Участок обнесён забором, что является существенным преимуществом и экономией будущих вложений&lt;br /&gt;&#13;
-Внутри участка по забору растут сосны и кедры, высаженные более 20 лет назад&lt;br /&gt;&#13;
-На территории участка есть березовая роща, вишнёвый сад, оборудована небольшая зона отдыха,&amp;nbsp; установлена качель&lt;br /&gt;&#13;
-Выход на участок сейчас с прилегающей дачи, но есть возможность открыть проезд вдоль самого участка, где уже построились соседи&amp;nbsp;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-На данный момент идёт процесс межевания участка&lt;br /&gt;&#13;
-Есть возможность приобрести три смежных участка общей площадью 61 сотка&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;Преимущества приобретения:&lt;/strong&gt;&lt;br /&gt;&#13;
-- выход на р.Солоница, которая протекает буквально в 15 метрах от границы участка;&lt;br /&gt;&#13;
--&amp;nbsp;возможность присоединения ещё 10 соток;&lt;br /&gt;&#13;
-- уже есть забор&amp;nbsp;&lt;br /&gt;&#13;
-ГПЗУ в процессе получения&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Звоните по всем интересующим вопросам! Организую просмотр в удобное для Вас время&amp;nbsp;
-id:57291. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57291/69b16cb54b04b.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57291/69b16cb5250b5.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57291/69b16cb570291.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57291/69b16cb2ea89a.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57291/69b16cb2511f0.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57291/69b16cb461c42.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57291/69b16cb38bfde.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57291/69b16cb3c7396.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57291/69b16cb4f3050.jpeg</picture>
-      <coordinates lat="57.633532" lon="40.387285"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
     <offer id="57310">
       <name>Продажа, Квартира, 3-к, 51.5 кв.м, Ярославль, улица Чкалова, 23А</name>
       <param name="Тип предложения">Продажа</param>
@@ -7215,53 +7058,6 @@ id:57330.
       <picture>https://progress.vtcrm.ru/uploads/Photos/57330/phpiVwHI3.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57330/phpjKfwSd.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/57330/phpo3wUjS.jpeg</picture>
-      <coordinates lat="57.626560" lon="39.893822"/>
-      <param name="Офис">Ярославль</param>
-    </offer>
-    <offer id="57333">
-      <name>Продажа, Квартира, 1-к, 44.7 кв.м, Ярославль, Лизы Чайкиной, 7</name>
-      <param name="Тип предложения">Продажа</param>
-      <param name="Ремонт">дизайнерский</param>
-      <param name="Этаж">16</param>
-      <param name="Комнат">1</param>
-      <param name="Адрес">Ярославская область, Ярославль, Лизы Чайкиной, 7</param>
-      <param name="Имя агента">Екатерина Новикова</param>
-      <param name="Email для связи">79807061099@yandex.ru</param>
-      <param name="Телефон для связи">79807061099</param>
-      <param name="Общая площадь">44.7</param>
-      <param name="Жилая площадь">27</param>
-      <param name="Площадь кухни">11</param>
-      <param name="Этаж">16</param>
-      <param name="Этажность">18</param>
-      <categoryId>100</categoryId>
-      <price>7399990</price>
-      <description>&lt;strong&gt;Представляем вашему вниманию уютную и светлую однокомнатную квартиру на 16-м этаже 18-этажного кирпичного дома.&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;О квартире&lt;/strong&gt;&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Общая площадь квартиры составляет 44,7 м&amp;sup2;, из которых 27 м&amp;sup2; &amp;mdash; жилая площадь, а 11 м&amp;sup2; &amp;mdash; просторная кухня, где с удовольствием разместится вся семья для совместных ужинов. Кирпичные стены дома гарантируют хорошую звуко- и теплоизоляцию, а высокое расположение квартиры позволит наслаждаться прекрасными видами на город.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-Квартира &amp;mdash; вторичное жильё, и её пространство уже готово стать вашим уютным гнёздышком. Здесь можно воплотить любые дизайнерские решения и создать интерьер мечты. Это отличный вариант как для одинокого человека, так и для небольшой семьи, которая ценит комфорт и удобство.&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;strong&gt;О сделке&lt;/strong&gt;&amp;nbsp;&#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;Сопровождение сделки до перехода права собственности;&amp;nbsp; безопасные расчеты сторон. Юридическая чистота сделки: полная проверка документов по объекту недвижимости, полное сопровождение на всех этапах сбора документов, помощь в их оформлении.&amp;nbsp;&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
-Хотите купить эту квартиру - ЗВОНИТЕ!
-id:57333. 
-&amp;nbsp;</description>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/php1Za8nY.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/phpUkRDYk.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/phpCi92Fq.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/phpdqenMn.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/phpRfCaqs.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/phpEo53TK.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/php91DW6V.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/phpH6doWW.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/phpwpppf8.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/phpKzqj83.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/phpD7piHT.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/57333/phpAPOFyI.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -20595,13 +20391,15 @@ id:62875.
       <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phptpSkTZ.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpgYlTQ4.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpfIM3EK.jpeg</picture>
-      <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpObmpwQ.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpHwSC5V.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpObmpwQ.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpcjQ8jk.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpLTFmpw.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpxX1BfJ.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/62875/php0Inf6L.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpeQfF7k.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpnfaGTC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/62875/phpKiczyH.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
@@ -22024,6 +21822,160 @@ id:63033.
       <picture>https://progress.vtcrm.ru/uploads/Photos/63033/phpfSPIIp.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/63033/phpTWVBGQ.jpeg</picture>
       <picture>https://progress.vtcrm.ru/uploads/Photos/63033/php01nlGS.jpeg</picture>
+      <coordinates lat="57.626560" lon="39.893822"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="63047">
+      <name>Продажа, Дом, 5-к, 120.1 кв.м, деревня Ермолово</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Материал стен">Газосиликатный блок</param>
+      <param name="Площадь Дома">120.1</param>
+      <param name="Единица измерения площади участка">сотка</param>
+      <param name="Ремонт">Без ремонта</param>
+      <param name="Разрешенное использование земельного участка">ИЖС</param>
+      <param name="Комнат">5</param>
+      <param name="Адрес">Ярославская область, деревня Ермолово</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
+      <param name="Этажей">2</param>
+      <param name="Ипотека">да</param>
+      <categoryId>300</categoryId>
+      <price>7890000</price>
+      <description>Хотите купить&amp;nbsp;каменный дом в Заволжском районе?&lt;br /&gt;&#13;
+&lt;strong&gt;Продается каменный дом 120,1 м&amp;sup2; с террасой в коттеджном поселке &amp;laquo;Ермолово Village&amp;raquo; (Заволжский район Ярославля) &amp;mdash; по цене городской квартиры.&lt;/strong&gt;&lt;br /&gt;&#13;
+ПОЧЕМУ ЭТО ВЫГОДНО&lt;br /&gt;&#13;
+&amp;mdash; Дом подходит под семейную ипотеку от 6%&amp;nbsp;&lt;br /&gt;&#13;
+&amp;mdash; Сделка через счет эскроу &amp;mdash; ваши деньги защищены до передачи дома&lt;br /&gt;&#13;
+&amp;mdash; Цена дома в текущей готовности &amp;mdash; 7 890 000 ₽, фиксированная в договоре&lt;br /&gt;&#13;
+КОНСТРУКЦИЯ И МАТЕРИАЛЫ&lt;br /&gt;&#13;
+&amp;mdash; Стены: газосиликатный блок ЭКО 400 мм с облицовкой кирпичом Braer &amp;mdash; тёплый, негорючий, без усадки&lt;br /&gt;&#13;
+&amp;mdash; Фундамент: монолитная железобетонная плита 300 мм&lt;br /&gt;&#13;
+&amp;mdash; Кровля: металлочерепица с утеплением 200 мм, водосточная система, снегозадержатели&lt;br /&gt;&#13;
+&amp;mdash; Электричество 15 кВт уже заведено в дом&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+ПЛАНИРОВКА НА БОЛЬШУЮ СЕМЬЮ (5 комнат, 2 санузла)&lt;br /&gt;&#13;
+1 этаж: кухня-гостиная 32,24 м&amp;sup2;, спальня/кабинет, санузел, котельная, холл, терраса 8,8 м&amp;sup2;&lt;br /&gt;&#13;
+2 этаж: мастер-спальня 12,37 м&amp;sup2; и еще 3 спальни, санузел с ванной, холл&lt;br /&gt;&#13;
+Панорамные окна первого этажа, видовые окна спален на сосновый бор&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+ОТДЕЛКА И КОММУНИКАЦИИ - ГИБКИЕ УСЛОВИЯ&lt;br /&gt;&#13;
+Дом продается в текущей готовности. По вашему желанию подрядчик выполнит предчистовую отделку White Box, установит лестницу, пробурит скважину и смонтирует станцию биологической очистки. Состав работ фиксируется в договоре - вы платите только за то, что нужно вам.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+УЧАСТОК 7,5 СОТОК&lt;br /&gt;&#13;
+Ровный, с выполненной планировкой и оканавиванием. Начинайте благоустройство сразу после сделки.&lt;br /&gt;&#13;
+ИНФРАСТРУКТУРА ПОСЁЛКА&lt;br /&gt;&#13;
+- Автобус №143 (ЖК Зелёный Бор - Ярославль-Главный), остановка в 700 м&lt;br /&gt;&#13;
+- В 4 км (10 минут пути) - гипермаркеты Глобус и Леруа Мерлен;&amp;nbsp;школы №83 и №59, детские сады №191 и №112&lt;br /&gt;&#13;
+- Проезжая часть в посёлке отсыпана, соседние дома построены и заселяются&lt;br /&gt;&#13;
+ГАРАНТИЯ И НАДЁЖНОСТЬ&lt;br /&gt;&#13;
+Гарантия на дом прописана в договоре. Работаем с ипотекой любых банков, сертификатами.&amp;nbsp;&lt;br /&gt;&#13;
+Поможем с документами и одобрением -&amp;nbsp;от заявки до регистрации сделки и кадастрового учёта. Нужно продать свою недвижимость для сделки? Организуем надежную цепочку сделок.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+ЗВОНИТЕ &amp;mdash; покажем дом в удобное время и рассчитаем ваш ипотечный платёж за 1 день.
+id:63047. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/phpOj4z9Q.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/phpfAuV0m.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/phpEI1bMj.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/phpY2nvTg.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/php3yZOqS.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/phpmSCb2e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/phpu7MCJj.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/phpMq836Z.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/69b1790c5350e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/69b1790cc145d.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/phpe3s5lI.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63047/69b1790b3766e.jpeg</picture>
+      <coordinates lat="57.632616" lon="39.998557"/>
+      <param name="Офис">Ярославль</param>
+    </offer>
+    <offer id="63049">
+      <name>Продажа, Дом, 5-к, 120.1 кв.м, деревня Ермолово, Яблоневая</name>
+      <param name="Тип предложения">Продажа</param>
+      <param name="Материал стен">Газосиликатный блок</param>
+      <param name="Площадь Дома">120.1</param>
+      <param name="Единица измерения площади участка">сотка</param>
+      <param name="Ремонт">Без ремонта</param>
+      <param name="Разрешенное использование земельного участка">ИЖС</param>
+      <param name="Комнат">5</param>
+      <param name="Адрес">Ярославская область, деревня Ермолово, Яблоневая</param>
+      <param name="Имя агента">Елена Штепен</param>
+      <param name="Email для связи">evr0299@yandex.ru</param>
+      <param name="Телефон для связи">79038230299</param>
+      <param name="Этажей">2</param>
+      <param name="Ипотека">да</param>
+      <categoryId>300</categoryId>
+      <price>10890000</price>
+      <description>Ищете уже готовый дом, чтобы купить и быстро заехать? Посмотрите этот вариант.&lt;br /&gt;&#13;
+&lt;strong&gt;Двухэтажный каменный дом 120,1 м&amp;sup2; в коттеджном поселке &amp;laquo;Ермолово Village&amp;raquo; (Заволжский район Ярославля) в комплектации White Box. Электрика разведена по всему дому, залит водяной тёплый пол, пробурена скважина, установлена станция биологической очистки. Уже установлена окрашенная металлическая лестница. Вам остаётся только выбрать напольное покрытие и цвет стен &amp;mdash; и праздновать новоселье.&amp;nbsp;&lt;/strong&gt;&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+ПОЧЕМУ ЭТОТ ВАРИАНТ ВЫГОДНЕЕ&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&amp;nbsp;Все коммуникации уже выполнены: не нужно искать бурильщиков, электриков и монтажников&lt;/li&gt;&#13;
+&lt;li&gt;Отделка White Box: стены оштукатурены, стяжка залита &amp;mdash; чистовая отделка пойдёт быстро и без сюрпризов&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Никаких &amp;laquo;мокрых&amp;raquo; и черновых процессов &amp;mdash; вы не платите дважды за переделки&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Сделка через счет эскроу, ипотека от 6% (семейная, IT)&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+ЧТО УЖЕ СДЕЛАНО В ДОМЕ&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&amp;nbsp;Предчистовая отделка White Box: штукатурка стен, стяжка пола&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Электрика разведена по всему дому&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Водяной тёплый пол по всей площади первого этажа&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Электрический котёл установлен, радиаторы смонтированы&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Скважина 40 м с полным оборудованием, вода заведена в дом&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Станция биологической очистки Волгарь-5 установлена и подключена&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Окрашенная металлическая лестница на второй этаж&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Электричество 15 кВт по договору технологического присоединения&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+КОНСТРУКЦИЯ И МАТЕРИАЛЫ&#13;
+&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&amp;nbsp;Стены: газосиликатный блок ЭКО 400 мм с облицовкой кирпичом Braer &amp;mdash; тёплый, негорючий, без усадки&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Фундамент: монолитная железобетонная плита 300 мм&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Кровля: металлочерепица с утеплением 200 мм, водосточная система, снегозадержатели&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+ПЛАНИРОВКА НА БОЛЬШУЮ СЕМЬЮ (5 комнат, 2 санузла)&lt;br /&gt;&#13;
+1 этаж: кухня-гостиная 32,24 м&amp;sup2;, спальня/кабинет, санузел, котельная, холл, терраса 8,8 м&amp;sup2;&lt;br /&gt;&#13;
+2 этаж: мастер-спальня 12,37 м&amp;sup2; и еще 3 спальни, санузел с ванной, холл&lt;br /&gt;&#13;
+Панорамные окна первого этажа, видовые окна спален&lt;br /&gt;&#13;
+УЧАСТОК 7,5 СОТОК&lt;br /&gt;&#13;
+Ровный, с выполненной планировкой и оканавиванием.&lt;br /&gt;&#13;
+&lt;br /&gt;&#13;
+ИНФРАСТРУКТУРА ПОСЁЛКА&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt;&amp;nbsp;Автобус №143 (ЖК Зелёный Бор &amp;mdash; Ярославль-Главный), остановка в 700 м&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;В 4 км (10 минут пути) гипермаркеты Глобус и Леруа Мерлен,&amp;nbsp;школы №83 и №59, детские сады №191 и №112&lt;/li&gt;&#13;
+&lt;li&gt;&amp;nbsp;Проезжая часть в посёлке отсыпана, соседние дома построены и заселяются&lt;/li&gt;&#13;
+&lt;li&gt;Посёлок газифицирован, газ по границе участка&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&lt;br /&gt;&#13;
+ЗВОНИТЕ &amp;mdash; покажем дом в удобное время и рассчитаем ваш ипотечный платёж за 1 день.
+id:63049. 
+&amp;nbsp;</description>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpBvNMvE.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpe3s5lI.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpGYZ4Zj.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpgpTrDp.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phplU8L3W.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpVFRq2w.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpOzCnqF.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpKEfHGv.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpbxDuIP.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/php7icnDa.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpvyGa8l.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpdpqt7a.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpfAuV0m.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpclnUsg.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpUdiuM0.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpEI1bMj.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpDnxTpQ.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpacCIuC.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpY2nvTg.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/phpzKMOgH.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/69b1790c5350e.jpeg</picture>
+      <picture>https://progress.vtcrm.ru/uploads/Photos/63049/69b1790b3766e.jpeg</picture>
       <coordinates lat="57.626560" lon="39.893822"/>
       <param name="Офис">Ярославль</param>
     </offer>
